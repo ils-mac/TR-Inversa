@@ -71,7 +71,7 @@ Tu traducción recibirá una puntuación de Correspondencia General donde 1 sign
 Considerando tus puntuaciones de Correspondencia General y Legibilidad, puedes determinar si tu traducción es efectiva, mayormente efectiva, algo inefectiva o inefectiva/incompleta.
 
 | **Nivel** | **Correspondencia General** | **Legibilidad General** | **Descripción** |
-|-----------|------------|-----------------|
+|-----------|-----------|-----------|-----------------|
 | **Efectiva** | 4 | 3-4 | La traducción permite a los lectores entender completamente los requisitos y procedimientos. La terminología es apropiada, el texto es claro y natural en inglés. |
 | **Mayormente efectiva** | 3 | 2-3 | La traducción comunica la información esencial con claridad. Puede tener errores menores que no impiden la comprensión general. |
 | **Algo inefectiva** | 2 | 2-3 | La traducción transmite información básica pero presenta problemas que pueden dificultar la comprensión o el uso del documento. |
