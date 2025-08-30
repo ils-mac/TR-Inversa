@@ -66,7 +66,7 @@ Tu traducción será evaluada según su **efectividad** - es decir, qué tan bie
 
 Esta tarea será calificada como Completa / Incompleta.
 
-Tu traducción recibirá una puntuación de Correspondencia General donde 1 significa diferencias importantes de significado y 4 significa correspondencia excelente, y una Puntuación de Legibilidad General donde 1 significa difícil de leer y 4 significa que se lee de forma natural.
+Tu traducción recibirá una puntuación de Correspondencia General donde 1 significa diferencias importantes de significado y 4 significa correspondencia excelente, y una puntuación de Legibilidad General donde 1 significa difícil de leer y 4 significa que se lee de forma natural.
 
 Considerando tus puntuaciones de Correspondencia General y Legibilidad, puedes determinar si tu traducción es efectiva, mayormente efectiva, algo inefectiva o inefectiva/incompleta.
 
