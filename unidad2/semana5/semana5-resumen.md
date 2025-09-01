@@ -15,6 +15,7 @@ Esta semana profundizamos en las diferencias gramaticales entre español e ingl�
 ## Temas Cubiertos
 
 ### Subtemas
+- **Corpus y terminología**: Metodología para crear y aplicar glosarios especializados en traducción técnica
 - **Contraste ES/EN**: Los elementos gramaticales y su impacto específico en textos técnicos
 - **Evaluación parcial 1**: Requisitos, especificaciones y metodología de evaluación
 
@@ -22,8 +23,8 @@ Esta semana profundizamos en las diferencias gramaticales entre español e ingl�
 
 ### Actividades bajo Conducción Docente (Martes 9-11am)
 - Contraste ES/EN: Los elementos gramaticales - Presentación y actividades prácticas aplicadas a textos técnicos
+- El uso de corpus y la terminología en la traducción: Preguntas y respuestas sobre metodología
 - Evaluación parcial 1: Presentación del Texto 4: IAG y los requisitos - especificaciones, glosario, y protocolo de traducción
-- Evaluación parcial 1: Trabajo cronometrado - inicio de la traducción del Texto 4 bajo supervisión
 
 ## Actividades Independientes
 
