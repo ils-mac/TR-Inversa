@@ -16,8 +16,7 @@ Esta semana nos enfocamos en la traducción de documentos personales para proces
 
 ### Subtemas
 - **Textos del área de inmigración**: Enfoque específico en documentos personales
-- **Expectativas de tareas**: Cómo serán evaluados tus entregables durante el curso
-- **Marco de errores**: Sistema de clasificación que se utilizará para corregir tu traducción
+- **Recreando PDFs no editables**: El formateo de documentos en MS Word
 
 ## Actividades en Clase
 
