@@ -21,9 +21,8 @@ Esta semana nos enfocamos en la traducción de documentos personales para proces
 ## Actividades en Clase
 
 ### Actividades bajo Conducción Docente (Martes 9-11am)
-- Presentación sobre los documentos personales: Ejemplos y demostración práctica
+- Los documentos personales: Análisis, ejemplos y demostración práctica
 - Presentación del Texto 2: Documento personal para traducción - análisis del texto fuente
-- Presentación de las expectativas de tareas: Preguntas y respuestas sobre criterios de evaluación
 
 ## Actividades Independientes
 
