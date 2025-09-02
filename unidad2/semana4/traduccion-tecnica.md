@@ -154,45 +154,6 @@ Haywood, Thompson y Hervey destacan la tensión entre:
 
 5. **Colaboración con expertos**: ¿Cómo puedes establecer redes de contactos con expertos en el campo para consultas terminológicas?
 
-### Ejercicio de Análisis
-
-Examina el siguiente fragmento en español e identifica:
-- Términos que requieren investigación específica
-- Posibles problemas de traducción al inglés
-- Decisiones estratégicas necesarias para la audiencia meta anglófona
-
-```
-"El proceso de ajuste fino implica modificar los parámetros del modelo preentrenado utilizando datos específicos del dominio para mejorar el rendimiento en tareas posteriores. Este enfoque aprovecha los principios del aprendizaje por transferencia..."
-```
-
-## Preparación para el Proyecto
-
-Al prepararte para traducir el texto sobre diseño de prompts para un tutor de programación con IAG:
-
-### Investigación Previa Recomendada
-
-1. **Familiarización con el campo**:
-   - Conceptos básicos de IAG y modelos de lenguaje
-   - Terminología de programación y educación asistida por tecnología
-   - Sistemas de tutoría inteligente
-
-2. **Recursos terminológicos**:
-   - Corpus bilingües sobre IAG
-   - Documentación de empresas como OpenAI, Google, Microsoft
-   - Publicaciones académicas recientes en el campo
-
-3. **Análisis de audiencia**:
-   - Profesionales en educación tecnológica
-   - Desarrolladores de sistemas educativos
-   - Investigadores en IAG aplicada a educación
-
-### Estrategias para el Trabajo en Grupo
-
-- **División de investigación terminológica**: Cada integrante puede especializarse en un aspecto del campo
-- **Revisión cruzada**: Verificación múltiple de decisiones terminológicas
-- **Documentación compartida**: Mantener un glosario grupal actualizado
-- **Consulta colectiva**: Discutir decisiones difíciles en grupo antes de finalizar
-
 ---
 
 ## 📥 Descarga esta Actividad
