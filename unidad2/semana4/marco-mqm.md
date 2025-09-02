@@ -33,13 +33,12 @@ Estas calificaciones de correspondencia y legibilidad se utilizan para dar una p
 
 | **Dimensión** | **Tipos de errores** |
 |---------------|---------------------|
-| **Terminología** | • Inconsistente con recurso terminológico<br>• Uso inconsistente de terminología<br>• Uso excesivamente consistente de terminología<br>• Término incorrecto |
-| **Precisión** | • Traducción incorrecta<br>• Sobretraducción<br>• Subtraducción<br>• Adición<br>• Omisión<br>• No debería haberse traducido<br>• No fue traducido |
+| **Terminología** | • Inconsistente con glosario<br>• Uso inconsistente de terminología<br>• Uso excesivamente consistente de terminología<br>• Término incorrecto |
+| **Precisión** | • Traducción incorrecta<br>• Adición<br>• Omisión<br>• No debería haberse traducido<br>• No fue traducido |
 | **Estilo** | • Convenciones textuales<br>• Estilo organizacional<br>• Estilo de terceros<br>• Inconsistente con referencia externa<br>• Registro lingüístico<br>• Estilo no idiomático<br>• Estilo inconsistente |
 | **Convenciones Lingüísticas** | • Gramática<br>• Puntuación<br>• Ortografía |
-| **Convenciones Locales** | • Formato de números<br>• Formato de divisas<br>• Formato de medidas<br>• Formato de tiempo<br>• Formato de fecha<br>• Formato de dirección<br>• Formato de teléfono<br>• Tecla de acceso directo |
+| **Convenciones Locales** | • Formato de números<br>• Formato de divisas<br>• Formato de medidas<br>• Formato de fecha |
 | **Adecuación para la Audiencia** | • Referencia cultural específica<br>• Ofensivo |
-| **Diseño y Marcado** | • Diseño<br>• Etiqueta de marcado<br>• Truncamiento<br>• Expansión de texto<br>• Texto faltante |
 | **Otros** | • Un tipo de error no mencionado en esta tabla; por favor deja una nota indicando qué tipo de error es |
 
 **Notas**
