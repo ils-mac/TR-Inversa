@@ -31,15 +31,15 @@ Estas calificaciones de correspondencia y legibilidad se utilizan para dar una p
 
 ### Cuadro 1: Los Tipos de Errores
 
-| **Dimensión** | **Tipos de errores** |
+| **Dimension** | **Dimensión** | **Tipos de errores** |
 |---------------|---------------------|
-| **Terminología** | • Inconsistente con glosario<br>• Uso inconsistente de terminología<br>• Uso excesivamente consistente de terminología<br>• Término incorrecto |
-| **Precisión** | • Traducción errónea<br>• Adición<br>• Omisión<br>• No debería haberse traducido<br>• No fue traducido |
-| **Estilo** | • Convenciones textuales<br>• Estilo organizacional<br>• Estilo de terceros<br>• Inconsistente con referencia externa<br>• Registro lingüístico<br>• Estilo no idiomático<br>• Estilo inconsistente |
-| **Convenciones Lingüísticas** | • Gramática<br>• Puntuación<br>• Ortografía |
-| **Convenciones Locales** | • Formato de números<br>• Formato de divisas<br>• Formato de medidas<br>• Formato de fecha |
-| **Adecuación para la Audiencia** | • Referencia cultural específica<br>• Ofensivo |
-| **Otros** | • Un tipo de error no mencionado en esta tabla; por favor deja una nota indicando qué tipo de error es |
+| **Terminology** | **Terminología** | • Inconsistente con glosario<br>• Uso inconsistente de terminología<br>• Uso excesivamente consistente de terminología<br>• Término incorrecto |
+| **Accuracy** | **Precisión** | • Traducción errónea<br>• Adición<br>• Omisión<br>• No debería haberse traducido<br>• No fue traducido |
+| **Style** | **Estilo** | • Convenciones textuales<br>• Estilo organizacional<br>• Estilo de terceros<br>• Inconsistente con referencia externa<br>• Registro lingüístico<br>• Estilo no idiomático<br>• Estilo inconsistente |
+| **Linguistic Conventions** | **Convenciones Lingüísticas** | • Gramática<br>• Puntuación<br>• Ortografía |
+| **Locale Conventions** | **Convenciones Locales** | • Formato de números<br>• Formato de divisas<br>• Formato de medidas<br>• Formato de fecha |
+| **Audience Appropriateness** | **Adecuación para la Audiencia** | • Referencia cultural específica<br>• Ofensivo |
+| **Other** | **Otros** | • Un tipo de error no mencionado en esta tabla; por favor deja una nota indicando qué tipo de error es |
 
 **Notas**
 
