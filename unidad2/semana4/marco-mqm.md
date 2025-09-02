@@ -35,8 +35,8 @@ Estas calificaciones de correspondencia y legibilidad se utilizan para dar una p
 |---------------|---------------------|
 | **Terminología** | • Inconsistente con recurso terminológico<br>• Uso inconsistente de terminología<br>• Uso excesivamente consistente de terminología<br>• Término incorrecto |
 | **Precisión** | • Traducción incorrecta<br>• Sobretraducción<br>• Subtraducción<br>• Adición<br>• Omisión<br>• No debería haberse traducido<br>• No fue traducido |
-| **Estilo** | • Estilo organizacional<br>• Estilo de terceros<br>• Inconsistente con referencia externa<br>• Registro lingüístico<br>• Estilo inadecuado<br>• Estilo no idiomático<br>• Estilo inconsistente |
-| **Convenciones Lingüísticas** | • Gramática<br>• Puntuación<br>• Ortografía<br>• Codificación de caracteres<br>• Convenciones textuales |
+| **Estilo** | • Convenciones textuales<br>• Estilo organizacional<br>• Estilo de terceros<br>• Inconsistente con referencia externa<br>• Registro lingüístico<br>• Estilo no idiomático<br>• Estilo inconsistente |
+| **Convenciones Lingüísticas** | • Gramática<br>• Puntuación<br>• Ortografía |
 | **Convenciones Locales** | • Formato de números<br>• Formato de divisas<br>• Formato de medidas<br>• Formato de tiempo<br>• Formato de fecha<br>• Formato de dirección<br>• Formato de teléfono<br>• Tecla de acceso directo |
 | **Adecuación para la Audiencia** | • Referencia cultural específica<br>• Ofensivo |
 | **Diseño y Marcado** | • Diseño<br>• Etiqueta de marcado<br>• Truncamiento<br>• Expansión de texto<br>• Texto faltante |
