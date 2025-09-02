@@ -67,6 +67,8 @@ Los nombres de todas las traductoras y traductores, con roles específicos asign
 
 #### Registro detallado de tiempo y tareas
 
+Por ejemplo:
+
 | **Fase** | **Completada por** | **Tiempo dedicado / persona** | **Desafíos encontrados** |
 |----------|--------------------|-----------------------------|-------------------------|
 | Análisis del texto fuente | | | |
