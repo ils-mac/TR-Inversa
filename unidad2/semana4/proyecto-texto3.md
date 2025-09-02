@@ -16,21 +16,25 @@ nav_order: 3
 
 Trabajando en el grupo asignado, traducirán un texto técnico sobre arquitectura de prompts para tutores inteligentes de programación basados en inteligencia artificial generativa (IAG). Este proyecto combina investigación terminológica profunda con traducción técnica precisa, reflejando las competencias profesionales necesarias para trabajar con textos especializados en tecnología emergente.
 
-## Materiales del proyecto
+## Preparación para el proyecto
 
-### Documento fuente para traducir
-**Archivo:** `texto3-prompts-sistema.md`
+### El texto a traducir
 
-**Ubicación:** [Contenido de la Semana 4](./texto3-prompts-sistema.md)
+**[Texto3: Arquitectura de Prompts del Sistema para EVA-Tutor](./texto3-prompts-sistema.md)**
 
 ### Recursos de apoyo
 - **Guía teórica:** [Traducción Técnica e IAG](./traduccion-tecnica.md)
 - **Marco de evaluación:** [Marco MQM para Evaluación de Traducción](./marco-mqm.md)
-- **Referencia académica:** Levchuk (2024) - texto fuente completo disponible en carpeta de referencias
+- **Referencia académica:** Levchuk (2024) - texto fuente completo disponible en carpeta de [referencias](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/tree/main/unidad2/semana4/referencias)
 
-## Instrucciones de trabajo
+### Organización grupal
+- **Grupos asignados en clase:** No pueden cambiar de grupo sin autorización
+- **Tamaño máximo:** 3 personas (algunas excepciones de 2 personas)
+- **Asignación:** Intercambien roles y asignen turnos diferentes del último proyecto (investigación terminológica, traducción, revisión)
 
-### Proceso del proyecto
+## Proceso del proyecto
+
+**Descarga el archivo** [texto3-prompts-sistema.md](./texto3-prompts-sistema.md) para trabajar con una copia local
 
 #### Fase 1: Investigación terminológica colaborativa 
 1. **Análisis del texto fuente:** Identifica las especificaciones y los conceptos especializados en IAG
@@ -46,11 +50,6 @@ Trabajando en el grupo asignado, traducirán un texto técnico sobre arquitectur
 1. **Revisión colaborativa:** Revisa tanto el glosario como la traducción para consistencia y calidad
 2. **Documentación del proceso:** Completa el registro de tiempo y tareas
 3. **Preparación de entrega:** Prepara la entrega según especificaciones
-
-### Organización grupal
-- **Grupos asignados en clase:** No pueden cambiar de grupo sin autorización
-- **Tamaño máximo:** 3 personas (algunas excepciones de 2 personas)
-- **Asignación:** Intercambien roles y asignen turnos diferentes del último proyecto (investigación terminológica, traducción, revisión)
 
 ## Entrega
 
@@ -92,7 +91,7 @@ Párrafo de 150-200 palabras sobre:
   - `PrimerosApellidos_texto3-prompts-sistema.md`
   - `PrimerosApellidos_texto3-reflexion.docx`
 - **Nomenclatura:** Primer apellido de cada integrante, separados por guiones
-- **Ejemplo:** `Aguilera-Brandt-Morales_texto3-prompts-sistema.mx`
+- **Ejemplo:** `Aguilera-Brandt-Morales_texto3-prompts-sistema.md`
 - **Entrega:** Una sola persona del equipo sube ambos archivos
 
 ## Criterios de evaluación
@@ -107,11 +106,6 @@ Considerando tus puntuaciones de Correspondencia General y Legibilidad, puedes d
 | **Mayormente efectiva** | 3 | 2-3 | Comunica la mayoría de conceptos esenciales con claridad técnica |
 | **Algo inefectiva** | 2 | 2-3 | Transmite información básica pero con limitaciones técnicas |
 | **Inefectiva o incompleta** | 1 | 1 | No permite comprensión técnica adecuada o está significativamente incompleta. | 
-
-## Fechas importantes
-
-- **Presentación del proyecto:** Martes 3 de septiembre
-- **Entrega final:** Domingo 8 de septiembre, 11:59 PM
 
 ---
 
@@ -129,4 +123,4 @@ Para optimizar tu investigación terminológica y traducción técnica, prueba e
 
 ---
 
-**Siguiente:** [Texto 3 - Arquitectura de Prompts del Sistema](./texto3-prompts-sistema.md)
+**¡Semana 4 Completa!** La próxima semana exploraremos: [Contraste Gramatical y Evaluación Parcial](../semana5/semana5-resumen.md)
