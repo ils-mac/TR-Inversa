@@ -34,7 +34,7 @@ Estas calificaciones de correspondencia y legibilidad se utilizan para dar una p
 | **Dimensión** | **Tipos de errores** |
 |---------------|---------------------|
 | **Terminología** | • Inconsistente con glosario<br>• Uso inconsistente de terminología<br>• Uso excesivamente consistente de terminología<br>• Término incorrecto |
-| **Precisión** | • Traducción incorrecta<br>• Adición<br>• Omisión<br>• No debería haberse traducido<br>• No fue traducido |
+| **Precisión** | • Traducción errónea<br>• Adición<br>• Omisión<br>• No debería haberse traducido<br>• No fue traducido |
 | **Estilo** | • Convenciones textuales<br>• Estilo organizacional<br>• Estilo de terceros<br>• Inconsistente con referencia externa<br>• Registro lingüístico<br>• Estilo no idiomático<br>• Estilo inconsistente |
 | **Convenciones Lingüísticas** | • Gramática<br>• Puntuación<br>• Ortografía |
 | **Convenciones Locales** | • Formato de números<br>• Formato de divisas<br>• Formato de medidas<br>• Formato de fecha |
@@ -63,7 +63,7 @@ Durante la clase, completaremos juntos una plantilla donde practicarás identifi
 
 | **Inglés** | **Español** | **Concepto definido con tus propias palabras** | **Ejemplo de tipo de error de ES↔EN** |
 |------------|-------------|------------------------------------------------|--------------------------------------|
-| **Mistranslation** | Traducción incorrecta | Cuando la traducción no transmite la idea del texto fuente. | "She is actually my girlfriend" → "Ella es *actualmente* mi novia" |
+| **Mistranslation** | Traducción errónea | Cuando la traducción no transmite la idea del texto fuente. | "She is actually my girlfriend" → "Ella es *actualmente* mi novia" |
 
 **Nota:** Durante la clase trabajaremos con un documento plantilla donde encontrarás ejemplos y podrás practicar la identificación de cada tipo de error.
 
