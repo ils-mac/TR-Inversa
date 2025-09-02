@@ -63,7 +63,7 @@ Durante la clase, completaremos juntos una plantilla donde practicarás identifi
 
 | **Inglés** | **Español** | **Concepto definido con tus propias palabras** | **Ejemplo de tipo de error de ES↔EN** |
 |------------|-------------|------------------------------------------------|--------------------------------------|
-| **Wrong term** | Término incorrecto | Cuando una palabra o expresión se utiliza de forma equivocada, es decir, que no es la adecuada para describir una idea o concepto. | "She is actually my girlfriend" → "Ella es *actualmente* mi novia" |
+| **Mistranslation** | Traducción incorrecta | Cuando la traducción no transmite la idea del texto fuente. | "She is actually my girlfriend" → "Ella es *actualmente* mi novia" |
 
 **Nota:** Durante la clase trabajaremos con un documento plantilla donde encontrarás ejemplos y podrás practicar la identificación de cada tipo de error.
 
