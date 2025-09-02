@@ -38,7 +38,7 @@ Estas calificaciones de correspondencia y legibilidad se utilizan para dar una p
 | **Style** | **Estilo** | • Convenciones textuales<br>• Estilo organizacional<br>• Estilo de terceros<br>• Inconsistente con referencia externa<br>• Registro lingüístico<br>• Estilo no idiomático<br>• Estilo inconsistente | • Text-type conventions<br>• Organizational style<br>• Third party style<br>• Inconsistent with external reference<br>• Register<br>• Unnatural style<br>• Inconsistent style |
 | **Linguistic Conventions** | **Convenciones Lingüísticas** | • Gramática<br>• Puntuación<br>• Ortografía | • Grammar<br>• Puntuation<br>• Spelling |
 | **Locale Conventions** | **Convenciones Locales** | • Formato de números<br>• Formato de divisas<br>• Formato de medidas<br>• Formato de fecha | • Number <br>• Currency<br>• Measurement<br>• Date |
-| **Audience Appropriateness** | **Adecuación para la Audiencia** | • Referencia culturalmente específico<br>• Ofensivo | • Culturally-specific reference<br>• Offensive |
+| **Audience Appropriateness** | **Adecuación para la Audiencia** | • Referencia culturalmente específica<br>• Ofensivo | • Culturally-specific reference<br>• Offensive |
 | **Other** | **Otros** | • Un tipo de error no mencionado en esta tabla; por favor deja una nota indicando qué tipo de error es | • An error type not listed in the table; please leave a note indicating what type of error it is |
 
 **Notas**
