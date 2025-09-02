@@ -15,14 +15,13 @@ Esta semana nos introducimos al mundo de la traducción técnica, enfocándonos 
 ## Temas Cubiertos
 
 ### Subtemas
+- **Tipología de errores MQM**: Las dimensiones y tipos de errores que abarca MQM
 - **La traducción de textos técnicos**: Características y desafíos en el área de la inteligencia artificial generativa (IAG)
-- **Corpus y terminología**: Metodología para crear y aplicar glosarios especializados en traducción técnica
 
 ## Actividades en Clase
 
 ### Actividades bajo Conducción Docente (Martes 9-11am)
 - La traducción de textos técnicos y la IAG: Presentación y diálogo sobre el estado actual de la tecnología
-- El uso de corpus y la terminología en la traducción: Preguntas y respuestas sobre metodología
 - Presentación del Texto 3: IAG para traducción - análisis del documento fuente y contexto técnico
 
 ## Actividades Independientes
