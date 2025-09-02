@@ -32,7 +32,7 @@ Estas calificaciones de correspondencia y legibilidad se utilizan para dar una p
 ### Cuadro 1: Los Tipos de Errores
 
 | **Dimension** | **Dimensión** | **Tipos de errores** | **Error Types** | 
-|---------------|---------------------|
+|---------------|---------------|----------------------|-----------------|
 | **Terminology** | **Terminología** | • Inconsistente con glosario<br>• Uso inconsistente de terminología<br>• Uso excesivamente consistente de terminología<br>• Término incorrecto | • Does not match glossary<br>• Inconsistent use of terminology <br>• Overly consistent use of terminology<br>• Incorrect term |
 | **Accuracy** | **Precisión** | • Traducción errónea<br>• Adición<br>• Omisión<br>• No debería haberse traducido<br>• No fue traducido | • Mistranslation<br>• Addition<br>• Omission<br>• Shouldn't have been translated<br>• Wasn't translated |
 | **Style** | **Estilo** | • Convenciones textuales<br>• Estilo organizacional<br>• Estilo de terceros<br>• Inconsistente con referencia externa<br>• Registro lingüístico<br>• Estilo no idiomático<br>• Estilo inconsistente | • Text=type conventions<br>• Organizational style<br>• Third party style<br>• Inconsistent with external reference<br>• Register<br>• Unnatural style<br>• Inconsistent style |
