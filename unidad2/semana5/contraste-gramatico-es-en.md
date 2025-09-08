@@ -56,11 +56,11 @@ Para guiar tu investigación, considera estas preguntas específicas según tu c
 
 | Categoría | Preguntas |
 | --------- | --------- |
-| Número | • ¿Cómo difieren los sistemas de pluralización entre español e inglés?<br>• ¿Qué desafíos presenta la traducción de sustantivos colectivos?<br>• ¿Cómo afecta esto la traducción de términos técnicos compuestos? |
-| Género | • ¿Cómo se maneja la ausencia de género gramatical en inglés vs. español?<br>• ¿Qué estrategias existen para traducir términos técnicos con marcación de género?<br>• ¿Cómo impacta el lenguaje inclusivo en textos técnicos? |
-| Persona | • ¿Cómo difieren los sistemas pronominales entre ambas lenguas?<br>• ¿Qué desafíos presenta la traducción de formas de tratamiento formal/informal?<br>• ¿Cómo se maneja la ambigüedad de persona en textos técnicos? |
-| Tiempo y Aspecto | • ¿Cuáles son las principales diferencias en los sistemas verbales?<br>• ¿Cómo se traduce la información aspectual no presente en la lengua meta?<br>• ¿Qué estrategias existen para expresar temporalidad técnica específica? |
-| Voz | • ¿Cómo difiere el uso de voz pasiva entre español e inglés técnico?<br>• ¿Qué alternativas existen cuando no hay equivalencia directa de voz?<br>• ¿Cómo afecta la preferencia por construcciones activas/pasivas en cada lengua? |
+| **Número** | • ¿Cómo difieren los sistemas de pluralización entre español e inglés?<br>• ¿Qué desafíos presenta la traducción de sustantivos colectivos?<br>• ¿Cómo afecta esto la traducción de términos técnicos compuestos? |
+| **Género** | • ¿Cómo se maneja la ausencia de género gramatical en inglés vs. español?<br>• ¿Qué estrategias existen para traducir términos técnicos con marcación de género?<br>• ¿Cómo impacta el lenguaje inclusivo en textos técnicos? |
+| **Persona** | • ¿Cómo difieren los sistemas pronominales entre ambas lenguas?<br>• ¿Qué desafíos presenta la traducción de formas de tratamiento formal/informal?<br>• ¿Cómo se maneja la ambigüedad de persona en textos técnicos? |
+| **Tiempo y Aspecto** | • ¿Cuáles son las principales diferencias en los sistemas verbales?<br>• ¿Cómo se traduce la información aspectual no presente en la lengua meta?<br>• ¿Qué estrategias existen para expresar temporalidad técnica específica? |
+| **Voz** | • ¿Cómo difiere el uso de voz pasiva entre español e inglés técnico?<br>• ¿Qué alternativas existen cuando no hay equivalencia directa de voz?<br>• ¿Cómo afecta la preferencia por construcciones activas/pasivas en cada lengua? |
 
 ## Marco Conceptual: Equivalencia Gramatical según Baker
 
