@@ -15,8 +15,8 @@ Esta semana profundizamos en las diferencias gramaticales entre español e ingl�
 ## Temas Cubiertos
 
 ### Subtemas
-- **Corpus y terminología**: Metodología para crear y aplicar glosarios especializados en traducción técnica
 - **Contraste ES/EN**: Los elementos gramaticales y su impacto específico en textos técnicos
+- **Corpus y terminología**: Metodología para crear y aplicar glosarios especializados en traducción técnica
 - **Evaluación parcial 1**: Requisitos, especificaciones y metodología de evaluación
 
 ## Actividades en Clase
