@@ -54,6 +54,3 @@ Este estudio analiza cómo los pequeños emprendimientos que desarrollan sistema
 
 **Fuente:** Aguerre, Carolina; Ferracuti, Delfina; Kirschbaum, Iván; Levy Daniel, Maia; Perini, Antonella, "[El papel de la ética en el desarrollo de sistemas de inteligencia artificial en el sector
 emprendedor en América Latina](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad2/semana5/referencias/GuIA.ai_PapelDeÈticaEnIA_2023.pdf)", Proyecto GuIA, Edición 2021, Centro de Estudios en Tecnología y Sociedad (CETyS) de la Universidad de San Andrés y Centro Latam Digital (CLD), 2022
-
-
-**Instrucciones de traducción:** Este texto forma parte de la Evaluación Parcial 1. Consulta las especificaciones completas en [evaluacion-parcial-1.md](./evaluacion-parcial-1.md).
