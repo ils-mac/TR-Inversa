@@ -106,12 +106,12 @@ Compara la frecuencia del término en:
 
 ### Actividad: Extracción Terminológica Práctica
 
-**Corpus de práctica proporcionado**:
+**Corpus de práctica proporcionado** (disponible en Teams)
 - 12 documentos en inglés sobre IAG
 - 12 documentos en español sobre IAG
 - Aproximadamente 20,000 palabras total
 
-**Pasos a seguir**:
+**Pasos a seguir**
 
 1. **Acceso a [Sketch Engine](https://www.sketchengine.eu)**
    - Regístrate para obtener una cuenta gratuita (30 días)
