@@ -12,6 +12,8 @@ nav_order: 2
 
 Agradecemos a Lilt por proporcionar a nuestra universidad acceso a su programa de socios académicos. Este programa representa un compromiso invaluable con la educación en traducción, interpretación y localización a nivel global.
 
+**NotiUIC:** [La IA adaptativa llega a las aulas de Traducción de la UIC](https://www.uic.mx/noticias/la-ia-adaptativa-llega-a-las-aulas-de-traduccion-de-la-uic)
+
 ### Programa de Socios Académicos de Lilt
 
 El programa de socios académicos de Lilt permite que instituciones educativas cualificadas accedan gratuitamente a tecnología profesional de traducción. Los aspectos destacados del programa incluyen:
@@ -36,8 +38,6 @@ Lilt nació en un laboratorio de investigación académica, razón por la cual a
 **Educadores interesados**: Pueden solicitar acceso al programa en [https://resources.lilt.com/academic-partner-application](https://resources.lilt.com/academic-partner-application)
 
 *Este resumen es una traducción/síntesis de Claude Sonnet 4 del contenido original de la página del programa académico de Lilt.*
-
-**NotiUIC:** [La IA adaptativa llega a las aulas de Traducción de la UIC](https://www.uic.mx/noticias/la-ia-adaptativa-llega-a-las-aulas-de-traduccion-de-la-uic)
 
 ## Invitación a Lilt
 
