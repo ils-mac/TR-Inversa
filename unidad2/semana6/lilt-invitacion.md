@@ -37,6 +37,8 @@ Lilt nació en un laboratorio de investigación académica, razón por la cual a
 
 *Este resumen es una traducción/síntesis de Claude Sonnet 4 del contenido original de la página del programa académico de Lilt.*
 
+**NotiUIC:** [La IA adaptativa llega a las aulas de Traducción de la UIC](https://www.uic.mx/noticias/la-ia-adaptativa-llega-a-las-aulas-de-traduccion-de-la-uic)
+
 ## Invitación a Lilt
 
 Has recibido una invitación para traducir en Lilt a tu dirección de correo electrónico universitario. La invitación se verá así:
