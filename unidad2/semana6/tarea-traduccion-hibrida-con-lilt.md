@@ -75,8 +75,10 @@ En cada diferencia, considera:
 
 ### Entrega
 
-**Archivo**: `[nombreApellido]_traduccion-hibrida-con-lilt.docx`
+**Archivo**: `[PrimerApellido]_traduccion-hibrida-con-lilt.docx`
+
 **Extensión**: 1 página
+
 **Modalidad**: **Tarea individual obligatoria**
 
 ## Paso 3: Completa el Proyecto en Lilt
