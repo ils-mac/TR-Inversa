@@ -127,9 +127,9 @@ Después de evaluar los errores individuales en la traducción, tu texto recibir
 | **Nivel** | **Correspondencia General** | **Legibilidad General** | **Descripción** |
 |-----------|-----------|-----------|-----------------|
 | **Efectiva** (3 puntos) | 4 | 3-4 | Permite comprensión técnica completa y aplicación práctica |
-| **Mayormente efectiva** (2 puntos) | 3 | 2-3 | Comunica la mayoría de conceptos esenciales con claridad técnica |
-| **Algo inefectiva** (1 punto) | 2 | 2-3 | Transmite información básica pero con limitaciones técnicas |
-| **Inefectiva o incompleta** (0 puntos) | 1 | 1 | No permite comprensión técnica adecuada o está significativamente incompleta |
+| **Mayormente efectiva** (3 puntos) | 3 | 2-3 | Comunica la mayoría de conceptos esenciales con claridad técnica |
+| **Algo inefectiva** (2 puntos) | 2 | 2-3 | Transmite información básica pero con limitaciones técnicas |
+| **Inefectiva o incompleta** (1 punto) | 1 | 1 | No permite comprensión técnica adecuada o está significativamente incompleta |
 
 #### Glosario (3 puntos)
 - **Completitud** (1 punto): Número adecuado de entradas según tamaño del grupo, todos los campos requeridos completos
