@@ -58,7 +58,7 @@ La plantilla completa con la que trabajaremos colaborativamente está disponible
 
 **Recurso principal:** [The Punctuation Guide](https://www.thepunctuationguide.com/index.html)
 
-Para español mexicano, encontrarán los recursos
+Para español mexicano, encontrarán los recursos.
 
 ### Consideraciones para Textos Técnicos
 
