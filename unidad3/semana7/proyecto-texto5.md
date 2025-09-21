@@ -140,9 +140,13 @@ El reporte sobre su trabajo debe incluir:
 **Nombre del archivo:** `ApellidosDelMiembro1_ApellidosDelMiembro2_ApellidosDelMiembro3_Reflexion-Cambio-Climatico.docx`
 
 #### Verificación final
-- [ ] El glosario está completo con todas las entradas requeridas (5)
+- [ ] Todos los pasos están marcodos como completo en Lilt
+- [ ] Los términos en el glosario han sido añadidos a su 'Data Source' en Lilt
+- [ ] Los términos en Lilt corresponden con los términos en el glosario en formato Excel
+- [ ] El glosario en formato Excel está completo con todas las entradas requeridas (5)
 - [ ] El glosario está nombrado correctamente
-- [ ] Los tiempos para cada fase están documentados para todos los miembros del equipo
+- [ ] Los tiempos para cada fase están documentados para todos los miembros del equipo en el reporte
+- [ ] El reporte tiene las reflexiones del equipo sobre el flujo de trabajo
 - [ ] El reporte está nombrado correctamente
 - [ ] Los archivos tienen una presentación profesional y no tienen errores de ortografía, etc.
 
