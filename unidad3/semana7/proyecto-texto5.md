@@ -46,7 +46,7 @@ Cada equipo tendrá su propia fuente de datos de Cambio Climático. ¡Las entrad
 
 **Realizado por:** Terminólogo/a → Traductor/a → Editor/a → Corrector/a de estilo → Gerente de proyecto
 
-**División del trabajo**
+**División del trabajo:**
 
 | **En equipos de 3** | **En equipos de 2** |
 |---------------------|---------------------|
