@@ -56,7 +56,17 @@ Lo que sigue es una descripción de cada uno de los roles.
 
 ### Terminología
 
-El/la terminólogo/a estará a cargo de hacer una revisión del texto fuente para recopilar entradas terminológicas en un glosario. Comenzarán haciendo una base de datos en formato Excel con estos encabezados: **Término en Español | Definición en Español | Fuentes en español (donde obtuvieron la información) | Término en Inglés | Definición en Inglés | Fuentes en inglés**
+El/la terminólogo/a estará a cargo de hacer una revisión del texto fuente para recopilar entradas terminológicas en un glosario. Comenzarán haciendo una base de datos en formato Excel con estos datos: 
+
+| **Campo** | **Descripción** | **Requisitos** |
+|-----------|-----------------|----------------|
+| **ESP Term(s)** | Término principal y sinónimos en español | Separar sinónimos con \| |
+| **ESP Definition** | Definición en español | Clara y precisa |
+| **ESP Sources** | Fuentes donde obtuvieron el término/definición | URLs, títulos de documentos, etc. |
+| **ENG Term(s)** | Término(s) equivalente(s) en inglés | Separar sinónimos con \| |
+| **ENG Definition** | Definición en inglés | Clara y precisa |
+| **ENG Sources** | Fuentes para el término/definición en inglés | URLs, títulos de documentos, etc. |
+| **Notes** | Campo opcional | Cualquier información adicional relevante |
 
 Este archivo de Excel debe ser accesible para todo el equipo, y el glosario finalizado en formato Excel es uno de sus entregables para esta asignación.
 
