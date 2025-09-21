@@ -52,7 +52,7 @@ Cada equipo tendrá su propia fuente de datos de Cambio Climático. ¡Las entrad
 |---------------------|---------------------|
 | • **Rol 1:** Terminólogo/a y Corrector/a de estilo<br>• **Rol 2:** Editor/a y Gerente de proyecto <br>• **Rol 3:** Traductor/a | • **Rol 1:** Terminólogo/a y Editor/a<br>• **Rol 2:** Traductor/a y Corrector/a de estilo<br>• *El trabajo de gestión de proyecto se comparte* |
 
-Lo que sigue es una descripción de cada uno de los roles.
+Las y los estudiantes deben contribuir un mínimo de dos horas al proyecto y no más de tres horas. Lo que sigue es una descripción de cada uno de los roles.
 
 ### Terminología
 
@@ -72,10 +72,10 @@ Este archivo de Excel debe ser accesible para todo el equipo, y el glosario fina
 
 **Nombre del archivo:** `ApellidosDelMiembro1_ApellidosDelMiembro2_ApellidosDelMiembro3_Glosario-Cambio-Climatico.xlsx`
 
-Luego agregarán los términos en español e inglés a su fuente de datos en Lilt:
+Luego agrega los términos en español e inglés a su fuente de datos en Lilt:
 
-1. Navegando a su fuente de datos y haciendo clic en editar
-2. Haciendo clic en + New Entry
+1. Navegando a su 'Data Source' y haciendo clic en editar
+2. Haciendo clic en '+ New Entr
 
 ![Agregar entrada en fuente de datos](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad3/semana7/imagenes/Lilt_AddDataSourceEntry.png)
 
@@ -115,31 +115,40 @@ Después de cada uno de los pasos en Lilt, las y los estudiantes necesitan hacer
 
 ### Gestión de proyecto + entrega
 
-El/la gerente de proyecto hará una verificación final y las tareas de entrega. Esto incluye redactar el reporte que recopila los tiempos de todas las personas y reflexiones sobre la experiencia.
+El/la gerente de proyecto hará las tareas de entrega. Esto incluye redactar el reporte que recopila los tiempos de todas las personas y reflexiones sobre la experiencia.
 
-#### Lista de verificación para verificación final:
-- [ ] La traducción está completa y libre de errores obvios
-- [ ] La terminología es consistente en todo el texto
-- [ ] El glosario está completo con todas las entradas requeridas
-- [ ] Los tiempos están documentados para todos los miembros del equipo
-- [ ] El formato del archivo es correcto
-- [ ] Todos los entregables están listos para envío
+#### Reporte
 
-El reporte debe ser nombrado:
+El reporte sobre su trabajo debe incluir:
+
+- Los nombres de todas las traductoras y traductores, con roles específicos asignados
+- Un registro detallado de tiempo y tareas, presentado así:
+
+| **Fase** | **Completada por** | **Tiempo dedicado / persona** |
+|----------|--------------------|-------------------------------|
+| Trabajo terminológica | | | |
+| Traducción | | | |
+| Revisión | | | |
+| Corrección de estilo | | | |
+| Gestión del proyecto | | | |
+
+**Total de horas del Team Member 1:**
+**Total de horas del Team Member 2:**
+**Total de horas del Team Member 3:**
+**Total de horas del proyecto:** [Suma total]
 
 **Nombre del archivo:** `ApellidosDelMiembro1_ApellidosDelMiembro2_ApellidosDelMiembro3_Reflexion-Cambio-Climatico.docx`
 
-Para la tabla en el reporte, esta vez, me gustaría que incluyan después de la tabla estas líneas:
-- **Total de horas del Team Member 1:**
-- **Total de horas del Team Member 2:**
-- **Total de horas del Team Member 3:**
-- **Total de horas del proyecto:**
-
-Las y los estudiantes deben contribuir un mínimo de dos horas al proyecto y no más de tres horas.
+#### Verificación final
+- [ ] El glosario está completo con todas las entradas requeridas (5)
+- [ ] El glosario está nombrado correctamente
+- [ ] Los tiempos para cada fase están documentados para todos los miembros del equipo
+- [ ] El reporte está nombrado correctamente
+- [ ] Los archivos tienen una presentación profesional y no tienen errores de ortografía, etc.
 
 ## Entrega
 
-### Archivos requeridos:
+### Archivos requeridos
 
 1. **Glosario bilingüe especializado** 
    - Archivo Excel (.xlsx) con al menos 5 entradas terminológicas
@@ -153,7 +162,7 @@ Las y los estudiantes deben contribuir un mínimo de dos horas al proyecto y no 
 
 ### Formato de nomenclatura:
 - **Primer apellido** de cada integrante, separados por guiones bajos
-- **Ejemplo:** `Aguilera_Brandt_Glosario-Cambio-Climatico.xlsx`
+- **Ejemplo:** `AguileraRodríguez_Brandt_Glosario-Cambio-Climatico.xlsx`
 - **Entrega:** Una sola persona del equipo sube los archivos
 
 ## Criterios de evaluación
@@ -182,4 +191,4 @@ Para optimizar tu trabajo en equipo y traducción especializada en cambio climá
 
 ---
 
-**¡Proyecto de Traducción Colaborativa Completo!** La próxima semana exploraremos: [Siguiente tema del curso]
+**¡Semana 7 Completa!** La próxima semana exploraremos: [Marco MQM y Label Studio](../semana8/semana8-resumen.md)
