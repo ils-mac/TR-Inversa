@@ -56,7 +56,21 @@ La plantilla completa con la que trabajaremos colaborativamente está disponible
 
 ### Recursos Recomendados
 
-**Recurso principal:** [The Punctuation Guide](https://www.thepunctuationguide.com/index.html)
+Aquí tienen algunos recursos con que pueden empezar.
+
+**ES-MX**
+
+- [Enciclopedia del Lenguaje](https://lenguaje.com/categoria/lengua/ortografia)
+- [Unibetas](https://unibetas.com/c-signos-de-puntuacion)
+- [Signos de puntuación](http://csh.izt.uam.mx/ortografia/ortografia/signosdepuntuacion/)
+
+**EN-US**
+
+- [The Punctuation Guide](https://www.thepunctuationguide.com/index.html)
+- [GrammarBook.com](https://www.grammarbook.com/punctuation_rules.asp)
+- [Grammarly](https://www.grammarly.com)
+
+**Recurso principal:** 
 
 Para español mexicano, encontrarán los recursos.
 
