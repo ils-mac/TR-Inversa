@@ -54,7 +54,7 @@ Cada equipo tendrá su propia fuente de datos de Cambio Climático. ¡Las entrad
 
 Lo que sigue es una descripción de cada uno de los roles.
 
-#### Terminología
+### Terminología
 
 El/la terminólogo/a estará a cargo de hacer una revisión del texto fuente para recopilar entradas terminológicas en un glosario. Comenzarán haciendo una base de datos en formato Excel con estos encabezados: **Término en Español | Definición en Español | Fuentes en español (donde obtuvieron la información) | Término en Inglés | Definición en Inglés | Fuentes en inglés**
 
@@ -79,7 +79,7 @@ Luego agregarán los términos en español e inglés a su fuente de datos en Lil
 
 Necesitarán agregar al menos 5 términos a su glosario. Tendrán acceso a las fuentes de datos de los otros equipos en la clase. ¡Les advertimos que copien el trabajo de otro equipo bajo su propio riesgo!
 
-#### Traducción
+### Traducción
 
 El/la traductor/a traducirá el texto haciendo un trabajo cuidadoso de entender el significado transmitido en la fuente y expresándolo en inglés fluido. Recibirán ayuda del modelo de lenguaje, lo cual será complejo, ya que necesitarán verificar cuidadosamente los resultados generados por precisión y estilo. El/la traductor/a necesita confirmar que se ha seguido la base terminológica. Si el/la traductor/a encuentra problemas en la base terminológica, debe actualizar el glosario de Excel del equipo y actualizar la entrada en Lilt también.
 
@@ -87,27 +87,25 @@ Si el/la traductor/a tiene áreas del texto sobre las que no está seguro/a, pue
 
 > **Nota:** Un problema que a veces se enfrenta en entornos de producción es que el/la traductor/a asume que como su trabajo será verificado por dos personas después, pueden entregar un borrador de mala calidad. Las y los estudiantes no deben hacer eso. La traducción que se entrega necesita ser de calidad pulida.
 
-#### Edición
+### Edición
 
 El/la editor/a tiene el trabajo de verificar que la traducción es precisa, haciendo una comparación cuidadosa del texto meta con el texto fuente. Si el/la editor/a encuentra problemas en la base terminológica, debe actualizar el glosario de Excel del equipo y actualizar la entrada en Lilt también.
 
 > **Nota:** Un problema que a veces se enfrenta en entornos de producción es que el/la editor/a asume que el/la traductor/a hizo toda la investigación necesaria, así que hace una revisión descuidada y rápida. Las y los estudiantes no deben hacer eso. El texto editado que entregan idealmente necesita ser de mejor calidad que la traducción, aunque deben tener cuidado de no hacer cambios innecesarios también (llamados cambios preferenciales en entornos de producción).
 
-#### Corrección de estilo
+### Corrección de estilo
 
 La corrección de estilo necesita hacer una revisión final del texto para asegurar que la traducción fluya bien como contenido independiente. En lugar de hacer una comparación cuidadosa contra la fuente, esta verificación está más preocupada con lograr un estilo fluido y asegurarse de que el contenido esté pulido tipográficamente y que se haya seguido la base terminológica.
 
 > **Nota:** Un problema que a veces se enfrenta en entornos de producción es que el/la corrector/a de estilo asume que como están al final del flujo de trabajo, pueden simplemente confirmar todo sin realmente leerlo. Las y los estudiantes no deben hacer eso. Sepan que la corrección de estilo es un paso importante de gestión de riesgo, especialmente cuando la traducción original tenía múltiples problemas. Mientras más necesitó revisar el/la editor/a, más probable es que pierdan un error en el texto.
 
-### Proceso en Lilt
+### Fin del Proceso en Lilt
 
-Después de cada uno de los pasos en Lilt, las y los estudiantes necesitan hacer clic en "Complete" para entregar su trabajo al siguiente paso. Al final del proceso TEP, llamado Translate > Review > Secondary Review en Lilt, no hay necesidad de que descarguen la traducción para entregarme. Obtendré su texto finalizado de Lilt.
+Después de cada uno de los pasos en Lilt, las y los estudiantes necesitan hacer clic en "Complete" para entregar su trabajo al siguiente paso. Al final del proceso, no hay necesidad de que descarguen la traducción para entregarme. Obtendré su texto finalizado de Lilt.
 
-Noten que las y los estudiantes necesitan estar recopilando sus tiempos mientras completan esta asignación.
+### Gestión de proyecto + entrega
 
-### Verificación final + entrega
-
-El/la gerente de proyecto hará la verificación final y tareas de entrega. Esto incluye redactar el reporte que recopila los tiempos de todas las personas y reflexiones sobre la experiencia.
+El/la gerente de proyecto hará una verificación final y las tareas de entrega. Esto incluye redactar el reporte que recopila los tiempos de todas las personas y reflexiones sobre la experiencia.
 
 #### Lista de verificación para verificación final:
 - [ ] La traducción está completa y libre de errores obvios
