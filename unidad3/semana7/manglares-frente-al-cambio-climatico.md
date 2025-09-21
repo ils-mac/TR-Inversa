@@ -36,4 +36,4 @@ Esta "tropicalización global del Golfo de México", plantea un nuevo desafío p
 
 ---
 
-**Fuente:** Yáñez-Arancibia, Alejandro; Day, John W.; Twilley, Robert R.; Day, Richard H, "Manglares frente al cambio climático: ¿tropicalización global del Golfo de México?", en Rivera-Arriaga, Evelia; Azuz-Adeath, Isaac; Alpuche Gual, Leticia; Villalobos, Guillermo J. (eds.), *Cambio climático en México: Un enfoque costero y marino*, Universidad Autónoma de Campeche, Cetys-Universidad, Gobierno del Estado de Campeche, 2010
+**Adaptado de:** Yáñez-Arancibia, Alejandro; Day, John W.; Twilley, Robert R.; Day, Richard H, "Manglares frente al cambio climático: ¿tropicalización global del Golfo de México?", en Rivera-Arriaga, Evelia; Azuz-Adeath, Isaac; Alpuche Gual, Leticia; Villalobos, Guillermo J. (eds.), *Cambio climático en México: Un enfoque costero y marino*, Universidad Autónoma de Campeche, Cetys-Universidad, Gobierno del Estado de Campeche, 2010
