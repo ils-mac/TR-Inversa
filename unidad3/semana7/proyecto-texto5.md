@@ -126,7 +126,7 @@ El reporte sobre su trabajo debe incluir:
 
 | **Fase** | **Completada por** | **Tiempo dedicado / persona** |
 |----------|--------------------|-------------------------------|
-| Trabajo terminológica | | | |
+| Trabajo terminológico | | | |
 | Traducción | | | |
 | Revisión | | | |
 | Corrección de estilo | | | |
