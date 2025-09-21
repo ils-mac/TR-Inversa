@@ -28,35 +28,33 @@ A continuación se presenta una tabla de problemas comunes al trabajar en equipo
 
 | **Problema** | **Algunas razones por las que ocurre el problema** | **Estrategias para superar el problema** |
 |--------------|---------------------------------------------------|-------------------------------------------|
-| **Algunos miembros del equipo dedican mucho más tiempo que otros** | - Un miembro del equipo se siente cómodo dejando que otros hagan su trabajo<br>- Los miembros del equipo se sienten incómodos delegando responsabilidades (piensan que pueden hacerlo mejor que los demás, así que hacen todo ellos mismos) | - Asumir responsabilidad personal<br>- Aprender a delegar<br>- Planificar con anticipación<br>- Escalar problemas a la instructora |
-| **Cuando trabajan individualmente los miembros del equipo rinden bien, en equipo su rendimiento baja** | - No hay una división clara del trabajo<br>- Falta de comunicación sobre expectativas<br>- Duplicación de esfuerzos | - Ser influencias positivas unos en otros<br>- Establecer roles y responsabilidades claras<br>- Comunicar expectativas desde el inicio |
-| **Las personas no quieren trabajar con una persona en particular** | - No son amigos<br>- Conocen que la persona hace trabajo de mala calidad<br>- Conflictos de personalidad | - Entender que ser profesional requiere trabajar con colegas, con quienes podemos ser cordiales sin necesariamente ser amigos. Es trabajo<br>- Si tienes reputación de ser mal compañero de equipo, trabaja en mejorar tu rendimiento para que las personas quieran trabajar contigo y vuelvan a confiar en ti |
-| **Desaparición/falta de comunicación** | - Sobrecarga de trabajo en otros cursos<br>- Problemas personales<br>- Falta de compromiso con el proyecto | - Sobrecomunciar: informar al equipo sobre cualquier problema lo antes posible<br>- Establecer canales regulares de comunicación<br>- Buscar ayuda cuando sea necesario |
-| **Un miembro del equipo se atrasa** | - Su trabajo resultó requerir más tiempo del que pensaron<br>- Surge un problema imprevisto<br>- Subestimación del alcance del trabajo | - Sobrecomunicar sobre el progreso<br>- Colaborar y ayudarse mutuamente<br>- Ajustar expectativas y redistribuir trabajo cuando sea necesario |
+| **Algunos miembros del equipo dedican mucho más tiempo que otros** | • Un miembro del equipo se siente cómodo dejando que otros hagan su trabajo<br>• Los miembros del equipo se sienten incómodos delegando responsabilidades (piensan que pueden hacerlo mejor que los demás, así que hacen todo ellos mismos) | • Asumir responsabilidad personal<br>• Aprender a delegar<br>• Planificar con anticipación<br>•  Escalar problemas a la instructora |
+| **Cuando trabajan individualmente los miembros del equipo rinden bien, en equipo su rendimiento baja** | • No hay una división clara del trabajo<br>• Falta de comunicación sobre expectativas<br>• Duplicación de esfuerzos | • Ser influencias positivas unos en otros<br>• Establecer roles y responsabilidades claras<br>• Comunicar expectativas a lo largo del proyecto |
+| **Las personas no quieren trabajar con una persona en particular** | • No son amigos<br>• Conocen que la persona hace trabajo de mala calidad<br>• Conflictos de personalidad | • Entender que ser profesional requiere trabajar con colegas, con quienes podemos ser cordiales sin necesariamente ser amigos.<br>• Si tienes reputación de ser mal compañero de equipo, trabaja en mejorar tu rendimiento para que las personas vuelvan a confiar en ti |
+| **Desaparición/falta de comunicación** | • Sobrecarga de trabajo en otros cursos<br>• Problemas personales<br>• Falta de compromiso con el proyecto | • Sobrecomunciar: informar al equipo sobre cualquier problema lo antes posible<br>• Establecer canales regulares de comunicación<br>• Buscar ayuda cuando sea necesario |
+| **Un miembro del equipo se atrasa** | • Su trabajo resultó requerir más tiempo del que pensaron<br>• Subestimación del alcance del trabajo<br>• Surge un problema imprevisto | • Sobrecomunicar sobre el progreso<br>• Colaborar y ayudarse mutuamente<br>• Ajustar expectativas y redistribuir trabajo cuando sea necesario |
 
-## Flujo de trabajo esta semana
+## Flujo de trabajo en Lilt
 
 Aquí está el archivo que las y los estudiantes estarán traduciendo, para que todos puedan revisarlo antes de ingresar a Lilt: [manglares-frente-al-cambio-climatico.md](./manglares-frente-al-cambio-climatico.md)
-
-**Flujo de trabajo:** Terminología → Traducción → Edición → Corrección de estilo → Verificación final/Entrega
-
-**Realizado por:** Terminólogo/a → Traductor/a → Editor/a → Corrector/a de estilo → Gerente de proyecto
-
-### División del trabajo
-
-| **En equipos de 3** | **En equipos de 2** |
-|---------------------|---------------------|
-| - **Rol 1:** Terminólogo/a y Corrector/a de estilo<br>- **Rol 2:** Editor/a y Gerente de proyecto <br>-**Rol 3:** Traductor/a | - **Rol 1:** Terminólogo/a y Editor/a<br>- **Rol 2:** Traductor/a y Corrector/a de estilo<br>-*En esta configuración, el trabajo de gestión de proyecto se comparte* |
-
-## Acceso a Lilt
 
 Han recibido una pequeña actualización en su nivel de acceso a Lilt. Ahora pueden acceder a fuentes de datos, que en Lilt es un objeto en el cual se almacenan las entradas de memoria de traducción y base terminológica que guían al modelo de lenguaje en la generación de traducciones ([más información](https://support.lilt.com/developers/guides/manage-content/create-a-datasource)). Se les ha dado acceso de visualización/lectura/escritura a todas las fuentes de datos que tengo en nuestro espacio en Lilt, ¡así que necesitan tener mucho cuidado de no editar/eliminar fuentes de datos que no son suyas!
 
 Cada equipo tendrá su propia fuente de datos de Cambio Climático. ¡Las entradas de base terminológica y memoria de traducción que agreguen a su fuente de datos guiarán su propio modelo de lenguaje! ¡Muy interesante!
 
-## Responsabilidades específicas de cada trabajo
+**Flujo de trabajo:** Terminología → Traducción → Edición → Corrección de estilo → Verificación final/Entrega
 
-### Terminología
+**Realizado por:** Terminólogo/a → Traductor/a → Editor/a → Corrector/a de estilo → Gerente de proyecto
+
+**División del trabajo**
+
+| **En equipos de 3** | **En equipos de 2** |
+|---------------------|---------------------|
+| • **Rol 1:** Terminólogo/a y Corrector/a de estilo<br>• **Rol 2:** Editor/a y Gerente de proyecto <br>• **Rol 3:** Traductor/a | • **Rol 1:** Terminólogo/a y Editor/a<br>• **Rol 2:** Traductor/a y Corrector/a de estilo<br>• *El trabajo de gestión de proyecto se comparte* |
+
+Lo que sigue es una descripción de cada uno de los roles.
+
+#### Terminología
 
 El/la terminólogo/a estará a cargo de hacer una revisión del texto fuente para recopilar entradas terminológicas en un glosario. Comenzarán haciendo una base de datos en formato Excel con estos encabezados: **Término en Español | Definición en Español | Fuentes en español (donde obtuvieron la información) | Término en Inglés | Definición en Inglés | Fuentes en inglés**
 
@@ -81,25 +79,25 @@ Luego agregarán los términos en español e inglés a su fuente de datos en Lil
 
 Necesitarán agregar al menos 5 términos a su glosario. Tendrán acceso a las fuentes de datos de los otros equipos en la clase. ¡Les advertimos que copien el trabajo de otro equipo bajo su propio riesgo!
 
-### Traducción
+#### Traducción
 
 El/la traductor/a traducirá el texto haciendo un trabajo cuidadoso de entender el significado transmitido en la fuente y expresándolo en inglés fluido. Recibirán ayuda del modelo de lenguaje, lo cual será complejo, ya que necesitarán verificar cuidadosamente los resultados generados por precisión y estilo. El/la traductor/a necesita confirmar que se ha seguido la base terminológica. Si el/la traductor/a encuentra problemas en la base terminológica, debe actualizar el glosario de Excel del equipo y actualizar la entrada en Lilt también.
 
-Noten que aquí, un problema que a veces se enfrenta en entornos de producción es que el/la traductor/a asume que como su trabajo será verificado por dos personas después, pueden entregar un borrador de mala calidad. Las y los estudiantes no deben hacer eso. La traducción que se entrega necesita ser de calidad pulida.
-
 Si el/la traductor/a tiene áreas del texto sobre las que no está seguro/a, puede dejar comentarios sobre esto en la plataforma Lilt, y comunicarse con su equipo sobre el pasaje difícil fuera de Lilt.
 
-### Edición
+> **Nota:** Un problema que a veces se enfrenta en entornos de producción es que el/la traductor/a asume que como su trabajo será verificado por dos personas después, pueden entregar un borrador de mala calidad. Las y los estudiantes no deben hacer eso. La traducción que se entrega necesita ser de calidad pulida.
+
+#### Edición
 
 El/la editor/a tiene el trabajo de verificar que la traducción es precisa, haciendo una comparación cuidadosa del texto meta con el texto fuente. Si el/la editor/a encuentra problemas en la base terminológica, debe actualizar el glosario de Excel del equipo y actualizar la entrada en Lilt también.
 
-Noten que aquí, un problema que a veces se enfrenta en entornos de producción es que el/la editor/a asume que el/la traductor/a hizo toda la investigación necesaria, así que hace una revisión descuidada y rápida. Las y los estudiantes no deben hacer eso. El texto editado que entregan idealmente necesita ser de mejor calidad que la traducción, aunque deben tener cuidado de no hacer cambios innecesarios también (llamados cambios preferenciales en entornos de producción).
+> **Nota:** Un problema que a veces se enfrenta en entornos de producción es que el/la editor/a asume que el/la traductor/a hizo toda la investigación necesaria, así que hace una revisión descuidada y rápida. Las y los estudiantes no deben hacer eso. El texto editado que entregan idealmente necesita ser de mejor calidad que la traducción, aunque deben tener cuidado de no hacer cambios innecesarios también (llamados cambios preferenciales en entornos de producción).
 
-### Corrección de estilo
+#### Corrección de estilo
 
 La corrección de estilo necesita hacer una revisión final del texto para asegurar que la traducción fluya bien como contenido independiente. En lugar de hacer una comparación cuidadosa contra la fuente, esta verificación está más preocupada con lograr un estilo fluido y asegurarse de que el contenido esté pulido tipográficamente y que se haya seguido la base terminológica.
 
-Noten que aquí, un problema que a veces se enfrenta en entornos de producción es que el/la corrector/a de estilo asume que como están al final del flujo de trabajo, pueden simplemente confirmar todo sin realmente leerlo. Las y los estudiantes no deben hacer eso. Sepan que la corrección de estilo es un paso importante de gestión de riesgo, especialmente cuando la traducción original tenía múltiples problemas. Mientras más necesitó revisar el/la editor/a, más probable es que pierdan un error en el texto.
+> **Nota:** Un problema que a veces se enfrenta en entornos de producción es que el/la corrector/a de estilo asume que como están al final del flujo de trabajo, pueden simplemente confirmar todo sin realmente leerlo. Las y los estudiantes no deben hacer eso. Sepan que la corrección de estilo es un paso importante de gestión de riesgo, especialmente cuando la traducción original tenía múltiples problemas. Mientras más necesitó revisar el/la editor/a, más probable es que pierdan un error en el texto.
 
 ### Proceso en Lilt
 
