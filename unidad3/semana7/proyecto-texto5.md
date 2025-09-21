@@ -132,9 +132,9 @@ El reporte sobre su trabajo debe incluir:
 | Corrección de estilo | | | |
 | Gestión del proyecto | | | |
 
-**Total de horas del Team Member 1:**
-**Total de horas del Team Member 2:**
-**Total de horas del Team Member 3:**
+**Total de horas del Team Member 1:**<br>
+**Total de horas del Team Member 2:**<br>
+**Total de horas del Team Member 3:**<br>
 **Total de horas del proyecto:** [Suma total]
 
 **Nombre del archivo:** `ApellidosDelMiembro1_ApellidosDelMiembro2_ApellidosDelMiembro3_Reflexion-Cambio-Climatico.docx`
