@@ -83,7 +83,7 @@ En cada diferencia, considera:
 
 ## Paso 3: Completa el Proyecto en Lilt
 
-![Completar Traducción en Lilt](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad2/semana6/imagenes/Lilt_CompleteTranslation.png)
+![Completar Traducción en Lilt](https://raw.githubusercontent.com/alainamb/uic_tr18-trad-inversa-es-en/main/unidad2/semana6/imagenes/Lilt_CompleteTranslation.png)
 
 ### Finalización del Trabajo
 
