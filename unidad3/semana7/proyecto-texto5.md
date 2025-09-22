@@ -137,6 +137,8 @@ El reporte sobre su trabajo debe incluir:
 **Total de horas del Team Member 3:**<br>
 **Total de horas del proyecto:** [Suma total]
 
+**Sus reflexiones sobre la experiencia**
+
 **Nombre del archivo:** `ApellidosDelMiembro1_ApellidosDelMiembro2_ApellidosDelMiembro3_Reflexion-Cambio-Climatico.docx`
 
 #### Verificación final
