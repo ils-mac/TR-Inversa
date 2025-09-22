@@ -45,7 +45,7 @@ Tienes acceso a recursos profesionales para ayudarte en tu aprendizaje:
 
 ## Aceptar Tareas
 
-![Aceptar Proyecto en Lilt](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad2/semana6/imagenes/Lilt_AcceptProject.png)
+![Aceptar Proyecto en Lilt](https://raw.githubusercontent.com/alainamb/uic_tr18-trad-inversa-es-en/main/unidad2/semana6/imagenes/Lilt_AcceptProject.png)
 
 Puedes aceptar tu tarea de traducción de dos maneras:
 - **Directamente desde tu correo electrónico**: Haciendo clic en el enlace de la invitación
@@ -55,7 +55,7 @@ Una vez que hayas aceptado la tarea, podrás acceder a los detalles completos de
 
 ## Entender Detalles del Proyecto
 
-![Detalles del Proyecto en Lilt](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad2/semana6/imagenes/Lilt_ProjectDetails.png)
+![Detalles del Proyecto en Lilt](https://raw.githubusercontent.com/alainamb/uic_tr18-trad-inversa-es-en/main/unidad2/semana6/imagenes/Lilt_ProjectDetails.png)
 
 Después de aceptar tu tarea, recibirás información detallada sobre el proyecto. 
 
@@ -73,7 +73,7 @@ Después de aceptar tu tarea, recibirás información detallada sobre el proyect
 
 ## Trabajar en el Editor de Traducción
 
-![Editor de Traducción en Lilt](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad2/semana6/imagenes/Lilt_TranslationEditor.png)
+![Editor de Traducción en Lilt](https://raw.githubusercontent.com/alainamb/uic_tr18-trad-inversa-es-en/main/unidad2/semana6/imagenes/Lilt_TranslationEditor.png)
 
 El editor de traducción es donde realizarás el trabajo principal. Al entrar al editor, observa que el modelo de IAG ya está generando traducciones automáticamente para ti.
 
