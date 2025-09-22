@@ -75,7 +75,7 @@ Este archivo de Excel debe ser accesible para todo el equipo, y el glosario fina
 Luego agrega los términos en español e inglés a su fuente de datos en Lilt:
 
 1. Navegando a su 'Data Source' y haciendo clic en editar
-2. Haciendo clic en '+ New Entr
+2. Haciendo clic en `+ New Entry`
 
 ![Agregar entrada en fuente de datos](https://raw.githubusercontent.com/alainamb/uic_tr18-trad-inversa-es-en/main/unidad3/semana7/imagenes/Lilt_AddDataSourceEntry.png)
 
