@@ -77,7 +77,7 @@ Luego agrega los términos en español e inglés a su fuente de datos en Lilt:
 1. Navegando a su 'Data Source' y haciendo clic en editar
 2. Haciendo clic en '+ New Entr
 
-![Agregar entrada en fuente de datos](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad3/semana7/imagenes/Lilt_AddDataSourceEntry.png)
+![Agregar entrada en fuente de datos](../imagenes/Lilt_AddDataSourceEntry.png)
 
 3. Llenando el cuadro de diálogo con:
    - **Type of entry:** Termbase
@@ -85,7 +85,7 @@ Luego agrega los términos en español e inglés a su fuente de datos en Lilt:
    - **Target text [en]:** término meta
    - **Approval status:** Reviewed
 
-![Agregar nueva entrada](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad3/semana7/imagenes/Lilt_AddNewEntry.png)
+![Agregar nueva entrada](../imagenes/Lilt_AddNewEntry.png)
 
 Necesitarán agregar al menos 5 términos a su glosario. Tendrán acceso a las fuentes de datos de los otros equipos en la clase. ¡Les advertimos que copien el trabajo de otro equipo bajo su propio riesgo!
 
