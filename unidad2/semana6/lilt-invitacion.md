@@ -43,7 +43,7 @@ Lilt nació en un laboratorio de investigación académica, razón por la cual a
 
 Has recibido una invitación para traducir en Lilt a tu dirección de correo electrónico universitario. La invitación se verá así:
 
-![Invitación a Lilt](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad2/semana6/imagenes/Lilt-Invitation.png)
+![Invitación a Lilt](https://raw.githubusercontent.com/alainamb/uic_tr18-trad-inversa-es-en/main/unidad2/semana6/imagenes/Lilt_Invitation.png)
 
 ### Pasos para Activar tu Cuenta
 
