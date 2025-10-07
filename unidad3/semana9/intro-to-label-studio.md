@@ -28,7 +28,7 @@ Areas of the platform to make note of:
   - List of annotations
   - Document-level rating area 
 
-## Linguistic Training Project
+## Linguistic Training Projects
 
 In the linguistic training project, the focus is on taking the time to get familiar with marking translation errors according to the MQM framework. But first, we should discuss: What's different about the Label Studio environment in comparison to how editing is carried out in translation technology like CAT tools?
 
@@ -37,6 +37,17 @@ In the linguistic training project, the focus is on taking the time to get famil
 Reflect on your past experiences with MQM.
 - Course contents
 - Evaluations of your translations
+
+### Available Projects
+
+Academic paper abstracts
+Projects were adapted from the academic papers cited at the end of each of the documents.
+
+| Project Name | Description | Source Content | Target Content |
+| ------------ | ----------- | -------------- | -------------- |
+| Carbono en Manglares | Description | [CarbonoEnManglares-Extended_ES-MX.pdf](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad3/semana9/referencias/CarbonoEnManglares-Extended_ES-MX.pdf) | [CarbonoEnManglares-Extended_EN-US.pdf](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad3/semana9/referencias/CarbonoEnManglares-Extended_EN-US.pdf) |
+| Manglares: ecosistema centinela | Description | [Manglares-EcosistemaCentinela-Extended_ES-MX.pdf](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad3/semana9/referencias/Manglares-EcosistemaCentinela-Extended_ES-MX.pdf) | [Manglares-EcosistemaCentinela-Extended_EN-US.pdf](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad3/semana9/referencias/Manglares-EcosistemaCentinela-Extended_EN-US.pdf) |
+| Reserva de carbono | Description | [ReservaDeCarbono-Extended_ES-MX.pdf](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad3/semana9/referencias/ReservaDeCarbono-Extended_ES-MX.pdf) | [ReservaDeCarbono-Extended_EN-US.pdf](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad3/semana9/referencias/ReservaDeCarbono-Extended_EN-US.pdf) |
 
 ## Helpful Resources
 - [Label Studio Overview](https://labelstud.io/guide/get_started) - _What is Label Studio_ and _Interface_ sections
