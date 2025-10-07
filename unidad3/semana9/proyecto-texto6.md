@@ -26,8 +26,12 @@ Un aspecto importante del etiquetado de errores es que las y los evaluadores ide
 
 ### Documentos del Proyecto
 
-- **Texto fuente**: [CONANP_LogrosProyectoResiliencia.pdf](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad3/semana9/referencias/CONANP_LogrosProyectoResiliencia.pdf)
-- **Texto meta**: [CONANP_ProyectoResilienciaAcheivements.pdf](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad3/semana9/referencias/CONANP_ProyectoResilienciaAcheivements.pdf)
+- **Texto fuente**:
+   - Texto completo: [CONANP_LogrosProyectoResiliencia.pdf](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad3/semana9/referencias/CONANP_LogrosProyectoResiliencia.pdf)
+   - Adaptado para esta tarea:
+- **Texto meta**:
+   - Texto completo: [CONANP_ProyectoResilienciaAcheivements.pdf](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad3/semana9/referencias/CONANP_ProyectoResilienciaAcheivements.pdf)
+   - Adaptado para esta tarea:
 - **Especificaciones del proyecto**: Documento compartido completado en clase (disponible en Teams)
 
 ## Tu Asignación
