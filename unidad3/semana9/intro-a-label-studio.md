@@ -185,4 +185,4 @@ Para prepararte mejor para trabajar con Label Studio y MQM, prueba estos prompts
 
 ---
 
-**Siguiente:** [Contexto para el Proyecto de Evaluación - Label Studio](./texto6-contexto.md)
+**Siguiente:** [Contexto para el Proyecto de Evaluación](./texto6-contexto.md)
