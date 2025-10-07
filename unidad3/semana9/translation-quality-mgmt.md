@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Translation Quality Management Systems
-parent: Semana 8
+parent: Semana 9
 grand_parent: Unidad 3
 nav_order: 1
 ---
