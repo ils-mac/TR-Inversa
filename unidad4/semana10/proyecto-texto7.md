@@ -124,12 +124,12 @@ Nombres y secciones asignadas a cada integrante
 
 Después de evaluar los errores individuales en la traducción, tu texto recibirá una puntuación de correspondencia general donde 1 significa diferencias importantes de significado y 4 significa correspondencia excelente, y una puntuación de legibilidad general donde 1 significa difícil de leer y 4 significa que se lee de forma natural.
 
-| **Nivel** | **Correspondencia General** | **Legibilidad General** | **Descripción** | **Puntos** |
+| **Nivel** | **Puntos** | **Correspondencia General** | **Legibilidad General** | **Descripción** | 
 |-----------|-----------|-----------|-----------------|------------|
-| **Efectiva** | 4 | 3-4 | La traducción captura con precisión el mensaje político, mantiene registro diplomático apropiado, y demuestra consistencia excelente entre secciones | 3 |
-| **Mayormente efectiva** | 3 | 2-3 | Comunica el mensaje esencial claramente con buen nivel de consistencia. Errores menores no impiden comprensión | 2 |
-| **Algo inefectiva** | 2 | 2-3 | Transmite información básica pero presenta problemas de consistencia o registro que afectan la efectividad diplomática | 1 |
-| **Inefectiva o incompleta** | 1 | 1 | No logra comunicar el mensaje apropiadamente o muestra inconsistencias significativas entre secciones | 0 |
+| **Efectiva** | 3 | 4 | 3-4 | La traducción captura con precisión el mensaje político, mantiene registro diplomático apropiado, y demuestra consistencia excelente entre secciones |
+| **Mayormente efectiva** | 3 | 3 | 2-3 | Comunica el mensaje esencial claramente con buen nivel de consistencia. Errores menores no impiden comprensión | 
+| **Algo inefectiva** | 2 | 2 | 2-3 | Transmite información básica pero presenta problemas de consistencia o registro que afectan la efectividad diplomática | 
+| **Inefectiva o algo incompleta** | 1 | 1 | 1 | No logra comunicar el mensaje apropiadamente o muestra inconsistencias significativas entre secciones |
 
 **Nota:** La consistencia terminológica y estilística entre las tres secciones es criterio fundamental de evaluación.
 
