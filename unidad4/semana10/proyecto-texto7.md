@@ -16,6 +16,18 @@ nav_order: 3
 
 Trabajando en equipos de 3, traducirán secciones de una conferencia de prensa de la Presidenta Claudia Sheinbaum sobre negociaciones con Estados Unidos respecto a aranceles. Cada integrante del equipo traducirá una sección diferente del discurso, y el equipo será responsable de mantener consistencia terminológica y estilística entre las tres secciones.
 
+### Contexto
+
+El texto fuente es un discurso oral que dio la presidenta el 3 de febrero de 2025 sobre negociaciones con el presidente Trump sobre sus propuestos aranceles. 
+
+> **Mira el video:** [Pausa en aranceles tras acuerdos con Estados Unidos. Conferencia presidenta Sheinbaum](https://www.youtube.com/watch?v=HjpUnuo2Kpg)
+
+Para aprender más sobre este asunto, pueden empezar leyendo esto artículos:
+
+- [2025 United States trade war with Canada and Mexico](https://en.wikipedia.org/wiki/2025_United_States_trade_war_with_Canada_and_Mexico) de Wikipedia
+- [Presidential 2025 Tariff Actions: Timeline and Status](https://www.congress.gov/crs_external_products/R/PDF/R48549/R48549.9.pdf) via Congress.gov
+- [No es con amenazas ni con aranceles como se va a atender el fenómeno migratorio ni el consumo de drogas en EUA: Presidenta Claudia Sheinbaum](https://www.gob.mx/presidencia/prensa/no-es-con-amenazas-ni-con-aranceles-como-se-va-a-atender-el-fenomeno-migratorio-ni-el-consumo-de-drogas-en-eua-presidenta-claudia-sheinbaum) via Gob.mx
+
 ### El desafío de este proyecto
 
 El texto fuente es una transcripción de discurso oral de una jefa de estado. Su traducción debe:
@@ -30,12 +42,16 @@ El texto fuente es una transcripción de discurso oral de una jefa de estado. Su
 
 **[Texto 7: Conferencia de Prensa - Presidente Sheinbaum sobre Aranceles](./texto7-conferencia-sheinbaum-aranceles.md)**
 
-**Nota:** Pueden ver el texto completo en esta página, pero se les asignará una sección específica para traducir en Lilt.
+**Nota:** Pueden ver el texto completo con que van a trabajar en esta página, pero se les asignará una sección específica para traducir en Lilt. Este texto es una selección del discurso en completo.
 
 ## Trabajo en Lilt
 
 ### Selección de secciones
-Cada equipo dividirá el texto en tres secciones aproximadamente iguales. Cada integrante traducirá una sección completa.
+Cada integrante traducirá una sección completa entre estas tres secciones:
+
+1. Declaración Inicial
+2. Comentarios y Declaraciones sobre temas en específico
+3. Sesión de Preguntas y Respuestas
 
 ### Entrenamiento del modelo
 Su equipo tendrá acceso a un modelo de Lilt que aprenderá de sus traducciones. A medida que traduzcan, el modelo se adaptará a sus decisiones terminológicas y estilísticas, lo cual es crucial para mantener consistencia.
@@ -74,7 +90,7 @@ Archivo Excel (.xlsx) con términos políticos/económicos clave:
 
 **Mínimo:** 8-10 términos
 
-**Nombre del archivo:** `Apellido1_Apellido2_Apellido3_Glosario-Discurso-Politico.xlsx`
+**Nombre del archivo:** `Apellido1_Apellido2_Apellido3_Conferencia-Politica-Glosario.xlsx`
 
 ### 3. Documentación del proceso
 Archivo Word (.docx) con:
@@ -100,7 +116,7 @@ Nombres y secciones asignadas a cada integrante
 - Decisiones clave sobre registro y tono
 - Aprendizajes sobre traducción colaborativa
 
-**Nombre del archivo:** `Apellido1_Apellido2_Apellido3_Reflexion-Discurso-Politico.docx`
+**Nombre del archivo:** `Apellido1_Apellido2_Apellido3_Conferencia-Politica-Reflexion.docx`
 
 ## Criterios de evaluación
 
