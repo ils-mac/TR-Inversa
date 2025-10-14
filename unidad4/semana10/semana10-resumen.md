@@ -10,13 +10,13 @@ has_children: true
 
 ## Resumen
 
-Esta semana nos enfocamos en la traducción de textos especializados del ámbito comercial, específicamente tratados comerciales entre México y Estados Unidos. También llevaremos a cabo la segunda evaluación parcial del curso, aplicando las competencias desarrolladas hasta este punto en un trabajo cronometrado.
+Esta semana nos enfocamos en la traducción de textos especializados del ámbito comercial, específicamente tratados comerciales entre México y Estados Unidos. También llevaremos a cabo la traducción de un discurso de la Presidenta Claudia Sheinbaum.
 
 ## Temas Cubiertos
 
 ### Subtemas
+- **La historia de relaciones** entre México y los Estados Unidos
 - **La traducción de textos especializados**: Enfoque en el área de tratados comerciales México-Estados Unidos
-- **Evaluación parcial 2**: Requisitos y metodología para el trabajo cronometrado
 
 ## Actividades en Clase
 
@@ -28,19 +28,17 @@ Esta semana nos enfocamos en la traducción de textos especializados del ámbito
 ## Actividades Independientes
 
 ### Tarea Asignada
-- **Evaluación parcial 2: Finalización de Texto 7 - Tratados comerciales** (10 puntos)
+- **Finalización de Texto 7 - Tratados comerciales**
 - **Fecha de entrega**: Domingo, 19 de octubre
 
 ## Recursos para el Aprendizaje
 
 - Presentación sobre la traducción de tratados comerciales
-- Haywood, Thompson and Hervey (2009): "Legal and financial translation." *Thinking Spanish Translation*. Pgs. 228-242
-- Corpus bilingüe sobre los tratados comerciales México-Estados Unidos
 
 ## Evaluación
 
 - **Asistencia y participación** (2 puntos)
-- **Evaluación parcial 2 - Texto 7 - Tratados comerciales** (10 puntos)
+- **Texto 7 - Tratados comerciales** (3 puntos)
 
 ---
 
