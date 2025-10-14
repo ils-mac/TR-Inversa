@@ -8,8 +8,6 @@ nav_order: 4
 
 # Pausa en aranceles tras acuerdos con Estados Unidos: Conferencia de la Presidenta Sheinbaum
 
-**Conferencia matutina de la Presidenta Claudia Sheinbaum Pardo sobre acuerdos bilaterales en materia de seguridad y comercio**
-
 ## Declaración Inicial
 
 Buenos días. Siéntense por favor. Está el equipo conmigo porque realmente esta es una labor del gabinete, de todo el equipo de seguridad, de economía, Hacienda, gobernación. Todos somos un gran equipo. La verdad es que me siento no solo apoyada sino que hemos logrado construir realmente un gran equipo en el gabinete.
