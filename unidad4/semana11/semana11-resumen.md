@@ -6,7 +6,7 @@ nav_order: 2
 has_children: true
 ---
 
-# Semana 11: Elementos Pragmáticos y Contraste Metodológico
+# Semana 11: Contraste Pragmático y Evaluación Parcial
 
 ## Resumen
 
