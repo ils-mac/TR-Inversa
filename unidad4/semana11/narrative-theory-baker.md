@@ -112,4 +112,4 @@ Para profundizar en tu comprensión de la teoría narrativa aplicada a la traduc
 
 ---
 
-**Siguiente:** [Proyecto Texto 8: Traducción de Publicaciones Oficiales y Noticieras](./proyecto-texto8.md)
+**Siguiente:** [Equivalencia Pragmática en la Traducción](./pragmatica-baker.md)
