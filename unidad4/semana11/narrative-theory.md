@@ -37,3 +37,8 @@ To learn more about Baker's research, you can consult her [personal website](htt
 
 ## Narrative Theory of U.S./Mexico Military 
 
+
+
+## Reflection
+
+- What are narratives of México and the United States that you are conscious of that are parts of your biased perspective of the two countries? Which of these narratives are true? Which of them are false? Where do you think you got the ideas you have on México and the United States as individual countries and as two countries that are highly interdependent and have a lot of history?
