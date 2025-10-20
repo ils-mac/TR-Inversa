@@ -142,11 +142,8 @@ La iniciativa **fue aprobada con 107 votos** de todas las fracciones parlamentar
 ## Temas
 
 Claudia Sheinbaum
-
 Estados Unidos
-
 Senado
-
 Semar
 
 **Fuente:** https://www.informador.mx/mexico/Senado-aprueba-por-unanimidad-la-entrada-de-marines-de-EU-para-capacitar-a-la-Semar-20250211-0139.html
