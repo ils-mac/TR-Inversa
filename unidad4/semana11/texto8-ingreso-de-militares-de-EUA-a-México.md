@@ -62,7 +62,7 @@ Poder Ejecutivo / PRESIDENCIA DE LA REPUBLICA
 
 **DECRETO por el que se concede autorización a la Presidenta de los Estados Unidos Mexicanos, para que permita el ingreso a territorio nacional de 10 (diez) elementos militares del Ejército de los Estados Unidos de América, a efecto de que participen en la actividad de adiestramiento denominado "Fortalecer la Capacidad de las Fuerzas de Operaciones Especiales de la SEMAR", a realizarse en el Centro de Capacitación y Adiestramiento Especializado de Infantería de Marina con sede en San Luis Carpizo, Campeche, del 17 de febrero al 28 de marzo de 2025.**
 
-**Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.**
+**Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos. - Presidencia de la República.**
 
 **CLAUDIA SHEINBAUM PARDO**, Presidenta de los Estados Unidos Mexicanos, a sus habitantes sabed:
 
