@@ -12,10 +12,10 @@ nav_order: 4
 
 [SELLO: ESTADOS UNIDOS MEXICANOS - PRESIDENCIA DE LA REPÚBLICA]
 
-JOSÉ GERARDO RODOLFO FERNÁNDEZ NOROÑA 
-PRESIDENTE DE LA MESA DIRECTIVA 
-DE LA CÁMARA DE SENADORES DEL 
-H. CONGRESO DE LA UNIÓN
+JOSÉ GERARDO RODOLFO FERNÁNDEZ NOROÑA<br> 
+PRESIDENTE DE LA MESA DIRECTIVA<br>
+DE LA CÁMARA DE SENADORES DEL<br>
+H. CONGRESO DE LA UNIÓN<br>
 
 El artículo 76, fracción III, de la Constitución Política de los Estados Unidos Mexicanos dispone que es facultad exclusiva del Senado de la República autorizar al Ejecutivo Federal para que permita el paso de tropas extranjeras por el territorio nacional.
 
