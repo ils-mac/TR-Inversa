@@ -35,10 +35,60 @@ To learn more about Baker's research, you can consult her [personal website](htt
 - "[Origins III – Narrative Theory](https://translatingchavez.locessentials.com/origins-iii-narrative-theory)" from A. Brandt's blog on her master's thesis: Translating Chávez: Telling Stories of the Storyteller
 - Mona Baker's book [Translation and Conflict: A narrative account](https://www.routledge.com/Translation-and-Conflict-A-narrative-account/Baker/p/book/9781138600447?source=igodigital)
 
-## Narrative Theory of U.S./Mexico Military 
+## Narrative Theory and U.S./Mexico Relations 
 
+This week you'll be working in a team to translate content about the ingreso de militares de los EUA a México. About half of the content you'll translate comes from the *[Diario Oficial de la Federación](https://sidof.segob.gob.mx/busqueda/Estados%20Unidos%20de%20América)* de México, a publication in which [description of publication]. A search of "Estados Unidos de América" in the *Diario Oficial* yields 8860 results since 1943 and 85 results in 2025. 
 
+GAI analysis of the 85 results from 2025 yields the following themes and patterns from the publications.
+
+### Economic and Trade Relations
+
+- **Border Economic Integration:** The most dominant pattern is weekly publication of gasoline tax incentives for the northern border region with the United States. This appears 52 times throughout the year, showing sustained governmental attention to cross-border economic competitiveness and supporting border communities.
+- **Sugar Export Management:** Regular notices about sugar export quotas to the U.S. appear multiple times, reflecting the managed trade relationship under bilateral agreements and the importance of the U.S. market for Mexican agricultural exports.
+- **Trade Defense Mechanisms:** Several anti-dumping investigations and compensatory duty reviews target U.S. imports (aluminum profiles, PVC homopolymer, caustic soda, chicken legs/thighs, epoxidized soybean oil, ammonium sulfate, carbon steel tubing). This demonstrates Mexico's active use of trade remedies to protect domestic industries from perceived unfair U.S. competition.
+
+### Financial Integration
+
+- Monthly currency equivalency publications and quarterly cost of capture rates for dollar-denominated liabilities show the deep financial interconnection between the two economies and the dollar's central role in Mexican finance.
+
+### Military and Security Cooperation
+
+- Despite political tensions, there's extensive military collaboration: joint training exercises, U.S. military personnel entering Mexico for training activities, Mexican forces traveling to the U.S. for competitions and exercises, and bilateral amphibious exercises. This reveals institutional military-to-military ties that transcend political rhetoric.
+
+### Governance and Administrative Matters
+
+- The September publication about USMCA review procedures and opportunities for public comment shows ongoing attention to the treaty framework governing the relationship.
+- A July agreement on simplified procedures for repatriated Mexicans bringing household goods from the U.S. acknowledges return migration patterns.
+
+### Overall Pattern
+
+These publications reveal a relationship characterized by deep, routine institutional integration—economic, financial, and military—that operates independently of political discourse. The sheer volume of weekly border economic measures suggests the northern border functions as a distinct economic zone requiring continuous governmental attention.
+
+### Discussion
+
+[1 single really big discussion question or 2-3 smaller disucssion questions that relates the above themes to narrative theory]
 
 ## Reflection
 
+As you work through the course contents for this week, reflect on:
+
 - What are narratives of México and the United States that you are conscious of that are parts of your biased perspective of the two countries? Which of these narratives are true? Which of them are false? Where do you think you got the ideas you have on México and the United States as individual countries and as two countries that are highly interdependent and have a lot of history?
+- [Reflection Q]
+- [Reflection Q]
+
+## 📥 Descarga esta Actividad
+
+Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad4/semana11/narrative-theory.md) y descárgalo.
+
+Para profundizar en tu comprensión de los sistemas de gestión de calidad de traducción, prueba estos prompts con tu herramienta de IAG preferida:
+
+- "Lorem ipsum..."
+- "Lorem ipsum..."
+- "Lorem ipsum..."
+- "Lorem ipsum..."
+- "Lorem ipsum..."
+- "Lorem ipsum..."
+
+---
+
+**Siguiente:** [Proyecto Texto 8: Traducción de Publicaciones Oficiales y Noticieras](./proyecto-texto8.md)
