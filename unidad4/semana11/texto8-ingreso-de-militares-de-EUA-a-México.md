@@ -95,6 +95,63 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 ---
 ## Document 3 - Noticia 1
 
+# INFORMADOR.MX
+
+## ÚLTIMAS NOTICIAS
+
+# Senado aprueba por unanimidad la entrada de marines de EU para capacitar a la Semar
+
+**El Senado aprobó la solicitud de ingreso de 10 elementos del ejército de Estados Unidos**
+
+Por: SUN.
+
+11 de febrero de 2025 - 16:02 hs
+
+![Elemento de la Marina detiene a personas con las manos levantadas durante un operativo en zona boscosa](https://raw.githubusercontent.com/alainamb/uic_tr18-trad-inversa-es-en/main/unidad4/semana11/imagenes/Sun_noticia1.png)
+
+Semar autorizó la propuesta con 107 votos de todas las fracciones parlamentarias. SUN/ARCHIVO
+
+Con un voto unánime, la Presidenta Claudia Sheinbaum Pardo obtuvo la autorización del Pleno del Senado para conceder el ingreso de 10 elementos del ejército estadounidense al territorio mexicano, con el propósito de participar en las actividades de adiestramiento denominadas para "Fortalecer la capacidad de las fuerzas de operaciones especiales de la Semar (Secretaría de Marina)".
+
+**Te puede interesar: México no descarta espionaje de aviones de Estados Unidos**
+
+Esta capacitación tendrá como duración del día 17 de febrero al 28 de marzo del presente año, y será en el Centro de Capacitación y Adiestramiento Especializado de Infantería de Marina, con sede en San Luis Carpizo, Campeche.
+
+Lilly Téllez, senadora del PAN, mencionó, en tribuna, que este tipo de actividades internacionales "nos recuerda cómo sí se puede cooperar entre ambas fuerzas militares, las estadounidenses y las mexicanas".
+
+"Como vemos no hay invasión de México porque vengan fuerzas estadounidenses a cooperar con las mexicanas, no hay invasión, no hay ninguna violación a la soberanía, la patria no se vendió, la patria no se sometió porque constantemente haya esta cooperación entre fuerzas estadounidenses y fuerzas mexicanas.
+
+"¿Por qué entonces no aceptar la cooperación con Estados Unidos para proceder contra los cárteles en México?, ¿por qué no aceptarlo bajo un convenio de cooperación en un marco legal como está sucediendo y como ha sucedido en todos estos años cuando se realizan este tipo de ejercicios que hoy autorizamos?", cuestionó.
+
+Aseguró que no sólo **no habría violación a nuestra soberanía con una colaboración con Estados Unidos** contra los cárteles, sino que se podrían salvar la vida de los mexicanos "que Morena ha dejado indefensos ante la guerra del crimen organizado contra los ciudadanos. Así vemos que sí está claro que se puede cooperar sin sometimiento", insistió.
+
+## El Estado mexicano no puede contra los cárteles
+
+Lili Téllez dijo que la realidad es que el Estado mexicano no puede contra los cárteles, porque de lo contrario ya hubiera procedido.
+
+Al presentar el proyecto de Decreto, el senador del PRI Rolando Zapata Bello, secretario de la Comisión de Marina, afirmó que la colaboración con Estados Unidos para entrenar a personal de la Armada de México representa una oportunidad significativa para fortalecer nuestra seguridad nacional.
+
+Aseguró que el proyecto ha sido analizado con detenimiento para **garantizar que preserve nuestra soberanía y refuerce nuestras capacidades nacionales**.
+
+"El entrenamiento conjunto con las Fuerzas Armadas de Estados Unidos puede fortalecer nuestras capacidades de combate, rescate, navegación y manejo de equipos tácticos, impulsando el profesionalismo y la eficiencia de nuestra Armada para responder mejor ante las amenazas crecientes que acechan al país", argumentó el exgobernador de Yucatán.
+
+**Lee: La FGR da fuerte golpe al tráfico de fentanilo**
+
+"Damos la bienvenida a la colaboración con los Estados Unidos como aliados estratégicos, conscientes del potencial de esa colaboración. No obstante, reitero: su éxito dependerá de una gestión cuidadosa que garantice el fortalecimiento de nuestra soberanía y nuestros principios democráticos de gobierno. Debemos siempre asegurar que estos esfuerzos hagan a México más fuerte y mejor preparado para defender a la patria, para garantizar la libertad y la pluralidad de nuestra tierra", apuntó Zapata Bello.
+
+La iniciativa **fue aprobada con 107 votos** de todas las fracciones parlamentarias.
+
+## Temas
+
+Claudia Sheinbaum
+
+Estados Unidos
+
+Senado
+
+Semar
+
+**Fuente:** https://www.informador.mx/mexico/Senado-aprueba-por-unanimidad-la-entrada-de-marines-de-EU-para-capacitar-a-la-Semar-20250211-0139.html
 
 ---
 ## Document 4 - Noticia 2
