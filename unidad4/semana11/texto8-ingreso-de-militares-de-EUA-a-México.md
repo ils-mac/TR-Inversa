@@ -95,11 +95,9 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 ---
 ## Document 3 - Noticia 1
 
-# INFORMADOR.MX
+### INFORMADOR.MX | ÚLTIMAS NOTICIAS
 
-## ÚLTIMAS NOTICIAS
-
-# Senado aprueba por unanimidad la entrada de marines de EU para capacitar a la Semar
+### Senado aprueba por unanimidad la entrada de marines de EU para capacitar a la Semar
 
 **El Senado aprobó la solicitud de ingreso de 10 elementos del ejército de Estados Unidos**
 
@@ -107,11 +105,10 @@ Por: SUN.
 
 11 de febrero de 2025 - 16:02 hs
 
-![Elemento de la Marina detiene a personas con las manos levantadas durante un operativo en zona boscosa](https://raw.githubusercontent.com/alainamb/uic_tr18-trad-inversa-es-en/main/unidad4/semana11/imagenes/Sun_noticia1.png)
+![Elemento de la Marina detiene a personas con las manos levantadas durante un operativo en zona boscosa](https://raw.githubusercontent.com/alainamb/uic_tr18-trad-inversa-es-en/main/unidad4/semana11/imagenes/Sun_noticia1-image.png)
+<small>Semar autorizó la propuesta con 107 votos de todas las fracciones parlamentarias. SUN/ARCHIVO</small>
 
-Semar autorizó la propuesta con 107 votos de todas las fracciones parlamentarias. SUN/ARCHIVO
-
-Con un voto unánime, la Presidenta Claudia Sheinbaum Pardo obtuvo la autorización del Pleno del Senado para conceder el ingreso de 10 elementos del ejército estadounidense al territorio mexicano, con el propósito de participar en las actividades de adiestramiento denominadas para "Fortalecer la capacidad de las fuerzas de operaciones especiales de la Semar (Secretaría de Marina)".
+Con un voto unánime, la Presidenta Claudia Sheinbaum Pardo obtuvo la *autorización del Pleno del Senado para conceder el ingreso de 10 elementos del ejército estadounidense al territorio mexicano*, con el propósito de participar en las actividades de adiestramiento denominadas para "Fortalecer la capacidad de las fuerzas de operaciones especiales de la Semar (Secretaría de Marina)".
 
 **Te puede interesar: México no descarta espionaje de aviones de Estados Unidos**
 
