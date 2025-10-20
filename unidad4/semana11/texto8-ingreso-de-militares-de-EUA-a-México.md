@@ -107,7 +107,7 @@ Por: SUN.
 
 ![Elemento de la Marina detiene a personas con las manos levantadas durante un operativo en zona boscosa](https://raw.githubusercontent.com/alainamb/uic_tr18-trad-inversa-es-en/main/unidad4/semana11/imagenes/Sun_noticia1-image.png)
 
-Semar autorizó la propuesta con 107 votos de todas las fracciones parlamentarias. SUN/ARCHIVO
+<small>Semar autorizó la propuesta con 107 votos de todas las fracciones parlamentarias. SUN/ARCHIVO</small>
 
 Con un voto unánime, la Presidenta Claudia Sheinbaum Pardo obtuvo la *autorización del Pleno del Senado para conceder el ingreso de 10 elementos del ejército estadounidense al territorio mexicano*, con el propósito de participar en las actividades de adiestramiento denominadas para "Fortalecer la capacidad de las fuerzas de operaciones especiales de la Semar (Secretaría de Marina)".
 
@@ -141,10 +141,10 @@ La iniciativa **fue aprobada con 107 votos** de todas las fracciones parlamentar
 
 ## Temas
 
-Claudia Sheinbaum
-Estados Unidos
-Senado
-Semar
+Claudia Sheinbaum<br>
+Estados Unidos<br>
+Senado<br>
+Semar<br>
 
 **Fuente:** https://www.informador.mx/mexico/Senado-aprueba-por-unanimidad-la-entrada-de-marines-de-EU-para-capacitar-a-la-Semar-20250211-0139.html
 
