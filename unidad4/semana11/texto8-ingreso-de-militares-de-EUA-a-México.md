@@ -106,13 +106,14 @@ Por: SUN.
 11 de febrero de 2025 - 16:02 hs
 
 ![Elemento de la Marina detiene a personas con las manos levantadas durante un operativo en zona boscosa](https://raw.githubusercontent.com/alainamb/uic_tr18-trad-inversa-es-en/main/unidad4/semana11/imagenes/Sun_noticia1-image.png)
-<small>Semar autorizó la propuesta con 107 votos de todas las fracciones parlamentarias. SUN/ARCHIVO</small>
+
+Semar autorizó la propuesta con 107 votos de todas las fracciones parlamentarias. SUN/ARCHIVO
 
 Con un voto unánime, la Presidenta Claudia Sheinbaum Pardo obtuvo la *autorización del Pleno del Senado para conceder el ingreso de 10 elementos del ejército estadounidense al territorio mexicano*, con el propósito de participar en las actividades de adiestramiento denominadas para "Fortalecer la capacidad de las fuerzas de operaciones especiales de la Semar (Secretaría de Marina)".
 
 **Te puede interesar: México no descarta espionaje de aviones de Estados Unidos**
 
-Esta capacitación tendrá como duración del día 17 de febrero al 28 de marzo del presente año, y será en el Centro de Capacitación y Adiestramiento Especializado de Infantería de Marina, con sede en San Luis Carpizo, Campeche.
+Esta capacitación tendrá como duración del día *17 de febrero al 28 de marzo del presente año*, y será en el Centro de Capacitación y Adiestramiento Especializado de Infantería de Marina, con sede en 8San Luis Carpizo, Campeche8.
 
 Lilly Téllez, senadora del PAN, mencionó, en tribuna, que este tipo de actividades internacionales "nos recuerda cómo sí se puede cooperar entre ambas fuerzas militares, las estadounidenses y las mexicanas".
 
@@ -124,7 +125,7 @@ Aseguró que no sólo **no habría violación a nuestra soberanía con una colab
 
 ## El Estado mexicano no puede contra los cárteles
 
-Lili Téllez dijo que la realidad es que el Estado mexicano no puede contra los cárteles, porque de lo contrario ya hubiera procedido.
+Lili Téllez dijo que la realidad es que *el Estado mexicano no puede contra los cárteles*, porque de lo contrario ya hubiera procedido.
 
 Al presentar el proyecto de Decreto, el senador del PRI Rolando Zapata Bello, secretario de la Comisión de Marina, afirmó que la colaboración con Estados Unidos para entrenar a personal de la Armada de México representa una oportunidad significativa para fortalecer nuestra seguridad nacional.
 
