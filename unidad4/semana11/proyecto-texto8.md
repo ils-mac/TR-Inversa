@@ -3,7 +3,7 @@ layout: default
 title: Proyecto Texto 8 - Ingreso de Militares de EUA a México (Segunda evaluación parcial)
 parent: Semana 11
 grand_parent: Unidad 4
-nav_order: 5
+nav_order: 3
 ---
 
 # Proyecto Texto 8: Traducción de Publicaciones Oficiales y Noticieras - Ingreso de Militares de EUA a México (Segunda evaluación parcial)
