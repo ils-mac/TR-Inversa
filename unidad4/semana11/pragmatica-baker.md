@@ -20,9 +20,9 @@ Mientras lees, considera cómo los conceptos que Baker presenta—cohesión, coh
 
 ## Preguntas para Discusión
 
-Responde las siguientes preguntas basándote en tu lectura del capítulo de Baker. Discutiremos tus respuestas en clase. Puedes descargar una versión en Word de este cuestionario desde Teams para trabajar directamente en el documento.
+**Indicaciones:** Trabaja de manera individual o en equipo pequeño para responder a las siguientes preguntas basándote en tu lectura del capítulo “Pragmatic Equivalence” de Baker. Tus respuestas deben demostrar comprensión de los conceptos de Baker y tu capacidad para aplicarlos a situaciones de traducción reales. Discutiremos tus respuestas en clase. 
 
-**Instrucciones:** Trabaja de manera individual o en equipo pequeño para responder estas preguntas. Tus respuestas deben demostrar comprensión de los conceptos de Baker y tu capacidad para aplicarlos a situaciones de traducción reales.
+Puedes descargar una versión en Word de este cuestionario desde Teams para trabajar directamente en el documento.
 
 ### 1. Pragmática y Traducción
 ¿Qué es la pragmática? ¿Cómo se relaciona con la traducción y la localización?
