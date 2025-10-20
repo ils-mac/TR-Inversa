@@ -150,3 +150,44 @@ Semar<br>
 
 ---
 ## Document 4 - Noticia 2
+
+### El Heraldo de Saltillo | MÉXICO
+
+### Ya es oficial el ingreso de militares estadounidenses para adiestramiento de elementos de la Marina
+
+Por Agencias - 17 febrero, 2025
+
+![Personal militar resguarda una zona con vehículos oficiales mientras se forma en línea durante un operativo de seguridad](https://raw.githubusercontent.com/alainamb/uic_tr18-trad-inversa-es-en/main/unidad4/semana11/imagenes/Agencias_noticia2-image.png)
+
+<small>Se suma Marina a operativo de Semana Santa</small>
+
+**Ciudad de México.-** Este 17 de febrero se publicó en el Diario Oficial de la Federación (DOF) el decreto con el que se autoriza el ingreso de militares estadounidenses a México con el objetivo de adiestrar a elementos de operaciones especiales de la Secretaría de Marina (Semar).
+
+Su presencia en México, según se lee en el documento, tiene como propósito participar en el ejercicio de adiestramiento denominado "Fortalecer la Capacidad de las Fuerzas de Operaciones Especiales de la SEMAR", el cual se llevará a cabo en el Centro de Capacitación y Adiestramiento Especializado de Infantería de Marina, ubicado en San Luis Carpizo, Campeche, del 17 de febrero al 28 de marzo de 2025.
+
+El decreto fue aprobado por la Cámara de Senadores en ejercicio de la facultad que le otorga el artículo 76, fracción III, de la Constitución Política de los Estados Unidos Mexicanos, y posteriormente promulgado por la Presidenta Claudia Sheinbaum Pardo.
+
+El documento instruye, además, a la Secretaría de Marina para que, una vez finalizado el adiestramiento, presente un informe a la Cámara de Senadores sobre los resultados del ejercicio.
+
+Dicha autorización se enmarca dentro de los procedimientos establecidos en la Constitución y en la legislación vigente, que exige la aprobación del Senado para permitir la presencia temporal de fuerzas militares extranjeras en el país. La actividad de adiestramiento responde a los acuerdos de cooperación en materia de seguridad y defensa entre México y Estados Unidos.
+
+La autorización del ingreso de militares estadounidenses a México ocurre en un momento en el que la relación bilateral en materia de seguridad está marcada por dos factores clave: la presencia de vuelos de vigilancia de Estados Unidos cerca de territorio mexicano, así como el proceso en Washington para designar a varios cárteles mexicanos como organizaciones terroristas extranjeras (FTO, por sus siglas en inglés).
+
+El Departamento de Estado de Estados Unidos avanza en el proceso de designación de varios cárteles mexicanos como organizaciones terroristas extranjeras, lo que endurecería las sanciones contra estos grupos y ampliaría la capacidad de acción de las agencias de seguridad estadounidenses.
+
+El diario 'The New York Times' reveló que la lista incluiría seis cárteles mexicanos:
+
+- Cártel de Sinaloa (CDS)
+- Cártel Jalisco Nueva Generación (CJNG)
+- Cártel del Noreste
+- La Familia Michoacana
+- Cárteles Unidos
+- Cártel del Golfo (CDG)
+
+La medida se basa en una orden ejecutiva firmada por el presidente Donald Trump el pasado 20 de enero, la cual busca clasificar a estos grupos bajo la misma categoría que Al-Qaeda o el Estado Islámico (ISIS). Esta designación permitiría a Estados Unidos congelar sus activos, restringir su financiamiento y ampliar la jurisdicción de sus agencias de seguridad en la lucha contra el crimen organizado transnacional. (EL HERALDO)
+
+**Fuente:** [https://elheraldodesaltillo.mx/2025/02/17/ya-es-oficial-el-ingreso-de-militares-estadounidenses-para-adiestramiento-de-elementos-de-la-marina/](https://elheraldodesaltillo.mx/2025/02/17/ya-es-oficial-el-ingreso-de-militares-estadounidenses-para-adiestramiento-de-elementos-de-la-marina/)
+
+---
+
+*Estos textos han sido reunidos en una tarea de traducción en el ámbito de las relaciones internacionales entre México y Estados Unidos.*
