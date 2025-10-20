@@ -50,6 +50,45 @@ CLAUDIA SHEINBAUM PARDO
 ---
 ## Document 2 - Decreto
 
+# Diario Oficial de la Federación
+
+Poder Ejecutivo / PRESIDENCIA DE LA REPUBLICA
+
+**Publicado el:** 17-02-2025
+
+**Sección:** Unica
+
+**Edición:** Matutina
+
+**DECRETO por el que se concede autorización a la Presidenta de los Estados Unidos Mexicanos, para que permita el ingreso a territorio nacional de 10 (diez) elementos militares del Ejército de los Estados Unidos de América, a efecto de que participen en la actividad de adiestramiento denominado "Fortalecer la Capacidad de las Fuerzas de Operaciones Especiales de la SEMAR", a realizarse en el Centro de Capacitación y Adiestramiento Especializado de Infantería de Marina con sede en San Luis Carpizo, Campeche, del 17 de febrero al 28 de marzo de 2025.**
+
+**Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.**
+
+**CLAUDIA SHEINBAUM PARDO**, Presidenta de los Estados Unidos Mexicanos, a sus habitantes sabed:
+
+Que la Cámara de Senadores del Honorable Congreso de la Unión, se ha servido dirigirme el siguiente
+
+**DECRETO**
+
+"LA CÁMARA DE SENADORES DEL HONORABLE CONGRESO DE LA UNIÓN, EN EJERCICIO DE LA FACULTAD QUE LE CONFIERE EL ARTÍCULO 76, FRACCIÓN III DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS,
+
+**DECRETA:**
+
+**Primero.**- La Cámara de Senadores del Honorable Congreso de la Unión, en ejercicio de la facultad que le concede el artículo 76, fracción III, de la Constitución Política de los Estados Unidos Mexicanos, concede autorización a la Presidenta de los Estados Unidos Mexicanos, para que permita el ingreso a territorio nacional de 10 (diez) elementos militares del Ejército de los Estados Unidos de América, a efecto de que participen en la actividad de adiestramiento denominado "**Fortalecer la Capacidad de las Fuerzas de Operaciones Especiales de la SEMAR**", a realizarse en el Centro de Capacitación y Adiestramiento Especializado de Infantería de Marina con sede en San Luis Carpizo, Campeche, del 17 de febrero al 28 de marzo de 2025.
+
+**Segundo.**- Se solicita respetuosamente, a la Titular del Ejecutivo Federal instruya al Secretario de Marina, para que presente a esta Soberanía un informe sobre el resultado del ejercicio de adiestramiento.
+
+**Transitorios**
+
+**Primero.**- El presente Decreto entrará en vigor en el momento de su aprobación por la Cámara de Senadores.
+
+**Segundo.**- Publíquese en el Diario Oficial de la Federación.
+
+Ciudad de México, a 11 febrero de 2025.- Sen. Gerardo Fernández Noroña, Presidente.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de febrero de 2025.- **Claudia Sheinbaum Pardo**, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. **Rosa Icela Rodríguez Velázquez**, Secretaria de Gobernación.- Rúbrica.
+
+**Fuente:** https://sidof.segob.gob.mx/notas/5749329
 
 ---
 ## Document 3 - Noticia 1
