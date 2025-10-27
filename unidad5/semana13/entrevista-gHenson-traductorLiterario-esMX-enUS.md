@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Traducción Literaria
-parent: Entrevista con Dr. George Henson
+title: Entrevista con Dr. George Henson
+parent: Semana 13
 grand_parent: Unidad 5
 nav_order: 2
 ---
