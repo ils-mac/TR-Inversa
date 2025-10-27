@@ -8,7 +8,9 @@ nav_order: 1
 
 # ¿Qué tipo de traducción es?
 
-[Contenido]
+There's a lot of talk these days about how the issue of translation is solved by neural machine translation and generative AI. While professional practitioners may be aware of the idiocy of that stance, it is true that as translators, the machines are our competition. If we can't produce translations whose quality exceeds machine translation, we will quickly be replaced by automatic systems. For certain types of low risk content, we should be replaced. For medium and high risk content, we should also be able to distinguish between translations produced by both human and machines and say what makes the professionally produced human translation better.
+
+This exercise is designed to get you thinking more about this.
 
 ## "Un-Verified Translation" and "Professionally Verified Translation"
 
@@ -20,6 +22,15 @@ The ASTM F43 subcommittee that produces international standards on translation i
 | Professionally Verified Translation (PVT) | - A translation that has been verified by a practitioner who has the qualifications necessary to perform professional translation, regardless of if GAI, NMT were or were not used to produce an initial draft translation |
 
 In selecting the labels and defining them, the working group that is developing these labels were careful not to imply that human-produced content is inherently superior to machine translation. In fact, there are cases where MT would be preferred to having an unqualified human translator produce the translation. The concepts also reflect that professionals may or may not use MT to produce translations that are fit for purpose.
+
+## Actividad: ¿Qué tipo de traducción es?
+
+So what do you think? Can you distinguish between UVT and PVT from Spanish to English? Review the two translations below, and label them either UVT or PVT. Be sure to give a justification for your labels.
+
+**Discussion Prompts**
+
+1. Which translation is UVT and which is PVT?
+2. How can you tell? That is, what observable characteristics do each of the translations have that point to how they were produced?
 
 ## Texto Fuente: Comunicado por el Gobierno de México
 
@@ -98,7 +109,7 @@ into effect on August 1. In other words, Mexico is already in negotiations.
 
 ## Reflexión
 
-As you work through the materials on this page, please do the following reflection:
+As you work through the materials on this page, please reflect upon the following:
 
 1. 
 
