@@ -27,4 +27,4 @@ Para profundizar en tu comprensión de la teoría narrativa aplicada a la traduc
 
 ---
 
-**Siguiente:** [Entrevista con George Henson - Traductor Literario de ES-MX to EN-US](./entrevista-gHenson-traductorLiterario-esMX-enUS.md)
+**Siguiente:** [Entrevista con Dr. George Henson - Traductor Literario de ES-MX to EN-US](./entrevista-gHenson-traductorLiterario-esMX-enUS.md)
