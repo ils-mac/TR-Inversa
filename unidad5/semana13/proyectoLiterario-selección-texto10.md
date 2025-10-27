@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Traducción Literaria
-parent: Traducción Literaria - Selección del Texto Fuente
+title: Proyecto 10 - Selección del Texto Fuente
+parent: Semana 13
 grand_parent: Unidad 5
 nav_order: 4
 ---
