@@ -27,4 +27,4 @@ Para profundizar en tu comprensión de la teoría narrativa aplicada a la traduc
 
 ---
 
-**¡Semana 10 Completa!** La próxima semana exploraremos: [La Ética en la Traducción](../semana14/semana14-resumen.md)
+**¡Semana 13 Completa!** La próxima semana exploraremos: [La Ética en la Traducción](../semana14/semana14-resumen.md)
