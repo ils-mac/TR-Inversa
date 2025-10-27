@@ -14,7 +14,7 @@ nav_order: 1
 
 ## 📥 Descarga esta Actividad
 
-Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad5/semana13/traducción-literaria.md) y descárgalo.
+Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad5/semana13/entrevista-gHenson-traductorLiterario-esMX-enUS.md) y descárgalo.
 
 Para profundizar en tu comprensión de la teoría narrativa aplicada a la traducción, prueba estos prompts con tu herramienta de IAG preferida:
 
