@@ -154,4 +154,5 @@ Después comparte el contenido con tu herramienta de IAG preferida con uno de es
 
 ---
 
-**Siguiente:** [Posedición y Acuerdos Entre Evaluadores de la Calidad de las Traducciones](./posedición-y-acuerdos-entre-evaluadores.md)
+
+**Siguiente:** [La Posedición de Traducción Automática](./posedición-de-traducción-automática.md)
