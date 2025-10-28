@@ -84,7 +84,7 @@ Mexico is Negotiating with the United States to Safeguard Businesses and Jobs
 
 Secretary of Foreign Affairs | July 12, 2025 | Press Release
 
-On Thursday, July 11 a Mexican delegation from the Ministries of the Economy, Foreign Affairs, Finance,
+On Friday, July 11 a Mexican delegation from the Ministries of the Economy, Foreign Affairs, Finance,
 Public Security and Energy met with the U.S. Departments of State, Commerce and Energy, along with the
 National Security Council and the Office of the U.S. Trade Representative to establish a permanent binational
 roundtable for addressing key matters related to our relations. The roundtable was convened by the Department
