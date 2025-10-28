@@ -30,8 +30,6 @@ De manera individual o en grupo, selecciona una de las lecturas que presentan pe
 4. **Diversification into Machine Translation** por Alaina Brandt
 5. **"Machine-Translation Post editing"** capítulo de la publicación MT POST-EDITING GUIDELINES por TAUS
 
----
-
 ### Opción 1: ATA Position Paper
 
 **Enlace:** [ATA_OnMachineTranslation.pdf](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad4/semana12/referencias/ATA_OnMachineTranslation.pdf)
@@ -41,16 +39,12 @@ De manera individual o en grupo, selecciona una de las lecturas que presentan pe
 - ¿Son convincentes los argumentos presentados?
 - ¿Cómo podrían mejorarse los argumentos?
 
----
-
 ### Opción 2: Teaching Post-editing
 
 **Enlace:** [O-Brien_TeachingPostEditing.pdf](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad4/semana12/referencias/O-Brien_TeachingPostEditing.pdf)
 
 **Pregunta de Discusión:**
 - ¿En qué difiere la capacitación en PEMT de la capacitación en traducción tradicional?
-
----
 
 ### Opción 3: ISO 18587
 
@@ -60,8 +54,6 @@ De manera individual o en grupo, selecciona una de las lecturas que presentan pe
 - ¿Qué parámetros y requisitos establece ISO para la posedición de traducción automática?
 - ¿Qué competencias y calificaciones se requieren para realizar PEMT?
 
----
-
 ### Opción 4: Diversification into MT
 
 **Enlace:** [Brandt_DiversificationIntoMachineTranslation.pdf](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad4/semana12/referencias/Brandt_DiversificationIntoMachineTranslation.pdf)
@@ -69,8 +61,6 @@ De manera individual o en grupo, selecciona una de las lecturas que presentan pe
 **Preguntas de Discusión:**
 - Según el artículo, ¿qué tipos de trabajo relacionados con la traducción automática pueden realizar las traductoras y los traductores?
 - ¿Qué otros tipos de trabajo relacionados con la traducción automática, más allá de los mencionados en el artículo, pueden realizar las personas dedicadas a la traducción?
-
----
 
 ### Opción 5: TAUS Guidelines
 
