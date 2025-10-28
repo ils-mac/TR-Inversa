@@ -1,14 +1,15 @@
 ---
 layout: default
-title: Posedición y Acuerdos Entre Evaluadores
+title: La Posedición de Traducción Automática
 parent: Semana 12
 grand_parent: Unidad 4
 nav_order: 2
 ---
 
-# Posedición y Acuerdos Entre Evaluadores de la Calidad de las Traducciones
+# La Posedición de Traducción Automática
 
 [Contenido]
+
 
 ---
 
