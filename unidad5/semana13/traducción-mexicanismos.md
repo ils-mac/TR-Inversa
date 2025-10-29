@@ -1,11 +1,3 @@
----
-layout: default
-title: La Traducción de Mexicanismos
-parent: Semana 13
-grand_parent: Unidad 5
-nav_order: 3
----
-
 # La Traducción de Mexicanismos
 
 [Contenido]
