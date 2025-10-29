@@ -21,10 +21,6 @@ La entrevista fue grabada el 3 de abril de 2025.
 
 > Ve la entrevista (en inglés): [Dr. George Henson on Mexican Literary Translation from Spanish to English](https://youtu.be/uLjwy65B9Pw?si=GofOq38tqY8A873F)
 
-I'll create a discussion/reflection questions section in Spanish for your wiki page based on the interview transcript. I'll use inclusive language and make the questions thought-provoking for translation students.
-
----
-
 ## Preguntas de Reflexión y Discusión
 
 Después de ver la entrevista con el Dr. George Henson, considera las siguientes preguntas. Puedes responderlas por escrito, discutirlas en clase, o usarlas como punto de partida para explorar más a fondo los temas tratados.
