@@ -45,7 +45,7 @@ CLAUDIA SHEINBAUM PARDO
 
 [SELLO: ESTADOS UNIDOS MEXICANOS]
 
-**Fuente:** https://sil.gobernacion.gob.mx/Archivos/Documentos/2025/01/asun_4828744_20250121_1737481302.pdf
+**Fuente:** [https://sil.gobernacion.gob.mx/Archivos/Documentos/2025/01/asun_4828744_20250121_1737481302.pdf](https://sil.gobernacion.gob.mx/Archivos/Documentos/2025/01/asun_4828744_20250121_1737481302.pdf)
 
 ---
 ## Document 2 - Decreto
@@ -60,7 +60,7 @@ Poder Ejecutivo / PRESIDENCIA DE LA REPUBLICA
 
 **Edición:** Matutina
 
-**Publicado el: 17-02-2025**
+**Publicado el:** 17-02-2025
 
 **DECRETO por el que se concede autorización a la Presidenta de los Estados Unidos Mexicanos, para que permita el ingreso a territorio nacional de 10 (diez) elementos militares del Ejército de los Estados Unidos de América, a efecto de que participen en la actividad de adiestramiento denominado "Fortalecer la Capacidad de las Fuerzas de Operaciones Especiales de la SEMAR", a realizarse en el Centro de Capacitación y Adiestramiento Especializado de Infantería de Marina con sede en San Luis Carpizo, Campeche, del 17 de febrero al 28 de marzo de 2025.**
 
@@ -90,7 +90,7 @@ Ciudad de México, a 11 febrero de 2025.- Sen. Gerardo Fernández Noroña, Presi
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de febrero de 2025.- **Claudia Sheinbaum Pardo**, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. **Rosa Icela Rodríguez Velázquez**, Secretaria de Gobernación.- Rúbrica.
 
-**Fuente:** https://sidof.segob.gob.mx/notas/5749329
+**Fuente:** [https://sidof.segob.gob.mx/notas/5749329](https://sidof.segob.gob.mx/notas/5749329)
 
 ---
 ## Document 3 - Noticia 1
@@ -123,7 +123,7 @@ Lilly Téllez, senadora del PAN, mencionó, en tribuna, que este tipo de activid
 
 Aseguró que no sólo **no habría violación a nuestra soberanía con una colaboración con Estados Unidos** contra los cárteles, sino que se podrían salvar la vida de los mexicanos "que Morena ha dejado indefensos ante la guerra del crimen organizado contra los ciudadanos. Así vemos que sí está claro que se puede cooperar sin sometimiento", insistió.
 
-## El Estado mexicano no puede contra los cárteles
+#### El Estado mexicano no puede contra los cárteles
 
 Lili Téllez dijo que la realidad es que *el Estado mexicano no puede contra los cárteles*, porque de lo contrario ya hubiera procedido.
 
@@ -139,14 +139,14 @@ Aseguró que el proyecto ha sido analizado con detenimiento para **garantizar qu
 
 La iniciativa **fue aprobada con 107 votos** de todas las fracciones parlamentarias.
 
-## Temas
+#### Temas
 
 Claudia Sheinbaum<br>
 Estados Unidos<br>
 Senado<br>
 Semar<br>
 
-**Fuente:** https://www.informador.mx/mexico/Senado-aprueba-por-unanimidad-la-entrada-de-marines-de-EU-para-capacitar-a-la-Semar-20250211-0139.html
+**Fuente:** [https://www.informador.mx/mexico/Senado-aprueba-por-unanimidad-la-entrada-de-marines-de-EU-para-capacitar-a-la-Semar-20250211-0139.html](https://www.informador.mx/mexico/Senado-aprueba-por-unanimidad-la-entrada-de-marines-de-EU-para-capacitar-a-la-Semar-20250211-0139.html)
 
 ---
 ## Document 4 - Noticia 2
