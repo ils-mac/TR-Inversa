@@ -2,6 +2,8 @@
 
 [Contenido]
 
+[Are AI Models Advanced Enough to Translate Literature](https://themarkup.org/artificial-intelligence/2025/04/02/are-ai-models-advanced-enough-to-translate-literature-the-debate-is-roiling-publishing?trk=feed_main-feed-card_feed-article-content) by Anne Li
+
 ---
 
 ## 📥 Descarga esta Actividad
