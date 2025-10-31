@@ -22,11 +22,11 @@ Agredecimos recomendaciones de recursos que podemos añadir a la lista.
 
 ## Actividad 1: Ulises llama a Renata
 
-Ve el siguiente clip de Amarte duele (2002), la adaptación del director Fernando Sariñana de Romeo y Julieta de Shakespeare al México urbano contemporáneo. Como en la obra de Shakespeare, las barreras de clase social separan a los dos jóvenes enamorados. Aquí, Ulises le llama a Renata desde un teléfono público. Pon atención a los modismos y el lenguaje coloquial que usan los personajes y sus amigos. Más adelante vamos a analizar cómo traducir estas expresiones al inglés coloquial de Estados Unidos.
+Ve el siguiente clip de Amarte duele (2002), la adaptación del director Fernando Sariñana de Romeo y Julieta de Shakespeare al México urbano contemporáneo. Como en la obra de Shakespeare, las barreras de clase social separan a los dos jóvenes enamorados. Aquí, Ulises le llama a Renata desde un teléfono público. Pon atención a los modismos y el lenguaje coloquial que usan los personajes y sus amigos. Después vamos a analizar cómo traducir estas expresiones al inglés coloquial de Estados Unidos.
 
 ###  **Ve el clip:** [Ulises llama a Renata](https://youtube.com/clip/UgkxzhX04_rARcumLfVQdFZjbaAyPE4DZ2y8?si=DdXUsHv9cvfO6khM)
 
-### Sigue la transcripción ⤵︎
+### Lee la transcripción ⤵︎
 
 ```
 Renata: ¿Bueno?
