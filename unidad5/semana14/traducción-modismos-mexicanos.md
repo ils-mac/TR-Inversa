@@ -4,7 +4,7 @@ published: false
 
 # La Traducción de Modismos Mexicanos
 
-Como aprendimos en la [presentación introductoria](../../unidad1/semana1/presentacion-introductoria.md), "Más allá de los mexicanismos como las construcciones gramaticales y el uso de vocabulario general específico (p.ej. compu en vez de ordenador), son los [modismos mexicanos](https://unamglobal.unam.mx/global_revista/expresiones-mexicanas-significado-oculto-en-palabras-cotidianas) los que presentan un desafío único en la traducción."
+Como aprendimos en la [presentación introductoria](../../unidad1/semana1/presentacion-introductoria.md), "Más allá de los mexicanismos como las construcciones gramaticales y el uso de vocabulario general específico (p.ej. compu en vez de ordenador), son los [modismos mexicanos](https://unamglobal.unam.mx/global_revista/expresiones-mexicanas-significado-oculto-en-palabras-cotidianas) los que presentan un desafío único en la traducción." En esta lección, nos enfocaremos en la traducción de modismos.
 
 ## Actividad 1: Ulises llama a Renata
 
@@ -40,6 +40,20 @@ Hermana de Renata: An pues que mamona eh...
 ```
 
 ### Traduce el Contenido
+
+Al traducir el contenido al inglés estadounidense considera:
+
+1. **Transferencia de registro:** ¿Cómo mantienes el registro informal y juvenil en inglés?
+   * "güey" → "dude," "bro," "man"?
+
+2. **Marcadores de clase social:** El contexto de clase alta de Renata vs. el contexto de clase trabajadora de Ulises
+   * ¿Se notan estas diferencias en el español coloquial? ¿Cómo las mostrarías en inglés?
+
+3. **Expresiones típicamente mexicanas:**
+   * "no manches" → ?
+   * "guey" → ?
+   * "qué oso" → ?
+   * "mamona" → ?
 
 ## Actividad 2
 
