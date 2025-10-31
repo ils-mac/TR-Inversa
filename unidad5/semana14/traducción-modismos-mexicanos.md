@@ -20,7 +20,7 @@ Antes de empezar con las actividades que tenemos aquí, vale la pena destacar al
 
 Agredecimos recomendaciones de recursos que podemos añadir a la lista.
 
-## Actividad 1: Ulises llama a Renata
+## Actividad 1: Ulises llama a Renata (Calentamiento)
 
 Ve el siguiente clip de Amarte duele (2002), la adaptación del director Fernando Sariñana de Romeo y Julieta de Shakespeare al México urbano contemporáneo. Como en la obra de Shakespeare, las barreras de clase social separan a los dos jóvenes enamorados. Aquí, Ulises le llama a Renata desde un teléfono público. Pon atención a los modismos y el lenguaje coloquial que usan los personajes y sus amigos. Después vamos a analizar cómo traducir estas expresiones al inglés coloquial de Estados Unidos.
 
@@ -73,7 +73,7 @@ Al traducir el contenido al inglés estadounidense considera:
 
 [Contenido]
 
-## Tarea: Tu Propio Proyecto
+## Actividad 3: Tu Propio Proyecto
 
 [Contenido]
 
