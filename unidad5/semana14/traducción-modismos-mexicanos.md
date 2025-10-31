@@ -6,6 +6,20 @@ published: false
 
 Como aprendimos en la [presentación introductoria](../../unidad1/semana1/presentacion-introductoria.md), "Más allá de los mexicanismos como las construcciones gramaticales y el uso de vocabulario general específico (p.ej. compu en vez de ordenador), son los [modismos mexicanos](https://unamglobal.unam.mx/global_revista/expresiones-mexicanas-significado-oculto-en-palabras-cotidianas) los que presentan un desafío único en la traducción." En esta lección, nos enfocaremos en la traducción de modismos.
 
+## Recursos Lingüísticos
+
+Antes de empezar con las actividades que tenemos aquí, vale la pena destacar algunos de los recursos disponibles a los que podemos consultar al enfrentarnos al reto de traducir los modismos.
+
+- [Diccionario del Español de México](https://dem.colmex.mx)
+- [Juegos verbales de la tradición popular mexicana](https://libros.colmex.mx/tienda/juegos-verbales-de-tradicion-popular-mexicana) por Dr. Erik Daniel Franco Trujillo
+- [Urban Dictionary](https://www.urbandictionary.com) - please use with caution as you may encounter racist and sexist language here
+- [The Student-Transcribed Corpus of Spoken American English](https://spokencorpus.org/index.php)
+- [Santa Barbara Corpus of Spoken American English](https://linguistics.ucsb.edu/research/santa-barbara-corpus-spoken-american-english#Contents)
+- [American National Corpus](https://anc.org/about)
+- Vidéos YouTube, hilos en Reddit, podcasts, etc. 
+
+Agredecimos recomendaciones de recursos que podemos añadir a la lista.
+
 ## Actividad 1: Ulises llama a Renata
 
 Ve el siguiente clip de Amarte duele (2002), la adaptación del director Fernando Sariñana de Romeo y Julieta de Shakespeare al México urbano contemporáneo. Como en la obra de Shakespeare, las barreras de clase social separan a los dos jóvenes enamorados. Aquí, Ulises le llama a Renata desde un teléfono público. Pon atención a los modismos y el lenguaje coloquial que usan los personajes y sus amigos. Más adelante vamos a analizar cómo traducir estas expresiones al inglés coloquial de Estados Unidos.
@@ -55,7 +69,11 @@ Al traducir el contenido al inglés estadounidense considera:
    * "qué oso" → ?
    * "mamona" → ?
 
-## Actividad 2
+## Actividad 2: Juegos Verbales
+
+[Contenido]
+
+## Tarea: Tu Propio Proyecto
 
 [Contenido]
 
@@ -68,15 +86,7 @@ Al traducir el contenido al inglés estadounidense considera:
 
 *Gracias a Dr. Erik Daniel Franco Trujillo por sugerir textos fuentes para esta lista.*
 
-## Recursos Lingüísticos
 
-- [Diccionario del Español de México](https://dem.colmex.mx)
-- [Juegos verbales de la tradición popular mexicana](https://libros.colmex.mx/tienda/juegos-verbales-de-tradicion-popular-mexicana) por Dr. Erik Daniel Franco Trujillo
-- [Urban Dictionary](https://www.urbandictionary.com) - please use with caution as you may encounter racist and sexist language here
-- [The Student-Transcribed Corpus of Spoken American English](https://spokencorpus.org/index.php)
-- [Santa Barbara Corpus of Spoken American English](https://linguistics.ucsb.edu/research/santa-barbara-corpus-spoken-american-english#Contents)
-- [American National Corpus](https://anc.org/about)
-- Vidéos YouTube, hilos en Reddit, podcasts, etc. 
 
 ---
 
