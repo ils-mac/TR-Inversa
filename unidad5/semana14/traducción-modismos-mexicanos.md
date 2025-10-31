@@ -6,7 +6,41 @@ published: false
 
 Como aprendimos en la [presentación introductoria](../../unidad1/semana1/presentacion-introductoria.md), "Más allá de los mexicanismos como las construcciones gramaticales y el uso de vocabulario general específico (p.ej. compu en vez de ordenador), son los [modismos mexicanos](https://unamglobal.unam.mx/global_revista/expresiones-mexicanas-significado-oculto-en-palabras-cotidianas) los que presentan un desafío único en la traducción."
 
-## Actividad
+## Actividad 1
+
+Ve el siguiente clip de Amarte duele (2002), la adaptación del director Fernando Sariñana de Romeo y Julieta de Shakespeare al México urbano contemporáneo. Como en la obra de Shakespeare, las barreras de clase social separan a los dos jóvenes enamorados. Aquí, Ulises le llama a Renata desde un teléfono público. Pon atención a los modismos y el lenguaje coloquial que usan los personajes y sus amigos. Más adelante vamos a analizar cómo traducir estas expresiones al inglés coloquial de Estados Unidos.
+
+> **Ve el clip:** [Ulises llama a Renata](https://youtube.com/clip/UgkxzhX04_rARcumLfVQdFZjbaAyPE4DZ2y8?si=DdXUsHv9cvfO6khM)
+
+**Sigue la transcripción ⤵︎**
+
+```
+Renata: ¿Bueno?
+Ulises: Soy Ulises.
+Renata: ¿De Santa Fe?
+Ulises: Sí de Santa Fe.
+Renata: Ahhhh jaja.
+Ulises: Renata...
+Amigo de Ulises: Shhhhh. Chinga tu madre guey.
+Hermana de Renata: No manches.
+Ulises: ¿Renata...?
+Renata: Sí, dime.
+Ulises: Solo quiero decirte que estás muy bonita.
+Amigo de Ulises: Que payaso.
+Ulises: Que no puedo dejar de pensar en ti.
+Hermana de Renata: [Risas]
+Renata: Ya guey.
+Ulises: Renata, ¿podemos vernos mañana en Santa Fe?
+Renata: [Risa.] Sí creo que sí.
+Ulises: Bueno, te pedí esta canción.
+Amigo de Ulises: ¿Qué pedo guey?
+Hermana de Renata: No manches, que oso, ¿quien era esa guey?
+Renata: Dejame escuchar la cancion
+Hermana de Renata: An pues que mamona eh...
+```
+
+
+## Actividad 2
 
 [Contenido]
 
