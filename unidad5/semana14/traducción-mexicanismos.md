@@ -8,12 +8,17 @@ published: false
 
 
 
+## Textos Fuentes
 
+- [Amores Perros](https://youtu.be/A5HTBYR7m0o?si=_4R1mxQT4FwKSPAS)
+- [Cuentos de Juan Rulfo](https://duckduckgo.com/?q=Cuentos+de+Juan+Rulfo&t=opera&ia=web)
+
+*Gracias a Dr. Erik Daniel Franco Trujillo por sugerir textos fuentes para esta lista.*
 
 **Recursos Lingüísticos**
 
 - [Diccionario del Español de México](https://dem.colmex.mx)
-- [Juegos verbales de la tradición popular mexicana](https://libros.colmex.mx/tienda/juegos-verbales-de-tradicion-popular-mexicana) por Erik Daniel Franco Trujillo
+- [Juegos verbales de la tradición popular mexicana](https://libros.colmex.mx/tienda/juegos-verbales-de-tradicion-popular-mexicana) por Dr. Erik Daniel Franco Trujillo
 
 ---
 
