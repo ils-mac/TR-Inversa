@@ -8,7 +8,12 @@ Como aprendimos en la [presentación introductoria](../../unidad1/semana1/presen
 
 ## Traducir en variantes del inglés estadounidense 
 
-Al traducir el español hablado al inglés estadounidense...
+Al traducir el español hablado al inglés estadounidense... you may feel tempted to adopt one of the many American English varieties used in the United States. 
+
+### What to Watch and Read
+
+
+- 
 
 ## Recursos Lingüísticos
 
