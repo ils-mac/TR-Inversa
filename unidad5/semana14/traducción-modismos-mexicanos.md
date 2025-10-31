@@ -4,7 +4,7 @@ published: false
 
 # La Traducción de Modismos Mexicanos
 
-Como aprendimos en la [presentación introductoria](../unidad1/semana1/presentacion-introductoria.md), "Más allá de los mexicanismos como las construcciones gramaticales y el uso de vocabulario general específico (p.ej. compu en vez de ordenador), son los [modismos mexicanos](https://unamglobal.unam.mx/global_revista/expresiones-mexicanas-significado-oculto-en-palabras-cotidianas) los que presentan un desafío único en la traducción."
+Como aprendimos en la [presentación introductoria](../../unidad1/semana1/presentacion-introductoria.md), "Más allá de los mexicanismos como las construcciones gramaticales y el uso de vocabulario general específico (p.ej. compu en vez de ordenador), son los [modismos mexicanos](https://unamglobal.unam.mx/global_revista/expresiones-mexicanas-significado-oculto-en-palabras-cotidianas) los que presentan un desafío único en la traducción."
 
 ## Actividad
 
