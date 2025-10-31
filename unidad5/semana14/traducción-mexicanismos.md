@@ -6,6 +6,15 @@ published: false
 
 [Contenido]
 
+
+
+
+
+**Recursos Lingüísticos**
+
+- [Diccionario del Español de México](https://dem.colmex.mx)
+- [Juegos verbales de la tradición popular mexicana](https://libros.colmex.mx/tienda/juegos-verbales-de-tradicion-popular-mexicana) por Erik Daniel Franco Trujillo
+
 ---
 
 ## 📥 Descarga esta Actividad
@@ -14,4 +23,4 @@ Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_
 
 ---
 
-**Siguiente:** [Proyecto de Traducción Literaria - Selección del Texto Fuente](./proyectoLiterario-selección-texto10.md)
+**Siguiente:** [TBD](./TBD.md)
