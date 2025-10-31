@@ -6,7 +6,7 @@ published: false
 
 Como aprendimos en la [presentación introductoria](../../unidad1/semana1/presentacion-introductoria.md), "Más allá de los mexicanismos como las construcciones gramaticales y el uso de vocabulario general específico (p.ej. compu en vez de ordenador), son los [modismos mexicanos](https://unamglobal.unam.mx/global_revista/expresiones-mexicanas-significado-oculto-en-palabras-cotidianas) los que presentan un desafío único en la traducción."
 
-## Actividad 1
+## Actividad 1: Ulises llama a Renata
 
 Ve el siguiente clip de Amarte duele (2002), la adaptación del director Fernando Sariñana de Romeo y Julieta de Shakespeare al México urbano contemporáneo. Como en la obra de Shakespeare, las barreras de clase social separan a los dos jóvenes enamorados. Aquí, Ulises le llama a Renata desde un teléfono público. Pon atención a los modismos y el lenguaje coloquial que usan los personajes y sus amigos. Más adelante vamos a analizar cómo traducir estas expresiones al inglés coloquial de Estados Unidos.
 
