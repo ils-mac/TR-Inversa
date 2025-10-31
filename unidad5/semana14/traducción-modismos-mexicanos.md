@@ -4,16 +4,7 @@ published: false
 
 # La Traducción de Modismos Mexicanos
 
-El español es la lengua oficial de más de 20 países en el mundo, además de estar hablado como lengua no oficial en alrededor de 10 países más ([Wikipedia](https://es.wikipedia.org/wiki/Distribución_geográfica_del_idioma_español)). En el mundo hay alrededor de 600 millones hablantes del español ([Boletín UNAM](https://unamglobal.unam.mx/global_revista/el-idioma-espanol-nos-une-en-mas-de-20-paises)). Para contexto, el mundo tiene más de 8 mil millones de personas ([The World Counts](https://www.theworldcounts.com/challenges/planet-earth/state-of-the-planet/world-population-clock-live)). Es decir, son muchas las variedades del español en el mundo. El enfoque de este curso es la traducción del español de México al inglés para los Estados Unidos.
-
-México es el país con el número de hispanohablantes más grande del mundo: ~133 millones según [Wikipedia](https://es.wikipedia.org/wiki/Distribución_geográfica_del_idioma_español). El español hablado en México es conocido por sus [mexicanismos](https://dem.colmex.mx/Ver/mexicanismo), y [las lenguas indígenas](https://site.inali.gob.mx/pdf/catalogo_lenguas_indigenas.pdf) del país tienen su influencia sobre el lenguaje hablado en México también. Más allá de los mexicanismos como las construcciones grámaticas y el uso de vocabulario general especifico (compu en vez de ordenador) son los [modismos mexicanos](https://unamglobal.unam.mx/global_revista/expresiones-mexicanas-significado-oculto-en-palabras-cotidianas) que presentan un desafío único en la traducción. 
-
-Por otro lado el inglés de los Estados Unidos es hablado por 239 millones de personas mientras que la multiculturalidad del país influye la habla cotidiana. Los cinco idiomas con más hablantes en los EUA son: el español con 41m, el chino con 3.5m, el tagalog con 1.7m, el vietnamita con 1.5m y el arabe con 1.2m hablantes. En los Estados Unidos podemos asumir cierta familiariad con la cultura mexicana dado la presencia de mexicanos en territorios origenarios del país conocido hoy en día como México (cómo aprendimos en [Relaciones entre México y los Estados Unidos](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad4/semana10/mexico-eua-relaciones.md) y también por la inmigración [desde México a los Estados Unidos](https://www.migrationpolicy.org/article/inmigrantes-mexicanos-en-estados-unidos) y [desde los Estados Unidos a México](https://elpais.com/mexico/2025-02-24/estadounidenses-los-migrantes-con-mayor-presencia-en-mexico-una-radiografia-en-ocho-graficos.html?event=go&event_log=go&prod=REGCRARTMX&o=cerradomx). El inglés llegó a ser [lengua oficial](https://larepublica.pe/estados-unidos/2025/03/02/el-ingles-como-idioma-oficial-de-estados-unidos-por-que-trump-firmo-la-orden-ejecutiva-y-que-implica-para-los-inmigrantes-lrtmus-179006) de los Estados Unidos en 2025.
-
-- 
-
-
-
+Como aprendimos en la [presentación introductoria](../unidad1/semana1/presentacion-introductoria.md), "Más allá de los mexicanismos como las construcciones gramaticales y el uso de vocabulario general específico (p.ej. compu en vez de ordenador), son los [modismos mexicanos](https://unamglobal.unam.mx/global_revista/expresiones-mexicanas-significado-oculto-en-palabras-cotidianas) los que presentan un desafío único en la traducción."
 
 ## Actividad
 
