@@ -53,13 +53,13 @@ Ulises: Solo quiero decirte que estás muy bonita.
 Amigo de Ulises: Que payaso.
 Ulises: Que no puedo dejar de pensar en ti.
 Hermana de Renata: [Risas]
-Renata: Ya guey.
+Renata (a su hermana): Ya guey.
 Ulises: Renata, ¿podemos vernos mañana en Santa Fe?
 Renata: [Risa.] Sí creo que sí.
 Ulises: Bueno, te pedí esta canción.
 Amigo de Ulises: ¿Qué pedo guey?
 Hermana de Renata: No manches, que oso, ¿quien era esa guey?
-Renata: Dejame escuchar la cancion
+Renata: Dejame escuchar la canción
 Hermana de Renata: An pues que mamona eh...
 ```
 
@@ -68,14 +68,13 @@ Hermana de Renata: An pues que mamona eh...
 Al traducir el contenido al inglés estadounidense considera:
 
 1. **Transferencia de registro:** ¿Cómo mantienes el registro informal y juvenil en inglés?
-   * "güey" → "dude," "bro," "man"?
 
 2. **Marcadores de clase social:** El contexto de clase alta de Renata vs. el contexto de clase trabajadora de Ulises
    * ¿Se notan estas diferencias en el español coloquial? ¿Cómo las mostrarías en inglés?
 
 3. **Expresiones típicamente mexicanas:**
    * "no manches" → ?
-   * "guey" → ?
+   * "güey" → ?
    * "qué oso" → ?
    * "mamona" → ?
 
@@ -87,7 +86,7 @@ Al traducir el contenido al inglés estadounidense considera:
 
 [Contenido]
 
-## Textos Fuentes
+### Textos Fuentes
 
 - [Amar Te Duele](https://youtu.be/BL1wZa5fJho?si=B4uW-lJq9PW51fNo)
 - [Amores Perros](https://youtu.be/A5HTBYR7m0o?si=_4R1mxQT4FwKSPAS)
@@ -95,8 +94,6 @@ Al traducir el contenido al inglés estadounidense considera:
 - [Historias de Ciudad - Cine en línea - Filmoteca UNAM](https://youtu.be/6-C08fSmFOY?si=PJYPPwhcOD0Oz6lX)
 
 *Gracias a Dr. Erik Daniel Franco Trujillo por sugerir textos fuentes para esta lista.*
-
-
 
 ---
 
