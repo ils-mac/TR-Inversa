@@ -36,7 +36,7 @@ Ve el siguiente clip de Amarte duele (2002), la adaptación del director Fernand
 
 ###  **Ve el clip:** [Ulises llama a Renata](https://youtube.com/clip/UgkxzhX04_rARcumLfVQdFZjbaAyPE4DZ2y8?si=DdXUsHv9cvfO6khM)
 
-### Lee la transcripción ⤵︎
+### Lee la transcripción adaptada del clip ⤵︎
 
 ```
 Renata: ¿Bueno?
