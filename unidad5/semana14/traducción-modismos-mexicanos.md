@@ -6,15 +6,26 @@ published: false
 
 Como aprendimos en la [presentación introductoria](../../unidad1/semana1/presentacion-introductoria.md), "Más allá de los mexicanismos como las construcciones gramaticales y el uso de vocabulario general específico (p.ej. compu en vez de ordenador), son los [modismos mexicanos](https://unamglobal.unam.mx/global_revista/expresiones-mexicanas-significado-oculto-en-palabras-cotidianas) los que presentan un desafío único en la traducción." En esta lección, completaremos ejercicios prácticos relacionados con la traducción de modismos, cómo el diálogo cotidiano es un elemento importante de la literatura.
 
-## Translating into American English variants
+## Traduciendo a variedades del inglés estadounidense
 
-When translating what is supposed to spoken Spanish into American English, we may may feel tempted to adopt one of the many [American English varieties](https://www.pbs.org/speak/seatosea/americanvarietie) used in the United States, which include [African American Vernacular English](https://www.linkedin.com/posts/michaelreidinterculturalist_language-media-aave-activity-7024290726339358721-kb6O?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAiGvt4B1PfayL7m1ayZu0mc22Vwgcd9t2Y), Midwestern English, Southern English, Californian English, or Chicano English to name a few. If that's a strategy that you elect, you'll need to be careful to achieve authenticity and consistency in voice, while avoiding caricatures and discriminatory characterizations. 
+Cuando traducimos español hablado al inglés estadounidense, podemos sentirnos tentados a adoptar una de las muchas variedades del inglés estadounidense que se utilizan en Estados Unidos, como el African American Vernacular English, el inglés del Medio Oeste, el inglés sureño, el inglés californiano o el inglés chicano, por mencionar algunos. Si decides adoptar esta estrategia, deberás tener cuidado de lograr autenticidad y consistencia en la voz, evitando caricaturas y caracterizaciones discriminatorias.
 
-For example, while often taken to be a monolith, there are actually many [regional variations of Southern English](https://excelenglishinstitute.com/southern-dialects-the-warm-melodic-voices-of-the-south), and when writing in Southern English we'll need to navigate [problematic stereotypes around intelligence and cultural backwardness](https://thecolgatemaroonnews.com/51444/commentary/culture-and-diversity-let-the-south-tell-you-what-it-means) as well. 
+Por ejemplo, aunque a menudo se considera un monolito, en realidad existen muchas variaciones regionales del inglés sureño, y al escribir en Southern English tendremos que navegar estereotipos problemáticos sobre inteligencia y atraso cultural.
 
-Vocabulary usage around the United States is fairly specific, so having the same speaker use "soda" and "pop" in a dialogue may not make sense, as illustrated in this set of [linguistic maps on usage differences](https://brilliantmaps.com/linguistic-maps-that-divide-americans).
+El uso del vocabulario en Estados Unidos es bastante específico, por lo que hacer que una misma persona use "soda" y "pop" en un diálogo puede no tener sentido, como se ilustra en diversos mapas lingüísticos sobre diferencias de uso.
 
-Finally, while representation in U.S. media has historically focused most on White American men, the United States is very multicultural. The speech you choose to have an individual speak needs to be authentic from the perspective of intersectional identities as well.
+Finalmente, aunque históricamente la representación en los medios estadounidenses se ha enfocado principalmente en hombres blancos estadounidenses, Estados Unidos es muy multicultural. Significa que el habla que elijas para un individuo en una traducción debe ser auténtica desde la perspectiva de su supuesta identidad - algo que suele ser interseccional también.
+
+### Recursos sobre el inglés (en inglés)
+
+Como futuros profesionales de la traducción, es fundamental familiarizarse con recursos en el idioma meta. Los siguientes enlaces proporcionan información detallada sobre las variedades del inglés estadounidense:
+
+- **[American English Varieties](https://www.pbs.org/speak/seatosea/americanvarietie)** - PBS overview of regional dialects across the United States
+- **[African American Vernacular English](https://www.linkedin.com/posts/michaelreidinterculturalist_language-media-aave-activity-7024290726339358721-kb6O?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAiGvt4B1PfayL7m1ayZu0mc22Vwgcd9t2Y)** - Discussion of AAVE in media and language
+- **[Regional Variations of Southern English](https://excelenglishinstitute.com/southern-dialects-the-warm-melodic-voices-of-the-south)** - Breakdown of Southern dialect diversity
+- **[Stereotypes and Southern English](https://thecolgatemaroonnews.com/51444/commentary/culture-and-diversity-let-the-south-tell-you-what-it-means)** - Critical analysis of problematic characterizations
+- **[Linguistic Maps: Regional Vocabulary Differences](https://brilliantmaps.com/linguistic-maps-that-divide-americans)** - Visual representation of vocabulary usage across the U.S.
+- **[A Definition of Intersectionality](https://www.aaup.org/academe/issues/104-4/what-intersectionality-and-why-it-important)** - Discussion on the meaning and importance of intersectionality
 
 ## Recursos Lingüísticos
 
