@@ -16,9 +16,7 @@ El uso del vocabulario en Estados Unidos es bastante específico, por lo que hac
 
 Finalmente, aunque históricamente la representación en los medios estadounidenses se ha enfocado principalmente en hombres blancos estadounidenses, Estados Unidos es muy multicultural. Significa que el habla que elijas para un individuo en una traducción debe ser auténtica desde la perspectiva de su supuesta identidad - algo que suele ser interseccional también.
 
-### Recursos sobre el inglés (en inglés)
-
-Como futuros profesionales de la traducción, es fundamental familiarizarse con recursos en el idioma meta. Los siguientes enlaces proporcionan información detallada sobre las variedades del inglés estadounidense:
+Los siguientes enlaces proporcionan información detallada sobre las variedades del inglés estadounidense:
 
 - **[American English Varieties](https://www.pbs.org/speak/seatosea/americanvarietie)** - PBS overview of regional dialects across the United States
 - **[African American Vernacular English](https://www.linkedin.com/posts/michaelreidinterculturalist_language-media-aave-activity-7024290726339358721-kb6O?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAiGvt4B1PfayL7m1ayZu0mc22Vwgcd9t2Y)** - Discussion of AAVE in media and language
