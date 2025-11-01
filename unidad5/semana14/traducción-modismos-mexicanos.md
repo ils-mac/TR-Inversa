@@ -8,12 +8,13 @@ Como aprendimos en la [presentación introductoria](../../unidad1/semana1/presen
 
 ## Traducir en variantes del inglés estadounidense 
 
-Al traducir el español hablado al inglés estadounidense... you may feel tempted to adopt one of the many American English varieties used in the United States. 
+Al traducir el español hablado al inglés estadounidense... you may feel tempted to adopt one of the many [American English varieties](https://www.pbs.org/speak/seatosea/americanvarietie) used in the United States, which include [African American Vernacular English](https://www.linkedin.com/posts/michaelreidinterculturalist_language-media-aave-activity-7024290726339358721-kb6O?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAiGvt4B1PfayL7m1ayZu0mc22Vwgcd9t2Y), Midwestern English, Southern English, Californian English, or Chicano English to name a few. If that's a strategy that you elect, you'll need to be careful to achieve authenticity and consistency in voice, while avoiding caricatures and discriminatory characterizations. 
 
-### What to Watch and Read
+For example, while often taken to be a monolith, there are actually many [regional variations of Southern English](https://excelenglishinstitute.com/southern-dialects-the-warm-melodic-voices-of-the-south), and when writing in Southern English we'll need to navigate [problematic stereotypes around intelligence and cultural backwardness](https://thecolgatemaroonnews.com/51444/commentary/culture-and-diversity-let-the-south-tell-you-what-it-means) as well. 
 
+Vocabulary usage around the United States is fairly specific, so having the same speaker use "soda" and "pop" in a dialogue may not make sense, as illustrated in this set of [linguistic maps on usage differences](https://brilliantmaps.com/linguistic-maps-that-divide-americans).
 
-- 
+Finally, while representation in U.S. media has historically focused most on White American men, the United States is very multicultural. The speech you choose to have an individual speak needs to be authentic from the perspective of intersectional identities as well.
 
 ## Recursos Lingüísticos
 
