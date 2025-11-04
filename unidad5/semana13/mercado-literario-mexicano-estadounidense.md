@@ -26,7 +26,6 @@ El mercado de traducción literaria en México refleja tanto la rica tradición 
 - **Tarifas de Traducción**: En México, el trabajo de traductor editorial se paga una tarifa de aproximadamente 2 pesos por palabra según [ISETI](https://iseti.org.mx/biblioteca/128-traduccion-literaria-y-editorial-todo-lo-que-necesitas-saber).
 - **Dominio Editorial Español**: A pesar del surgimiento en los últimos años de varias pequeñas editoriales independientes (Aldus, Ediciones sin Nombre, El Ermitaño, Bonilla Artigas), la literatura del mundo llega a México traducida principalmente desde España por grandes consorcios editoriales ([ELEM](https://www.elem.mx/estgrp/datos/257)).
 - **Autores Mexicanos Traducidos**: Los autores mexicanos que están siendo traducidos son en su mayoría quienes han conseguido reconocimiento crítico o comercial en México. Los editores optan por autores que ya tienen bastante obra publicada, con cierto poder de convocatoria en el mundo literario mexicano ([La Tempestad](https://www.latempestad.mx/traduccion-literaria)).
-- **Formación Limitada**: En México, solo cuatro universidades públicas ofrecen licenciatura en traducción: UNAM, UANL, UABC y UABJO.
 
 ### Recursos para Consultar
 
@@ -43,21 +42,17 @@ El mercado literario estadounidense presenta un panorama complejo y a menudo des
 
 ### Quick Facts
 
-- **El Problema del 3%**: Solo aproximadamente 3% de los libros publicados en Estados Unidos son traducciones. Para ficción literaria y poesía, esta cifra baja a 0.7% ([Three Percent](https://www.rochester.edu/College/translation/threepercent/about/)).
+- **El Problema del 3%**: Solo aproximadamente 3% de los libros publicados en Estados Unidos son traducciones. ([Three Percent](https://litmagnews.substack.com/p/stuck-at-3-why-cant-we-have-more)).
 - **Tarifas Promedio**: El promedio de pago es $0.13 USD por palabra, un incremento de solo 8% desde 2017, mientras que el costo de vida en Estados Unidos ha aumentado más del 20% ([Authors Guild](https://authorsguild.org/app/uploads/2023/11/Authors-Guild-2022-Literary-Translators-Survey.pdf)).
-- **Ingresos Anuales**: El 63.5% de traductores literarios en EUA reportaron ingresos anuales menores a $10,000 USD por traducción literaria en 2021—el doble que en 2016 ([Authors Guild](https://authorsguild.org/app/uploads/2023/11/Authors-Guild-2022-Literary-Translators-Survey.pdf)).
 - **Editoriales Independientes Lideran**: Las editoriales independientes y universitarias publican el 86% de las obras en traducción, mientras que las "Big Five" (Hachette, HarperCollins, Macmillan, Penguin Random House, Simon & Schuster) publican solo el 14% ([ALTA](https://altalang.com/beyond-words/why-are-so-few-translated-books-published-in-america)).
-- **Idiomas Dominantes**: El francés, español y alemán representan el 45% de todas las traducciones publicadas en Estados Unidos, reforzando jerarquías culturales que privilegian lenguas coloniales de centros culturales tradicionales ([Rutherford, Levitt y Zhang](https://online.ucpress.edu/gp/article-abstract/5/1/93034/200168/Whence-the-3-Percent-How-Far-Have-We-Come-toward?redirectedFrom=fulltext)).
-- **Visibilidad Limitada**: Solo el 5% de las reseñas en el *New York Times Book Review* incluyen libros traducidos, y más de la mitad de estas son traducciones del francés, alemán, español e italiano (otra vez según Rutherford, Levitt y Zhang).
+- **Alcance Limitado**: El francés, español y alemán representan el 45% de todas las traducciones publicadas en Estados Unidos, reforzando jerarquías culturales que privilegian lenguas coloniales de centros culturales tradicionales, y solo el 5% de las reseñas en el *New York Times Book Review* incluyen libros traducidos ([Rutherford, Levitt y Zhang](https://online.ucpress.edu/gp/article-abstract/5/1/93034/200168/Whence-the-3-Percent-How-Far-Have-We-Come-toward?redirectedFrom=fulltext)).
 
 ### Recursos para Consultar
 
 - [**Three Percent (University of Rochester)**](https://www.rochester.edu/College/translation/threepercent/) - Base de datos de traducciones literarias publicadas en EUA desde 2008 y recursos sobre el estado de la traducción literaria.
 - [**American Literary Translators Association (ALTA)**](https://www.literarytranslators.org) - Organización profesional que agrupa a traductores literarios en Estados Unidos, ofrece conferencias anuales, recursos y redes de contacto.
-- **PEN America - Literary Translation Resources** - Como su [contrato modelo para traducción literaria](https://pen.org/a-model-contract-for-literary-translations/#)
-- **Authors Guild - Literary Translation Resources** - Como su [encuesta sobre condiciones laborales de traductores](https://authorsguild.org/app/uploads/2023/11/Authors-Guild-2022-Literary-Translators-Survey.pdf).
+- **PEN America y Authors Guilde - Literary Translation Resources** - Como un [contrato modelo para traducción literaria](https://pen.org/a-model-contract-for-literary-translations/#) y una [encuesta sobre condiciones laborales de traductores](https://authorsguild.org/app/uploads/2023/11/Authors-Guild-2022-Literary-Translators-Survey.pdf).
 - [**Words Without Borders**](https://www.wordswithoutborders.org) - Revista digital dedicada exclusivamente a literatura internacional en traducción.
-- [**Stuck at 3%: Why Can't We Have More Literature in English Translation?**](https://litmagnews.substack.com/p/stuck-at-3-why-cant-we-have-more) - Análisis crítico del problema estructural de la traducción literaria en Estados Unidos.
 
 ---
 
