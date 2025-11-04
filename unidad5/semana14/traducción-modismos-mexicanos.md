@@ -12,11 +12,11 @@ Como aprendimos en la [presentación introductoria](../../unidad1/semana1/presen
 
 ## Traduciendo a variedades del inglés estadounidense
 
-Cuando traducimos español hablado al inglés estadounidense, podemos sentirnos tentados a adoptar una de las muchas variedades del inglés estadounidense que se utilizan en Estados Unidos, como el African American Vernacular English, el inglés del Medio Oeste, el inglés sureño, el inglés californiano o el inglés chicano, por mencionar algunos. Si decides adoptar esta estrategia, deberás tener cuidado de lograr autenticidad y consistencia en la voz, evitando caricaturas y caracterizaciones discriminatorias.
+Cuando traducimos español hablado al inglés estadounidense, podemos sentirnos tentados a adoptar una de las muchas variedades del inglés estadounidense que se utilizan en Estados Unidos, como el African American Vernacular English (AAVE), el inglés del _Midwest_, el inglés sureño, el inglés californiano o el inglés chicano, por mencionar algunos. Si decides adoptar esta estrategia, deberás tener cuidado de lograr autenticidad y consistencia en la voz, evitando caricaturas y caracterizaciones discriminatorias.
 
-Por ejemplo, aunque a menudo se considera un monolito, en realidad existen muchas variaciones regionales del inglés sureño, y al escribir en Southern English tendremos que navegar estereotipos problemáticos sobre inteligencia y atraso cultural.
+Por ejemplo, aunque a menudo se considera un monolito, en realidad existen muchas variaciones regionales del inglés sureño, y al escribir en este _Southern English_ tendremos que navegar estereotipos problemáticos sobre inteligencia y atraso cultural.
 
-El uso del vocabulario en Estados Unidos es bastante específico, por lo que hacer que una misma persona use "soda" y "pop" en un diálogo puede no tener sentido, como se ilustra en diversos mapas lingüísticos sobre diferencias de uso.
+El uso del vocabulario en Estados Unidos es bastante específico también, por lo que hacer que una misma persona use "soda" y "pop" en un diálogo puede no tener sentido, como se ilustra en diversos mapas lingüísticos sobre diferencias de uso.
 
 Finalmente, aunque históricamente la representación en los medios estadounidenses se ha enfocado principalmente en hombres blancos estadounidenses, Estados Unidos es muy multicultural. Significa que el habla que elijas para un individuo en una traducción debe ser auténtica desde la perspectiva de su supuesta identidad - algo que suele ser interseccional también.
 
