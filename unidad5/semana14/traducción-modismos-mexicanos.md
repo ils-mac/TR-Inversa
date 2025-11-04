@@ -1,5 +1,9 @@
 ---
-published: false
+layout: default
+title: Modismos Mexicanos
+parent: Semana 14
+grand_parent: Unidad 5
+nav_order: 1
 ---
 
 # La Traducción de Modismos Mexicanos
@@ -87,22 +91,35 @@ Al traducir el contenido al inglés estadounidense considera:
    * "qué oso" → ?
    * "mamona" → ?
 
-## Actividad 2: Juegos Verbales
+## Actividad 2: Tu Propio Proyecto
 
-[Contenido]
+Ahora es tu turno de seleccionar y traducir contenido con modismos mexicanos en contexto.
 
-## Actividad 3: Tu Propio Proyecto
+### Paso 1: Elige tu propio texto 
 
-[Contenido]
+Selecciona un texto fuente que contenga modismos mexicanos—puede ser de las sugerencias abajo o de otro material que conozcas. **Trabaja con solo unas pocas líneas** (10 líneas de diálogo máximo) para mantener el ejercicio manejable.
 
-### Textos Fuentes
+### Paso 2: Traduce el contenido al inglés para los Estados Unidos
 
-- [Amar Te Duele](https://youtu.be/BL1wZa5fJho?si=B4uW-lJq9PW51fNo)
+Traduce tu selección de texto al inglés estadounidense, manteniendo el tono conversacional del español.
+
+### Paso : Comparte en Teams
+
+Si deseas, publica tu traducción en el canal de Mexicanismos en Teams con el siguiente formato:
+
+1. **Enlace** al contenido completo (clip de YouTube, página web, etc.)
+2. **Contexto breve** (1-2 oraciones): ¿Qué está pasando en la escena?
+3. **Texto fuente** (las líneas específicas que tradujiste)
+4. **Tu traducción**
+5. **Reflexión breve** sobre tus decisiones de traducción: ¿Qué estrategias usaste? ¿Qué desafíos encontraste?
+
+### Textos Fuentes Sugeridos
+
 - [Amores Perros](https://youtu.be/A5HTBYR7m0o?si=_4R1mxQT4FwKSPAS)
 - [Cuentos de Juan Rulfo](https://duckduckgo.com/?q=Cuentos+de+Juan+Rulfo&t=opera&ia=web)
 - [Historias de Ciudad - Cine en línea - Filmoteca UNAM](https://youtu.be/6-C08fSmFOY?si=PJYPPwhcOD0Oz6lX)
 
-*Gracias a Dr. Erik Daniel Franco Trujillo por sugerir textos fuentes para esta lista.*
+*Agradecemos a Dr. Erik Daniel Franco Trujillo por sugerir textos fuentes para esta lista.*
 
 ---
 
@@ -112,4 +129,4 @@ Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_
 
 ---
 
-**Siguiente:** [TBD](./TBD.md)
+**Siguiente:** [Proyecto de Traducción Literaria - Traducción del Texto Fuente 10](./proyectoLiterario-traducción-texto10.md)
