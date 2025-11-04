@@ -14,7 +14,9 @@ Como estudiantes de traducción inversa español→inglés, es fundamental compr
 
 En esta página exploramos las realidades económicas y profesionales de la traducción literaria en ambos países. Aunque las estadísticas presentadas incluyen todo tipo de traducción literaria (directa e inversa), es importante reconocer que el mercado para traducciones del español al inglés difiere del mercado inglés→español en términos de volumen, visibilidad y compensación.
 
-# El Mercado Mexicano
+---
+
+## El Mercado Mexicano
 
 El mercado de traducción literaria en México refleja tanto la rica tradición cultural del país como los desafíos económicos que enfrentan quienes traducen. Aunque existe actividad editorial significativa, gran parte de la literatura traducida que circula en México proviene de España, lo que limita las oportunidades para traductores y traductoras que residen en México.
 
@@ -33,7 +35,9 @@ El mercado de traducción literaria en México refleja tanto la rica tradición 
 - [**Asociación Mexicana de Traductores Literarios (AMETLI)**](https://www.ametli.org) - Según su sitio web: "Ametli es una asociación que agrupa, vincula y representa a los traductores literarios. Para nosotros es fundamental el reconocimiento del traductor literario como agente en los procesos de difusión de la cultura, y es por ello que defendemos su derecho a ser considerado autor de la obra."
 - [**Feria Internacional del Libro de Guadalajara (FIL)**](https://www.fil.com.mx) - La FIL es la feria del libro más importante del mundo hispanohablante y uno de los principales eventos culturales de América Latina. Para estudiantes de traducción, representa una oportunidad invaluable para establecer contactos con editores, agentes literarios, y otros profesionales del sector editorial de México y el extranjero.
 
-# El Mercado Estadounidense
+---
+
+## El Mercado Estadounidense
 
 El mercado literario estadounidense presenta un panorama complejo y a menudo desalentador para la traducción literaria. A pesar de ser una de las industrias editoriales más grandes del mundo, Estados Unidos publica proporcionalmente muy pocas obras traducidas, un fenómeno conocido como "el problema del 3%".
 
@@ -54,6 +58,8 @@ El mercado literario estadounidense presenta un panorama complejo y a menudo des
 - **Authors Guild - Literary Translation Resources** - Como su [encuesta sobre condiciones laborales de traductores](https://authorsguild.org/app/uploads/2023/11/Authors-Guild-2022-Literary-Translators-Survey.pdf).
 - [**Words Without Borders**](https://www.wordswithoutborders.org) - Revista digital dedicada exclusivamente a literatura internacional en traducción.
 - [**Stuck at 3%: Why Can't We Have More Literature in English Translation?**](https://litmagnews.substack.com/p/stuck-at-3-why-cant-we-have-more) - Análisis crítico del problema estructural de la traducción literaria en Estados Unidos.
+
+---
 
 ## Comparación y Reflexión
 
