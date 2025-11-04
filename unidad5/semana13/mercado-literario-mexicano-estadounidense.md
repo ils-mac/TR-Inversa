@@ -49,7 +49,7 @@ El mercado literario estadounidense presenta un panorama complejo y a menudo des
 
 ### Recursos para Consultar
 
-- [**Three Percent (University of Rochester)**](https://www.rochester.edu/College/translation/threepercent/) - Base de datos de traducciones literarias publicadas en EUA desde 2008 y recursos sobre el estado de la traducción literaria.
+- [**Three Percent (University of Rochester)**](https://www.rochester.edu/College/translation/threepercent/about) - Base de datos de traducciones literarias publicadas en EUA desde 2008 y recursos sobre el estado de la traducción literaria.
 - [**American Literary Translators Association (ALTA)**](https://www.literarytranslators.org) - Organización profesional que agrupa a traductores literarios en Estados Unidos, ofrece conferencias anuales, recursos y redes de contacto.
 - **PEN America y Authors Guilde - Literary Translation Resources** - Como un [contrato modelo para traducción literaria](https://pen.org/a-model-contract-for-literary-translations/#) y una [encuesta sobre condiciones laborales de traductores](https://authorsguild.org/app/uploads/2023/11/Authors-Guild-2022-Literary-Translators-Survey.pdf).
 - [**Words Without Borders**](https://www.wordswithoutborders.org) - Revista digital dedicada exclusivamente a literatura internacional en traducción.
