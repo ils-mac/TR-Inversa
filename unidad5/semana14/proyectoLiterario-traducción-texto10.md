@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Proyecto 10 - Traducción Literaria
-parent: Semana 13
+parent: Semana 14
 grand_parent: Unidad 5
 nav_order: 2
 ---
