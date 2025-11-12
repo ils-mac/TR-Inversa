@@ -48,7 +48,7 @@ Agredecimos recomendaciones de recursos que podemos añadir a la lista.
 
 Ve el siguiente clip de Amarte duele (2002), la adaptación del director Fernando Sariñana de Romeo y Julieta de Shakespeare al México urbano contemporáneo. Como en la obra de Shakespeare, las barreras de clase social separan a los dos jóvenes enamorados. Aquí, Ulises le llama a Renata desde un teléfono público. Pon atención a los modismos y el lenguaje coloquial que usan los personajes y sus amigos. Después vamos a analizar cómo traducir estas expresiones al inglés coloquial de Estados Unidos.
 
-###  **Ve el clip:** [Ulises llama a Renata](https://youtube.com/clip/UgkxzhX04_rARcumLfVQdFZjbaAyPE4DZ2y8?si=DdXUsHv9cvfO6khM)
+###  **Ve el clip:** [Ulises llama a Renata](https://youtu.be/VZ7N2VhR3VI?si=xBf22lNwWXgaagCC&t=1759) (29:19 - 31:20)
 
 ### Lee la transcripción adaptada del clip ⤵︎
 
@@ -98,7 +98,7 @@ Ahora es tu turno de seleccionar y traducir contenido con modismos mexicanos en 
 
 ### Paso 1: Elige tu propio texto 
 
-Selecciona un texto fuente que contenga modismos mexicanos—puede ser de las sugerencias abajo o de otro material que conozcas. **Trabaja con solo unas pocas líneas** (10 líneas de diálogo máximo) para mantener el ejercicio manejable.
+Selecciona un texto fuente que contenga modismos mexicanos—puede ser de las sugerencias abajo o de otro material que conozcas. **Trabaja con solo unas pocas líneas** (alrededor de 10 líneas de diálogo) para mantener el ejercicio manejable.
 
 ### Paso 2: Traduce el contenido al inglés para los Estados Unidos
 
