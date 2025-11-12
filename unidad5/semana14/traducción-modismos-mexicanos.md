@@ -22,8 +22,9 @@ Finalmente, aunque históricamente la representación en los medios estadouniden
 
 Los siguientes enlaces proporcionan información detallada sobre las variedades del inglés estadounidense:
 
-- **[American English Varieties](https://www.pbs.org/speak/seatosea/americanvarietie)** - PBS overview of regional dialects across the United States
+- **[American English Varieties](https://www.pbs.org/speak/seatosea/americanvarieties)** - PBS overview of regional dialects across the United States
 - **[African American Vernacular English](https://www.linkedin.com/posts/michaelreidinterculturalist_language-media-aave-activity-7024290726339358721-kb6O?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAiGvt4B1PfayL7m1ayZu0mc22Vwgcd9t2Y)** - Discussion of AAVE in media and language
+- **[Why so many Americans speak Chicano English](https://youtu.be/Q5tRu42HGNw?si=z9ENjkCTD-NSZcrb)** - Discussion of this Mexican-American dialect; briefly covers Miami English
 - **[Regional Variations of Southern English](https://excelenglishinstitute.com/southern-dialects-the-warm-melodic-voices-of-the-south)** - Breakdown of Southern dialect diversity
 - **[Stereotypes and Southern English](https://thecolgatemaroonnews.com/51444/commentary/culture-and-diversity-let-the-south-tell-you-what-it-means)** - Critical analysis of problematic characterizations
 - **[Linguistic Maps: Regional Vocabulary Differences](https://brilliantmaps.com/linguistic-maps-that-divide-americans)** - Visual representation of vocabulary usage across the U.S.
