@@ -59,31 +59,61 @@ Authors: Alejandro Guerrero, Chaofeng Chen, Montserrat Ayala
 
 Every word you choose reflects not just what is said, but how it's understood — and by whom. 
 
-Even if you aim for fidelity, you are still interpreting tone, nuance, and intent. This tenet invites you to be aware of your influence as a mediator between languages and cultures. Don’t fear your subjectivity — study it. Be intentional in how you represent voices, especially those that differ from your own in identity or background. This is not about inserting your opinion, but about translating with clarity, awareness, and responsibility. As you grow in experience, your judgment will sharpen — cultivate it with care. 
+Even if you aim for fidelity, you are still interpreting tone, nuance, and intent. 
+This tenet invites you to be aware of your influence as a mediator between languages and cultures. 
+Don’t fear your subjectivity — study it. Be intentional in how you represent voices, 
+especially those that differ from your own in identity or background. 
+This is not about inserting your opinion, 
+but about translating with clarity, awareness, and responsibility. 
+As you grow in experience, your judgment will sharpen — cultivate it with care. 
 
 2. Learn the rules — and learn when to flex them. 
 
-Mastering conventions is essential; knowing when and how to adapt them is what makes you truly skilled. 
+Mastering conventions is essential;
+knowing when and how to adapt them is what makes you truly skilled. 
 
-Grammar, register, formatting — these are the building blocks of your credibility. But translation also asks for adaptability, especially when working with non-standard language, creative works, or emerging media. Respect the rules, but don’t be afraid to make thoughtful, well-reasoned choices that step outside them when the text demands it. This is especially important in creative translation, youth-oriented content, and culturally specific works. Innovation isn’t rebellion — it’s informed flexibility. 
+Grammar, register, formatting — these are the building blocks of your credibility.
+But translation also asks for adaptability, especially when working with non-standard language, 
+creative works, or emerging media. Respect the rules, but don’t be afraid to make thoughtful, 
+well-reasoned choices that step outside them when the text demands it. 
+This is especially important in creative translation, youth-oriented content, 
+and culturally specific works. Innovation isn’t rebellion — it’s informed flexibility. 
 
 3. Be transparent about your process. 
 
 Good translators are honest — about their work, their limits, and the tools they use. 
 
-Clients, collaborators, and readers deserve clarity. If you’ve made a bold interpretive choice, note it. If you're unsure about a term, ask for clarification. If you use machine translation, CAT tools, or other supports, disclose their role. This isn’t about self-doubt — it’s about trust. Transparency builds credibility and encourages a culture of learning. You’re not expected to know everything — you’re expected to be honest about what you do and how you do it. 
+Clients, collaborators, and readers deserve clarity. 
+
+If you’ve made a bold interpretive choice, note it. If you're unsure about a term, ask for clarification. 
+If you use machine translation, CAT tools, or other supports, disclose their role. 
+This isn’t about self-doubt — it’s about trust. 
+Transparency builds credibility and encourages a culture of learning. 
+You’re not expected to know everything — you’re expected to be honest about what you do and how you do it. 
 
 4. Respect the communities behind the languages. 
 
 Translation is not just between words — it’s between people, histories, and lived experience. 
 
-Every language carries cultural, emotional, and political weight. Don’t treat it as interchangeable with another. Learn about the communities you’re translating for and from. Understand context, connotation, and sensitivity — especially with texts that deal with identity, trauma, or social justice. If you’re translating voices from marginalized groups, approach with humility, research deeply, and consider consultation or collaboration when needed. Respect starts with awareness and leads to accuracy. 
+Every language carries cultural, emotional, and political weight. 
+Don’t treat it as interchangeable with another. 
+Learn about the communities you’re translating for and from. 
+Understand context, connotation, and sensitivity — 
+especially with texts that deal with identity, trauma, or social justice. 
+If you’re translating voices from marginalized groups, 
+approach with humility, research deeply, and consider consultation or collaboration when needed. 
+Respect starts with awareness and leads to accuracy. 
 
 5. Grow with the profession — and help shape its future. 
 
 You are part of a living field; contribute thoughtfully, continuously, and collaboratively. 
 
-The role of the translator is evolving: across media, across disciplines, and across borders. Keep learning — new technologies, emerging voices, shifting ethical questions. Seek mentorship and be open to feedback. At the same time, bring your own fresh perspective. Ask what the field could do better. Suggest improvements. Be the colleague you’d want to work with. You’re not just stepping into an industry — you’re helping shape its next chapter. 
+The role of the translator is evolving: 
+across media, across disciplines, and across borders. 
+Keep learning — new technologies, emerging voices, shifting ethical questions. 
+Seek mentorship and be open to feedback. At the same time, bring your own fresh perspective. 
+Ask what the field could do better. Suggest improvements. Be the colleague you’d want to work with. 
+You’re not just stepping into an industry — you’re helping shape its next chapter. 
 ```
 
 ## Consideraciones para tu código
