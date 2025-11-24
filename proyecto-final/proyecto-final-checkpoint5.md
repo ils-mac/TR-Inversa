@@ -5,7 +5,7 @@ parent: Proyecto Final
 nav_order: 6
 ---
 
-# Checkpoint 5: Traducción y Justificación + Entrega Final (Semana 16)
+# Checkpoint 5: Traducción y Justificación + Entrega Final
 
 ## Descripción de la Actividad
 
@@ -135,10 +135,6 @@ La evaluación considerará la **calidad del texto en su conjunto** en las área
 ### Entrega Final
 - **1 punto**: Entrega completa y refinada
 - **0 puntos**: Entrega incompleta y descuidada
-
-## Fecha de Entrega
-
-**Domingo de la Semana 16**
 
 ---
 
