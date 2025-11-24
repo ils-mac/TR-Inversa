@@ -69,10 +69,6 @@ Añade una sección a las especificaciones con la siguiente información:
 
 *Recuerda que al entregar este checkpoint, el objetivo es que recibas retroalimentación que puedas utilizar para mejorar tu trabajo y/o continuar al siguiente paso con confianza. El trabajo que realices en este componente recibirá puntos cuando hagas tu entrega final.*
 
-## Fecha de Entrega
-
-**Domingo de la Semana 9**
-
 ---
 
 ## 📥 Descargar Checkpoint 2
