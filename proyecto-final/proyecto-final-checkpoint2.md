@@ -5,7 +5,7 @@ parent: Proyecto Final
 nav_order: 3
 ---
 
-# Checkpoint 2: Especificaciones (Semana 9)
+# Checkpoint 2: Especificaciones
 
 ## Descripción de la Actividad
 
