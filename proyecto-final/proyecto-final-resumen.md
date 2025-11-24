@@ -49,19 +49,19 @@ Al finalizar este proyecto, podrás:
 
 ## Cronograma del Proyecto
 
-### [Checkpoint 1: Selección de Texto (Semana 7)](proyecto-final-checkpoint1.md)
+### [Checkpoint 1: Selección de Texto](proyecto-final-checkpoint1.md)
 Selección y justificación del texto fuente para tu proyecto de traducción.
 
-### [Checkpoint 2: Especificaciones (Semana 9)](proyecto-final-checkpoint2.md)
+### [Checkpoint 2: Especificaciones](proyecto-final-checkpoint2.md)
 Desarrollo de especificaciones técnicas usando parámetros estandarizados de Tranquality.
 
-### [Checkpoint 3: Corpus (Semana 11)](proyecto-final-checkpoint3.md)
+### [Checkpoint 3: Corpus](proyecto-final-checkpoint3.md)
 Creación de un corpus bilingüe de textos de referencia para tu proyecto.
 
-### [Checkpoint 4: Glosario (Semana 13)](proyecto-final-checkpoint4.md)
+### [Checkpoint 4: Glosario](proyecto-final-checkpoint4.md)
 Desarrollo de un glosario terminológico bilingüe especializado.
 
-### [Checkpoint 5: Traducción y Justificación + Entrega Final (Semana 16)](proyecto-final-checkpoint5.md)
+### [Checkpoint 5: Traducción y Justificación + Entrega Final](proyecto-final-checkpoint5.md)
 Producción de la traducción final, justificación de decisiones, y compilación de todos los componentes.
 
 ## Evaluación
