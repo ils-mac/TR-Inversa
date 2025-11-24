@@ -7,7 +7,7 @@ nav_order: 2
 
 # Proyecto Final: Flujo de Trabajo Completo de Traducción
 
-El proyecto final te dará la oportunidad de demostrar tu dominio de las tareas relacionadas con la traducción que has aprendido en este curso. Durante la semana 7, seleccionarás el texto fuente y comenzarás los preparativos, que incluyen la creación de especificaciones, un corpus pequeño y un glosario de términos clave. En la semana 16, realizarás la traducción y escribirás un ensayo sobre tu proceso de toma de decisiones.
+El proyecto final te dará la oportunidad de demostrar tu dominio de las tareas relacionadas con la traducción que has aprendido en este curso. A lo largo del curso, seleccionarás el texto fuente y comenzarás los preparativos, que incluyen la creación de especificaciones, un corpus pequeño y un glosario de términos clave. Después, realizarás la traducción y escribirás un ensayo sobre tu proceso de toma de decisiones.
 
 ## 🎯 Objetivo del Proyecto
 
@@ -27,14 +27,14 @@ Seleccionarás un texto para tu proyecto, y al recibir la aprobación de la prof
 
 ## 🗓️ Cronograma del Proyecto
 
-| **Checkpoint** | **Entregable** | **Semana** | **Puntos** |
-|:---------------|:---------------|:-----------|:-----------|
-| **Checkpoint 1** | Selección de texto | Semana 7 | 0 puntos |
-| **Checkpoint 2** | Especificaciones | Semana 9 | 1 punto |
-| **Checkpoint 3** | Corpus | Semana 11 | 1 punto |
-| **Checkpoint 4** | Glosario | Semana 13 | 1 punto |
-| **Checkpoint 5** | Instrucciones para entrega final | Semana 15 | 0 puntos |
-| **Entrega Final** | Traducción + justificación + paquete completo | Semanas 16-17 | 7 puntos |
+| **Checkpoint** | **Entregable** | **Puntos** |
+|---------------|---------------|-----------|
+| **Checkpoint 1** | Selección de texto | 0 puntos |
+| **Checkpoint 2** | Especificaciones | 1 punto |
+| **Checkpoint 3** | Corpus | 1 punto |
+| **Checkpoint 4** | Glosario | 1 punto |
+| **Checkpoint 5** | Instrucciones para entrega final | 0 puntos |
+| **Entrega Final** | Traducción + justificación + paquete completo | 7 puntos |
 
 **Total del Proyecto**: 10 puntos (10% de la calificación final)
 
@@ -42,7 +42,7 @@ Seleccionarás un texto para tu proyecto, y al recibir la aprobación de la prof
 
 ## 📝 Detalles de Cada Checkpoint
 
-### Checkpoint 1: Selección de Texto (Semana 7)
+### Checkpoint 1: Selección de Texto
 **Puntos**: 0 puntos  
 **Evaluación**: Aprobado/No aprobado
 
@@ -64,7 +64,7 @@ Seleccionarás tu texto fuente. Tu fuente debe ser un texto de aproximadamente *
 
 ---
 
-### Checkpoint 2: Especificaciones (Semana 9)
+### Checkpoint 2: Especificaciones
 **Puntos**: 1 punto  
 **Evaluación**: Inadecuado e incompleto (0 puntos) / Adecuado y completo (1 punto)
 
@@ -82,7 +82,7 @@ Redactarás las especificaciones para la traducción de tu texto original que ha
 
 ---
 
-### Checkpoint 3: Corpus (Semana 11)
+### Checkpoint 3: Corpus
 **Puntos**: 1 punto  
 **Evaluación**: Inadecuado y no útil (0 puntos) / Adecuado y útil (1 punto)
 
@@ -102,7 +102,7 @@ Seleccionarás un corpus inicial muy pequeño de carácter bilingüe. Teniendo e
 
 ---
 
-### Checkpoint 4: Glosario (Semana 13)
+### Checkpoint 4: Glosario
 **Puntos**: 1 punto  
 **Evaluación**: Incompleto y sin correspondencia (0 puntos) / Completo y alta correspondencia (1 punto)
 
