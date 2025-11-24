@@ -5,7 +5,7 @@ parent: Proyecto Final
 nav_order: 4
 ---
 
-# Checkpoint 3: Corpus (Semana 11)
+# Checkpoint 3: Corpus
 
 ## Descripción de la Actividad
 
@@ -87,10 +87,6 @@ Añade un documento a tu zip con la siguiente información:
 - **0 puntos**: Inadecuado y no útil
 
 *Recuerda que al entregar este checkpoint, el objetivo es que recibas retroalimentación que puedas utilizar para mejorar tu trabajo y/o continuar al siguiente paso con confianza. El trabajo que realices en este componente recibirá puntos cuando hagas tu entrega final.*
-
-## Fecha de Entrega
-
-**Domingo de la Semana 11**
 
 ---
 
