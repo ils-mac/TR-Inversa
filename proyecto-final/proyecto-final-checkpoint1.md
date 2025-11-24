@@ -104,10 +104,6 @@ Recibirás comentarios sobre:
 - La calidad del análisis en tu justificación
 - Sugerencias para el desarrollo de los siguientes checkpoints
 
-## Fecha de Entrega
-
-**Domingo de la Semana 7**
-
 ---
 
 ## 📥 Descargar Checkpoint 1
