@@ -16,8 +16,8 @@ El proyecto final te dará la oportunidad de traducir un documento de tu elecci�
 ### Modo de trabajo
 Trabajarás individualmente o en un grupo pequeño de no más de tres personas para este proyecto.
 
-### Proceso Gradual (Semanas 7-16)
-El proyecto se desarrolla a través de cinco checkpoints distribuidos a lo largo del semestre. Durante las semanas 7-13, recibirás **retroalimentación formativa** sobre los componentes preparatorios, permitiéndote mejorar tu trabajo basándote en los comentarios antes de la evaluación final.
+### Proceso Gradual
+El proyecto se desarrolla a través de cinco checkpoints distribuidos a lo largo del semestre. A lo largo del curso, puedes recibir **retroalimentación formativa** sobre los componentes preparatorios, permitiéndote mejorar tu trabajo basándote en los comentarios antes de la evaluación final si tomas ventaja de esta oportunidad.
 
 ### Retroalimentación Formativa vs. Sumativa
 - **Checkpoints 1-4**: Sin calificación numérica, solo retroalimentación para mejora
@@ -26,13 +26,13 @@ El proyecto se desarrolla a través de cinco checkpoints distribuidos a lo largo
 ## Componentes del Proyecto
 
 ### Fase Preparatoria
-1. **[Selección de Texto](proyecto-final-checkpoint1.md)** (Semana 7)
-2. **[Especificaciones](proyecto-final-checkpoint2.md)** (Semana 9)
-3. **[Corpus](proyecto-final-checkpoint3.md)** (Semana 11)
-4. **[Glosario](proyecto-final-checkpoint4.md)** (Semana 13)
+1. **[Checkpoint 1: Selección de Texto](proyecto-final-checkpoint1.md)**
+2. **[Checkpoint 2: Especificaciones](proyecto-final-checkpoint2.md)**
+3. **[Checkpoint 3: Corpus](proyecto-final-checkpoint3.md)**
+4. **[Checkpoing 4: Glosario](proyecto-final-checkpoint4.md)**
 
 ### Fase de Producción
-5. **[Traducción y Justificación + Entrega Final](proyecto-final-checkpoint5.md)** (Semana 16)
+5. **[Checkpoint 5: Traducción y Justificación + Entrega Final](proyecto-final-checkpoint5.md)**
 
 ## Criterios de Selección del Texto
 
@@ -68,13 +68,13 @@ Tu traducción será evaluada según la **tipología básica de MQM** en las ár
 
 ## Cronograma y Entregas
 
-| Checkpoint | Semana | Componente | Evaluación |
-|------------|---------|------------|------------|
-| 1 | 7 | Selección de texto | Aprobado/No aprobado |
-| 2 | 9 | Especificaciones | Retroalimentación formativa |
-| 3 | 11 | Corpus | Retroalimentación formativa |
-| 4 | 13 | Glosario | Retroalimentación formativa |
-| 5 | 16 | Traducción + Justificación + Entrega final | Evaluación sumativa (10 puntos) |
+| Checkpoint | Componente | Evaluación |
+|------------|------------|------------|
+| 1 | Selección de texto | Aprobado/No aprobado |
+| 2 | Especificaciones | Retroalimentación formativa |
+| 3 | Corpus | Retroalimentación formativa |
+| 4 | Glosario | Retroalimentación formativa |
+| 5 | Traducción + Justificación + Entrega final | Evaluación sumativa (10 puntos) |
 
 ## Consejos para el Éxito
 
