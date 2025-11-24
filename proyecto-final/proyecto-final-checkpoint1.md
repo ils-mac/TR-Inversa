@@ -5,7 +5,7 @@ parent: Proyecto Final
 nav_order: 2
 ---
 
-# Checkpoint 1: Selección de Texto (Semana 7)
+# Checkpoint 1: Selección de Texto
 
 ## Descripción de la Actividad
 
