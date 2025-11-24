@@ -5,7 +5,7 @@ parent: Proyecto Final
 nav_order: 5
 ---
 
-# Checkpoint 4: Glosario (Semana 13)
+# Checkpoint 4: Glosario
 
 ## Descripción de la Actividad
 
@@ -112,10 +112,6 @@ Añade una pestaña al base de datos con la siguiente información:
 - **0 puntos**: Incompleto y sin correspondencia en pares bilingües
 
 *Recuerda que al entregar este checkpoint, el objetivo es que recibas retroalimentación que puedas utilizar para mejorar tu trabajo y/o continuar al siguiente paso con confianza. El trabajo que realices en este componente recibirá puntos cuando hagas tu entrega final.*
-
-## Fecha de Entrega
-
-**Domingo de la Semana 13**
 
 ---
 
