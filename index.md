@@ -49,12 +49,12 @@ Demostrarás tu dominio de las tareas relacionadas con la traducción mediante u
 - **Justificación crítica**: Análisis de tu toma de decisiones
 
 ### Cronograma del Proyecto
-- **Checkpoint 1**: Selección de texto (Semana 7)
-- **Checkpoint 2**: Especificaciones (Semana 9)
-- **Checkpoint 3**: Corpus (Semana 11)
-- **Checkpoint 4**: Glosario (Semana 13)
-- **Checkpoint 5**: Instrucciones finales (Semana 15)
-- **Entrega Final**: Traducción y justificaciones (Semanas 16-17)
+- **Checkpoint 1**: Selección de texto y justificaciones
+- **Checkpoint 2**: Especificaciones
+- **Checkpoint 3**: Corpus
+- **Checkpoint 4**: Glosario
+- **Checkpoint 5**: Traducción y justificaciones
+- **Entrega Final**: Paquete para el proyecto
 
 ## 📋 Evaluación General
 - **Asistencia y participación**: 30% (2 puntos semanales, 15 semanas requeridas de 16 disponibles)
