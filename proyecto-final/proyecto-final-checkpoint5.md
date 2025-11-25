@@ -63,7 +63,7 @@ Escribe una justificación de **5 párrafos más la información administrativa*
 - Reflexiona sobre lo que has aprendido trabajando en este proyecto
 - Evalúa tu crecimiento como traductor profesional
 
-**Información administrativa** 
+**Información administrativa** <br>
 Además hay que añadir una sección a la justificación con la siguiente información:
   - **Nombres** de las personas que desarrollaron las especificaciones
   - **Contribuciones de tiempo** de cada persona a lo largo del proyecto
