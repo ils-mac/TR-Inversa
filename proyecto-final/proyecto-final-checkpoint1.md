@@ -54,7 +54,7 @@ Tu justificación debe demostrar:
 
 ### Análisis Crítico
 - ¿Qué desafíos específicos anticipas en la traducción de este texto?
-- ¿Por qué consideras que tus elecciones son razonables y viables?
+- ¿Por qué consideras que la elección del texto es razonable y viable?
 
 ## Citación de Fuentes
 
