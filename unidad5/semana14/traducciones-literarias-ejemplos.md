@@ -71,7 +71,7 @@ yet the journey itself generates the echoes that make language—and translation
 Attachments:
 - [Paz_MonoGramático-Chapter_ST.pdf]
 - [Paz_Lane_MonkeyGrammarian-Chapter_TT.pdf]
-- [Brandt_DeconstructionistMonkeyGrammarian_2012.pdf]
+- [Brandt_DeconstructionistMonkeyGrammarian_2012.pdf](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad5/semana14/referencias/Brandt_DeconstructionistMonkeyGrammarian_2012.pdf)
 
 The last attachment is a paper I wrote on El modo gramático, deconstructionist theory, and
 translation as reading and writing back in 2012.
