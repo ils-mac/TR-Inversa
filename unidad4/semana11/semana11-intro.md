@@ -51,7 +51,7 @@ Esta semana exploramos la teoría narrativa de Mona Baker y la equivalencia prag
 ---
 
 ## 📥 Descargar Contenido de la Semana 11
-¡Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad4/semana11/semana11-resumen.md) y descárgalo!
+¡Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad4/semana11/semana11-intro.md) y descárgalo!
 
 ### 🤖 Prompts de Estudio con IAG
 Copia el contenido descargado de la semana y prueba estos prompts:
