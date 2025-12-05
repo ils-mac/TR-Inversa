@@ -119,4 +119,4 @@ Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_
 
 ---
 
-**¡Semana 13 Completa!** La próxima semana exploraremos: [La Traducción de Modismos](../semana14/semana14-resumen.md)
+**¡Semana 13 Completa!** La próxima semana exploraremos: [La Traducción de Modismos Mexicanos](../semana14/semana14-intro.md)
