@@ -10,48 +10,31 @@ has_children: true
 
 ## Resumen
 
-*Nota: No hay reunión presencial para la clase esta semana; todas las actividades se completan individualmente.*
+Esta semana exploramos el futuro de la traducción profesional a través de Lilt, una plataforma que integra inteligencia artificial generativa con expertise humano. Aprenderemos a usar Lilt efectivamente, y compararemos la experiencia de traducción humana tradicional con la traducción híbrida asistida por IAG.
 
-Esta semana exploramos el futuro de la traducción profesional a través de Lilt, una plataforma que integra inteligencia artificial generativa con expertise humano. Analizaremos los resultados de la Evaluación Parcial 1, aprenderemos a usar Lilt efectivamente, y compararemos la experiencia de traducción humana tradicional con la traducción híbrida asistida por IAG.
-
-## Temas Cubiertos
-
-### Subtemas
-- **Evaluación parcial 1**: Análisis de resultados y correcciones comunes
+## Temas de la Semana
 - **Introducción a Lilt**: Herramienta profesional para traducción híbrida humano-IAG
 - **Contraste de enfoques**: Traducción humana (TH) vs. traducción híbrida con IAG en Lilt aplicada al Texto 4
 
-## Actividades de Aprendizaje Individual
-
-### Aprendizaje Autodirigido
-- Evaluación parcial 1: Correcciones comunes - análisis reflexivo de errores frecuentes
+## Actividades en Clase
 - Introducción a Lilt y cómo incorpora la IAG en procesos humanos de traducción - capacitación autoguiada
-- Texto 4 IAG: Traducción dentro de Lilt - aplicación práctica de la plataforma
+- Presentación del Proyecto 5 – Contraste entre Traducción Libre y Traducción Híbrida
 
-## Actividades Independientes
-
-### Tarea Asignada
-- **Ensayo: Contraste de la TH y la traducción híbrida con Lilt** (3 puntos)
-- **Fecha de entrega**: Domingo, 21 de septiembre
+## Tareas Asignadas y Evaluaciones
+- **Proyecto 5 – Contraste entre Traducción Libre y Traducción Híbrida** (3 puntos)
+  - **Fecha de entrega**: Fin de la semana
+- **Asistencia y participación** (2 puntos)
 
 ## Recursos para el Aprendizaje
-
-- Instrucciones detalladas: Cómo utilizar Lilt de manera efectiva
 - Cuentas de Lilt con acceso completo a funcionalidades profesionales
-- Video tutorial: Navegación y mejores prácticas en Lilt
-- Plantilla para el ensayo comparativo
-
-## Evaluación
-
-- **Asistencia y participación** (2 puntos) - a través de progreso documentado en actividades autodirigidas
-- **Ensayo: Contraste de la TH y la traducción híbrida con Lilt** (3 puntos)
+- Videos y tutoriales sobre la navegación de Lilt
 
 ---
 
 ## 📥 Descargar Contenido de la Semana 6
 ¡Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad2/semana6/semana6-resumen.md) y descárgalo!
 
-### 🤖 Prompts de Estudio con IA
+### 🤖 Prompts de Estudio con IAG
 Copia el contenido descargado de la semana y prueba estos prompts:
 - "Ayúdame a estructurar un ensayo comparativo entre traducción humana y traducción híbrida con IAG"
 - "¿Cuáles son las competencias clave que necesitan los traductores en la era de la IAG?"
