@@ -150,4 +150,4 @@ Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_
 
 ---
 
-**¡Semana 14 Completa!** La próxima semana exploraremos: [La Ética en la Traducción](../semana15/semana15-resumen.md)
+**¡Semana 14 Completa!** La próxima semana exploraremos: [La Ética en la Traducción](../semana15/semana15-intro.md)
