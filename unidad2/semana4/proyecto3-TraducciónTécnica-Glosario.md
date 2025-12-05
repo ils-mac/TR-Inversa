@@ -20,7 +20,7 @@ Trabajando en el grupo asignado, traducirán un texto técnico sobre arquitectur
 
 ### El texto a traducir
 
-**[Texto3: Arquitectura de Prompts del Sistema para EVA-Tutor](./texto3-prompts-sistema.md)**
+**[Texto3: Arquitectura de Prompts del Sistema para EVA-Tutor](./proyecto3-prompts-sistema.md)**
 
 ### Recursos de apoyo
 - **Guía teórica:** [Traducción Técnica e IAG](./traduccion-tecnica.md)
@@ -113,7 +113,7 @@ Considerando tus puntuaciones de Correspondencia General y Legibilidad, puedes d
 
 ## 📥 Descarga esta Actividad
 
-Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad2/semana4/proyecto-texto3.md) y descárgalo.
+Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad2/semana4/proyecto3-TraducciónTécnica-Glosario.md) y descárgalo.
 
 Para optimizar tu investigación terminológica y traducción técnica, prueba estos prompts con tu herramienta de IA preferida:
 
