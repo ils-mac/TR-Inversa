@@ -30,7 +30,7 @@ Attachments:
 Please be organized about the files that you share with us. We should be able to easily understand what the contents of each file are from the file name.
 
 **Suggested File Naming Conventions**
-- Source texts: `AuthorsLastName(s)_AbbreviatedTitle_ST
+- Source texts: `AuthorsLastName(s)_AbbreviatedTitle_ST`
 - Target texts: `AuthorsLastName(s)_TranslatorsLastName(s)_AbbreviatedTitle_TT`
 - Analyses/Contexts: `AuthorsLastNames_AbbreviatedTitle`
 
