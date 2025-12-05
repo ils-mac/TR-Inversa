@@ -47,7 +47,7 @@ Esta semana nos enfocamos en uno de los desafíos más distintivos de la traducc
 ---
 
 ## 📥 Descargar Contenido de la Semana 14
-¡Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad5/semana14/semana14-resumen.md) y descárgalo!
+¡Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad5/semana14/semana14-intro.md) y descárgalo!
 
 ### 🤖 Prompts de Estudio con IA
 Copia el contenido descargado de la semana y prueba estos prompts:
