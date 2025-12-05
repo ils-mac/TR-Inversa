@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Texto 3 - Arquitectura de Prompts del Sistema para EVA-Tutor
+title: Proyecto 3 - Arquitectura de Prompts del Sistema para EVA-Tutor
 parent: Semana 4
 grand_parent: Unidad 2
 nav_order: 4
