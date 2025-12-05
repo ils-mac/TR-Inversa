@@ -6,7 +6,7 @@ nav_order: 2
 has_children: true
 ---
 
-# Semana 8: Marco MQM y Label Studio
+# Semana 8: Traducción Científica Colaborativa
 
 ## Resumen
 
