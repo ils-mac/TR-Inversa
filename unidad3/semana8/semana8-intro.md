@@ -10,29 +10,28 @@ has_children: true
 
 ## Resumen
 
-Esta semana nos enfocamos en la evaluación de traducciones utilizando el marco MQM (Multidimensional Quality Metrics) para etiquetar errores de manera sistemática. También introducimos Label Studio, una herramienta profesional utilizada en la industria para el etiquetado de contenido y análisis de calidad.
+Esta semana continuamos con sus proyectos de traducción colaborativos. Compartimos aprendizajes y reportamos desafíos sobre la traducción en el campo del cambio climático. Revisamos los flujos de trabajo que seguimos en Lilt y exploramos las diferencias de puntuación entre español e inglés para poder hacer correcciones apropriadas durante las etapas de revisión.
 
-## Temas Cubiertos
-
-### Subtemas
-- **Evaluaciones de traducciones**: El marco MQM para etiquetar errores en las traducciones
-- **Label Studio**: Software profesional para la etiqueta de errores y análisis de calidad
+## Temas de la Semana
+- **El campo del cambio climático**: La terminología, las convenciones lingüísticas y la desinformación
+- **Contraste ES/EN**: Los elementos de puntuación y su aplicación en traducción profesional
+- **Navegando Lilt**: Familiarizándonos más con cómo usar Lilt
 
 ## Actividades en Clase
+- Contraste ES/EN: Los elementos de puntuación - Presentación + actividades prácticas
 
-### Actividades bajo Conducción Docente (Martes 9-11am)
 - Evaluaciones de traducciones y el marco MQM: Presentación + diálogo sobre metodologías profesionales
 - Introducción a Label Studio: Herramienta para etiquetar contenido utilizada en la industria
-- Evaluación de la calidad de Texto 5 - Cambio Climático: Presentación del ejercicio + tiempo de trabajo
+- Revisión del Proyecto 6 - Traducción Científica Colaborativa (proyecto de dos semanas)
 
-## Actividades Independientes
-
-### Tarea Asignada
-- **Evaluación de la calidad de Texto 5 - Cambio Climático** (3 puntos)
-- **Fecha de entrega**: Domingo, 5 de octubre
+## Tareas Asignadas y Evaluaciones
+- **Proyecto 6 - Traducción Científica Colaborativa: Entrega** (3 puntos)
+  - **Fecha de entrega**: Fin de la semana
+- **Asistencia y participación** (2 puntos)
 
 ## Recursos para el Aprendizaje
 
+- [The Punctuation Guide](https://www.thepunctuationguide.com/top-ten.html)
 - Presentación sobre la gestión de la calidad y el marco MQM
 - [The MQM Error Typology](https://themqm.org/error-types-2/typology/)
 - Instrucciones: Cómo utilizar Label Studio
