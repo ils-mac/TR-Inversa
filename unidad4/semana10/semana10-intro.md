@@ -6,7 +6,7 @@ nav_order: 1
 has_children: true
 ---
 
-# Semana 10: Textos Especializados en Relaciones Internacionales
+# Semana 10: Relaciones Internacionales entre México y EUA
 
 ## Resumen
 
