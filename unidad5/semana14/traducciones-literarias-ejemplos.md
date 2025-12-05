@@ -69,9 +69,9 @@ traversing an impossible path toward meaning that can never fully arrive,
 yet the journey itself generates the echoes that make language—and translation—worthwhile.
 
 Attachments:
-- `[Paz_MonoGramático-Chapter_ST.pdf]`
-- `[Paz_Lane_MonkeyGrammarian-Chapter_TT.pdf]`
-- `[Brandt_DeconstructionistMonkeyGrammarian_2012.pdf]`
+- [Paz_MonoGramático-Chapter_ST.pdf]
+- [Paz_Lane_MonkeyGrammarian-Chapter_TT.pdf]
+- [Brandt_DeconstructionistMonkeyGrammarian_2012.pdf]
 
 The last attachment is a paper I wrote on El modo gramático, deconstructionist theory, and
 translation as reading and writing back in 2012.
