@@ -47,7 +47,7 @@ Esta semana nos enfocamos en la traducción de textos literarios mexicanos para 
 ---
 
 ## 📥 Descargar Contenido de la Semana 13
-¡Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad5/semana13/semana13-resumen.md) y descárgalo!
+¡Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad5/semana13/semana13-intro.md) y descárgalo!
 
 ### 🤖 Prompts de Estudio con IA
 Copia el contenido descargado de la semana y prueba estos prompts:
