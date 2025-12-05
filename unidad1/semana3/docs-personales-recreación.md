@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Documentos Personales - Formateo
+title: Documentos Personales - Recreación
 parent: Semana 3
 grand_parent: Unidad 1
 nav_order: 2
 ---
 
-# Documentos Personales: Formateo
+# Documentos Personales: Recreación
 
 La presentación visual de documentos personales traducidos es tan importante como la precisión del contenido textual. Los evaluadores educativos y funcionarios administrativos necesitan poder comparar lado a lado el documento original con la traducción para verificar correspondencias y autenticidad. Esta actividad te enseñará las técnicas profesionales para recrear correctamente el formateo de documentos oficiales.
 
@@ -108,7 +108,7 @@ El formateo profesional no es solo una cuestión estética—es una demostració
 
 ## 📥 Descarga esta Actividad
 
-Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad1/semana3/docs-personales-formateo.md) y descárgalo.
+Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad1/semana3/docs-personales-recreación.md) y descárgalo.
 
 Para profundizar en tu comprensión del formateo de documentos, prueba estos prompts con tu herramienta de IA preferida:
 
@@ -119,4 +119,4 @@ Para profundizar en tu comprensión del formateo de documentos, prueba estos pro
 
 ---
 
-**Siguiente:** [Proyecto Texto 2](./proyecto-texto2.md)
+**Siguiente:** [Proyecto Texto 2](proyecto2-DocumentoPersonal.md)
