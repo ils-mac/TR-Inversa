@@ -50,12 +50,12 @@ For example:
 **Why you particularly like the translation:**
 I'm drawn to El mono gramático and Lane's translation because they embody the very instability of meaning I find compelling in deconstructionist theory. Paz's text refuses to let language settle into fixed meanings—his exploration of fijeza as "siempre momentánea" demonstrates how even attempts to capture stability dissolve into metaphors of metaphors, with meaning perpetually deferred. Lane doesn't merely reproduce Paz's Spanish but creates her own intimate reading, one that sometimes amplifies his ideas through subtle shifts, reinforcing the spatial-temporal confusion Paz explores. Both writer and translator engage openly with translation's "necessary impossibility"—Paz's assertion that the grove of trees is "intraducible" while simultaneously being named, and Lane's acceptance that no "monogamous relationship" exists between original and translation. What makes this relationship particularly compelling is how each text performs deconstruction differently yet harmoniously, with Lane's article choices suggesting completed transformations where Paz implies ongoing process, creating what Benjamin called not "reproduction but harmony." Ultimately, Both texts demonstrate that writing and reading are acts of traversing an impossible path toward meaning that can never fully arrive, yet the journey itself generates the echoes that make language—and translation—worthwhile.
 
-Attachments:
+**Attachments:**
 - [Paz_MonoGramático-Chapter_ST.pdf]
 - [Paz_Lane_MonkeyGrammarian-Chapter_TT.pdf]
 - [Brandt_DeconstructionistMonkeyGrammarian_2012.pdf](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad5/semana14/referencias/Brandt_DeconstructionistMonkeyGrammarian_2012.pdf)
 
-The last attachment is a paper I wrote on El modo gramático, deconstructionist theory, and translation as reading and writing back in 2012.
+The last attachment is a paper I wrote on El modo gramático, deconstructionist theory, and translation as reading and writing.
 
 ---
 
