@@ -46,7 +46,7 @@ Esta semana nos enfocamos en las técnicas de posedición de traducción automá
 ---
 
 ## 📥 Descargar Contenido de la Semana 12
-¡Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad4/semana12/semana12-resumen.md) y descárgalo!
+¡Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad4/semana12/semana12-intro.md) y descárgalo!
 
 ### 🤖 Prompts de Estudio con IA
 Copia el contenido descargado de la semana y prueba estos prompts:
