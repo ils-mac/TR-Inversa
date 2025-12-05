@@ -27,7 +27,7 @@ Esta semana exploramos el futuro de la traducción profesional a través de Lilt
 
 ## Recursos para el Aprendizaje
 - Cuentas de Lilt con acceso completo a funcionalidades profesionales
-- Videos y tutoriales sobre la navegación de Lilt
+- [Lilt Knowledge Base](https://support.lilt.com/kb/introduction-to-lilt-translate)
 
 ---
 
