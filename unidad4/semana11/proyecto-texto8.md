@@ -189,4 +189,4 @@ Para optimizar tu traducción de documentos oficiales y periodísticos sobre rel
 
 ---
 
-**¡Semana 10 Completa!** La próxima semana exploraremos: [Posedición y Evaluación Metodológica](../semana12/semana12-resumen.md)
+**¡Semana 11 Completa!** La próxima semana exploraremos: [Pos-edición de la TA](../semana12/semana12-intro.md)
