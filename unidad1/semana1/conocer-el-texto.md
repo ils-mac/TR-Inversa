@@ -105,4 +105,4 @@ Para profundizar en tu análisis después de la clase, prueba estos prompts con 
 
 ---
 
-**Próxima actividad:** [Proyecto de Traducción - Texto 1](./proyecto-texto1.md)
+**Próxima actividad:** [Proyecto 1 – Instituto Nacional de Migración](./proyecto1-INM.md)
