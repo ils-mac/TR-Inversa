@@ -170,4 +170,4 @@ Para profundizar en tu comprensión de la traducción técnica de IAG, prueba es
 
 ---
 
-**Siguiente:** [Proyecto Texto 3](./proyecto-texto3.md)
+**Siguiente:** [Proyecto 3 – Traducción Técnica IAG + Glosario](proyecto3-TraducciónTécnica-Glosario.md)
