@@ -6,7 +6,7 @@ nav_order: 3
 has_children: true
 ---
 
-# Semana 3: Documentos Personales y Expectativas
+# Semana 3: Documentos Personales - Recreación y Guías de Estilo
 
 ## Resumen
 
