@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Texto 1 - Retroalimentación
+title: Proyecto 1 - Retroalimentación
 parent: Semana 2
 grand_parent: Unidad 1
 nav_order: 3
 ---
 
-# Texto 1 - Retroalimentación sobre la Traducción
+# Proyecto 1 - Retroalimentación sobre la Traducción
 
 Esta retroalimentación te ayudará a identificar los aspectos más desafiantes del texto de inmigración que tradujiste la semana pasada. El texto fuente contenía numerosos elementos que requieren consideración especial en la traducción español-inglés, desde terminología técnica hasta diferencias de registro y convenciones culturales. 
 
@@ -201,7 +201,7 @@ En nuestra próxima sesión discutiremos:
 
 ## 📥 Descarga esta Actividad
 
-Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad1/semana2/texto1-retroalimentacion.md) y descárgalo.
+Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad1/semana2/proyecto1-retroalimentacion.md) y descárgalo.
 
 Para profundizar en tu análisis, prueba estos prompts con tu herramienta de IA preferida:
 
