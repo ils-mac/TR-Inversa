@@ -37,6 +37,12 @@ Por ejemplo:
 - `Paz_Lane_MonkeyGrammarian-Capítulo_TM.pdf`
 - `Brandt_MonoGramáticoDeconstruccionista.pdf`
 
+### Recomendaciones Multilingües Bienvenidas
+
+Pueden compartir sus recomendaciones en el idioma que prefieran: español, inglés, francés, o adicionales.
+
+**¡Esperamos conocer sus traducciones favoritas!**
+
 ---
 
 ## Recomendación: _El mono gramático_ de Octavio Paz y _The Monkey Grammarian_ de Helen R. Lane
@@ -56,12 +62,6 @@ I'm drawn to El mono gramático and Lane's translation because they embody the v
 - [Brandt_DeconstructionistMonkeyGrammarian_2012.pdf](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad5/semana14/referencias/Brandt_DeconstructionistMonkeyGrammarian_2012.pdf)
 
 El último adjunto es un ensayo que escribí sobre El mono gramático, la teoría deconstruccionista, y la traducción como lectura y escritura.
-
----
-
-Pueden compartir sus recomendaciones en el idioma que prefieran: español, inglés, francés, o adicionales.
-
-**¡Esperamos conocer sus traducciones favoritas!**
 
 ---
 
