@@ -1,5 +1,9 @@
 ---
-published: false
+layout: default
+title: Traducción Literaria
+parent: Semana 13
+grand_parent: Unidad 5
+nav_order: 1
 ---
 
 # Traducción Literaria
