@@ -3,7 +3,7 @@ layout: default
 title: Proyecto 10 - Traducción Literaria
 parent: Semana 14
 grand_parent: Unidad 5
-nav_order: 2
+nav_order: 3
 ---
 
 # Proyecto Literario - Traducción del Texto 10
@@ -150,4 +150,4 @@ Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_
 
 ---
 
-
+**Siguiente:** [Traducciones Literarias - Ejemplos](traducciones-literarias-ejemplos.md)
