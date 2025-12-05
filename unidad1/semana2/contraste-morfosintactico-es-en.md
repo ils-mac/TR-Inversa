@@ -163,4 +163,4 @@ Para profundizar en tu análisis después de completar el ejercicio, prueba esto
 
 ---
 
-**¡Semana 2 Completa!** La próxima semana exploraremos: [Documentos Personales](../semana3/semana3-resumen.md)
+**¡Semana 2 Completa!** La próxima semana exploraremos: [Documentos Personales](../semana3/semana3-intro.md)
