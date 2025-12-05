@@ -10,46 +10,35 @@ has_children: true
 
 ## Resumen
 
-Esta semana profundizamos en las diferencias gramaticales entre español e inglés específicamente en el contexto de textos técnicos, y realizamos la primera evaluación parcial del curso. Esta evaluación te permitirá demostrar tu capacidad para traducir textos técnicos sobre IAG bajo condiciones cronometradas que simulan el entorno profesional.
+Esta semana profundizamos en las diferencias gramaticales entre español e inglés, y exploramos cómo los corpus bilingües y la terminología especializada mejoran significativamente la calidad de las traducciones, tanto humanas como generadas por IAG. Finalmente, realizamos la primera evaluación parcial del curso. Esta evaluación te permitirá demostrar tu capacidad para traducir textos técnicos sobre IAG bajo condiciones cronometradas que simulan el entorno profesional.
 
 ## Temas Cubiertos
 
-### Subtemas
+## Subtemas
 - **Contraste ES/EN**: Los elementos gramaticales y su impacto específico en textos técnicos
 - **Corpus y terminología**: Metodología para crear y aplicar glosarios especializados en traducción técnica
-- **Evaluación parcial 1**: Requisitos, especificaciones y metodología de evaluación
+- **Primera Evaluación Parcial**: Requisitos, especificaciones y metodología de evaluación
 
 ## Actividades en Clase
-
-### Actividades bajo Conducción Docente (Martes 9-11am)
 - Contraste ES/EN: Los elementos gramaticales - Presentación y actividades prácticas aplicadas a textos técnicos
 - El uso de corpus y la terminología en la traducción: Preguntas y respuestas sobre metodología
 - Evaluación parcial 1: Presentación del Texto 4: IAG y los requisitos - especificaciones, glosario, y protocolo de traducción
 
-## Actividades Independientes
-
-### Tarea Asignada
-- **Evaluación parcial 1: Finalización de Texto 4: IAG** (10 puntos)
-- **Fecha de entrega**: Domingo, 14 de septiembre
+## Tareas Asignadas y Evaluaciones
+- **Proyecto 4 - Traducción Técnica IAG + Glosario (PRIMERA EVALUACIÓN PARCIAL)** (10 puntos)
+  - **Fecha de entrega**: Fin de la semana
+- **Asistencia y participación** (2 puntos)
 
 ## Recursos para el Aprendizaje
-
 - Baker (2011): "Grammatical Equivalence" en *In Other Words* (págs. 92-129)
-- Especificaciones técnicas para la Evaluación Parcial 1
-- Glosario de referencia para textos sobre IAG
-- Plantilla de evaluación y criterios de calificación
-
-## Evaluación
-
-- **Asistencia y participación** (2 puntos)
-- **Evaluación parcial 1: Texto 4: IAG** (10 puntos)
+- Corpus bilingüe sobre la IAG - colección especializada de textos técnicos
 
 ---
 
 ## 📥 Descargar Contenido de la Semana 5
 ¡Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad2/semana5/semana5-resumen.md) y descárgalo!
 
-### 🤖 Prompts de Estudio con IA
+### 🤖 Prompts de Estudio con IAG
 Copia el contenido descargado de la semana y prueba estos prompts:
 - "Ayúdame a repasar las diferencias gramaticales clave entre español e inglés en textos técnicos"
 - "Crea ejercicios de práctica para la Evaluación Parcial 1 sobre traducción de textos de IAG"
