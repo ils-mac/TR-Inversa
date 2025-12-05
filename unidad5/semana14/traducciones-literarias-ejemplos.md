@@ -67,7 +67,7 @@ I'm drawn to _El mono gramático_ and Lane's translation because they embody the
 - [The Monkey Grammarian by Octavio Paz, Translated by Helen R. Lane - Chapter 9](https://sphinxlibrary.com/Calibre/Octavio%20Paz/The%20Monkey%20Grammarian%20(7392)/The%20Monkey%20Grammarian%20-%20Octavio%20Paz.pdf)
 - [Brandt_DeconstructionistMonkeyGrammarian_2012.pdf](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad5/semana14/referencias/Brandt_DeconstructionistMonkeyGrammarian_2012.pdf)
 
-El último adjunto es un ensayo que escribí sobre El mono gramático, la teoría deconstruccionista, y la traducción como lectura y escritura.
+El último adjunto es un ensayo que escribí sobre _El mono gramático_, la teoría deconstruccionista, y la traducción como lectura y escritura.
 
 ---
 
