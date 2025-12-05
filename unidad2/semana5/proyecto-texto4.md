@@ -163,4 +163,4 @@ Para optimizar tu investigación terminológica y traducción técnica en ética
 
 ---
 
-**¡Primera Evaluación Parcial Completa!** La próxima semana exploraremos: [Introducción a Lilt y Traducción Híbrida](../semana6/semana6-resumen.md)
+**¡Primera Evaluación Parcial Completa!** La próxima semana exploraremos: [Introducción a Lilt y Traducción Híbrida](../semana6/semana6-intro.md)
