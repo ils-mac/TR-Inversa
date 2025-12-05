@@ -197,4 +197,4 @@ Para optimizar tu trabajo en equipo y traducción especializada en cambio climá
 
 ---
 
-**¡Semana 7 Completa!** La próxima semana exploraremos: [Marco MQM y Label Studio](../semana8/semana8-intro.md)
+**¡Semana 7 Completa!** La próxima semana exploraremos: [Flujo de trabajo colaborativo en Lilt (Continuación)](../semana8/semana8-intro.md)
