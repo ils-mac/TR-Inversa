@@ -6,7 +6,7 @@ grand_parent: Unidad 1
 nav_order: 3
 ---
 
-# Proyecto Texto 2: Traducción de Documento Personal
+# Proyecto 2: Traducción de Documento Personal
 
 **Puntos:** 3
 
@@ -120,7 +120,7 @@ Tu traducción será evaluada según su **efectividad** - es decir, qué tan bie
 
 ## 📥 Descarga esta Actividad
 
-Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad1/semana3/proyecto-texto2.md) y descárgalo.
+Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad1/semana3/proyecto2-DocumentoPersonal.md) y descárgalo.
 
 Para optimizar tu proceso de traducción, prueba estos prompts con tu herramienta de IA preferida:
 
