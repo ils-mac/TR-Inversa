@@ -20,7 +20,7 @@ Trabajando en el grupo asignado, traducirán un texto técnico sobre arquitectur
 
 ### El texto a traducir
 
-**[Texto3: Arquitectura de Prompts del Sistema para EVA-Tutor](./proyecto3-prompts-sistema.md)**
+**[Proyecto 3: Arquitectura de Prompts del Sistema para EVA-Tutor](./proyecto3-prompts-sistema.md)**
 
 ### Recursos de apoyo
 - **Guía teórica:** [Traducción Técnica e IAG](./traduccion-tecnica.md)
@@ -125,4 +125,4 @@ Para optimizar tu investigación terminológica y traducción técnica, prueba e
 
 ---
 
-**¡Semana 4 Completa!** La próxima semana exploraremos: [Contraste Gramatical y Evaluación Parcial](../semana5/semana5-resumen.md)
+**¡Semana 4 Completa!** La próxima semana exploraremos: [Contraste Gramatical y Evaluación Parcial](../semana5/semana5-intro.md)
