@@ -116,4 +116,4 @@ Para profundizar en tu comprensión, prueba estos prompts con tu herramienta de 
 
 ---
 
-**Siguiente:** [Documentos Personales: Formateo](./docs-personales-formateo.md)
+**Siguiente:** [Documentos Personales: Recreación](./docs-personales-recreación.md)
