@@ -6,7 +6,7 @@ nav_order: 2
 has_children: true
 ---
 
-# Semana 8: Traducción Científica Colaborativa
+# Semana 8: Flujo de trabajo colaborativo en Lilt (Continuación)
 
 ## Resumen
 
