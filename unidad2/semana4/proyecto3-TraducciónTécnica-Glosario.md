@@ -125,4 +125,4 @@ Para optimizar tu investigación terminológica y traducción técnica, prueba e
 
 ---
 
-**¡Semana 4 Completa!** La próxima semana exploraremos: [Contraste Gramatical y Evaluación Parcial](../semana5/semana5-intro.md)
+**¡Semana 4 Completa!** La próxima semana exploraremos: [Contraste Gramatical, Corpus y Terminología](../semana5/semana5-intro.md)
