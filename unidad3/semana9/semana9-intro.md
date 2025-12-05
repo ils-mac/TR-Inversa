@@ -6,7 +6,7 @@ nav_order: 3
 has_children: true
 ---
 
-# Semana 9: Evaluación Avanzada y Consenso
+# Semana 9: Sistemas de Gestión de Calidad
 
 ## Resumen
 
