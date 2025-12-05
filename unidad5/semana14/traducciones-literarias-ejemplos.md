@@ -28,9 +28,9 @@ Adjuntos:
 Por favor sean organizados con los archivos que comparten con nosotros. Deberíamos poder entender fácilmente el contenido de cada archivo a partir del nombre del archivo.
 
 **Convenciones Sugeridas para Nomenclatura de Archivos**
-- Textos origen: `ApellidoAutor(es)_TítuloAbreviado_TO`
-- Textos meta: `ApellidoAutor(es)_ApellidoTraductor(es)_TítuloAbreviado_TM`
-- Análisis/Contextos: `ApellidosAutores_TítuloAbreviado`
+- Textos origen: `Apellido(s)Autor(es)_TítuloAbreviado_TO`
+- Textos meta: `Apellido(s)Autor(es)_Apellido(s)Traductor(es)_TítuloAbreviado_TM`
+- Análisis/Contextos: `Apellido(s)Autor(es)_TítuloAbreviado`
 
 Por ejemplo:
 - `Paz_MonoGramático-Capítulo_TO.pdf`
