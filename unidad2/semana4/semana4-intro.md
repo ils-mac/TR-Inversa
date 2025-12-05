@@ -10,44 +10,32 @@ has_children: true
 
 ## Resumen
 
-Esta semana nos introducimos al mundo de la traducción técnica, enfocándonos específicamente en textos sobre inteligencia artificial generativa (IAG). Exploraremos cómo los corpus bilingües y la terminología especializada mejoran significativamente la calidad de las traducciones, tanto humanas como generadas por IAG.
+Esta semana nos introducimos al mundo de la traducción técnica, enfocándonos específicamente en textos sobre inteligencia artificial generativa (IAG). También, presentamos el marco de errores que se utilizará para evaluar las traducciones a lo largo del semestre.
 
-## Temas Cubiertos
-
-### Subtemas
+## Temas de la Semana
 - **Tipología de errores MQM**: Las dimensiones y tipos de errores que abarca MQM
 - **La traducción de textos técnicos**: Características y desafíos en el área de la inteligencia artificial generativa (IAG)
 
 ## Actividades en Clase
-
-### Actividades bajo Conducción Docente (Martes 9-11am)
+- Multidimensional Quality Metrics (MQM): Cómo funciona este sistema para marcar los errores en una traducción
 - La traducción de textos técnicos y la IAG: Presentación y diálogo sobre el estado actual de la tecnología
-- Presentación del Texto 3: IAG para traducción - análisis del documento fuente y contexto técnico
+- Presentación del Proyecto 3 – Traducción Técnica IAG + Glosario
 
-## Actividades Independientes
-
-### Tarea Asignada
-- **Creación de un glosario y la traducción del Texto 3: IAG** (3 puntos)
-- **Fecha de entrega**: Domingo, 7 de septiembre
+## Tareas Asignadas y Evaluaciones
+- **Proyecto 3 – Traducción Técnica + Glosario** (3 puntos)
+  - **Fecha de entrega**: Fin de la semana
+- **Asistencia y participación** (2 puntos)
 
 ## Recursos para el Aprendizaje
-
-- Presentación sobre la traducción de textos técnicos y los corpus y la terminología
 - Haywood, Thompson and Hervey (2009): "Scientific and Technical Translation" en *Thinking Spanish Translation* (págs. 211-225)
-- Corpus bilingüe sobre la IAG - colección especializada de textos técnicos
 - Plantilla para creación de glosarios terminológicos
-
-## Evaluación
-
-- **Asistencia y participación** (2 puntos)
-- **Glosario y Traducción de Texto 3: IAG** (3 puntos)
 
 ---
 
 ## 📥 Descargar Contenido de la Semana 4
 ¡Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad2/semana4/semana4-resumen.md) y descárgalo!
 
-### 🤖 Prompts de Estudio con IA
+### 🤖 Prompts de Estudio con IAG
 Copia el contenido descargado de la semana y prueba estos prompts:
 - "Ayúdame a crear un glosario efectivo para textos técnicos sobre inteligencia artificial"
 - "¿Cuáles son las características específicas de la traducción técnica vs. la traducción general?"
