@@ -6,7 +6,7 @@ nav_order: 3
 has_children: true
 ---
 
-# Semana 15: La Ética en la Traducción y Evaluación Parcial
+# Semana 15: La Ética en la Traducción (EVALUACIÓN PARCIAL)
 
 ## Resumen
 
