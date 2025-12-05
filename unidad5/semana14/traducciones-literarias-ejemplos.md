@@ -1,47 +1,45 @@
 ---
 layout: default
-title: Traducciónes Literarias - Ejemplos
+title: Traducciones Literarias - Ejemplos
 parent: Semana 14
 grand_parent: Unidad 5
 nav_order: 4
 ---
 
-# Traducciónes Literarias - Ejemplos
+# Traducciones Literarias - Ejemplos
 
-As a bonus to our unit on literary translation, let's share examples of some of our favorite literary translations. If we can, we'll share a copy of the ST and the TT. Otherwise, we can give information about how people can purchase or request copies of the translation. Then, when recommending the translation, we can do so by sharing some initial thoughts or by carrying out more in depth analysis.
+Como complemento a nuestra unidad sobre traducción literaria, compartamos ejemplos de algunas de nuestras traducciones literarias favoritas. Si es posible, compartiremos una copia del TO y del TM. De lo contrario, podemos dar información sobre cómo adquirir o solicitar copias de la traducción. Luego, al recomendar la traducción, podemos hacerlo compartiendo algunas reflexiones iniciales o llevando a cabo un análisis más profundo.
 
-## Recommending Spanish to English Literary Translations
+## Recomendando Traducciones Literarias del Español al Inglés
 
-We'll recommend translations in the Teams channel called `TradLit Recomendaciones`. A suggested format for your posts is:
-
+Recomendaremos traducciones en el canal de Teams llamado `TradLit Recomendaciones`. Un formato sugerido para sus publicaciones es:
 ```
-Asunto: Illustrative Title for your Recommendation
-Analysis por: Your Names
-Description of the ST: Short description of the literary work, the trama, the genre,
-and the type of linguistic conventions used
-Why you particularly like the translation:
-Attachments:
-- Source Text and Target Text (if possible)
-- Any additional context or analysis to support your recommendation
-
+Asunto: Título ilustrativo para tu recomendación
+Análisis por: Sus nombres
+Descripción del TO: Breve descripción de la obra literaria, la trama, el género,
+y el tipo de convenciones lingüísticas utilizadas
+Por qué les gusta particularmente la traducción:
+Adjuntos:
+- Texto Origen y Texto Meta (si es posible)
+- Cualquier contexto o análisis adicional que apoye su recomendación
 ```
 
-### A note on File Naming
-Please be organized about the files that you share with us. We should be able to easily understand what the contents of each file are from the file name.
+### Una nota sobre la nomenclatura de archivos
+Por favor sean organizados con los archivos que comparten con nosotros. Deberíamos poder entender fácilmente el contenido de cada archivo a partir del nombre del archivo.
 
-**Suggested File Naming Conventions**
-- Source texts: `AuthorsLastName(s)_AbbreviatedTitle_ST`
-- Target texts: `AuthorsLastName(s)_TranslatorsLastName(s)_AbbreviatedTitle_TT`
-- Analyses/Contexts: `AuthorsLastNames_AbbreviatedTitle`
+**Convenciones Sugeridas para Nomenclatura de Archivos**
+- Textos origen: `ApellidoAutor(es)_TítuloAbreviado_TO`
+- Textos meta: `ApellidoAutor(es)_ApellidoTraductor(es)_TítuloAbreviado_TM`
+- Análisis/Contextos: `ApellidosAutores_TítuloAbreviado`
 
-For example:
-- `Paz_MonoGramático-Chapter_ST.pdf`
-- `Paz_Lane_MonkeyGrammarian-Chapter_TT.pdf`
-- `Brandt_DeconstructionistMonkeyGrammarian.pdf`
+Por ejemplo:
+- `Paz_MonoGramático-Capítulo_TO.pdf`
+- `Paz_Lane_MonkeyGrammarian-Capítulo_TM.pdf`
+- `Brandt_MonoGramáticoDeconstruccionista.pdf`
 
-## Recommendation: Octavio Paz’s _El mono gramático_ and Helen R. Lane’s _The Monkey Grammarian_
+## Recomendación: _El mono gramático_ de Octavio Paz y _The Monkey Grammarian_ de Helen R. Lane
 
-### Asunto: The Deconstructionist Monkey Grammarian: Writing and Reading in Octavio Paz’s El mono gramático and Helen R. Lane’s Translation
+### Asunto: The Deconstructionist Monkey Grammarian: Writing and Reading in Octavio Paz's El mono gramático and Helen R. Lane's Translation
 **Analysis por:** Alaina Brandt
 
 **Description of the ST:**
@@ -55,11 +53,11 @@ I'm drawn to El mono gramático and Lane's translation because they embody the v
 - [The Monkey Grammarian by Octavio Paz, Translated by Helen R. Lane - Chapter 9](https://sphinxlibrary.com/Calibre/Octavio%20Paz/The%20Monkey%20Grammarian%20(7392)/The%20Monkey%20Grammarian%20-%20Octavio%20Paz.pdf)
 - [Brandt_DeconstructionistMonkeyGrammarian_2012.pdf](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad5/semana14/referencias/Brandt_DeconstructionistMonkeyGrammarian_2012.pdf)
 
-The last attachment is a paper I wrote on El modo gramático, deconstructionist theory, and translation as reading and writing.
+El último adjunto es un ensayo que escribí sobre El mono gramático, la teoría deconstruccionista, y la traducción como lectura y escritura.
 
 ---
 
-**Looking forward to hearing about your favorite translations!**
+**¡Esperamos conocer sus traducciones favoritas!**
 
 ---
 
