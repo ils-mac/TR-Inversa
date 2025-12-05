@@ -41,7 +41,7 @@ For example:
 
 ## Recommendation: Octavio Paz’s _El mono gramático_ and Helen R. Lane’s _The Monkey Grammarian_
 
-**Asunto:** The Deconstructionist Monkey Grammarian: Writing and Reading in Octavio Paz’s El mono gramático and Helen R. Lane’s Translation
+### Asunto: The Deconstructionist Monkey Grammarian: Writing and Reading in Octavio Paz’s El mono gramático and Helen R. Lane’s Translation
 **Analysis por:** Alaina Brandt
 
 **Description of the ST:**
