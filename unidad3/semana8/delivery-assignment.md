@@ -3,7 +3,7 @@ layout: default
 title: Delivery Assignment
 parent: Semana 8
 grand_parent: Unidad 3
-nav_order: 3
+nav_order: 4
 ---
 
 Each group will deliver their projects.
