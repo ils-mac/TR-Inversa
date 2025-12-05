@@ -142,4 +142,4 @@ Para profundizar en tu comprensión de la traducción científica, prueba estos 
 
 ---
 
-**Siguiente:** [Proyecto Texto 5](./proyecto-texto5.md)
+**Siguiente:** [Los Reportes de Seguimiento](reportes-de-seguimiento.md)
