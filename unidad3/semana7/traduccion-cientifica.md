@@ -3,7 +3,7 @@ layout: default
 title: Traducción Científica y Cambio Climático
 parent: Semana 7
 grand_parent: Unidad 3
-nav_order: 2
+nav_order: 1
 ---
 
 # Traducción Científica y Cambio Climático
