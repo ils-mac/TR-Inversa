@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Contraste de Puntuación ES/EN
-parent: Semana 7
+parent: Semana 8
 grand_parent: Unidad 3
 nav_order: 1
 ---
