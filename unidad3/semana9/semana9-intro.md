@@ -45,9 +45,9 @@ Esta semana profundizamos en la evaluación de traducciones con el marco MQM, tr
 ---
 
 ## 📥 Descargar Contenido de la Semana 9
-¡Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad3/semana9/semana9-resumen.md) y descárgalo!
+¡Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad3/semana9/semana9-intro.md) y descárgalo!
 
-### 🤖 Prompts de Estudio con IA
+### 🤖 Prompts de Estudio con IAG
 Copia el contenido descargado de la semana y prueba estos prompts:
 - "¿Cómo selecciono la tipología MQM más apropiada para diferentes tipos de texto?"
 - "Ayúdame a entender el proceso de armonización entre evaluadores en control de calidad"
