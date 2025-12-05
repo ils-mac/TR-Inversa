@@ -17,20 +17,19 @@ Esta semana nos enfocamos en los fundamentos de la traducción inversa, exploran
 ### Subtemas
 - **La traducción inversa**: Justificación, competencias y campo laboral
 - **La clase de traducción inversa**: Cómo será la metodología y expectativas
-- **La traducción de textos generales**: Enfoque en el área de la inmigración México-Estados Unidos
+- **La traducción de textos "generales"**: Enfoque en el área de la inmigración México-Estados Unidos
 
 ## Actividades en Clase
 
 ### Actividades bajo Conducción Docente (Martes 9-11am)
 - Presentación de la guía de aprendizaje para la clase + Preguntas y respuestas
 - La traducción inversa: Presentación + diálogo sobre oportunidades profesionales
-- Presentación del Texto 1 - Inmigración para traducción: análisis del documento fuente
+- Presentación del Proyecto 1 – Instituto Nacional de Migración
 
 ## Actividades Independientes
 
 ### Tarea Asignada
-- **Traducción del Texto 1 - Inmigración** (3 puntos)
-- **Fecha de entrega**: Domingo, 17 de agosto
+- **Proyecto 1 – Instituto Nacional de Migración** (3 puntos)
 
 ## Recursos para el Aprendizaje
 
@@ -50,7 +49,7 @@ Esta semana nos enfocamos en los fundamentos de la traducción inversa, exploran
 ## 📥 Descargar Contenido de la Semana 1
 ¡Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad1/semana1/semana1-resumen.md) y descárgalo!
 
-### 🤖 Prompts de Estudio con IA
+### 🤖 Prompts de Estudio con IAG
 Copia el contenido descargado de la semana y prueba estos prompts:
 - "Ayúdame a entender las oportunidades profesionales en traducción inversa español-inglés"
 - "Explica por qué la traducción inversa es importante en el contexto México-Estados Unidos"
