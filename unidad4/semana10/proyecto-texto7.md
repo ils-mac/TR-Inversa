@@ -148,4 +148,4 @@ Para optimizar tu traducción de discurso político, prueba estos prompts con tu
 
 ---
 
-**¡Semana 10 Completa!** La próxima semana exploraremos: [Contraste Pragmático y Evaluación Parcial](../semana11/semana11-resumen.md)
+**¡Semana 10 Completa!** La próxima semana exploraremos: [Teoría Narrativa y la Pragmática](../semana11/semana11-resumen.md)
