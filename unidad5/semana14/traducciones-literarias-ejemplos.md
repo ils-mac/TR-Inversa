@@ -14,11 +14,11 @@ Como complemento a nuestra unidad sobre traducción literaria, compartamos ejemp
 
 Recomendaremos traducciones en el canal de Teams llamado `TradLit Recomendaciones`. Un formato sugerido para sus publicaciones es:
 ```
-Asunto: Título ilustrativo para tu recomendación
+Asunto: Título ilustrativo para su recomendación
 Análisis por: Sus nombres
 Descripción del TO: Breve descripción de la obra literaria, la trama, el género,
 y el tipo de convenciones lingüísticas utilizadas
-Por qué les gusta particularmente la traducción: Tus ideas aquí :)
+Por qué les gusta particularmente la traducción: Sus ideas aquí :)
 Adjuntos:
 - Texto Origen y Texto Meta (si es posible)
 - Cualquier contexto o análisis adicional que apoye su recomendación
