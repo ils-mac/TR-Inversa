@@ -95,7 +95,7 @@ Después de completar tu traducción, considera estas preguntas para la discusi�
 
 ## 📥 Descarga esta Actividad
 
-Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad1/semana1/proyecto-texto1.md) y descárgalo.
+Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad1/semana1/proyecto1-INM.md) y descárgalo.
 
 Para mejorar tu traducción, prueba estos prompts con tu herramienta de IA preferida:
 
