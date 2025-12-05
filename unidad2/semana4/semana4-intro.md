@@ -6,7 +6,7 @@ nav_order: 1
 has_children: true
 ---
 
-# Semana 4: Traducción Técnica e IAG
+# Semana 4: Traducción Técnica, IAG y MQM
 
 ## Resumen
 
