@@ -22,12 +22,12 @@ Traducirás el documento del Instituto Nacional de Migración sobre permisos de 
 
 ### El texto a traducir
 
-**[Texto 1: Permiso de trabajo para extranjeros residentes temporales en México](./texto1-inmigracion.md)**
+**[Permiso de trabajo para extranjeros residentes temporales en México](./texto1-inmigracion.md)**
 
 ## Proceso de traducción
 
 ### 1. Preparación
-- **Descarga el archivo** [texto1-inmigracion.md](./texto1-inmigracion.md) para trabajar con una copia local
+- **Descarga el archivo** [proyecto1-inmigracion.md](./proyecto1-inmigracion.md) para trabajar con una copia local
 
 ### 2. Investigación
 Antes de comenzar la traducción:
@@ -105,4 +105,4 @@ Para mejorar tu traducción, prueba estos prompts con tu herramienta de IA prefe
 
 ---
 
-**¡Semana 1 Completa!** La próxima semana exploraremos: [Especificaciones y Contraste Morfosintáctico](../semana2/semana2-resumen.md)
+**¡Semana 1 Completa!** La próxima semana exploraremos: [Especificaciones y Contraste Morfosintáctico](../semana2/semana2-intro.md)
