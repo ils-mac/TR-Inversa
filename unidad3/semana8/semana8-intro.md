@@ -18,11 +18,9 @@ Esta semana continuamos con sus proyectos de traducción colaborativos. Comparti
 - **Navegando Lilt**: Familiarizándonos más con cómo usar Lilt
 
 ## Actividades en Clase
+- El campo del cambio climático: Diálogo e intercambio de saberes
 - Contraste ES/EN: Los elementos de puntuación - Presentación + actividades prácticas
-
-- Evaluaciones de traducciones y el marco MQM: Presentación + diálogo sobre metodologías profesionales
-- Introducción a Label Studio: Herramienta para etiquetar contenido utilizada en la industria
-- Revisión del Proyecto 6 - Traducción Científica Colaborativa (proyecto de dos semanas)
+- Lilt: La navegación más avanzada
 
 ## Tareas Asignadas y Evaluaciones
 - **Proyecto 6 - Traducción Científica Colaborativa: Entrega** (3 puntos)
@@ -30,24 +28,16 @@ Esta semana continuamos con sus proyectos de traducción colaborativos. Comparti
 - **Asistencia y participación** (2 puntos)
 
 ## Recursos para el Aprendizaje
-
+- Cuentas de Lilt
+- [Lilt Knowledge Base](https://support.lilt.com/kb/introduction-to-lilt-translate)
 - [The Punctuation Guide](https://www.thepunctuationguide.com/top-ten.html)
-- Presentación sobre la gestión de la calidad y el marco MQM
-- [The MQM Error Typology](https://themqm.org/error-types-2/typology/)
-- Instrucciones: Cómo utilizar Label Studio
-- Cuentas de Label Studio
-
-## Evaluación
-
-- **Asistencia y participación** (2 puntos)
-- **Evaluación de la calidad de Texto 5 - Cambio Climático** (3 puntos)
 
 ---
 
 ## 📥 Descargar Contenido de la Semana 8
 ¡Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad3/semana8/semana8-resumen.md) y descárgalo!
 
-### 🤖 Prompts de Estudio con IA
+### 🤖 Prompts de Estudio con IAG
 Copia el contenido descargado de la semana y prueba estos prompts:
 - "Explica cómo funciona el marco MQM para evaluación de calidad en traducción profesional"
 - "¿Cuáles son los tipos de errores más comunes según la tipología MQM?"
