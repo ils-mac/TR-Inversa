@@ -47,6 +47,12 @@ Pueden compartir sus recomendaciones en el idioma que prefieran: español, ingl�
 
 ## Recomendación: _El mono gramático_ de Octavio Paz y _The Monkey Grammarian_ de Helen R. Lane
 
+| Edición en español | Edición en inglés |
+|:------------------:|:-----------------:|
+| ![El mono gramático de Octavio Paz](https://raw.githubusercontent.com/alainamb/uic_tr18-trad-inversa-es-en/main/unidad5/semana14/imagenes/El-Mono-Gramatico-OctavioPaz.jpg) | ![The Monkey Grammarian de Octavio Paz](https://raw.githubusercontent.com/alainamb/uic_tr18-trad-inversa-es-en/main/unidad5/semana14/imagenes/TheMonkeyGrammarian-OctavioPaz.jpg) |
+
+*Portadas de **El mono gramático** de Octavio Paz y la traducción al inglés de Helen R. Lane, **The Monkey Grammarian**, en español mexicano.*
+
 ### Asunto: The Deconstructionist Monkey Grammarian: Writing and Reading in Octavio Paz's El mono gramático and Helen R. Lane's Translation
 **Analysis por:** Alaina Brandt
 
