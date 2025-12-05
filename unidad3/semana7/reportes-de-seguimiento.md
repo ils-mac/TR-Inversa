@@ -7,3 +7,11 @@ nav_order: 2
 ---
 
 # Los Reportes de Seguimiento
+
+## Queries Tracker
+
+- Ambiguous ST
+- Terminology
+- Stylistic Conventions
+
+**Siguiente:** [Proyecto Texto 5](./proyecto-texto5.md)
