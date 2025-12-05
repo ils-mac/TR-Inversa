@@ -6,7 +6,7 @@ nav_order: 1
 has_children: true
 ---
 
-# Semana 7: Traducción Científica y Puntuación
+# Semana 7: Traducción Científica y Reportes de Seguimiento
 
 ## Resumen
 
