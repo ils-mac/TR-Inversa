@@ -6,7 +6,7 @@ grand_parent: Unidad 2
 nav_order: 3
 ---
 
-# Proyecto Texto 3: Traducción de Texto Técnico - IAG
+# Proyecto 3 – Traducción Técnica IAG + Glosario
 
 **Puntos:** 3
 
