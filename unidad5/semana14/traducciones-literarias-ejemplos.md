@@ -52,7 +52,7 @@ I'm drawn to El mono gramático and Lane's translation because they embody the v
 
 **Attachments:**
 - [El mono gramático de Octavio Paz - Capítulo 9](https://archive.org/details/el-mono-gramatico-octavio-paz/page/33/mode/2up)
-- [Paz_Lane_MonkeyGrammarian-Chapter_TT.pdf]
+- [The Monkey Grammarian by Octavio Paz, Translated by Helen R. Lane - Chapter 9](https://sphinxlibrary.com/Calibre/Octavio%20Paz/The%20Monkey%20Grammarian%20(7392)/The%20Monkey%20Grammarian%20-%20Octavio%20Paz.pdf)
 - [Brandt_DeconstructionistMonkeyGrammarian_2012.pdf](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad5/semana14/referencias/Brandt_DeconstructionistMonkeyGrammarian_2012.pdf)
 
 The last attachment is a paper I wrote on El modo gramático, deconstructionist theory, and translation as reading and writing.
