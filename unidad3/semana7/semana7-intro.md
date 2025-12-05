@@ -10,27 +10,25 @@ has_children: true
 
 ## Resumen
 
-Esta semana nos enfocamos en la traducción de textos científicos, específicamente en el área del cambio climático, y exploramos las diferencias de puntuación entre español e inglés.
+Esta semana nos enfocamos en la traducción de textos científicos, específicamente en el área del cambio climático. Empezaremos con sus proyectos de traducción científica colaborativa en Lilt, e identificamos los elementos de un reporte de estatus confiable.
 
 ## Temas de la Semana
 - **La traducción de textos científicos**: Enfoque en el área del cambio climático
-- **Contraste ES/EN**: Los elementos de puntuación y su aplicación en traducción profesional
+- **Los reportes de seguimiento:** Qué información hay que incluir
+- **La traducción colaborativa:** Dentro de sistemas TAC y usando la IAG
 
 ## Actividades en Clase
 - La traducción de textos científicos y sobre el cambio climático: Presentación + diálogo
-- Contraste ES/EN: Los elementos de puntuación - Presentación + actividades prácticas
 - Presentación del Proyecto 6 - Traducción Científica Colaborativa (proyecto de dos semanas)
 
-## Actividades Independientes
-
 ## Tareas Asignadas y Evaluaciones
-- **Proyecto 6 - Traducción Científica Colaborativa: Actualización de estado** (3 puntos)
+- **Proyecto 6 - Traducción Científica Colaborativa: Reporte de seguimiento** (3 puntos)
   - **Fecha de entrega**: Fin de la semana
 - **Asistencia y participación** (2 puntos)
 
 ## Recursos para el Aprendizaje
 - Haywood, Thompson and Hervey (2009): "Scientific and technical translation." *Thinking Spanish Translation.* Pgs. 211-225
-- [The Punctuation Guide](https://www.thepunctuationguide.com/top-ten.html)
+
 
 ---
 
