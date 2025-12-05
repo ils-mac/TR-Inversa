@@ -129,4 +129,4 @@ Para profundizar en tu comprensión de estos parámetros, prueba estos prompts c
 
 ---
 
-**Siguiente:** [Retroalimentación - Texto 1](./proyecto1-retroalimentacion.md)
+**Siguiente:** [Proyecto 1 - Retroalimentación](./proyecto1-retroalimentacion.md)
