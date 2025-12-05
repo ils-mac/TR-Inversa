@@ -17,7 +17,8 @@ We'll recommend translations in the Teams channel called `TradLit Recomendacione
 ```
 Asunto: Illustrative Title for your Recommendation
 Analysis por: Your Names
-Description of the ST: Short description of the literary work, the trama, the genre, and the type of linguistic conventions used
+Description of the ST: Short description of the literary work, the trama, the genre,
+and the type of linguistic conventions used
 Why you particularly like the translation:
 Attachments:
 - Source Text and Target Text (if possible)
