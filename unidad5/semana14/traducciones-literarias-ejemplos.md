@@ -59,6 +59,8 @@ El último adjunto es un ensayo que escribí sobre El mono gramático, la teorí
 
 ---
 
+Pueden compartir sus recomendaciones en el idioma que prefieran: español, inglés, francés, o adicionales.
+
 **¡Esperamos conocer sus traducciones favoritas!**
 
 ---
