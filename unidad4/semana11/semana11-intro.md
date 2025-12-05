@@ -6,7 +6,7 @@ nav_order: 2
 has_children: true
 ---
 
-# Semana 11: Teoría Narrativa y Traducción de Documentos Oficiales (+ Segunda Evaluación Parcial)
+# Semana 11: Teoría Narrativa y Traducción de Documentos Oficiales (EVALUACIÓN PARCIAL)
 
 ## Resumen
 
