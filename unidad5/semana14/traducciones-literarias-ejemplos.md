@@ -37,6 +37,8 @@ Por ejemplo:
 - `Paz_Lane_MonkeyGrammarian-Capítulo_TM.pdf`
 - `Brandt_MonoGramáticoDeconstruccionista.pdf`
 
+---
+
 ## Recomendación: _El mono gramático_ de Octavio Paz y _The Monkey Grammarian_ de Helen R. Lane
 
 ### Asunto: The Deconstructionist Monkey Grammarian: Writing and Reading in Octavio Paz's El mono gramático and Helen R. Lane's Translation
