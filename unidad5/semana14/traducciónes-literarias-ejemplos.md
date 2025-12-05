@@ -7,3 +7,7 @@ nav_order: 4
 ---
 
 # Traducciónes Literarias - Ejemplos
+
+
+
+**¡Semana 14 Completa!** La próxima semana exploraremos: [La Ética en la Traducción](../semana15/semana15-intro.md)
