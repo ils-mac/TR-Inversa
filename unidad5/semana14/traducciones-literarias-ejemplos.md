@@ -18,7 +18,7 @@ Asunto: Título ilustrativo para tu recomendación
 Análisis por: Sus nombres
 Descripción del TO: Breve descripción de la obra literaria, la trama, el género,
 y el tipo de convenciones lingüísticas utilizadas
-Por qué les gusta particularmente la traducción:
+Por qué les gusta particularmente la traducción: Tus ideas aquí :)
 Adjuntos:
 - Texto Origen y Texto Meta (si es posible)
 - Cualquier contexto o análisis adicional que apoye su recomendación
