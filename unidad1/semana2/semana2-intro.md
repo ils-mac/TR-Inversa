@@ -13,15 +13,15 @@ has_children: true
 Esta semana nos enfocamos en las especificaciones y guías de estilo para traducción profesional, aplicadas específicamente a textos del área de inmigración. También exploramos las diferencias morfosintácticas entre español e inglés y cómo manejarlas en la traducción.
 
 ## Temas de la semana
+- **Contraste ES/EN**: Los elementos morfosintácticos y su impacto en la traducción
 - **Especificaciones y guías de estilo**: Fundamentos generales para traducción profesional
 - **Especificaciones aplicadas**: Para el Instituto Nacional de Migración
-- **Contraste ES/EN**: Los elementos morfosintácticos y su impacto en la traducción
 
 ## Actividades en Clase
+- Contraste ES/EN: Los elementos morfosintácticos - Presentación + actividades prácticas
 - Parámetros de traducción para textos de inmigración: Diálogo y aplicación práctica
 - Presentación de los Parámetros de traducción estandarizados por Tranquality
-- Repaso del Proyecto 1 – Instituto Nacional de Migración: análisis de errores comunes
-- Contraste ES/EN: Los elementos morfosintácticos - Presentación + actividades prácticas
+- Proyecto 1 – Instituto Nacional de Migración: Análisis de errores comunes
 
 ## Actividades Independientes
 
