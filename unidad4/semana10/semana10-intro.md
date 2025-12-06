@@ -29,6 +29,8 @@ Esta semana nos enfocamos en la traducción de textos especializados del ámbito
 ## Recursos para el Aprendizaje
 -	[Perspectivas Históricas - Historia de las relaciones México - Estados Unidos](https://youtu.be/cF5muq2kcG4?si=Tlpm4DGsNPEnw70v) [Video]
 -	Patiño García (2016): "Description and representation in language resources of Spanish and English specialized collocations from Free Trade Agreements"
+-	Varios artículos en inglés sobre las relaciones entre Mexico y los EUA
+-	Plataforma Lilt para traducción colaborativa con modelo GAI compartido
 
 ---
 
