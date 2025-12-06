@@ -10,37 +10,27 @@ has_children: true
 
 ## Resumen
 
-Esta semana profundizamos en la evaluación de traducciones con el marco MQM, trabajando con un segundo texto sobre cambio climático. Nos enfocamos en la selección de tipologías MQM específicas y en el desarrollo de consenso entre evaluadores, habilidades esenciales para el control de calidad profesional.
+Esta semana nos enfocamos en la evaluación de traducciones utilizando el marco MQM (Multidimensional Quality Metrics) para etiquetar errores de manera sistemática. También introducimos Label Studio, una herramienta profesional utilizada en la industria para el etiquetado de contenido y análisis de calidad.
 
-## Temas Cubiertos
-
-### Subtemas
-- **Evaluaciones de traducciones**: El marco MQM para etiquetar errores en las traducciones (continuación)
-- **Evaluación de Texto 6**: Cambio climático con tipología MQM especializada
+## Temas de la Semana
+- **Evaluaciones de traducciones**: El marco MQM para etiquetar errores en las traducciones
+- **Label Studio**: Software profesional para la etiqueta de errores y análisis de calidad
 
 ## Actividades en Clase
+- Evaluaciones de traducciones y el marco MQM: Presentación + diálogo sobre metodologías profesionales
+- Introducción a Label Studio: Herramienta para etiquetar contenido utilizada en la industria
+- Presentación del Proyecto 7 – Anotación CONANP
 
-### Actividades bajo Conducción Docente (Martes 9-11am)
-- Evaluación de Texto 6 - Cambio climático: Selección de una tipología MQM para llevar a cabo la evaluación
-- Evaluación de Texto 6 - Cambio climático: Tiempo de trabajo colaborativo y desarrollo de consenso
-
-## Actividades Independientes
-
-### Tarea Asignada
-- **Evaluación de Texto 6 - Cambio climático** (3 puntos)
-- **Checkpoint 2 - Proyecto final: Especificaciones** (parte del proyecto final)
-- **Fecha de entrega**: Domingo, 12 de octubre
+## Tareas Asignadas y Evaluaciones
+- **Proyecto 7 – Anotación CONANP** (3 puntos)
+  - **Fecha de entrega**: Fin de la semana
+- **Asistencia y participación** (2 puntos)
 
 ## Recursos para el Aprendizaje
 
 - [The MQM Error Typology](https://themqm.org/error-types-2/typology/)
-- Instrucciones: Cómo utilizar Label Studio
 - Cuentas de Label Studio
-
-## Evaluación
-
-- **Asistencia y participación** (2 puntos)
-- **Evaluación de Texto 6 - Cambio climático** (3 puntos)
+- Instrucciones: Cómo utilizar Label Studio
 
 ---
 
@@ -49,11 +39,11 @@ Esta semana profundizamos en la evaluación de traducciones con el marco MQM, tr
 
 ### 🤖 Prompts de Estudio con IAG
 Copia el contenido descargado de la semana y prueba estos prompts:
-- "¿Cómo selecciono la tipología MQM más apropiada para diferentes tipos de texto?"
-- "Ayúdame a entender el proceso de armonización entre evaluadores en control de calidad"
-- "Explica las diferencias entre evaluación individual y evaluación por consenso en MQM"
-- "Crea estrategias para desarrollar acuerdo entre evaluadores en clasificación de errores"
-- "¿Cómo se aplican las especificaciones del proyecto final en evaluación de calidad?"
+- "Explica cómo funciona el marco MQM para evaluación de calidad en traducción profesional"
+- "¿Cuáles son los tipos de errores más comunes según la tipología MQM?"
+- "Ayúdame a entender cómo Label Studio se utiliza en la industria de la traducción"
+- "Crea ejercicios de práctica para identificar y clasificar errores usando MQM"
+- "¿Cómo se relaciona la evaluación de calidad MQM con el entrenamiento de sistemas automáticos de traducción?"
 
 ---
 
