@@ -58,10 +58,17 @@ Recuerda participar en las clases presenciales, realizar los ejercicios y entreg
 
 Esta unidad establece las bases fundamentales para todo el curso, por lo que el compromiso activo desde el principio te preparará para el éxito en las unidades posteriores que abordan textos técnicos, científicos, especializados y literarios.
 
+Traducción Técnica, IAG y MQM
+
+### Recursos Clave de la Unidad
+- **Especificaciones ASTM F2575**: Standard Practice for Language Translation
+- **Parámetros de Tranquality**: Plantilla de especificaciones estandarizadas
+- **Thinking Spanish Translation**: Por Haywood, Thompson and Hervey (2009)
+
 ---
 
-## 📥 Descargar Resumen de la Unidad 1
-¡Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad1/unidad1-resumen.md) y descárgalo!
+## 📥 Descargar la introducción de la Unidad 1
+¡Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad1/unidad1-intro.md) y descárgalo!
 
 ### 🤖 Prompts de Estudio con IA
 Copia el resumen descargado de la unidad y prueba estos prompts:
@@ -73,4 +80,4 @@ Copia el resumen descargado de la unidad y prueba estos prompts:
 
 ---
 
-**¿Listas y listos para comenzar?** Inicia con la [Semana 1: Fundamentos de la Traducción Inversa](semana1/semana1-resumen.md) para dominar los conceptos fundamentales de la traducción profesional español-inglés.
+**¿Listas y listos para comenzar?** Inicia con la [Semana 1: Fundamentos de la Traducción Inversa](semana1/semana1-intro.md) para dominar los conceptos fundamentales de la traducción profesional español-inglés.
