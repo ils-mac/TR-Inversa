@@ -29,9 +29,9 @@ Al finalizar esta asignatura, podrás:
 
 - **Realizar diferentes modalidades de traducción**, incluyendo traducción convencional, postedición de traducción automática y traducción híbrida
 
-- **Aplicar principios teóricos y éticos** en la práctica traductora profesional
-
 - **Evaluar la calidad de traducciones** utilizando marcos estandarizados como MQM
+
+- **Aplicar principios teóricos y éticos** en la práctica traductora profesional
 
 ## Estructura del Curso
 
