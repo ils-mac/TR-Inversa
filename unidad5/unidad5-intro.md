@@ -60,9 +60,8 @@ Esta unidad representa la culminación de tu aprendizaje en traducción inversa,
 
 ### Recursos Clave de la Unidad
 - **Entrevista con George Henson**: Perspectivas profesionales de traducción literaria
+- **Literatura Mexicana**: Los proyectos literarios de textos no traducidos previamente al inglés
 - **Códigos de Ética**: ATA y OMT para asociaciones profesionales de traducción
-- **Literatura Mexicana**: Corpus de textos no traducidos previamente al inglés
-- **Evaluación Colaborativa**: Sistema de evaluación por pares para traducciones literarias
 
 ---
 
