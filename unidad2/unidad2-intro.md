@@ -63,10 +63,9 @@ Recuerda participar en las clases presenciales, realizar los ejercicios y entreg
 Las competencias que desarrolles aquí te prepararán para las unidades posteriores sobre textos científicos, especializados y literarios, donde la precisión terminológica y el uso estratégico de herramientas serán esenciales.
 
 ### Recursos Clave de la Unidad
+- **Marco de evaluación MQM**: Criterios para traducción técnica de calidad
 - **Corpus bilingüe especializado**: Textos sobre inteligencia artificial generativa
 - **Plataforma Lilt**: Cuentas de acceso y capacitación profesional
-- **Glosarios técnicos**: Metodología de creación y aplicación
-- **Marco de evaluación**: Criterios para traducción técnica de calidad
 
 ---
 
