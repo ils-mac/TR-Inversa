@@ -3,7 +3,7 @@ layout: default
 title: Especificaciones de Traducción para Textos de Inmigración
 parent: Semana 2
 grand_parent: Unidad 1
-nav_order: 1
+nav_order: 2
 ---
 
 # Especificaciones de Traducción para Textos de Inmigración
