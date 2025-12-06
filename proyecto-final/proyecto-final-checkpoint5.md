@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Checkpoint 5 - Traducción y Entrega Final
+title: Checkpoint 5 - Traducción y Observaciones
 parent: Proyecto Final
 nav_order: 6
 ---
@@ -106,10 +106,10 @@ Asegúrate de incorporar los comentarios recibidos sobre:
 
 ### Entrega Final Completa
 - **Formato**: Carpeta comprimida (.zip)
-- **Nomenclatura**: `[PrimerApellidos]_ProyectoFinal.zip`
+- **Nomenclatura**: `[PrimerosApellidos]_Proyecto-Final-Traducción.zip`
 - **Ejemplo**:
-  - Projecto individual: `González_ProyectoFinal.zip`
-  - Projecto grupal: `González-Reyes_ProyectoFinal.zip`
+  - Projecto individual: `González_Proyecto-Final-Traducción.zip`
+  - Projecto grupal: `González-ReyesMartinéz_Proyecto-Final-Traducción.zip`
 
 ## Criterios de Evaluación
 
@@ -128,7 +128,7 @@ La evaluación considerará la **calidad del texto en su conjunto** en las área
 - **Correspondencia**: Fidelidad al contenido del texto fuente
 - **Legibilidad**: Naturalidad y fluidez en el idioma meta
 
-### Justificación
+### Observaciones
 - **1 punto**: Completo y con conciencia crítica
 - **0 puntos**: Incompleto y sin conciencia crítica
 
