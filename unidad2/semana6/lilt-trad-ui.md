@@ -33,7 +33,9 @@ En esta actividad te enfocarás en tres áreas principales:
 
 **Preparación para la Participación**
 
-Al finalizar esta actividad, realizarás una publicación en el foro de discusión sobre una característica específica que descubriste durante tu exploración inicial. De esta manera, podrán enseñarse mutuamente sobre las funcionalidades más útiles de la plataforma.
+Al finalizar esta actividad, realizarás una publicación en el foro de discusión compartiendo tus primeras impresiones de Lilt. Esta es tu oportunidad para reflexionar sobre cómo la herramienta se compara con otras que has usado y qué te llamó más la atención en tu exploración inicial.
+
+**Nota importante**: En futuras actividades con Lilt, te pediremos que profundices en funcionalidades técnicas específicas. Por ahora, las impresiones generales son apropiadas y bienvenidas.
 
 **Recomendación importante**: Explora libremente haciendo clic en todo. Esta es una excelente manera de descubrir qué puede hacer un sistema.
 
@@ -99,7 +101,7 @@ Presta especial atención a estos componentes de la interfaz:
 
 Tu exploración de estas funcionalidades puede tener el mayor impacto en tu productividad futura. Al aprender bien cómo funcionan estas características, podrás asegurar que traduzcas de manera eficiente y profesional.
 
-## Publicación en el Foro de Discusión
+## Publicación en el Foro de Discusión: Primeras Impresiones
 
 Una vez que hayas completado estos pasos de exploración, realizarás una publicación en el foro que incluya:
 
@@ -112,12 +114,23 @@ Una vez que hayas completado estos pasos de exploración, realizarás una public
 - ¿Cómo se compara Lilt con las herramientas que ya conoces?
 - ¿Qué similitudes y diferencias observas?
 
-**Funcionalidad destacada**
-- ¿Cuál fue una característica excelente que descubriste mientras trabajabas con Lilt?
-- Sé lo más detallada o detallado posible en tu respuesta
-- Enfócate en funcionalidades que te permitan trabajar de manera más productiva
+**Primeras impresiones destacadas**
+- ¿Qué fue lo que más te llamó la atención de Lilt en esta primera exploración?
+- Puede ser una característica específica, la integración con IAG, la interfaz general, o cualquier otro aspecto que te haya impresionado
 
-**Esta es una actividad individual.** Mientras más detallada sea tu respuesta sobre las funcionalidades de productividad, mejor será tu contribución al aprendizaje colectivo.
+**Reflexión sobre la integración de IAG**
+- ¿Cómo observaste que la inteligencia artificial generativa se integra en el flujo de trabajo?
+- ¿Qué impacto crees que esta integración puede tener en tu trabajo como traductora o traductor?
+
+### Sobre tus Respuestas
+
+En esta actividad inicial, es completamente apropiado enfocarte en impresiones generales. Si te encuentras fascinada o fascinado por cómo el modelo de IAG genera traducciones y aprende de tus correcciones, ¡compártelo! Si te sorprende la interfaz comparada con otras herramientas, ¡cuéntanos!
+
+**Lo que harás más adelante**: A medida que continúes trabajando con Lilt en proyectos colaborativos, profundizarás en funcionalidades técnicas específicas. En actividades futuras, te pediremos que explores y documentes cómo realizar tareas concretas (como agregar términos al glosario, realizar búsquedas y reemplazos, o navegar entre segmentos eficientemente).
+
+**Por ahora**: Tus primeras impresiones y observaciones generales son valiosas y apropiadas.
+
+**Esta es una actividad individual.** Comparte tus propias experiencias y observaciones, sin importar si son similares o diferentes a las de tus compañeras y compañeros.
 
 ## Preparación para la Siguiente Actividad
 
@@ -131,11 +144,11 @@ Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_
 
 Para maximizar tu exploración de Lilt, prueba estos prompts con tu herramienta de IA preferida:
 
-- "¿Qué características debería buscar al explorar una nueva herramienta de traducción asistida?"
-- "Crea una lista de verificación para evaluar la interfaz de usuario de herramientas TAO profesionales"
-- "¿Cómo puedo identificar rápidamente las funcionalidades de productividad más importantes en Lilt?"
-- "Explica la importancia de la adaptabilidad tecnológica para traductores profesionales"
-- "¿Qué preguntas críticas debo hacer al evaluar cualquier herramienta de traducción nueva?"
+- "¿Qué aspectos debería observar al hacer mi primera exploración de una herramienta de traducción asistida?"
+- "Explica cómo la integración de IAG en herramientas TAO transforma el flujo de trabajo tradicional de traducción"
+- "¿Qué preguntas son más importantes al evaluar primeras impresiones de una nueva plataforma de traducción?"
+- "Describe la progresión natural de aprendizaje al dominar una herramienta TAO profesional"
+- "¿Cómo puedo identificar rápidamente si una herramienta de traducción se adaptará bien a mi estilo de trabajo?"
 
 ---
 
