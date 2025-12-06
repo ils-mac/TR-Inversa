@@ -81,7 +81,7 @@ Tu traducción será evaluada según la **tipología básica de MQM** en las ár
 | 2 | Especificaciones | Semana 8 | 1 punto |
 | 3 | Corpus | Semana 10 | 1 punto |
 | 4 | Glosario | Semana 12 | 1 punto |
-| 5 | Traducción + Justificación | Semana 14 | 5 puntos |
+| 5 | Traducción + Observaciones | Semana 14 | 5 puntos |
 | 6 | Entrega final | Semana 16 | 1 punto |
 
 **Nota:** Estas semanas son sugerencias para ayudarte a distribuir tu carga de trabajo. Puedes entregar los checkpoints en cualquier momento que funcione mejor para tu proceso de aprendizaje. Se entregará el proyecto final en semana 16.
