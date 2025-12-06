@@ -14,148 +14,117 @@ nav_order: 3
 
 ## Descripción del proyecto
 
-Como aprendieron en la página anterior, trabajarán traduciendo un texto adaptado del artículo académico "Manglares frente al cambio climático: ¿tropicalización global del Golfo de México?". Pueden encontrar el texto completo del artículo aquí: [ManglaresFrenteElCambioClimático.pdf](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad3/semana7/referencias/ManglaresFrenteElCambioClimático.pdf)
+Esta semana comenzarán su proyecto de traducción científica colaborativa que continuará la próxima semana. El proyecto completo simula flujos de trabajo profesionales donde diferentes especialistas asumen roles específicos (terminología, traducción, edición, corrección de estilo).
 
-Para nuestra unidad sobre cambio climático, se les ha proporcionado un pequeño corpus de artículos sobre el tema en Teams con aproximadamente 15 artículos en inglés y 15 artículos en español que pueden usar para realizar su investigación. Pueden trabajar con este corpus en Sketch Engine. Si desean repasar el trabajo con corpus/Sketch Engine, pueden acceder [a esta página](../../unidad2/semana5/corpus-terminologia.md).
+**Esta semana (Semana 7)** se enfoca en iniciar el trabajo y documentar el progreso. **La próxima semana (Semana 8)** completarán el proyecto y entregarán la traducción final.
 
-Para esta asignación, continuarán trabajando con Lilt, esta vez siguiendo un flujo de trabajo profesional de traducción / edición / corrección de estilo. Esto les dará excelente práctica para participar en flujos de trabajo como lo harán en entornos profesionales.
+Pueden consultar la descripción completa del proyecto, incluyendo todos los roles, el flujo de trabajo en Lilt, y los criterios de evaluación final en: [Proyecto 6 - Entrega Final](../semana8/proyecto6-TraducciónColaborativa-Entrega.md)
 
-## Flujo de trabajo en Lilt
+## Entregables para esta semana
 
-Aquí está el archivo que las y los estudiantes estarán traduciendo, para que todos puedan revisarlo antes de ingresar a Lilt: [manglares-frente-al-cambio-climatico.md](./manglares-frente-al-cambio-climatico.md)
+### 1. Reporte de seguimiento (2 puntos)
 
-Han recibido una pequeña actualización en su nivel de acceso a Lilt. Ahora pueden acceder a fuentes de datos, que en Lilt es un objeto en el cual se almacenan las entradas de memoria de traducción y base terminológica que guían al modelo de lenguaje en la generación de traducciones ([más información](https://support.lilt.com/developers/guides/manage-content/create-a-datasource)). Se les ha dado acceso de visualización/lectura/escritura a todas las fuentes de datos que tengo en nuestro espacio en Lilt, ¡así que necesitan tener mucho cuidado de no editar/eliminar fuentes de datos que no son suyas!
+Documenten el progreso de su equipo hasta el momento. El reporte debe incluir:
 
-Cada equipo tendrá su propia fuente de datos de Cambio Climático. ¡Las entradas de base terminológica y memoria de traducción que agreguen a su fuente de datos guiarán su propio modelo de lenguaje! ¡Muy interesante!
+#### Información identificativa
+- Nombre del proyecto: Traducción Científica - Manglares y Cambio Climático
+- Integrantes del equipo con roles asignados
+- Fecha del reporte
+- Período que cubre el reporte
 
-**Flujo de trabajo:** Terminología → Traducción → Edición → Corrección de estilo → Verificación final/Entrega
+#### Progreso completado
+Describan qué fases o tareas han finalizado, quién las completó, y cuánto tiempo tomaron. Sean específicos:
 
-**Realizado por:** Terminólogo/a → Traductor/a → Editor/a → Corrector/a de estilo → Gerente de proyecto
+**Ejemplo:**
+- ✓ "La investigación terminológica se completó el martes—se identificaron 8 términos clave y se agregaron a la fuente de datos en Lilt" (García, 2.5 horas)
+- ✗ "Hicimos terminología"
 
-**División del trabajo:**
+#### Trabajo en progreso
+Indiquen qué están trabajando actualmente y el estado de avance:
 
-| **En equipos de 3** | **En equipos de 2** |
-|---------------------|---------------------|
-| • **Rol 1:** Terminólogo/a y Corrector/a de estilo<br>• **Rol 2:** Editor/a y Gerente de proyecto <br>• **Rol 3:** Traductor/a | • **Rol 1:** Terminólogo/a y Editor/a<br>• **Rol 2:** Traductor/a y Corrector/a de estilo<br>• *El trabajo de gestión de proyecto se comparte* |
+**Ejemplo:**
+- "La traducción está 60% completa—hemos traducido las primeras tres secciones del documento"
+- "La edición comenzó hoy y se espera completar mañana por la tarde"
 
-Las y los estudiantes deben contribuir un mínimo de dos horas al proyecto y no más de tres horas. Lo que sigue es una descripción de cada uno de los roles.
+#### Próximos pasos
+Especifiquen qué harán la próxima semana y cuándo:
 
-### Terminología
+**Ejemplo:**
+- "Lunes: completar la traducción de la sección 4"
+- "Martes: comenzar la fase de corrección de estilo"
+- "Miércoles: verificación final y entrega"
 
-El/la terminólogo/a estará a cargo de hacer una revisión del texto fuente para recopilar entradas terminológicas en un glosario. Comenzarán haciendo una base de datos en formato Excel con estos datos: 
+#### Tiempo invertido
+Documenten las horas trabajadas por cada integrante en cada fase:
 
-| **Campo** | **Descripción** | **Requisitos** |
-|-----------|-----------------|----------------|
-| **ESP Term(s)** | Término principal y sinónimos en español | Separar sinónimos con \| |
-| **ESP Definition** | Definición en español | Clara y precisa |
-| **ESP Sources** | Fuentes donde obtuvieron el término/definición | URLs, títulos de documentos, etc. |
-| **ENG Term(s)** | Término(s) equivalente(s) en inglés | Separar sinónimos con \| |
-| **ENG Definition** | Definición en inglés | Clara y precisa |
-| **ENG Sources** | Fuentes para el término/definición en inglés | URLs, títulos de documentos, etc. |
-| **Notes** | Campo opcional | Cualquier información adicional relevante |
+| **Fase** | **Integrante** | **Horas** |
+|----------|----------------|-----------|
+| Terminología | [Nombre] | [Horas] |
+| Traducción | [Nombre] | [Horas] |
+| Edición | [Nombre] | [Horas] |
+| Gestión de proyecto | [Nombre] | [Horas] |
 
-Este archivo de Excel debe ser accesible para todo el equipo, y el glosario finalizado en formato Excel es uno de sus entregables para esta asignación.
+**Total de horas invertidas hasta ahora:** [Suma total]
 
-**Nombre del archivo:** `ApellidosDelMiembro1_ApellidosDelMiembro2_ApellidosDelMiembro3_Glosario-Cambio-Climatico.xlsx`
+#### Problemas o bloqueos
+Identifiquen cualquier obstáculo que esté afectando el progreso. Sean honestos y específicos:
 
-Luego agrega los términos en español e inglés a su fuente de datos en Lilt:
+**Ejemplo:**
+- "La sección 3 contiene terminología muy especializada que está requiriendo investigación adicional"
+- "Hubo un retraso de medio día por problemas técnicos con Lilt que ya se resolvieron"
 
-1. Navegando a su 'Data Source' y haciendo clic en editar
-2. Haciendo clic en `+ New Entry`
+#### Preguntas o necesidades
+Si necesitan clarificaciones o recursos adicionales, inclúyanlos aquí.
 
-![Agregar entrada en fuente de datos](https://raw.githubusercontent.com/alainamb/uic_tr18-trad-inversa-es-en/main/unidad3/semana7/imagenes/Lilt_AddDataSourceEntry.png)
+**Nombre del archivo:** `ApellidosDelMiembro1_ApellidosDelMiembro2_ApellidosDelMiembro3_Reporte-Seguimiento.docx`
 
-3. Llenando el cuadro de diálogo con:
-   - **Type of entry:** Termbase
-   - **Source text [es]:** término fuente
-   - **Target text [en]:** término meta
-   - **Approval status:** Reviewed
+### 2. Contribuciones al Query Tracker de la clase (1 punto)
 
-![Agregar nueva entrada](https://raw.githubusercontent.com/alainamb/uic_tr18-trad-inversa-es-en/main/unidad3/semana7/imagenes/Lilt_AddNewEntry.png)
+Como parte del trabajo colaborativo profesional, cada equipo debe documentar entre **3-5 consultas** en el Query Tracker compartido de la clase.
 
-Necesitarán agregar al menos 5 términos a su glosario. Tendrán acceso a las fuentes de datos de los otros equipos en la clase. ¡Les advertimos que copien el trabajo de otro equipo bajo su propio riesgo!
+#### ¿Qué tipo de consultas documentar?
 
-### Traducción
+**Ambigüedad en el texto fuente:**
+- Cuando el significado del texto original no está claro
+- Cuando hay múltiples interpretaciones posibles
 
-El/la traductor/a traducirá el texto haciendo un trabajo cuidadoso de entender el significado transmitido en la fuente y expresándolo en inglés fluido. Recibirán ayuda del modelo de lenguaje, lo cual será complejo, ya que necesitarán verificar cuidadosamente los resultados generados por precisión y estilo. El/la traductor/a necesita confirmar que se ha seguido la base terminológica. Si el/la traductor/a encuentra problemas en la base terminológica, debe actualizar el glosario de Excel del equipo y actualizar la entrada en Lilt también.
+**Terminología:**
+- Dudas sobre qué término técnico usar
+- Necesidad de validar una decisión terminológica
+- Equivalencias que no están claras
 
-Si el/la traductor/a tiene áreas del texto sobre las que no está seguro/a, puede dejar comentarios sobre esto en la plataforma Lilt, y comunicarse con su equipo sobre el pasaje difícil fuera de Lilt.
+**Convenciones estilísticas:**
+- Opciones válidas sobre formato, puntuación o estilo
+- Decisiones que afectan la consistencia del documento
 
-> **Nota:** Un problema que a veces se enfrenta en entornos de producción es que el/la traductor/a asume que como su trabajo será verificado por dos personas después, pueden entregar un borrador de mala calidad. Las y los estudiantes no deben hacer eso. La traducción que se entrega necesita ser de calidad pulida.
+#### Cómo formular consultas efectivas
 
-### Edición
+Siguiendo las mejores prácticas de Marina Ilari:
 
-El/la editor/a tiene el trabajo de verificar que la traducción es precisa, haciendo una comparación cuidadosa del texto meta con el texto fuente. Si el/la editor/a encuentra problemas en la base terminológica, debe actualizar el glosario de Excel del equipo y actualizar la entrada en Lilt también.
+**✓ Estructuren como preguntas claras:**
+- "Esta frase no tiene sentido en el idioma meta por X razón. ¿Sería aceptable transcrearlo completamente para que se ajuste a la audiencia meta? Por ejemplo, podríamos usar ___."
 
-> **Nota:** Un problema que a veces se enfrenta en entornos de producción es que el/la editor/a asume que el/la traductor/a hizo toda la investigación necesaria, así que hace una revisión descuidada y rápida. Las y los estudiantes no deben hacer eso. El texto editado que entregan idealmente necesita ser de mejor calidad que la traducción, aunque deben tener cuidado de no hacer cambios innecesarios también (llamados cambios preferenciales en entornos de producción).
+**✓ Prefieran preguntas cerradas cuando sea posible:**
+- "¿Podemos usar 'ecosistema costero' en lugar de 'sistema litoral'?"
 
-### Corrección de estilo
+**✓ Investiguen antes de preguntar:**
+- Verifiquen recursos disponibles primero
+- Demuestren que han investigado
 
-La corrección de estilo necesita hacer una revisión final del texto para asegurar que la traducción fluya bien como contenido independiente. En lugar de hacer una comparación cuidadosa contra la fuente, esta verificación está más preocupada con lograr un estilo fluido y asegurarse de que el contenido esté pulido tipográficamente y que se haya seguido la base terminológica.
+**✓ Mantengan tono profesional:**
+- Usen "por favor" y "gracias"
+- Formulen preguntas de manera constructiva
 
-> **Nota:** Un problema que a veces se enfrenta en entornos de producción es que el/la corrector/a de estilo asume que como están al final del flujo de trabajo, pueden simplemente confirmar todo sin realmente leerlo. Las y los estudiantes no deben hacer eso. Sepan que la corrección de estilo es un paso importante de gestión de riesgo, especialmente cuando la traducción original tenía múltiples problemas. Mientras más necesitó revisar el/la editor/a, más probable es que pierdan un error en el texto.
+**✗ Eviten:**
+- "¿Qué es esto?"
+- Preguntas que demuestren falta de investigación previa
+- Tono descortés o demandante
 
-### Fin del Proceso en Lilt
+#### Acceso al Query Tracker
 
-Después de cada uno de los pasos en Lilt, las y los estudiantes necesitan hacer clic en "Complete" para entregar su trabajo al siguiente paso. Al final del proceso, no hay necesidad de que descarguen la traducción para entregarme. Obtendré su texto finalizado de Lilt.
+El Query Tracker compartido de la clase está disponible en Teams.
 
-### Gestión de proyecto + entrega
-
-El/la gerente de proyecto hará las tareas de entrega. Esto incluye redactar el reporte que recopila los tiempos de todas las personas y reflexiones sobre la experiencia.
-
-#### Reporte
-
-El reporte sobre su trabajo debe incluir:
-
-- Los nombres de todas las traductoras y traductores, con roles específicos asignados
-- Un registro detallado de tiempo y tareas, presentado así:
-
-| **Fase** | **Completada por** | **Tiempo dedicado / persona** |
-|----------|--------------------|-------------------------------|
-| Trabajo terminológico | | | |
-| Traducción | | | |
-| Revisión | | | |
-| Corrección de estilo | | | |
-| Gestión del proyecto | | | |
-
-**Total de horas del Team Member 1:**<br>
-**Total de horas del Team Member 2:**<br>
-**Total de horas del Team Member 3:**<br>
-**Total de horas del proyecto:** [Suma total]
-
-**Sus reflexiones sobre la experiencia**
-
-**Nombre del archivo:** `ApellidosDelMiembro1_ApellidosDelMiembro2_ApellidosDelMiembro3_Reflexion-Cambio-Climatico.docx`
-
-#### Verificación final
-- [ ] Todos los pasos están marcodos como completo en Lilt
-- [ ] Los términos en el glosario han sido añadidos a su 'Data Source' en Lilt
-- [ ] Los términos en Lilt corresponden con los términos en el glosario en formato Excel
-- [ ] El glosario en formato Excel está completo con todas las entradas requeridas (5)
-- [ ] El glosario está nombrado correctamente
-- [ ] Los tiempos para cada fase están documentados para todos los miembros del equipo en el reporte
-- [ ] El reporte tiene las reflexiones del equipo sobre el flujo de trabajo
-- [ ] El reporte está nombrado correctamente
-- [ ] Los archivos tienen una presentación profesional y no tienen errores de ortografía, etc.
-
-## Entrega
-
-### Archivos requeridos
-
-1. **Glosario bilingüe especializado** 
-   - Archivo Excel (.xlsx) con al menos 5 entradas terminológicas
-   - Formato: `ApellidosDelMiembro1_ApellidosDelMiembro2_ApellidosDelMiembro3_Glosario-Cambio-Climatico.xlsx`
-
-2. **Documentación del proceso grupal**
-   - Archivo Word (.docx) con registro de tiempo, reflexiones y verificación final
-   - Formato: `ApellidosDelMiembro1_ApellidosDelMiembro2_ApellidosDelMiembro3_Reflexion-Cambio-Climatico.docx`
-
-**Nota:** La traducción final se obtiene directamente de Lilt, no necesitan entregarla por separado.
-
-### Formato de nomenclatura:
-- **Primer apellido** de cada integrante, separados por guiones bajos
-- **Ejemplo:** `AguileraRodríguez_Brandt_Glosario-Cambio-Climatico.xlsx`
-- **Entrega:** Una sola persona del equipo sube los archivos
+La próxima semana discutiremos las consultas documentadas en clase antes de que finalicen sus traducciones.
 
 ## Criterios de evaluación
 
@@ -163,24 +132,42 @@ El reporte sobre su trabajo debe incluir:
 
 | **Componente** | **Criterio** | **Puntuación** |
 |----------------|--------------|----------------|
-| **Glosario** | Efectivo: Al menos 5 términos, definiciones precisas, fuentes confiables, formato correcto<br>No efectivo: Incompleto, definiciones imprecisas, fuentes inadecuadas | 1 punto<br>0 puntos |
-| **Traducción** | Efectiva: Terminología consistente, precisión técnica, fluidez en inglés, uso adecuado de Lilt<br>No efectiva: Inconsistencias terminológicas, errores técnicos, problemas de fluidez | 1 punto<br>0 puntos |
-| **Reporte** | Efectivo: Documentación completa de tiempos, distribución equitativa del trabajo, reflexiones significativas<br>No efectivo: Documentación incompleta, distribución desigual, reflexiones superficiales | 1 punto<br>0 puntos |
+| **Reporte de seguimiento** | Efectivo: Documentación completa y específica del progreso, tiempo invertido detallado por fase y persona, identificación clara de próximos pasos y problemas<br>Parcialmente efectivo: Documentación incompleta o vaga, falta detalle en tiempos o próximos pasos<br>No efectivo: Reporte superficial, falta información crítica | 2 puntos<br><br>1 punto<br><br>0 puntos |
+| **Query Tracker** | Efectivo: 3-5 consultas bien formuladas, profesionales, demuestran investigación previa<br>No efectivo: Sin el número de consultas requeridas o consultas inapropiadas | 1 punto<br><br>0 puntos |
+
+## Verificación antes de entregar
+
+- [ ] El reporte incluye información identificativa completa
+- [ ] El progreso está documentado con especificidad (no solo "hicimos X")
+- [ ] Los tiempos están detallados por fase y persona
+- [ ] Los próximos pasos están claramente identificados
+- [ ] Se han documentado 3-5 consultas en el Query Tracker de la clase
+- [ ] Las consultas están bien formuladas y son profesionales
+- [ ] El archivo está nombrado correctamente
+- [ ] El documento tiene presentación profesional sin errores de ortografía
+
+## Entrega
+
+**Una sola persona del equipo** sube el archivo del reporte de seguimiento a la plataforma del curso.
+
+**Formato:** `ApellidosDelMiembro1_ApellidosDelMiembro2_ApellidosDelMiembro3_Proyecto6-Seguimiento.docx`
+
+**Ejemplo:** `GarcíaMartínez_López_Reporte-Seguimiento.docx`
 
 ---
 
 ## 📥 Descarga esta Actividad
 
-Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad3/semana7/proyecto-texto5.md) y descárgalo.
+Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad3/semana7/proyecto6-TraducciónColaborativa-Seguimiento.md) y descárgalo.
 
-Para optimizar tu trabajo en equipo y traducción especializada en cambio climático, prueba estos prompts con tu herramienta de IA preferida:
+Para optimizar tu reporte de seguimiento y consultas profesionales, prueba estos prompts con tu herramienta de IA preferida:
 
-- "Ayúdame a crear un plan de comunicación efectivo para nuestro equipo de traducción durante un proyecto colaborativo"
-- "¿Cuáles son las mejores estrategias para mantener consistencia terminológica en un proyecto de traducción en equipo?"
-- "Analiza este término científico sobre cambio climático y sugiere estrategias de investigación: [término específico del texto]"
-- "¿Cómo podemos dividir eficientemente las responsabilidades en un flujo de trabajo TEP (Traducción-Edición-Corrección)?"
-- "Crea una lista de verificación para la gestión de calidad en traducción científica colaborativa"
+- "Ayúdame a redactar un reporte de seguimiento claro y específico basado en esta información: [proporciona detalles de tu progreso]"
+- "Convierte esta duda vaga en una consulta profesional y bien formulada para un query tracker: [describe tu duda]"
+- "¿Cómo puedo documentar eficientemente el tiempo invertido en un proyecto de traducción colaborativa?"
+- "Analiza esta consulta y ayúdame a reformularla como pregunta cerrada: [tu consulta]"
+- "Genera ejemplos de próximos pasos específicos y medibles para un proyecto de traducción científica"
 
 ---
 
-**¡Semana 7 Completa!** La próxima semana exploraremos: [Flujo de trabajo colaborativo en Lilt (Continuación)](../semana8/semana8-intro.md)
+**Siguiente:** Continuarás trabajando en tu proyecto. Consulta [Proyecto 6 - Entrega Final](../semana8/proyecto6-TraducciónColaborativa-Entrega.md) para ver la descripción completa del proyecto y los entregables de la Semana 8.
