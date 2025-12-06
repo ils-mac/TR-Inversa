@@ -43,26 +43,20 @@ Al finalizar esta unidad, podrás:
 
 ## Cronograma Semanal
 
-### [Semana 1: Fundamentos de la Traducción Inversa](semana1/semana1-resumen.md)
-Justificación y competencias de la traducción inversa, campo laboral, metodología del curso, y traducción de textos de inmigración.
+### [Semana 1: Fundamentos de la Traducción Inversa](semana1/semana1-intro.md)
+Justificación y competencias de la traducción inversa, campo laboral, metodología del curso y traducción de textos de inmigración.
 
-### [Semana 2: Especificaciones y Contraste Morfosintáctico](semana2/semana2-resumen.md)  
-Parámetros de traducción estandarizados, guías de estilo aplicadas a textos migratorios, y elementos morfosintácticos español-inglés.
+### [Semana 2: Especificaciones y Contraste Morfosintáctico](semana2/semana2-intro.md)  
+Parámetros de traducción estandarizados, guías de estilo aplicadas a textos migratorios y elementos morfosintácticos español-inglés.
 
-### [Semana 3: Documentos Personales y Expectativas](semana3/semana3-resumen.md)
-Traducción de documentos personales, marco de errores para evaluación, y expectativas de tareas profesionales.
+### [Semana 3: Documentos Personales - Recreación y Guías de Estilo](semana3/semana3-intro.md)
+Traducción de documentos personales, recreación de PDFs no editables y guías de estilo.
 
 ## Comenzando
 
 Recuerda participar en las clases presenciales, realizar los ejercicios y entregar las actividades en la plataforma. Todo esto te ayudará a contar con suficiente información para realizar el producto final de la materia.
 
 Esta unidad establece las bases fundamentales para todo el curso, por lo que el compromiso activo desde el principio te preparará para el éxito en las unidades posteriores que abordan textos técnicos, científicos, especializados y literarios.
-
-### Recursos Clave de la Unidad
-- **Especificaciones ASTM F2575**: Standard Practice for Language Translation
-- **Parámetros de Tranquality**: Plantilla de especificaciones estandarizadas
-- **Corpus de inmigración**: Textos auténticos México-Estados Unidos
-- **Marco de evaluación**: Criterios profesionales de calidad
 
 ---
 
