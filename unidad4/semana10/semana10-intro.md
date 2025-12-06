@@ -10,35 +10,25 @@ has_children: true
 
 ## Resumen
 
-Esta semana nos enfocamos en la traducción de textos especializados del ámbito comercial, específicamente tratados comerciales entre México y Estados Unidos. También llevaremos a cabo la traducción de un discurso de la Presidenta Claudia Sheinbaum.
+Esta semana nos enfocamos en la traducción de textos especializados del ámbito comercial internacional, específicamente relacionados con tratados comerciales entre México y Estados Unidos. También llevaremos a cabo la traducción de un discurso de la Presidenta Claudia Sheinbaum.
 
-## Temas Cubiertos
-
-### Subtemas
+## Temas de la Semana
 - **La historia de relaciones** entre México y los Estados Unidos
 - **La traducción de textos especializados**: Enfoque en el área de tratados comerciales México-Estados Unidos
 
 ## Actividades en Clase
+- México y los Estados Unidos: Repaso de su historia desde la perspectiva de cada país
+- Tratados de Libre Comercio: Recursos para navegar la terminología y las convenciones lingüísticas
+- Presentación del Proyecto 8 - Traducción Colaborativa: Relaciones Internacionales
 
-### Actividades bajo Conducción Docente (Martes 9-11am)
-- La traducción de textos especializados y sobre tratados comerciales: Presentación + diálogo
-- Evaluación parcial 2: Presentación del Texto 7 - Tratados comerciales + requisitos del trabajo cronometrado + recursos disponibles para el proceso de traducción: Preguntas y respuestas
-- Evaluación parcial 2: Tiempo de trabajo en clase
-
-## Actividades Independientes
-
-### Tarea Asignada
-- **Finalización de Texto 7 - Tratados comerciales**
-- **Fecha de entrega**: Domingo, 19 de octubre
+## Tareas Asignadas y Evaluaciones
+- **Proyecto 8 - Traducción Colaborativa: Relaciones Internacionales** (3 puntos)
+  - **Fecha de entrega**: Fin de la semana
+- **Asistencia y participación** (2 puntos)
 
 ## Recursos para el Aprendizaje
-
-- Presentación sobre la traducción de tratados comerciales
-
-## Evaluación
-
-- **Asistencia y participación** (2 puntos)
-- **Texto 7 - Tratados comerciales** (3 puntos)
+-	[Perspectivas Históricas - Historia de las relaciones México - Estados Unidos](https://youtu.be/cF5muq2kcG4?si=Tlpm4DGsNPEnw70v) [Video]
+-	Patiño García (2016): "Description and representation in language resources of Spanish and English specialized collocations from Free Trade Agreements"
 
 ---
 
