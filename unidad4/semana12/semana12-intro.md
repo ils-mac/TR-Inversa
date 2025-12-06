@@ -17,29 +17,21 @@ Esta semana nos enfocamos en las técnicas de posedición de traducción automá
 - **Evaluación metodológica**: Texto 9 - Tratados comerciales y contraste TA/Traducción híbrida
 
 ## Actividades en Clase
-
-### Actividades bajo Conducción Docente (Martes 9-11am)
 - ¿Qué tipo de traducción es? Distinguiendo entre UVT y PVT
-- Evaluación de Texto 9 - Tratados comerciales: Selección de sub-tipologías MQM para llevar a cabo las evaluaciones
-- Evaluación de Texto 9 - Tratados comerciales: Tiempo de trabajo en clase
+- Ejercicios de preparación relacionados con cómo hacer la posedición
+- Presentación del Proyecto 10 - Anotación y Posedición Colaborativa
 
-## Actividades Independientes
-
-### Tarea Asignada
-- **Ensayo: PEMT de Texto 9** (3 puntos)
-- **Fecha de entrega**: Domingo, 2 de noviembre
+## Tareas Asignadas y Evaluaciones
+- **Proyecto 10 - Anotación y Posedición Colaborativa** (3 puntos)
+  - **Fecha de entrega**: Fin de la semana
+- **Asistencia y participación** (2 puntos)
 
 ## Recursos para el Aprendizaje
 - Brandt (2021): "Savvy Diversification Series - Diversification into Machine Translation." The ATA's Savvy Newcomer
 - O'Brien (2002): "Teaching Post-editing: A Proposal for Course Content." Proceedings of the 6th EAMT Workshop: Teaching Machine Translation
 - Massardo, van der Meer, O'Brien, Hollowood, Aranberri, Drescher (2016): MT Post-Editing Guidelines. TAUS
 - ASTM F2575 Standard Practice for Language Translation
-- Translation Quality Management repo on GitHub by Alaina Brandt
-
-## Evaluación
-
-- **Asistencia y participación** (2 puntos)
-- **Ensayo: Evaluación de Texto 9** (3 puntos)
+- Translation Quality Management repo en GitHub por Alaina Brandt
 
 ---
 
@@ -49,8 +41,8 @@ Esta semana nos enfocamos en las técnicas de posedición de traducción automá
 ### 🤖 Prompts de Estudio con IAG
 Copia el contenido descargado de la semana y prueba estos prompts:
 - "Explica las diferencias entre posedición light y full según las guías TAUS"
-- "Ayúdame a entender cómo usar las métricas MQM para evaluar calidad de traducción"
-- "¿Cuáles son las mejores prácticas para escribir un ensayo analítico sobre métodos de traducción?"
+- "Crea estrategias para desarrollar acuerdo entre evaluadores en clasificación de errores"
+- "Explica las diferencias entre evaluación individual y evaluación por consenso en MQM"
 - "Crea criterios de evaluación para comparar traducción automática vs. traducción híbrida"
 - "¿Qué oportunidades profesionales existen en el campo de la posedición de traducción automática?"
 
