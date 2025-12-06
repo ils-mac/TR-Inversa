@@ -87,7 +87,7 @@ Tus competencias especializadas en traducción científica y evaluación de cali
 ## 📥 Descargar Conclusión de la Unidad 3
 ¡Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad3/unidad3-conclusion.md) y descárgalo!
 
-### 🤖 Prompts de Estudio con IA
+### 🤖 Prompts de Estudio con IAG
 Copia la conclusión descargada y prueba estos prompts:
 - "Ayúdame a reflexionar sobre mi aprendizaje de la Unidad 3 e identificar áreas de mejora en evaluación de calidad"
 - "Crea un plan de estudio para integrar las competencias de MQM con textos especializados de la Unidad 4"
@@ -96,4 +96,4 @@ Copia la conclusión descargada y prueba estos prompts:
 
 ---
 
-**¿Listas y listos para textos especializados?** Continúa con la [Unidad 4: Traducción de Textos Especializados](../unidad4/unidad4-resumen.md) para explorar documentos gubernamentales emitidos para adelantar las relaciones internacionales y desarrollar competencias en traducción jurídica especializada.
+**¿Listas y listos para textos especializados?** Continúa con la [Unidad 4: Traducción de Textos Especializados](../unidad4/unidad4-intro.md) para explorar documentos gubernamentales emitidos para adelantar las relaciones internacionales y desarrollar competencias en traducción jurídica especializada.
