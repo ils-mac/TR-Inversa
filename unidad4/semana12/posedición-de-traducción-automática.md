@@ -72,23 +72,7 @@ De manera individual o en grupo, selecciona una de las lecturas que presentan pe
 
 ---
 
-## Ejercicio 2: Innovaciones en el Etiquetado de HT y MT
-
-### Instrucciones
-
-En la conferencia JIAMCATT 2022 organizada por la OMPI, el Dr. Alan Melby presentó [estas diapositivas](https://www.canva.com/design/DAE-AacZrZ4/zX6LyF1iQZDKz3fD_OssdQ/edit?utm_content=DAE-AacZrZ4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) sobre la estandarización de grados de traducción humana (HT) y traducción automática (MT), vinculando estos grados a etiquetas de consumo que indican claramente si se ha utilizado HT o MT sin editar.
-
-Después de revisar las diapositivas, reflexiona sobre lo siguiente:
-
-Muchas personas consideran que la traducción automática es un hecho en los flujos de trabajo de localización, por lo que no es necesario informar a los clientes sobre su uso. ¿Cuál es tu opinión sobre los grados de traducción y sobre divulgar el uso de traducción automática a los clientes mediante etiquetas de productos?
-
-| Reflexiones sobre los Grados | Reflexiones sobre las Etiquetas |
-| ----------------------------- | ------------------------------- |
-| [Tu respuesta aquí]           | [Tu respuesta aquí]             |
-
----
-
-## Ejercicio 3: Guías de Buenas Prácticas y Errores Comunes en PEMT
+## Ejercicio 2: Guías de Buenas Prácticas y Errores Comunes en PEMT
 
 ### Instrucciones
 
@@ -107,16 +91,56 @@ Selecciona un texto fuente, tradúcelo automáticamente y luego realiza PEMT del
 
 ---
 
-## La Consistencia entre Evaluadores Diferentes
+## Ejercicio 3: La Consistencia entre Evaluadores Diferentes
 
-```
-Prompt for Claude when updating this exercise:
-The students will look at results from the Label Studio evaluations they completed in Week 9. They'll be provided with a notebook that shows an analysis of their agreement in translation errors marked, which will show a very low level of agreement.
-The challenge with agreement is that evaluators must agree on the span of text that constitutes the error. Then they must agree on the dimension, error type and severity level of the error. Acheiving this level of precision is difficult. What are students thoughts on this?
-Please reference the README for the Translation Quality Management repo as a resource students can consult to learn more about this. Please give a very brief description of how the repo is set up to help teams of evaluators/annotators to achieve greater levels of consistency over time. Talk about why this is important as well.
+En la Semana 9, realizaste evaluaciones de traducción usando Label Studio para marcar errores según la tipología MQM. Ahora es momento de reflexionar sobre un aspecto crítico de este proceso: la consistencia entre evaluadores.
 
-https://github.com/alainamb/translation-quality-mgmt
-```
+### Análisis de Concordancia
+
+Tu instructora te proporcionará un análisis de las evaluaciones que completaste en Label Studio. Este análisis mostrará el nivel de concordancia entre quienes evalúan las mismas traducciones, y probablemente encontrarás que el nivel de concordancia es muy bajo.
+
+**¿Por qué es tan difícil lograr concordancia?**
+
+Para que dos evaluadores "concuerden" en un error, deben coincidir en varios niveles:
+1. El **tramo de texto** exacto que constituye el error
+2. La **dimensión** del error (Precisión, Estilo, Convenciones Lingüísticas, etc.)
+3. El **tipo específico** del error dentro de esa dimensión
+4. El **nivel de gravedad** del error (crítico, mayor, menor)
+
+Lograr este nivel de precisión es extremadamente difícil, especialmente cuando quienes evalúan están desarrollando estas competencias por primera vez.
+
+### Mejorando la Consistencia a lo Largo del Tiempo
+
+El repositorio [Translation Quality Management](https://github.com/alainamb/translation-quality-mgmt) presenta un sistema diseñado para ayudar a equipos de evaluadores a alcanzar mayores niveles de consistencia con el tiempo. El repositorio está organizado en seis pasos clave:
+
+1. **Textos fuente** en formato markdown
+2. **Conversión** de textos a formato JSON compatible con Label Studio
+3. **Configuración** de la interfaz de etiquetado en Label Studio
+4. **Procesamiento** de las evaluaciones exportadas
+5. **Distribución** de evaluaciones mediante páginas web dinámicas
+6. **Análisis de concordancia** entre evaluadores mediante notebooks de Python
+
+El componente clave para mejorar la consistencia se encuentra en el paso 6: después de que un grupo de evaluadores marca errores en las mismas traducciones, se calcula la concordancia entre sus anotaciones usando métricas como:
+- **Concordancia exacta**: ¿Marcaron exactamente el mismo tramo de texto?
+- **Puntuación F1**: ¿Qué tan bien se solapan sus marcas parciales?
+- **Kappa**: ¿Qué tan consistentes son sus categorías de error?
+
+Basándose en estos resultados, el equipo identifica las áreas de mayor discrepancia y desarrolla un plan de mejora (materiales de capacitación, discusiones en grupo, ejemplos compartidos). Este proceso se repite hasta que las anotaciones del grupo alcanzan umbrales mínimos de concordancia.
+
+### ¿Por Qué Importa la Consistencia?
+
+La consistencia entre evaluadores es fundamental por varias razones:
+- **Para traductoras y traductores**: Las evaluaciones inconsistentes generan confusión. Si dos evaluadores marcan el mismo texto de manera diferente, ¿cómo puede quien traduce saber qué mejorar?
+- **Para la industria**: Los estándares de calidad como ISO 18587 requieren evaluaciones confiables y reproducibles.
+- **Para el entrenamiento de IAG**: En la era de la inteligencia artificial generativa, las anotaciones de alta calidad se utilizan para entrenar sistemas de evaluación automática. Si las anotaciones humanas son inconsistentes, los sistemas de IAG aprenderán esa inconsistencia.
+
+### Reflexión sobre Tus Evaluaciones
+
+Después de revisar el análisis de concordancia de tus evaluaciones de la Semana 9:
+
+1. **¿Qué patrones de discrepancia observas?** ¿Las diferencias están en la identificación de tramos de texto, en la categorización de errores, o en ambas?
+2. **¿Qué podría explicar estas discrepancias?** ¿Diferentes interpretaciones de las especificaciones? ¿Diferentes niveles de tolerancia para ciertos tipos de errores?
+3. **Si tuvieras que volver a evaluar las mismas traducciones, ¿qué harías diferente?** ¿Qué estrategias podrías usar para acercarte más a la concordancia con otros evaluadores?
 
 ---
 
