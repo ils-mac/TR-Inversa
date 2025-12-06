@@ -3,7 +3,7 @@ layout: default
 title: Parámetros de Traducción Estandarizados - Tranquality
 parent: Semana 2
 grand_parent: Unidad 1
-nav_order: 2
+nav_order: 3
 ---
 
 # Parámetros de Traducción Estandarizados - Tranquality
@@ -106,13 +106,17 @@ La siguiente lista de parámetros está adaptada de *ASTM F2575: Guía Estándar
    1. **Compensación** (típicamente, costo)
    2. **Comunicación** (canales y modo de contacto entre las personas de contacto dentro de las organizaciones solicitantes y proveedores)
 
----
-
 **Notas:** En 1, 7 y 8: la audiencia y propósito pueden ser plurales en algunos casos. Las tareas en 14c (verificación, revisión y corrección) que pueden seguir a la traducción inicial se toman de la ISO 17100.
 
 *Esta página es una recreación de las especificaciones encontradas aquí: [https://www.tranquality.info/specs/](https://www.tranquality.info/specs/)*
 
 *Traducido por Alaina Brandt y Adela Campos Espinosa de los Monteros con revisiones basadas en conversaciones con estudiantes en esta clase.*
+
+---
+
+## Los Parámetros que Usamos en este Curso
+
+[How to use your Translation Evaluations]
 
 ---
 
@@ -129,4 +133,4 @@ Para profundizar en tu comprensión de estos parámetros, prueba estos prompts c
 
 ---
 
-**Siguiente:** [Proyecto 1 - Retroalimentación](./proyecto1-retroalimentacion.md)
+**Siguiente:** [Proyecto 1 - Análisis del Texto Origen](proyecto1-análisis-to.md)
