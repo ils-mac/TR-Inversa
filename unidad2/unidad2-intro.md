@@ -69,7 +69,7 @@ Las competencias que desarrolles aquí te prepararán para las unidades posterio
 
 ---
 
-## 📥 Descargar la introducción de la Unidad 2
+## 📥 Descargar esta introducción de la Unidad 2
 ¡Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad2/unidad2-resumen.md) y descárgalo!
 
 ### 🤖 Prompts de Estudio con IAG
