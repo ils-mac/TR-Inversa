@@ -2,27 +2,24 @@
 layout: default
 title: Evaluación del Proyecto Final
 parent: Proyecto Final
-nav_order: 7
+nav_order: 8
 ---
 
 # Evaluación del Proyecto Final
 
 ## Resumen de la Evaluación
 
-El proyecto final se evalúa a través de **cinco checkpoints** distribuidos a lo largo del semestre. Los primeros cuatro checkpoints proporcionan retroalimentación formativa, mientras que el checkpoint final constituye la evaluación sumativa del proyecto.
-
+El proyecto final se evalúa a través de **cinco checkpoints** y **una entrega final** que pueden distribuir a lo largo del semestre.
 ## Distribución de Puntos
 
-| Checkpoint | Componente | Puntos | Tipo de Evaluación |
+| Checkpoint | Componente | Puntos | Criterios de la Evaluación |
 |------------|------------|---------|-------------------|
-| 1 | Selección de texto | 0 | Aprobado/No aprobado |
-| 2 | Especificaciones | 1 | Retroalimentación formativa |
-| 3 | Corpus | 1 | Retroalimentación formativa |
-| 4 | Glosario | 1 | Retroalimentación formativa |
-| 5 | **Evaluación Final** | **7** | **Evaluación sumativa** |
-| | - Traducción | 5 | |
-| | - Justificación | 1 | |
-| | - Entrega final | 1 | |
+| 1 | Selección de texto | 1 | Aprobado/No aprobado |
+| 2 | Especificaciones | 1 | Adecuado y completo o no |
+| 3 | Corpus | 1 | Adecuado y útil no |
+| 4 | Glosario | 1 | Completo y con alta correspondencia o no |
+| 5 | Traducción + Observaciones | 5 | Efectiva o no; Completa |
+| | Entrega final | 1 | Completa y refinada o no |
 | **Total** | | **10 puntos** | |
 
 ## Criterios Detallados de Evaluación
@@ -92,17 +89,6 @@ Tu traducción será evaluada según la **tipología básica de MQM** en seis á
 - Apropiado para el propósito establecido
 - Accesibilidad para la audiencia meta
 
-### Escala de Calificación para Traducción
-
-| Puntos | Calificación | Descripción |
-|---------|-------------|-------------|
-| 5 | Excelente | Traducción profesional de alta calidad con errores mínimos o inexistentes |
-| 4 | Muy bien | Traducción sólida con errores menores que no afectan significativamente la comunicación |
-| 3 | Bien | Traducción aceptable con algunos errores que pueden afectar parcialmente la comunicación |
-| 2 | Regular | Traducción con errores notables que afectan la calidad pero permiten la comprensión |
-| 1 | Suficiente | Traducción con errores significativos que dificultan la comprensión |
-| 0 | Reprobatorio | Traducción inadecuada con errores graves que impiden la comunicación efectiva |
-
 ### Calidad del Texto en su Conjunto
 
 Además de los criterios MQM, se evaluará:
@@ -117,10 +103,20 @@ Además de los criterios MQM, se evaluará:
 - Fluidez y coherencia textual
 - Apropiado para lectores nativos del inglés
 
-## Justificación (1 punto)
+### Escala de Calificación para Traducción
+
+| Puntos | Calificación | Descripción |
+|---------|-------------|-------------|
+| 4 | Efectiva | Permite comprensión completa y aplicación práctica |
+| 3 | Mayormente efectiva | Comunica la mayoría de conceptos esenciales con claridad |
+| 2 | Algo inefectiva | Transmite información básica pero con limitaciones |
+| 1 | Inefectiva | No permite comprensión adecuada |
+| 0 | Incompleta | Está significativamente incompleta |
+
+## Observaciones (1 punto)
 
 ### Estructura Requerida
-La justificación debe incluir **cinco párrafos** que aborden:
+Para compartir sus observaciones sobre la traducción, escribe un ensayo que incluye estos **cinco párrafos**:
 
 1. **Introducción**: Características del texto y overview de la justificación
 2. **Retos**: Desafíos específicos enfrentados durante la traducción
@@ -130,19 +126,19 @@ La justificación debe incluir **cinco párrafos** que aborden:
 
 ### Criterios de Evaluación
 
-#### Completo y con Conciencia Crítica (1 punto)
+#### Completa y con Conciencia Crítica (1 punto)
 - Todos los párrafos están presentes y bien desarrollados
 - Demuestra reflexión profunda sobre el proceso de traducción
 - Conecta decisiones específicas con principios teóricos
 - Muestra conciencia de las implicaciones de las decisiones tomadas
 
-#### Incompleto y sin Conciencia Crítica (0 puntos)
+#### Incompleta y sin Conciencia Crítica (0 puntos)
 - Párrafos faltantes o superficialmente desarrollados
 - Falta de reflexión sobre el proceso de traducción
 - No conecta decisiones con principios teóricos
 - No demuestra conciencia de las implicaciones de las decisiones
 
-## Entrega Final (10 puntos)
+## Entrega Final (1 punto)
 
 ### Componentes Requeridos
 La carpeta final debe incluir **todos** los siguientes elementos:
@@ -154,6 +150,8 @@ La carpeta final debe incluir **todos** los siguientes elementos:
 5. Glosario (versión revisada)
 6. Traducción final
 7. Justificación de toma de decisiones en el texto meta
+
+**Recordatorio: Cada vez que entregues, debes incluir todos los componentes del proyecto completados hasta ese momento en la misma carpeta comprimida (.zip)**
 
 ### Criterios de Evaluación
 
@@ -172,26 +170,26 @@ La carpeta final debe incluir **todos** los siguientes elementos:
 ## Estrategias para el Éxito
 
 ### Durante el Proceso
-- **Incorpora retroalimentación** de los checkpoints formativos
-- **Consulta regularmente** tu corpus y glosario durante la traducción
+- **Actualiza tus especificaciones** para reflejar nuevos conocimientos sobre el proyecto
 - **Mantén consistencia** con tus especificaciones establecidas
+- **Consulta regularmente** tu corpus y glosario durante la traducción
+
+### Para tus Observaciones
+- **Conecta decisiones específicas** con principios de traducción
+- **Demuestra pensamiento crítico** sobre tu proceso
+- **Reflexiona honestamente** sobre tu aprendizaje
 
 ### Para la Entrega Final
 - **Revisa múltiples veces** tu traducción antes de entregar
 - **Verifica completitud** de todos los componentes
 - **Asegura calidad profesional** en la presentación
 
-### Para la Justificación
-- **Conecta decisiones específicas** con principios de traducción
-- **Demuestra pensamiento crítico** sobre tu proceso
-- **Reflexiona honestamente** sobre tu aprendizaje
-
 ---
 
 ## 📥 Descargar Criterios de Evaluación
 ¡Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/proyecto-final/proyecto-final-evaluacion.md) y descárgalo!
 
-### 🤖 Prompts de Estudio con IA
+### 🤖 Prompts de Estudio con IAG
 Copia los criterios descargados y prueba estos prompts:
 - "Ayúdame a crear una estrategia de revisión basada en los criterios MQM para mi traducción"
 - "¿Cómo puedo asegurarme de que mi justificación demuestre conciencia crítica?"
