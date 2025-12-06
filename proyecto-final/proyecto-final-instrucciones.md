@@ -32,7 +32,10 @@ El proyecto se desarrolla a través de cinco checkpoints distribuidos a lo largo
 4. **[Checkpoing 4: Glosario](proyecto-final-checkpoint4.md)**
 
 ### Fase de Producción
-5. **[Checkpoint 5: Traducción y Justificación + Entrega Final](proyecto-final-checkpoint5.md)**
+5. **[Checkpoint 5: Traducción y Justificación](proyecto-final-checkpoint5.md)**
+
+### Fase de Entrega
+6. [Entrega Final](proyecto-final-entrega.md)
 
 ## Criterios de Selección del Texto
 
