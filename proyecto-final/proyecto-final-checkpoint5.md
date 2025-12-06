@@ -5,7 +5,7 @@ parent: Proyecto Final
 nav_order: 6
 ---
 
-# Checkpoint 5: Traducción y Justificación + Entrega Final
+# Checkpoint 5: Traducción y Observaciones + Entrega Final
 
 ## Descripción de la Actividad
 
