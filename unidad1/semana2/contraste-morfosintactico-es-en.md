@@ -3,7 +3,7 @@ layout: default
 title: Contraste Morfosintáctico ES-EN
 parent: Semana 2
 grand_parent: Unidad 1
-nav_order: 4
+nav_order: 1
 ---
 
 # Contraste ES-EN: Elementos Morfosintácticos
@@ -163,4 +163,4 @@ Para profundizar en tu análisis después de completar el ejercicio, prueba esto
 
 ---
 
-**¡Semana 2 Completa!** La próxima semana exploraremos: [Documentos Personales](../semana3/semana3-intro.md)
+**Siguiente:** [Especificaciones de Traducción para Textos de Inmigración](spex-intro-inmigracion.md)
