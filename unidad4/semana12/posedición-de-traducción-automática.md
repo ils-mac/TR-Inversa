@@ -107,6 +107,19 @@ Selecciona un texto fuente, tradúcelo automáticamente y luego realiza PEMT del
 
 ---
 
+## La Consistencia entre Evaluadores Diferentes
+
+```
+Prompt for Claude when updating this exercise:
+The students will look at results from the Label Studio evaluations they completed in Week 9. They'll be provided with a notebook that shows an analysis of their agreement in translation errors marked, which will show a very low level of agreement.
+The challenge with agreement is that evaluators must agree on the span of text that constitutes the error. Then they must agree on the dimension, error type and severity level of the error. Acheiving this level of precision is difficult. What are students thoughts on this?
+Please reference the README for the Translation Quality Management repo as a resource students can consult to learn more about this. Please give a very brief description of how the repo is set up to help teams of evaluators/annotators to achieve greater levels of consistency over time. Talk about why this is important as well.
+
+https://github.com/alainamb/translation-quality-mgmt
+```
+
+---
+
 ## Reflexión
 
 Reflexiona sobre las siguientes preguntas después de completar las actividades de hoy:
