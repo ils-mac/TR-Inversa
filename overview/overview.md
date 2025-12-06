@@ -41,31 +41,31 @@ El curso se divide en **cinco unidades** que cubren la traducción de textos gen
 **Semanas 1-3**
 - Semana 1: Fundamentos de la Traducción Inversa
 - Semana 2: Especificaciones y Contraste Morfosintáctico
-- Semana 3: Documentos Personales y Expectativas de Tareas
+- Semana 3: Documentos Personales - Recreación y Guías de Estilo
 
 ### Unidad 2: Traducción de Textos Técnicos
 **Semanas 4-6**
-- Semana 4: Textos Técnicos e Inteligencia Artificial Generativa
-- Semana 5: Contraste Gramatical y Evaluación Parcial 1
+- Semana 4: Traducción Técnica, IAG y MQM
+- Semana 5: Contraste Gramatical, Corpus y Terminología (PRIMERA EVALUACIÓN PARCIAL)
 - Semana 6: Introducción a Lilt y Traducción Híbrida
 
 ### Unidad 3: Traducción de Textos Científicos
 **Semanas 7-9**
-- Semana 7: Textos Científicos y Contraste de Puntuación
-- Semana 8: Marco MQM y Label Studio
-- Semana 9: Evaluación de Calidad y Armonización de Criterios
+- Semana 7: Traducción Científica y Reportes de Seguimiento
+- Semana 8: Flujo de trabajo colaborativo en Lilt (Continuación)
+- Semana 9: Sistemas de Gestión de Calidad
 
 ### Unidad 4: Traducción de Textos Especializados
 **Semanas 10-12**
-- Semana 10: Tratados Comerciales y Evaluación Parcial 2
-- Semana 11: Contraste Pragmático y Traducción Automática vs. Híbrida
+- Semana 10: Relaciones Internacionales entre México y EUA
+- Semana 11: Teoría Narrativa y la Pragmática (SEGUNDA EVALUACIÓN PARCIAL)
 - Semana 12: Posedición de Traducción Automática
 
 ### Unidad 5: Traducción de Textos Literarios
 **Semanas 13-15**
-- Semana 13: Literatura Mexicana y Entrevista con George Henson
-- Semana 14: Ética en la Traducción
-- Semana 15: Evaluación Parcial 3 y Preparación del Proyecto Final
+- Semana 13: Traducción Literaria y Perspectivas Profesionales
+- Semana 14: La Traducción de Modismos Mexicanos
+- Semana 15: La Ética en la Traducción (TERCERA EVALUACIÓN PARCIAL)
 
 ### Período del Proyecto Final
 **Semanas 16-17**
@@ -79,7 +79,7 @@ El curso concluye con un proyecto integrador que sintetiza el conocimiento y las
 **5 unidades** con 3 temas por unidad más el proyecto integrador
 
 ## Flujo de Trabajo Cada Semana
-**Las clases se imparten los martes** con materiales disponibles el lunes previo. Las tareas deberán entregarse los domingos siguientes a cada clase.
+**Las clases se imparten en persona** con materiales actualizados disponibles al principio de cada semana. Las tareas deberán entregarse los fines de cada semana.
 
 ## Tecnologías y Herramientas
 
