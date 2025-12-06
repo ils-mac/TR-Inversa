@@ -39,7 +39,7 @@ El proyecto se desarrolla a través de seis checkpoints que puedes completar seg
 5. **[Checkpoint 5: Traducción y Justificación](proyecto-final-checkpoint5.md)**
 
 ### Fase de Entrega
-6. **[Checkpoint 6: Entrega Final](proyecto-final-entrega.md)**
+6. **[Entrega Final](proyecto-final-entrega.md)**
 
 ## Criterios de Selección del Texto
 
