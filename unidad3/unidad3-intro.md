@@ -43,14 +43,14 @@ Al finalizar esta unidad, podrás:
 
 ## Cronograma Semanal
 
-### [Semana 7: Traducción Científica y Puntuación](semana7/semana7-resumen.md)
-Fundamentos de traducción científica, contraste de puntuación español-inglés, y traducción de texto sobre cambio climático.
+### [Semana 7: Traducción Científica y Reportes de Seguimiento](semana7/semana7-intro.md)
+Fundamentos de traducción científica, recomendaciones y mecanismos para la traducción colaborativa, y traducción colaborativa de un texto sobre cambio climático
 
-### [Semana 8: Marco MQM y Label Studio](semana8/semana8-resumen.md)
-Evaluación de traducciones con marco MQM, introducción a Label Studio, y evaluación de calidad del primer texto.
+### [Flujo de trabajo colaborativo en Lilt](semana8/semana8-intro.md)
+Conocimientos compartidos sobre el campo de dominio de cambio climático y Lilt, contraste de puntuación y finalización de la traducción colaborativa
 
-### [Semana 9: Evaluación Avanzada y Consenso](semana9/semana9-resumen.md)
-Aplicación de tipología MQM especializada, evaluación colaborativa del segundo texto, y desarrollo de consenso entre evaluadores.
+### [Semana 9: Sistemas de Gestión de Calidad](semana9/semana9-intro.md)
+Evaluación de traducciones con marco MQM, introducción a Label Studio, y una evaluación de calidad
 
 ## Comenzando
 
@@ -62,12 +62,11 @@ Esta unidad te introduce a metodologías de evaluación de calidad utilizadas ta
 - **Corpus Bilingüe**: Textos especializados sobre cambio climático
 - **Marco MQM**: Tipología estandardizada para clasificación de errores
 - **Label Studio**: Plataforma profesional para etiquetado y análisis
-- **Guías de Puntuación**: Normas internacionales español-inglés
 
 ---
 
-## 📥 Descargar Resumen de la Unidad 3
-¡Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad3/unidad3-resumen.md) y descárgalo!
+## 📥 Descargar la introducción de la Unidad 3
+¡Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad3/unidad3-intro.md) y descárgalo!
 
 ### 🤖 Prompts de Estudio con IA
 Copia el resumen descargado de la unidad y prueba estos prompts:
@@ -79,4 +78,4 @@ Copia el resumen descargado de la unidad y prueba estos prompts:
 
 ---
 
-**¿Listas y listos para comenzar?** Inicia con la [Semana 7: Traducción Científica y Puntuación](semana7/semana7-resumen.md) para dominar las competencias avanzadas en traducción y evaluación de textos científicos.
+**¿Listas y listos para comenzar?** Inicia con la [Semana 7: Traducción Científica y Reportes de Seguimiento](semana7/semana7-intro.md) para dominar las competencias avanzadas en traducción colaborativa de textos científicos.
