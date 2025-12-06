@@ -25,3 +25,5 @@ Let's also address common issues that occur when working collaboratively in tech
 - What hasn't gone so well about the collaborative projects?
 - In what ways do you feel that the source segmentation helps you to produce quality work? Hinders you?
 - Anything else you'd like to report?
+
+**Siguiente:** [Proyecto 6 - Traducción Científica Colaborativa: Entrega](lilt-flujo-de-trabajo-colaborativo.md)
