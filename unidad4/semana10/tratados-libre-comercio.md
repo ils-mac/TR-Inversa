@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Traducción de Documentación de TLC - Terminología y Colocaciones
+title: Traducción de TLC - Terminología y Colocaciones
 parent: Semana 10
 grand_parent: Unidad 4
 nav_order: 2
 ---
 
-# Traducción de Documentación de TLC: Terminología y Colocaciones
+# Traducción de Tratados de Libre Comercio: Terminología y Colocaciones
 
 **Tiempo estimado**: 90 minutos
 
@@ -242,7 +242,7 @@ Después de las presentaciones, considera:
 
 ## 📥 Descarga esta Actividad
 
-Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad3/semana10/terminologia-colocaciones-tlc.md) y descárgalo.
+Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad3/semana10/tratados-libre-comercio.md) y descárgalo.
 
 ### 🤖 Prompts de Estudio con IAG
 
