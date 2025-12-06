@@ -65,7 +65,7 @@ Esta unidad te introduce a metodologías de evaluación de calidad utilizadas ta
 
 ---
 
-## 📥 Descargar la introducción de la Unidad 3
+## 📥 Descargar esta introducción de la Unidad 3
 ¡Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad3/unidad3-intro.md) y descárgalo!
 
 ### 🤖 Prompts de Estudio con IA
