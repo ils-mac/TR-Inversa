@@ -4,14 +4,13 @@ title: Inicio
 nav_order: 1
 ---
 
-# TR18: Traducción Inversa A > B (Español > Inglés) - Semestre 2026-1, Universidad Intercontinental
+# TR18: Traducción Inversa A > B (Español > Inglés)
 
 Bienvenidos a Traducción Inversa A > B, un curso diseñado para desarrollar las competencias necesarias para navegar las diferencias lingüísticas y culturales entre el español y el inglés. Trabajarás con textos de diversos campos, siguiendo flujos de trabajo profesionales y utilizando tecnologías actuales de traducción.
 
 ## 📱 Comunicación del Curso
-**Clases**: Martes, 9-11am, COMP004  
 **Profesora**: Alaina Brandt  
-**Correo**: alaina.brandt@universidad-uic.edu.mx  
+**LinkedIn**: [linkedin.com/in/alainambrandt/](https://www.linkedin.com/in/alainambrandt/)
 **Plataforma**: Teams para preguntas rápidas y anuncios
 
 ## 🎯 Objetivos del Aprendizaje
@@ -57,9 +56,9 @@ Demostrarás tu dominio de las tareas relacionadas con la traducción mediante u
 - **Entrega Final**: Paquete para el proyecto
 
 ## 📋 Evaluación General
-- **Asistencia y participación**: 30% (2 puntos semanales, 15 semanas requeridas de 16 disponibles)
-- **Tareas generales**: 30% (12 tareas × 3 puntos cada una)
-- **Evaluaciones parciales**: 30% (10 tareas × 3 puntos cada una de 11 disponibles)
+- **Asistencia y participación**: 30% (2 puntos semanales, 15 semanas requeridas)
+- **Tareas generales**: 30% (10 tareas × 3 puntos cada una)
+- **Evaluaciones parciales**: 30% (3 evaluaciones × 10 puntos cada una)
 - **Proyecto final**: 10% (Flujo de trabajo completo)
 
 ## 🛠️ Tecnologías y Herramientas
@@ -81,7 +80,7 @@ Durante el curso trabajarás con:
 
 ## 🤖 Uso de Materiales del Curso con Herramientas de IA
 
-Todo el contenido del curso está escrito en [**formato Markdown**](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) para facilitar la integración con herramientas de aprendizaje de IA. El contenido en formato markdown puede ser mejor "entendido" por las herramientas de IA generativa, ya que la jerarquía y el énfasis del contenido se comunica claramente a través de símbolos.
+Todo el contenido del curso está escrito en [**formato Markdown**](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) para facilitar la integración con herramientas de aprendizaje de IAG. El contenido en formato markdown puede ser mejor "entendido" por las herramientas de IA generativa, ya que la jerarquía y el énfasis del contenido se comunica claramente a través de símbolos.
 
 Para descargar cualquier lección como archivo markdown para usar con herramientas de IAG:
 
@@ -110,7 +109,7 @@ Practica visitando [nuestro repositorio](https://github.com/alainamb/uic_tr18-tr
 ---
 
 ### 🚀 ¿Listas y listos para aprender más sobre el curso?
-Revisa la [Descripción General del Curso](overview/overview.md) incluyendo políticas y detalles del proyecto, o comienza directamente con la [Unidad 1: Traducción Inversa y Textos Generales](unit1/unit1-overview.md).
+Revisa la [Descripción General del Curso](overview/overview.md) incluyendo políticas y detalles del proyecto, o comienza directamente con la [Unidad 1: Traducción Inversa y Textos Generales](unidad1/unidad1-intro.md).
 
 ---
-*Esta guía de aprendizaje está sujeta a cambios. La profesora comunicará cualquier modificación a los estudiantes de manera oportuna.*
+*Esta guía de aprendizaje está sujeta a cambios.*
