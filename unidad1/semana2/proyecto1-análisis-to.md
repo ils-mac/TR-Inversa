@@ -1,14 +1,14 @@
 ---
 layout: default
-title: Proyecto 1 - Retroalimentación
+title: Proyecto 1 - Análisis del Texto Origen
 parent: Semana 2
 grand_parent: Unidad 1
-nav_order: 3
+nav_order: 4
 ---
 
-# Proyecto 1 - Retroalimentación sobre la Traducción
+# Proyecto 1 - Análisis del Texto Origen
 
-Esta retroalimentación te ayudará a identificar los aspectos más desafiantes del texto de inmigración que tradujiste la semana pasada. El texto fuente contenía numerosos elementos que requieren consideración especial en la traducción español-inglés, desde terminología técnica hasta diferencias de registro y convenciones culturales. 
+Este análisis te ayudará a identificar los aspectos más desafiantes del texto de inmigración que estás traduciendo para esta semana. El texto fuente contiene numerosos elementos que requieren consideración especial en la traducción español-inglés, desde terminología técnica hasta diferencias de registro y convenciones culturales. 
 
 ## Análisis del texto fuente marcado
 
@@ -201,7 +201,7 @@ En nuestra próxima sesión discutiremos:
 
 ## 📥 Descarga esta Actividad
 
-Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad1/semana2/proyecto1-retroalimentacion.md) y descárgalo.
+Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad1/semana2/proyecto1-análisis-to.md) y descárgalo.
 
 Para profundizar en tu análisis, prueba estos prompts con tu herramienta de IA preferida:
 
@@ -211,4 +211,4 @@ Para profundizar en tu análisis, prueba estos prompts con tu herramienta de IA 
 
 ---
 
-**Siguiente:** [Contraste ES/EN: Los Elementos Morfosintácticos](./contraste-morfosintactico-es-en.md)
+**¡Semana 2 Completa!** La próxima semana exploraremos: [Documentos Personales](../semana3/semana3-intro.md)
