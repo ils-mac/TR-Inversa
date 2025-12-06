@@ -46,7 +46,7 @@ Ten en cuenta que podrías necesitar realizar **ajustes** en este documento a me
 ## Entregables
 
 **Plantilla Completada**
-Utiliza todos los campos relevantes de la plantilla de Tranquality, adaptándolos específicamente a tu proyecto de traducción.
+Utiliza todos los campos relevantes de la plantilla de Tranquality, adaptándolos específicamente a tu proyecto de traducción. **La plantilla está disponible en Teams.**
 
 **Información administrativa**
 Añade una sección a las especificaciones con la siguiente información:
@@ -56,18 +56,16 @@ Añade una sección a las especificaciones con la siguiente información:
 
 **Archivo de Especificaciones***
 - **Formato**: MS Word
-- **Nomenclatura**: `[PrimerApellidos]_Especificaciones.docx`
+- **Nomenclatura**: `[PrimerosApellidos]_Proyecto-Final-Especificaciones.docx`
 - **Ejemplo**: 
-  - Projecto individual: `González_Especificaciones.docx`
-  - Projecto grupal: `González-Reyes_Especificaciones.docx`
+  - Projecto individual: `González_Proyecto-Final-Especificaciones.docx`
+  - Projecto grupal: `González-ReyesMartinéz_Proyecto-Final-Especificaciones.docx`
 
 ## Evaluación
 
 ### Escala de Calificación
 - **1 punto**: Adecuado y completo
 - **0 puntos**: Inadecuado e incompleto
-
-*Recuerda que al entregar este checkpoint, el objetivo es que recibas retroalimentación que puedas utilizar para mejorar tu trabajo y/o continuar al siguiente paso con confianza. El trabajo que realices en este componente recibirá puntos cuando hagas tu entrega final.*
 
 ---
 
