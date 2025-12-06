@@ -94,4 +94,4 @@ Copia la conclusión descargada y prueba estos prompts:
 
 ---
 
-**¿Listas y listos para el siguiente desafío?** Continúa con la [Unidad 2: Traducción de Textos Técnicos](../unidad2/unidad2-resumen.md) para explorar la traducción especializada en inteligencia artificial generativa y tecnologías de traducción híbrida.
+**¿Listas y listos para el siguiente desafío?** Continúa con la [Unidad 2: Traducción de Textos Técnicos](../unidad2/unidad2-intro.md) para explorar la traducción especializada en inteligencia artificial generativa y tecnologías de traducción híbrida.
