@@ -58,7 +58,7 @@ Busca los **mejores documentos posibles** que puedan servir de referencia para:
 
 **Carpeta de Corpus**
 - **Formato**: Carpeta comprimida (.zip)
-- **Nomenclatura**: `[PrimerApellidos]_Proyecto-Final-Corpus.zip`
+- **Nomenclatura**: `[Apellidos]_Proyecto-Final-Corpus.zip`
 - **Ejemplo**: 
   - Projecto individual: `González_Proyecto-Final-Corpus.zip`
   - Projecto grupal: `González-ReyesMartinéz_Proyecto-Final-Corpus.zip`
