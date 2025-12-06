@@ -21,6 +21,7 @@ A través de actividades prácticas, análisis terminológico y herramientas de 
 
 Durante esta unidad, cubriremos estos temas:
 
+- **Marco MQM**: Norma internacional para la anotación de errores
 - **Traducción de Textos Técnicos sobre IAG**: Características y desafíos específicos
 - **Corpus y Terminología Especializada**: Creación y uso de glosarios técnicos  
 - **Introducción a Lilt**: Plataforma de traducción híbrida humano-IAG
@@ -31,6 +32,8 @@ Durante esta unidad, cubriremos estos temas:
 ## Objetivos de Aprendizaje
 
 Al finalizar esta unidad, podrás:
+
+- **Entender cómo se identifica los errores** en tu traducciones para la clase
 
 - **Integrar corpus y glosarios** en tu proceso de traducción para mejorar precisión terminológica
 
@@ -44,14 +47,14 @@ Al finalizar esta unidad, podrás:
 
 ## Cronograma Semanal
 
-### [Semana 4: Traducción Técnica e IAG](semana4/semana4-resumen.md)
-Fundamentos de traducción técnica, corpus bilingüe sobre IAG, terminología especializada, y traducción del Texto 3.
+### [Semana 4: Traducción Técnica, IAG y MQM](semana4/semana4-intro.md)
+Fundamentos de traducción técnica, campo de dominio de IAG, y el marco MQM
 
-### [Semana 5: Contraste Gramatical y Evaluación Parcial](semana5/semana5-resumen.md)  
-Elementos gramaticales español-inglés en textos técnicos, preparación y realización de la Evaluación Parcial 1 con el Texto 4.
+### [Semana 5: Contraste Gramatical, Corpus y Terminologíal](semana5/semana5-intro.md)  
+Corpus bilingüe sobre IAG, terminología especializada, elementos gramaticales español-inglés en textos técnicos, primer evaluación parcial
 
-### [Semana 6: Introducción a Lilt y Traducción Híbrida](semana6/semana6-resumen.md)
-Capacitación en Lilt, traducción híbrida del Texto 4, y ensayo comparativo entre traducción humana y híbrida.
+### [Semana 6: Introducción a Lilt y Traducción Híbrida](semana6/semana6-intro.md)
+Capacitación en Lilt, traducción híbrida, y ensayo comparativo entre traducción humana y híbrida.
 
 ## Comenzando
 
@@ -67,10 +70,10 @@ Las competencias que desarrolles aquí te prepararán para las unidades posterio
 
 ---
 
-## 📥 Descargar Resumen de la Unidad 2
+## 📥 Descargar la introducción de la Unidad 2
 ¡Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad2/unidad2-resumen.md) y descárgalo!
 
-### 🤖 Prompts de Estudio con IA
+### 🤖 Prompts de Estudio con IAG
 Copia el resumen descargado de la unidad y prueba estos prompts:
 - "Ayúdame a entender cómo la IAG está transformando la profesión de la traducción"
 - "Crea un plan de estudio para dominar la traducción técnica y el uso de corpus especializados"  
@@ -80,4 +83,4 @@ Copia el resumen descargado de la unidad y prueba estos prompts:
 
 ---
 
-**¿Listas y listos para comenzar?** Inicia con la [Semana 4: Traducción Técnica e IAG](semana4/semana4-resumen.md) para dominar la traducción especializada en la era de la inteligencia artificial.
+**¿Listas y listos para comenzar?** Inicia con la [Semana 4: Traducción Técnica, IAG y MQM](semana4/semana4-intro.md) para dominar la traducción especializada en la era de la inteligencia artificial.
