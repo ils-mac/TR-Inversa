@@ -88,8 +88,6 @@ Añade un documento a tu zip con la siguiente información:
 - **1 puntos**: Adecuado y útil
 - **0 puntos**: Inadecuado y no útil
 
-*Recuerda que al entregar este checkpoint, el objetivo es que recibas retroalimentación que puedas utilizar para mejorar tu trabajo y/o continuar al siguiente paso con confianza. El trabajo que realices en este componente recibirá puntos cuando hagas tu entrega final.*
-
 ---
 
 ## 📥 Descargar Checkpoint 3
