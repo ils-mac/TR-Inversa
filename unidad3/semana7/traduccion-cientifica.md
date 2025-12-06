@@ -142,4 +142,4 @@ Para profundizar en tu comprensión de la traducción científica, prueba estos 
 
 ---
 
-**Siguiente:** [Los Reportes de Seguimiento](reportes-de-seguimiento.md)
+**Siguiente:** [Trabajo Colaborativo y los Reportes de Seguimiento](trabajo-colaborativo.md)
