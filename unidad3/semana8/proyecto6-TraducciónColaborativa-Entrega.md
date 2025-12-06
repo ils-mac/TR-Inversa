@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Proyecto 6 - Traducción Científica Colaborativa: Entrega
+title: Proyecto 6 - Entrega de Traducción Científica Colaborativa
 parent: Semana 8
 grand_parent: Unidad 3
 nav_order: 4
