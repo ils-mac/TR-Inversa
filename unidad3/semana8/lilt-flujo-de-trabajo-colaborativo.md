@@ -130,4 +130,4 @@ Para profundizar en el desarrollo de competencias técnicas con herramientas TAO
 
 ---
 
-**Siguiente:** [Proyecto 6 - Traducción Científica Colaborativa: Entrega](./proyecto6-entrega.md)
+**Siguiente:** [Proyecto 6 - Traducción Científica Colaborativa: Entrega](proyecto6-TraducciónColaborativa-Entrega.md)
