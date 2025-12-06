@@ -69,13 +69,6 @@ Durante el curso trabajarás con:
 - **Lilt**: Plataforma de traducción híbrida (licencias proporcionadas)
 - **Label Studio**: Software para evaluación de calidad
 
-## 💡 Consejos para el Éxito
-- **2-4 horas semanales** de trabajo fuera de clase
-- **Revisa materiales antes de las clases** para participar efectivamente
-- **Comienza las tareas con anticipación** para resolver dudas
-- **Regla de 30 minutos**: Investiga independientemente, consulta compañeros, luego contacta al profesor
-- **Comunicación activa**: La profesora responde Teams/correo en días hábiles
-
 ---
 
 ## 🤖 Uso de Materiales del Curso con Herramientas de IA
