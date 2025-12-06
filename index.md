@@ -10,7 +10,7 @@ Bienvenidos a Traducción Inversa A > B, un curso diseñado para desarrollar las
 
 ## 📱 Comunicación del Curso
 **Profesora**: Alaina Brandt  
-**LinkedIn**: [linkedin.com/in/alainambrandt/](https://www.linkedin.com/in/alainambrandt/)
+**LinkedIn**: [linkedin.com/in/alainambrandt/](https://www.linkedin.com/in/alainambrandt/)<br>
 **Plataforma**: Teams para preguntas rápidas y anuncios
 
 ## 🎯 Objetivos del Aprendizaje
