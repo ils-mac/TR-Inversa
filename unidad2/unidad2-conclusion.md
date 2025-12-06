@@ -98,7 +98,7 @@ Tu dominio de la traducción técnica y herramientas híbridas te prepara excele
 ## 📥 Descargar Conclusión de la Unidad 2
 ¡Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad2/unidad2-conclusion.md) y descárgalo!
 
-### 🤖 Prompts de Estudio con IA
+### 🤖 Prompts de Estudio con IAG
 Copia la conclusión descargada y prueba estos prompts:
 - "Ayúdame a reflexionar sobre mi desarrollo en traducción técnica e identificar próximos pasos de mejora"
 - "Crea un plan de práctica para consolidar mis habilidades con herramientas de traducción híbrida"
@@ -108,4 +108,4 @@ Copia la conclusión descargada y prueba estos prompts:
 
 ---
 
-**¿Listas y listos para el siguiente desafío?** Continúa con la [Unidad 3: Traducción de Textos Científicos](../unidad3/unidad3-resumen.md) para explorar la traducción especializada en cambio climático y sostenibilidad, donde aplicarás tus competencias técnicas a contextos científicos de alta complejidad.
+**¿Listas y listos para el siguiente desafío?** Continúa con la [Unidad 3: Traducción de Textos Científicos](../unidad3/unidad3-intro.md) para explorar la traducción especializada en cambio climático y sostenibilidad, donde aplicarás tus competencias técnicas a contextos científicos de alta complejidad.
