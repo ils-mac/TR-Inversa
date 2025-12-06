@@ -67,4 +67,4 @@ Para profundizar en tu comprensión de los sistemas de gestión de calidad de tr
 
 ---
 
-**Siguiente:** [Traducción de Acuerdos de Libre Comercio](./tratados-librecomercio-es-en.md)
+**Siguiente:** [Traducción de Tratados de Libre Comercio: Terminología y Colocaciones](tratados-libre-comercio.md)
