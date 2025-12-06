@@ -61,6 +61,8 @@ Añade una sección a las especificaciones con la siguiente información:
   - Projecto individual: `González_Proyecto-Final-Especificaciones.docx`
   - Projecto grupal: `González-ReyesMartinéz_Proyecto-Final-Especificaciones.docx`
 
+**Recordatorio: Cada vez que entregues, debes incluir todos los componentes del proyecto completados hasta ese momento en la misma carpeta comprimida (.zip)**
+
 ## Evaluación
 
 ### Escala de Calificación
