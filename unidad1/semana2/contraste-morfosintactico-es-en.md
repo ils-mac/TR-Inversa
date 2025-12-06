@@ -1,3 +1,11 @@
+---
+layout: default
+title: Contraste Morfosintáctico ES-EN
+parent: Semana 2
+grand_parent: Unidad 1
+nav_order: 1
+---
+
 # Contraste Morfosintáctico ES-EN
 
 ## Introducción
