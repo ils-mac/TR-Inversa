@@ -21,4 +21,8 @@ Last week, you began a collaborative translation assignment in the domain of cli
 - What parts of the source text are unclear and need further analysis (such as through sentence trees) to understand the meaning? 
 - What linguistic conventions used in the source are proving challenging for reformulation in translation?
 
+### Recursos disponibles
+
+Para la investigación terminológica y contextual, tienen acceso a un pequeño corpus de aproximadamente 15 artículos en inglés y 15 artículos en español sobre cambio climático en Teams. Pueden trabajar con este corpus en Sketch Engine. Si necesitan repasar el trabajo con corpus, consulten [esta página](../../unidad2/semana5/corpus-terminologia.md).
+
 **Siguiente:** [Contraste de Puntuación Español/Inglés en la Traducción](contraste-puntuacion-es-en.md)
