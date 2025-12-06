@@ -87,22 +87,16 @@ Utiliza el formato de citación apropiado para el tipo de fuente (artículo acad
 
 **Entregable**
 - **Formato**: Archivo MS Word
-- **Nomenclatura**: `[PrimerApellidos]_Proyecto-Final-Justificación.docx`
+- **Nomenclatura**: `[PrimerosApellidos]_Proyecto-Final-Justificación.docx`
 - **Ejemplo**: 
   - Projecto individual: `González_Proyecto-Final-Justificación.docx`
-  - Projecto grupal: `González-Reyes_Proyecto-Final-Justificación.docx`
+  - Projecto grupal: `González-ReyesMartinéz_Proyecto-Final-Justificación.docx`
 
 ## Evaluación
 
 ### Criterio de Aprobación
-- **Aprobado**: El texto cumple con todos los requisitos técnicos y la justificación demuestra criterio profesional apropiado
-- **No aprobado**: El texto no cumple con los requisitos o la justificación carece de análisis crítico suficiente
-
-### Retroalimentación
-Recibirás comentarios sobre:
-- La adecuación del texto seleccionado para tus objetivos de aprendizaje
-- La calidad del análisis en tu justificación
-- Sugerencias para el desarrollo de los siguientes checkpoints
+- **Aprobado**: El texto cumple con todos los requisitos técnicos y la justificación demuestra criterio profesional apropiado (1 punto)
+- **No aprobado**: El texto no cumple con los requisitos o la justificación carece de análisis crítico suficiente (0 puntos)
 
 ---
 
