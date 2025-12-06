@@ -54,7 +54,7 @@ Organiza tu carpeta de la siguiente manera:
 ├── 04_Glosario/
 │   └── [Apellidos]_Glosario.xlsx
 ├── 05_Traducción/
-│   ├── [ApellidosDelAutor]_[PrimerosApellidos]_[TítuloAbreviado]_EN-US.docx
+│   ├── [ApellidosDelAutor]_[SusApellidos]_[TítuloAbreviado]_EN-US.docx
 │   └── [Apellidos]_Traducción-Observaciones.docx
 ```
 
@@ -79,7 +79,7 @@ Todos los documentos deben:
 
 ### Nomenclatura de la Carpeta
 - **Formato**: Carpeta comprimida (.zip)
-- **Nomenclatura**: `[Apellidos]_Proyecto-Final-Traducción.zip`
+- **Nomenclatura**: `[Apellidos]_Proyecto-Final.zip`
 - **Ejemplos**:
   - Proyecto individual: `González_Proyecto-Final.zip`
   - Proyecto grupal: `González-ReyesMartínez_Proyecto-Final.zip`
