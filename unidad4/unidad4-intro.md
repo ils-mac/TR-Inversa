@@ -23,9 +23,9 @@ Durante esta unidad, cubriremos estos temas:
 
 - **Traducción de Textos Especializados**: Con enfoque en tratados comerciales México-Estados Unidos
 - **Posedición de Traducción Automática**: Técnicas light y full según guías TAUS
-- **Contraste Metodológico**: Traducción automática vs. traducción híbrida con IAG
+- **Teoría Narativa**: Las historias a través de que se entiende el mundo
 - **Elementos Pragmáticos**: Diferencias español-inglés en contextos comerciales
-- **Evaluación Comparativa**: Análisis crítico de métodos de traducción
+- **Posedición**: Análisis crítico de métodos de posedición
 
 ## Objetivos de Aprendizaje
 
@@ -43,14 +43,14 @@ Al finalizar esta unidad, podrás:
 
 ## Cronograma Semanal
 
-### [Semana 10: Textos Especializados y Evaluación Parcial 2](semana10/semana10-resumen.md)
-Traducción de tratados comerciales, características de textos especializados, y segunda evaluación parcial del curso.
+### [Semana 10: Relaciones Internacionales entre México y EUA](semana10/semana10-intro.md)
+Traducción de tratados comerciales, características de textos especializados y segunda evaluación parcial del curso
 
-### [Semana 11: Elementos Pragmáticos y Contraste Metodológico](semana11/semana11-resumen.md)
-Diferencias pragmáticas español-inglés, comparación entre traducción automática y traducción híbrida con IAG en Lilt.
+### [Semana 11: Teoría Narrativa y la Pragmática](semana11/semana11-resumen.md)
+La teoría narrativa de Mona Baker, diferencias pragmáticas español-inglés y proyecto colaborativo
 
-### [Semana 12: Posedición y Evaluación Metodológica](semana12/semana12-resumen.md)
-Técnicas de posedición light y full, evaluación crítica de métodos de traducción, y ensayo analítico.
+### [Semana 12: Pos-edición de la Traducción Automática](semana12/semana12-intro.md)
+Evaluación crítica de métodos de traducción, técnicas de posedición light y full y anotación + posedición de TA
 
 ## Comenzando
 
@@ -60,16 +60,15 @@ Esta unidad ampliará significativamente tus oportunidades profesionales al desa
 
 ### Recursos Clave de la Unidad
 - **Guías TAUS**: MT Post-Editing Guidelines para posedición profesional
-- **Corpus de tratados comerciales**: Textos auténticos México-Estados Unidos
 - **Plataforma Lilt**: Para traducción híbrida con IAG
 - **Marco de evaluación MQM**: Multidimensional Quality Metrics para análisis comparativo
 
 ---
 
-## 📥 Descargar Resumen de la Unidad 4
-¡Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad4/unidad4-resumen.md) y descárgalo!
+## 📥 Descargar esta introducción de la Unidad 4
+¡Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad4/unidad4-intro.md) y descárgalo!
 
-### 🤖 Prompts de Estudio con IA
+### 🤖 Prompts de Estudio con IAG
 Copia el resumen descargado de la unidad y prueba estos prompts:
 - "Ayúdame a entender las diferencias entre posedición light y full para traducción automática"
 - "Crea un plan de estudio para dominar los objetivos de la Unidad 4 en 3 semanas"
@@ -79,4 +78,4 @@ Copia el resumen descargado de la unidad y prueba estos prompts:
 
 ---
 
-**¿Listas y listos para comenzar** Inicia con la [Semana 10: Textos Especializados y Evaluación Parcial 2](semana10/semana10-resumen.md) para dominar la traducción de tratados internacionales y tecnologías avanzadas de traducción.
+**¿Listas y listos para comenzar** Inicia con la [Semana 10: Relaciones Internacionales entre México y EUA](semana10/semana10-intro.md) para dominar la traducción de tratados internacionales y tecnologías avanzadas de traducción.
