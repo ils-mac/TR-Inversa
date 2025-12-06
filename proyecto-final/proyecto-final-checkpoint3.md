@@ -58,15 +58,15 @@ Busca los **mejores documentos posibles** que puedan servir de referencia para:
 
 **Carpeta de Corpus**
 - **Formato**: Carpeta comprimida (.zip)
-- **Nomenclatura**: `[PrimerApellidos]_Corpus.zip`
+- **Nomenclatura**: `[PrimerApellidos]_Proyecto-Final-Corpus.zip`
 - **Ejemplo**: 
-  - Projecto individual: `González_Corpus.zip`
-  - Projecto grupal: `González-Corpus.zip`
+  - Projecto individual: `González_Proyecto-Final-Corpus.zip`
+  - Projecto grupal: `González-ReyesMartinéz_Proyecto-Final-Corpus.zip`
 
 **Documentos del Corpus Individuales**
 - **Formato**: MS Word o PDF
-- **Nomenclatura**: `[ApellidosDelAutor]_[Título del documento]`
-- **Ejemplo**: `Smith_AI medical applications`
+- **Nomenclatura**: `[ApellidosDelAutor]_[Título corto para el documento]_[Año de publicación]`
+- **Ejemplo**: `Smith_AImedicalApplications_2025.pdf`
 
 **Organización de Archivos**
 - Incluye 4-6 documentos en total
@@ -79,6 +79,8 @@ Añade un documento a tu zip con la siguiente información:
 - **Nombres** de las personas que desarrollaron el corpus
 - **Desafíos** que enfrentaron durante el desarrollo
 - **Contribuciones de tiempo** de cada persona
+
+**Recordatorio: Cada vez que entregues, debes incluir todos los componentes del proyecto completados hasta ese momento en la misma carpeta comprimida (.zip)**
 
 ## Evaluación
 
