@@ -9,7 +9,7 @@ nav_order: 2
 
 El proyecto final te dará la oportunidad de demostrar tu dominio de las tareas relacionadas con la traducción que has aprendido en este curso. A lo largo del curso, seleccionarás el texto fuente y comenzarás los preparativos, que incluyen la creación de especificaciones, un corpus pequeño y un glosario de términos clave. Después, realizarás la traducción y escribirás un ensayo sobre tu proceso de toma de decisiones.
 
-Aprende más sobre el proyecto final aquí: [Proyecto Final: Traducción Profesional Completa](/../../proyecto-final/proyecto-final-intro.md)
+Aprende más sobre el proyecto final aquí: [Proyecto Final: Traducción Profesional Completa](../../proyecto-final/proyecto-final-intro.md)
 
 ## 🎯 Objetivo del Proyecto
 
