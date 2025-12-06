@@ -77,7 +77,7 @@ Este archivo debe ser accesible para todo el equipo durante el proyecto.
    
    b. Hacer clic en `+ New Entry`
    
-   ![Agregar entrada en fuente de datos](https://raw.githubusercontent.com/alainamb/uic_tr18-trad-inversa-es-en/main/unidad3/semana7/imagenes/Lilt_AddDataSourceEntry.png)
+   ![Agregar entrada en fuente de datos](https://raw.githubusercontent.com/alainamb/uic_tr18-trad-inversa-es-en/main/unidad3/semana8/imagenes/Lilt_AddDataSourceEntry.png)
    
    c. Llenar el cuadro de diálogo con:
       - **Type of entry:** Termbase
@@ -85,7 +85,7 @@ Este archivo debe ser accesible para todo el equipo durante el proyecto.
       - **Target text [en]:** término meta
       - **Approval status:** Reviewed
    
-   ![Agregar nueva entrada](https://raw.githubusercontent.com/alainamb/uic_tr18-trad-inversa-es-en/main/unidad3/semana7/imagenes/Lilt_AddNewEntry.png)
+   ![Agregar nueva entrada](https://raw.githubusercontent.com/alainamb/uic_tr18-trad-inversa-es-en/main/unidad3/semana8/imagenes/Lilt_AddNewEntry.png)
 
 **Requisito mínimo:** Al menos 5 términos en el glosario.
 
