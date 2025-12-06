@@ -56,7 +56,7 @@ Añade una sección a las especificaciones con la siguiente información:
 
 **Archivo de Especificaciones***
 - **Formato**: MS Word
-- **Nomenclatura**: `[PrimerosApellidos]_Proyecto-Final-Especificaciones.docx`
+- **Nomenclatura**: `[Apellidos]_Proyecto-Final-Especificaciones.docx`
 - **Ejemplo**: 
   - Projecto individual: `González_Proyecto-Final-Especificaciones.docx`
   - Projecto grupal: `González-ReyesMartinéz_Proyecto-Final-Especificaciones.docx`
