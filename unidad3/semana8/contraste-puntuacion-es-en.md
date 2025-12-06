@@ -98,4 +98,4 @@ Para profundizar en tu análisis de puntuación, prueba estos prompts con tu her
 
 ---
 
-**Siguiente:** [Traducción Científica y Cambio Climático](./traduccion-cientifica.md)
+**Siguiente:** [Flujo de trabajo colaborativo en Lilt](lilt-flujo-de-trabajo-colaborativo.md)
