@@ -53,7 +53,7 @@ Estas calificaciones de correspondencia y legibilidad se utilizan para dar una p
 | **Nivel de gravedad neutral** | Nivel de gravedad de un error que difiere de la traducción preferencial de una persona evaluadora de calidad o que se señala para la atención de la traductora o traductor pero es una traducción aceptable. |
 | **Nivel de gravedad menor** | Nivel de gravedad de un error que no impide seriamente la usabilidad, comprensibilidad o confiabilidad del contenido para su propósito previsto, pero tiene un impacto limitado en, por ejemplo, precisión, calidad estilística, consistencia, fluidez, claridad o atractivo general del contenido. |
 | **Nivel de gravedad mayor** | Nivel de gravedad de un error que afecta seriamente la comprensibilidad, confiabilidad o usabilidad del contenido para su propósito previsto o dificulta el uso apropiado del producto o servicio debido a una pérdida o cambio significativo en el significado o porque el error aparece en una parte altamente visible o importante del contenido. |
-| **Nivel de gravedad crítica** | Nivel de gravedad de un error que hace que todo el contenido no sea apto para su propósito o presenta el riesgo de daño físico, financiero o reputacional grave. |
+| **Nivel de gravedad crítico** | Nivel de gravedad de un error que hace que todo el contenido no sea apto para su propósito o presenta el riesgo de daño físico, financiero o reputacional grave. |
 
 ## Actividad 1: Tipología de Errores MQM
 
