@@ -20,6 +20,7 @@ Al finalizar esta asignatura, podrás:
 - **Manejar las diferencias estructurales** entre el español y el inglés
 - **Utilizar herramientas tecnológicas actuales** para la traducción
 - **Realizar diferentes modalidades de traducción**, incluyendo traducción convencional, postedición de traducción automática y traducción híbrida
+- **Evaluar la calidad de traducciones** utilizando marcos estandarizados como MQM
 - **Aplicar principios teóricos y éticos** en la práctica traductora
 
 ## 📚 Estructura del Curso
