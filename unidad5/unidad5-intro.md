@@ -25,7 +25,7 @@ Durante esta unidad, cubriremos estos temas:
 - **Perspectivas Profesionales**: Entrevista con George Henson sobre traducción literaria
 - **Análisis de Traducciones**: Estudio de traducciones existentes de autores mexicanos
 - **Ética en la Traducción**: Principios éticos generales y específicos para traducción inversa
-- **Evaluación Parcial 3**: Traducción literaria colaborativa
+- **Evaluación Parcial 3**: Evaluaciones de la traducción literaria colaborativa
 
 ## Objetivos de Aprendizaje
 
@@ -37,20 +37,20 @@ Al finalizar esta unidad, podrás:
 
 - **Desarrollar habilidades específicas** para traducir textos mexicanos para público estadounidense
 
-- **Aplicar principios éticos** en el proceso de traducción literaria e inversa
+- **Completar tu proyecto literario** y conocer los proyectos de tus compañeras y compañeros en la clase
 
-- **Completar tu proyecto final** utilizando recursos lingüísticos especializados y glosario desarrollado
+- **Aplicar principios éticos** en el proceso de traducción literaria e inversa
 
 ## Cronograma Semanal
 
-### [Semana 13: Traducción Literaria y Perspectivas Profesionales](semana13/semana13-resumen.md)
-Introducción a la traducción de textos literarios mexicanos, entrevista con George Henson, y selección del texto para traducción.
+### [Semana 13: Traducción Literaria y Perspectivas Profesionales](semana13/semana13-intro.md)
+Introducción a la traducción de textos literarios mexicanos, entrevista con George Henson, y selección del texto para traducción
 
-### [Semana 14: Ética en la Traducción](semana14/semana14-resumen.md)
-Conclusiones sobre la ética de la traducción en general y de la traducción inversa, trabajo en la traducción literaria.
+### [Semana 14: La Traducción de Modismos Mexicanos](semana14/semana14-intro.md)
+Siendo simpátic@ en la traducción, modismo mexicanos y traducción del texto seleccionado 
 
-### [Semana 15: Evaluación Final](semana15/semana15-resumen.md)
-Instrucciones para la entrega final del proyecto, evaluación parcial 3 mediante evaluación colaborativa de traducciones literarias.
+### [Semana 15: Evaluación Final](semana15/semana15-intro.md)
+Conclusiones sobre la ética de la traducción en general y de la traducción inversa y tercera evaluación parcial mediante la evaluación colaborativa de traducciones literarias
 
 ## Comenzando
 
@@ -67,9 +67,9 @@ Esta unidad representa la culminación de tu aprendizaje en traducción inversa,
 ---
 
 ## 📥 Descargar Resumen de la Unidad 5
-¡Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad5/unidad5-resumen.md) y descárgalo!
+¡Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad5/unidad5-intro.md) y descárgalo!
 
-### 🤖 Prompts de Estudio con IA
+### 🤖 Prompts de Estudio con IAG
 Copia el resumen descargado de la unidad y prueba estos prompts:
 - "Ayúdame a entender las diferencias entre traducción literaria y otros tipos de traducción"
 - "Crea un plan de estudio para dominar la traducción de literatura mexicana al inglés"
@@ -79,4 +79,4 @@ Copia el resumen descargado de la unidad y prueba estos prompts:
 
 ---
 
-**¿Listas y listos para comenzar?** Inicia con la [Semana 13: Traducción Literaria y Perspectivas Profesionales](semana13/semana13-resumen.md) para explorar el fascinante mundo de la traducción literaria mexicana.
+**¿Listas y listos para comenzar?** Inicia con la [Semana 13: Traducción Literaria y Perspectivas Profesionales](semana13/semana13-intro.md) para explorar el fascinante mundo de la traducción literaria mexicana.
