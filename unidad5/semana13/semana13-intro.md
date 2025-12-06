@@ -10,39 +10,27 @@ has_children: true
 
 ## Resumen
 
-Esta semana nos enfocamos en la traducción de textos literarios mexicanos para audiencias estadounidenses, con una perspectiva profesional única gracias a la entrevista con George Henson, reconocido traductor de autores mexicanos. También iniciamos la selección del texto literario para tu proyecto de traducción.
+Esta semana nos enfocamos en la traducción de textos literarios mexicanos para audiencias estadounidenses, con una perspectiva profesional única gracias a la entrevista con George Henson, reconocido traductor de autores mexicanos. También iniciamos la selección del texto literario paras sus proyectos de traducción con que trabajaremos a lo largo de esta unidad.
 
 ## Temas Cubiertos
 
-### Subtemas
+## Temas de la Semana
 - **La traducción de textos literarios**: Particularidades de México para los Estados Unidos
 - **Perspectivas profesionales**: Entrevista con George Henson, traductor ES>EN especializado en literatura mexicana
-- **Selección de textos**: Requisitos para escoger un texto literario mexicano no previamente traducido
 
 ## Actividades en Clase
-
-### Actividades bajo Conducción Docente (Martes 9-11am)
 - La traducción de textos literarios de México para los Estados Unidos: Presentación + diálogo
 - Reproducción de la entrevista con George Henson, traductor de Sergio Pitol, Elena Poniatowska y Alberto Chimal
-- Presentación de Texto 10 - Literatura mexicana: Requisitos y proceso de selección
+- Presentación del Proyecto 11 - Traducción Literaria - Selección del Texto Fuente + Justificación
 
-## Actividades Independientes
-
-### Tarea Asignada
-- **Selección de Texto 10 - Literatura mexicana** (0 puntos)
-- **Checkpoint 4 - Proyecto final: Glosario** (puntuación del proyecto final)
-- **Fecha de entrega**: Domingo, 9 de noviembre
+## Tareas Asignadas y Evaluaciones
+- **Proyecto 11 - Traducción Literaria - Selección del Texto Fuente + Justificación** (3 puntos)
+  - **Fecha de entrega**: Fin de la semana
+- **Asistencia y participación** (2 puntos)
 
 ## Recursos para el Aprendizaje
-
-- Presentación sobre la traducción de textos literarios de México para los Estados Unidos
 - Entrevista con George Henson: perspectivas profesionales y técnicas de traducción literaria
 - Venuti (1986): "The Translator's Invisibility" - Criticism, Vol. XXVIII, No. 2, pgs. 179-212
-
-## Evaluación
-
-- **Asistencia y participación** (2 puntos)
-- **Selección de Texto 10 - Literatura mexicana** (0 puntos)
 
 ---
 
