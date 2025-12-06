@@ -20,10 +20,9 @@ Gran parte del éxito se mide simplemente en estar donde uno necesita estar en e
 Podrás faltar hasta **una clase** sin perder puntos, siempre que hayas justificado tu ausencia con antelación o en casos de emergencia médica o familiar. En caso de emergencia, deberás notificar a la profesora por correo electrónico tan pronto como sea posible.
 
 **Detalles de Asistencia**
-- **17 reuniones totales** durante el semestre
-- **Seguimiento de asistencia comienza en la Semana 2** (16 reuniones evaluadas)
+- **Más de 15 reuniones semanales** a través de que puedes ganar puntos de asistencia y participación
 - Los estudiantes pueden faltar **1 clase** sin perder puntos
-- **Asistencia perfecta:** Los estudiantes que asistan a las 16 reuniones restantes obtienen **2 puntos de crédito extra**
+- **Asistencia perfecta:** Los estudiantes que asistan a más que 15 reuniones pueden obtener hasta **2 puntos de crédito extra**
 
 ## Política de Entrega Tardía de Tareas
 
@@ -47,7 +46,7 @@ La mayoría de las tareas en este curso son grupales, y frecuentemente habrá ac
 **Consecuencias por No Participación**
 - **Tomar crédito por trabajo al que no contribuiste no es tolerado** en esta clase
 - Si no contribuyes a una asignación grupal, recibirás **0 puntos** para esa asignación
-- **Ofensas repetidas** pueden resultar en que seas removido de un grupo y **reprobar la clase**
+- **Ofensas repetidas** pueden resultar en que seas removido de un grupo y **repruebes la clase**
 
 ## Política de Uso de IA
 
