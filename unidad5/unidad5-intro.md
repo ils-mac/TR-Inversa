@@ -49,7 +49,7 @@ Introducción a la traducción de textos literarios mexicanos, entrevista con Ge
 ### [Semana 14: La Traducción de Modismos Mexicanos](semana14/semana14-intro.md)
 Siendo simpátic@ en la traducción, modismo mexicanos y traducción del texto seleccionado 
 
-### [Semana 15: Evaluación Final](semana15/semana15-intro.md)
+### [Semana 15: La Ética en la Traducción](semana15/semana15-intro.md)
 Conclusiones sobre la ética de la traducción en general y de la traducción inversa y tercera evaluación parcial mediante la evaluación colaborativa de traducciones literarias
 
 ## Comenzando
