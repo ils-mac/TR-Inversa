@@ -89,7 +89,7 @@ Las definiciones de los términos españoles e ingleses deben **coincidir** para
 
 **Base de Datos Terminológica**
 - **Formato**: Archivo MS Excel (.xlsx)
-- **Nomenclatura**: `[PrimerosApellidos]_Proyecto-Final-Glosario.xlsx`
+- **Nomenclatura**: `[Apellidos]_Proyecto-Final-Glosario.xlsx`
 - **Ejemplo**: 
   - Projecto individual: `González_Proyecto-Final-Glosario.xlsx`
   - Projecto grupal: `González-ReyesMartinéz_Proyecto-Final-Glosario.xlsx`
