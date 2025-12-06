@@ -23,10 +23,6 @@ Trabajarán traduciendo un texto adaptado del artículo académico "Manglares fr
 - **Texto completo del artículo:** [ManglaresFrenteElCambioClimático.pdf](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad3/semana7/referencias/ManglaresFrenteElCambioClimático.pdf)
 - **Texto para traducir:** [manglares-frente-al-cambio-climatico.md](../semana7/manglares-frente-al-cambio-climatico.md)
 
-### Recursos disponibles
-
-Para la investigación terminológica y contextual, tienen acceso a un pequeño corpus de aproximadamente 15 artículos en inglés y 15 artículos en español sobre cambio climático en Teams. Pueden trabajar con este corpus en Sketch Engine. Si necesitan repasar el trabajo con corpus, consulten [esta página](../../unidad2/semana5/corpus-terminologia.md).
-
 ## Flujo de trabajo en Lilt
 
 ### Acceso a Data Sources
