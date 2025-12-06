@@ -67,7 +67,7 @@ Traducción Técnica, IAG y MQM
 
 ---
 
-## 📥 Descargar la introducción de la Unidad 1
+## 📥 Descargar esta introducción de la Unidad 1
 ¡Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad1/unidad1-intro.md) y descárgalo!
 
 ### 🤖 Prompts de Estudio con IA
