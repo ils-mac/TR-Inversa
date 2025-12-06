@@ -10,18 +10,16 @@ has_children: true
 
 ## Resumen
 
-Esta semana nos enfocamos en las técnicas de posedición de traducción automática, diferenciando entre posedición light y full según las guías profesionales de TAUS. También realizamos una evaluación comparativa integral entre traducción automática y traducción híbrida, culminando con un ensayo analítico sobre los métodos estudiados.
+Esta semana nos enfocamos en las técnicas de posedición de traducción automática, diferenciando entre conceptos como "un-verified translation (UVT)" [traducción no verificada] y "professionally verified translation (PVT)" [traducción verificada profesionalmente], y la posedición light y full según las guías profesionales de TAUS. Profundizamos en la evaluación de traducciones con el marco MQM y en el desarrollo de consenso entre evaluadores.
 
-## Temas Cubiertos
-
-### Subtemas
+## Temas de la Semana
 - **La posedición de la TA**: Técnicas light y full según especificaciones profesionales
 - **Evaluación metodológica**: Texto 9 - Tratados comerciales y contraste TA/Traducción híbrida
 
 ## Actividades en Clase
 
 ### Actividades bajo Conducción Docente (Martes 9-11am)
-- La posedición de la TA - Light y full posedición: Presentación + diálogo sobre aplicaciones profesionales
+- ¿Qué tipo de traducción es? Distinguiendo entre UVT y PVT
 - Evaluación de Texto 9 - Tratados comerciales: Selección de sub-tipologías MQM para llevar a cabo las evaluaciones
 - Evaluación de Texto 9 - Tratados comerciales: Tiempo de trabajo en clase
 
@@ -32,11 +30,11 @@ Esta semana nos enfocamos en las técnicas de posedición de traducción automá
 - **Fecha de entrega**: Domingo, 2 de noviembre
 
 ## Recursos para el Aprendizaje
-
-- Presentación sobre la posedición de la TA
 - Brandt (2021): "Savvy Diversification Series - Diversification into Machine Translation." The ATA's Savvy Newcomer
 - O'Brien (2002): "Teaching Post-editing: A Proposal for Course Content." Proceedings of the 6th EAMT Workshop: Teaching Machine Translation
 - Massardo, van der Meer, O'Brien, Hollowood, Aranberri, Drescher (2016): MT Post-Editing Guidelines. TAUS
+- ASTM F2575 Standard Practice for Language Translation
+- Translation Quality Management repo on GitHub by Alaina Brandt
 
 ## Evaluación
 
