@@ -71,13 +71,14 @@ Tu traducción será evaluada según la **tipología básica de MQM** en las ár
 
 ## Cronograma y Entregas
 
-| Checkpoint | Componente | Evaluación |
-|------------|------------|------------|
-| 1 | Selección de texto | Aprobado/No aprobado |
-| 2 | Especificaciones | Retroalimentación formativa |
-| 3 | Corpus | Retroalimentación formativa |
-| 4 | Glosario | Retroalimentación formativa |
-| 5 | Traducción + Justificación + Entrega final | Evaluación sumativa (10 puntos) |
+| Checkpoint | Componente | Recommended Delivery Date | Evaluación | Puntos |
+|------------|------------|----------------------|------------|--------|
+| 1 | Selección de texto | Semana 6 | Aprobado/No aprobado | 1 punto |
+| 2 | Especificaciones | Semana 8 | Retroalimentación formativa | 1 punto |
+| 3 | Corpus | Semana 10 | Retroalimentación formativa | 1 punto |
+| 4 | Glosario | Semana 12 | Retroalimentación formativa | 1 punto |
+| 5 | Traducción + Justificación | Semana 14 | 5 puntos |
+| 6 | Entrega final | Semana 16 | 1 punto |
 
 ## Consejos para el Éxito
 
