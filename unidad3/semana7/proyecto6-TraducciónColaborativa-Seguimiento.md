@@ -170,4 +170,4 @@ Para optimizar tu reporte de seguimiento y consultas profesionales, prueba estos
 
 ---
 
-**Siguiente:** Continuarás trabajando en tu proyecto. Consulta [Proyecto 6 - Entrega Final](../semana8/proyecto6-TraducciónColaborativa-Entrega.md) para ver la descripción completa del proyecto y los entregables de la Semana 8.
+**¡Semana 7 Completa!** La próxima semana exploraremos: [Flujo de trabajo colaborativo en Lilt (Continuación)](../semana8/semana8-intro.md)
