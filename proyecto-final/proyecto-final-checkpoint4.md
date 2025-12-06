@@ -89,10 +89,10 @@ Las definiciones de los términos españoles e ingleses deben **coincidir** para
 
 **Base de Datos Terminológica**
 - **Formato**: Archivo MS Excel (.xlsx)
-- **Nomenclatura**: `[PrimerApellidos]_Glosario.xlsx`
+- **Nomenclatura**: `[PrimerosApellidos]_Proyecto-Final-Glosario.xlsx`
 - **Ejemplo**: 
-  - Projecto individual: `González_Glosario.xlsx`
-  - Projecto grupal: `González-Reyes_Glosario.xlsx`
+  - Projecto individual: `González_Proyecto-Final-Glosario.xlsx`
+  - Projecto grupal: `González-ReyesMartinéz_Proyecto-Final-Glosario.xlsx`
 
 **Estructura Requerida**
 - **8 columnas** según el modelo proporcionado
@@ -105,13 +105,13 @@ Añade una pestaña al base de datos con la siguiente información:
 - **Discusión sobre correspondencia** para los términos con más matices
 - **Contribuciones de tiempo** de cada persona
 
+**Recordatorio: Cada vez que entregues, debes incluir todos los componentes del proyecto completados hasta ese momento en la misma carpeta comprimida (.zip)**
+
 ## Evaluación
 
 ### Escala de Calificación
 - **1 punto**: Completo y alta correspondencia en pares bilingües
-- **0 puntos**: Incompleto y sin correspondencia en pares bilingües
-
-*Recuerda que al entregar este checkpoint, el objetivo es que recibas retroalimentación que puedas utilizar para mejorar tu trabajo y/o continuar al siguiente paso con confianza. El trabajo que realices en este componente recibirá puntos cuando hagas tu entrega final.*
+- **0 puntos**: Incompleto o sin correspondencia en pares bilingües
 
 ---
 
@@ -128,4 +128,4 @@ Copia el contenido descargado del checkpoint y prueba estos prompts:
 
 ---
 
-**¿Listas y listos para el paso final?** Continúa con el [Checkpoint 5: Traducción y Justificación + Entrega Final](proyecto-final-checkpoint5.md) para completar tu proyecto.
+**¿Listas y listos para el paso final?** Continúa con el [Checkpoint 5: Traducción + Observaciones](proyecto-final-checkpoint5.md) para completar tu proyecto.
