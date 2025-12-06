@@ -20,3 +20,5 @@ Last week, you began a collaborative translation assignment in the domain of cli
 - What potential for localization issues does the source content present? 
 - What parts of the source text are unclear and need further analysis (such as through sentence trees) to understand the meaning? 
 - What linguistic conventions used in the source are proving challenging for reformulation in translation?
+
+**Siguiente:** [Contraste de Puntuación Español/Inglés en la Traducción](contraste-puntuacion-es-en.md)
