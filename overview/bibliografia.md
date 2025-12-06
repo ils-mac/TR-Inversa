@@ -139,4 +139,4 @@ Copia la bibliografía descargada y prueba estos prompts:
 
 ---
 
-*Nota importante: Esta bibliografía está sujeta a cambios. La profesora comunicará cualquier modificación a los estudiantes de manera oportuna.*
+*Nota importante: Esta bibliografía está sujeta a cambios.*
