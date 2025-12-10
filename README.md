@@ -1,4 +1,4 @@
-# TR18: Traducción Inversa A > B (Español > Inglés) - Universidad Intercontinental
+# TR18: Traducción Inversa A > B (Español > Inglés)
 
 ## Motivación
 
