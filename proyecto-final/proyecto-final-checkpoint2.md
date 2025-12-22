@@ -71,11 +71,11 @@ Añade una sección a las especificaciones con la siguiente información:
 
 ---
 
-## 📥 Descargar Checkpoint 2
-¡Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/proyecto-final/proyecto-final-checkpoint2.md) y descárgalo!
+## 📥 Descarga este Contenido
+Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/proyecto-final/proyecto-final-checkpoint2.md) y descárgalo.
 
-### 🤖 Prompts de Estudio con IA
-Copia el contenido descargado del checkpoint y prueba estos prompts:
+### 🤖 Prompts de Estudio con IAG
+Copia el contenido descargado y prueba estos prompts:
 - "Ayúdame a completar los parámetros de Tranquality para mi proyecto específico de traducción"
 - "¿Cómo puedo definir claramente la audiencia meta para mi traducción?"
 - "Crea un análisis del contexto cultural para mi área temática de traducción"

@@ -32,11 +32,11 @@ Esta semana nos introducimos al mundo de la traducción técnica, enfocándonos 
 
 ---
 
-## 📥 Descargar Contenido de la Semana 4
-¡Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad2/semana4/semana4-resumen.md) y descárgalo!
+## 📥 Descarga este Contenido
+Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad2/semana4/semana4-intro.md) y descárgalo.
 
 ### 🤖 Prompts de Estudio con IAG
-Copia el contenido descargado de la semana y prueba estos prompts:
+Copia el contenido descargado y prueba estos prompts:
 - "Ayúdame a crear un glosario efectivo para textos técnicos sobre inteligencia artificial"
 - "¿Cuáles son las características específicas de la traducción técnica vs. la traducción general?"
 - "Explica cómo usar un corpus bilingüe para mejorar la precisión terminológica"

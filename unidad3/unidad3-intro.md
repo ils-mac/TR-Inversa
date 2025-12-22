@@ -65,11 +65,11 @@ Esta unidad te introduce a metodologías de evaluación de calidad utilizadas ta
 
 ---
 
-## 📥 Descargar esta introducción de la Unidad 3
-¡Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad3/unidad3-intro.md) y descárgalo!
+## 📥 Descarga este Contenido
+Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad3/unidad3-intro.md) y descárgalo.
 
-### 🤖 Prompts de Estudio con IA
-Copia el resumen descargado de la unidad y prueba estos prompts:
+### 🤖 Prompts de Estudio con IAG
+Copia el contenido descargado y prueba estos prompts:
 - "Ayúdame a entender cómo el marco MQM se utiliza en la evaluación profesional de traducciones"
 - "Crea un plan de estudio para dominar la traducción de textos científicos sobre cambio climático"
 - "¿Cuáles son las diferencias de puntuación más importantes entre español e inglés para traductores?"

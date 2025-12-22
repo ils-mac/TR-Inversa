@@ -116,12 +116,11 @@ Al documentar claramente cómo realizar tareas específicas, estás:
 
 ---
 
-## 📥 Descarga esta Actividad
-
+## 📥 Descarga este Contenido
 Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad3/semana8/lilt-flujo-de-trabajo-colaborativo.md) y descárgalo.
 
-Para profundizar en el desarrollo de competencias técnicas con herramientas TAO, prueba estos prompts con tu herramienta de IA preferida:
-
+### 🤖 Prompts de Estudio con IAG
+Copia el contenido descargado y prueba estos prompts:
 - "¿Cómo puedo identificar las funcionalidades más críticas para dominar en una herramienta TAO profesional?"
 - "Crea una plantilla para documentar técnicamente un proceso específico en software de traducción"
 - "¿Qué distingue el uso básico del uso experto de herramientas de traducción asistida?"

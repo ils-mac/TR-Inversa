@@ -65,11 +65,11 @@ Esta unidad representa la culminación de tu aprendizaje en traducción inversa,
 
 ---
 
-## 📥 Descargar Resumen de la Unidad 5
-¡Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad5/unidad5-intro.md) y descárgalo!
+## 📥 Descarga este Contenido
+Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad5/unidad5-intro.md) y descárgalo.
 
 ### 🤖 Prompts de Estudio con IAG
-Copia el resumen descargado de la unidad y prueba estos prompts:
+Copia el contenido descargado y prueba estos prompts:
 - "Ayúdame a entender las diferencias entre traducción literaria y otros tipos de traducción"
 - "Crea un plan de estudio para dominar la traducción de literatura mexicana al inglés"
 - "¿Cuáles son los aspectos éticos más importantes en la traducción literaria?"

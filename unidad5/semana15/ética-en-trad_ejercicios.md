@@ -179,12 +179,11 @@ Si deseas profundizar tu comprensión de ética en traducción, considera estos 
 
 ---
 
-## 📥 Descarga esta Actividad
-
+## 📥 Descarga este Contenido
 Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad5/semana15/etica-en-trad_ejercicios.md) y descárgalo.
 
-Para profundizar en tu comprensión de ética en traducción, prueba estos prompts con tu herramienta de IA preferida:
-
+### 🤖 Prompts de Estudio con IAG
+Copia el contenido descargado y prueba estos prompts:
 - "Ayúdame a analizar las implicaciones éticas de [situación de traducción específica que enfrentaste]"
 - "¿Cuáles son las diferencias clave entre ética deontológica y ética de la virtud aplicadas a traducción?"
 - "Crea escenarios de dilemas éticos comunes en traducción español-inglés para análisis"

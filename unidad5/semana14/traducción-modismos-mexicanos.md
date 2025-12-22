@@ -124,9 +124,16 @@ Si deseas, publica tu traducción en el canal de Mexicanismos en Teams con el si
 
 ---
 
-## 📥 Descarga esta Actividad
-
+## 📥 Descarga este Contenido
 Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad5/semana13/traducción-mexicanismos.md) y descárgalo.
+
+### 🤖 Prompts de Estudio con IAG
+Copia el contenido descargado y prueba estos prompts:
+- "Ayúdame a encontrar un texto con el que pueda trabajar para practicar la traducción de modismos."
+- "¿Cuáles son otros ejemplos de historias basadas en Romeo y Julieta de Shakespeare?"
+- "¿Hay otros ejemplos en la literatura mexicana de historias basadas en literatura del mundo como Romeo y Julieta de Shakespeare?"
+- "Explica algunas estrategias que podría usar para traducir esta muestra de diálogo."
+- "Verifica que mi diálogo traducido no tiene inconsistencias en cómo se habla inglés."
 
 ---
 

@@ -106,12 +106,11 @@ El formateo profesional no es solo una cuestión estética—es una demostració
 
 ---
 
-## 📥 Descarga esta Actividad
-
+## 📥 Descarga este Contenido
 Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad1/semana3/docs-personales-recreación.md) y descárgalo.
 
-Para profundizar en tu comprensión del formateo de documentos, prueba estos prompts con tu herramienta de IA preferida:
-
+### 🤖 Prompts de Estudio con IAG
+Copia el contenido descargado y prueba estos prompts:
 - "¿Cuáles son las mejores prácticas para mantener formato profesional al traducir [tipo específico de documento personal]?"
 - "¿Cómo puedo asegurar que mi traducción formatizada se vea bien tanto en pantalla como impresa?"
 - "¿Qué herramientas de Microsoft Word son más efectivas para recrear documentos oficiales complejos?"

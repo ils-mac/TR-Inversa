@@ -34,11 +34,11 @@ Esta semana continuamos con sus proyectos de traducción colaborativos. Comparti
 
 ---
 
-## 📥 Descargar Contenido de la Semana 8
-¡Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad3/semana8/semana8-resumen.md) y descárgalo!
+## 📥 Descarga este Contenido
+Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad3/semana8/semana8-inro.md) y descárgalo.
 
 ### 🤖 Prompts de Estudio con IAG
-Copia el contenido descargado de la semana y prueba estos prompts:
+Copia el contenido descargado y prueba estos prompts:
 - "Explica cómo funciona el marco MQM para evaluación de calidad en traducción profesional"
 - "¿Cuáles son los tipos de errores más comunes según la tipología MQM?"
 - "Ayúdame a entender cómo Label Studio se utiliza en la industria de la traducción"

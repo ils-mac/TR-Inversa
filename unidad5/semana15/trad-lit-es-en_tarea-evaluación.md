@@ -395,12 +395,11 @@ R: Sí, responde cada pregunta general por separado con al menos un párrafo com
 
 ---
 
-## 📥 Descarga esta Actividad
-
+## 📥 Descarga este Contenido
 Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad5/semana15/trad-lit-es-en_tarea-evaluación.md) y descárgalo.
 
-Para profundizar en tu comprensión de evaluación de traducciones literarias, prueba estos prompts con tu herramienta de IAG preferida:
-
+### 🤖 Prompts de Estudio con IAG
+Copia el contenido descargado y prueba estos prompts:
 - "¿Cómo puedo proporcionar retroalimentación constructiva sobre una traducción sin sonar condescendiente o excesivamente crítico?"
 - "Dame ejemplos de comentarios específicos sobre [aspecto de traducción] que serían útiles para quien tradujo"
 - "¿Qué criterios debo usar para evaluar la calidad de una traducción literaria del español al inglés?"

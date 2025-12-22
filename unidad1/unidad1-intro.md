@@ -67,11 +67,11 @@ Traducción Técnica, IAG y MQM
 
 ---
 
-## 📥 Descargar esta introducción de la Unidad 1
-¡Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad1/unidad1-intro.md) y descárgalo!
+## 📥 Descarga este Contenido
+Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad1/unidad1-intro.md) y descárgalo.
 
-### 🤖 Prompts de Estudio con IA
-Copia el resumen descargado de la unidad y prueba estos prompts:
+### 🤖 Prompts de Estudio con IAG
+Copia el contenido descargado y prueba estos prompts:
 - "Ayúdame a entender cómo la traducción inversa se conecta con las oportunidades profesionales"
 - "Crea un plan de estudio para dominar los objetivos de la Unidad 1 en 3 semanas"  
 - "¿Cuáles son las habilidades clave de traducción inversa en las que debo enfocarme como futuro traductor?"

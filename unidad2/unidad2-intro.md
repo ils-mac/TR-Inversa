@@ -69,11 +69,11 @@ Las competencias que desarrolles aquí te prepararán para las unidades posterio
 
 ---
 
-## 📥 Descargar esta introducción de la Unidad 2
-¡Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad2/unidad2-resumen.md) y descárgalo!
+## 📥 Descarga este Contenido
+Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad2/unidad2-intro.md) y descárgalo.
 
 ### 🤖 Prompts de Estudio con IAG
-Copia el resumen descargado de la unidad y prueba estos prompts:
+Copia el contenido descargado y prueba estos prompts:
 - "Ayúdame a entender cómo la IAG está transformando la profesión de la traducción"
 - "Crea un plan de estudio para dominar la traducción técnica y el uso de corpus especializados"  
 - "¿Cuáles son las ventajas y limitaciones de las herramientas de traducción híbrida como Lilt?"

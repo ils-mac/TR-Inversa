@@ -174,12 +174,11 @@ Después de evaluar los errores individuales en la traducción, sus textos recib
 
 ---
 
-## 📥 Descarga esta Actividad
-
+## 📥 Descarga este Contenido
 Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad4/semana11/proyecto-texto8.md) y descárgalo.
 
-Para optimizar tu traducción de documentos oficiales y periodísticos sobre relaciones México-EUA, prueba estos prompts con tu herramienta de IA preferida:
-
+### 🤖 Prompts de Estudio con IAG
+Copia el contenido descargado y prueba estos prompts:
 - "¿Cómo puedo mantener consistencia terminológica cuando múltiples personas traducen diferentes documentos del mismo proyecto?"
 - "Analiza las diferencias de registro entre documentos oficiales mexicanos (cartas presidenciales, decretos) y artículos periodísticos, y sugiere estrategias de traducción"
 - "¿Qué convenciones de traducción se usan para documentos oficiales del gobierno mexicano traducidos al inglés?"

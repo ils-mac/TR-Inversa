@@ -34,11 +34,11 @@ Esta semana nos enfocamos en la evaluación de traducciones utilizando el marco 
 
 ---
 
-## 📥 Descargar Contenido de la Semana 9
-¡Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad3/semana9/semana9-intro.md) y descárgalo!
+## 📥 Descarga este Contenido
+Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad3/semana9/semana9-intro.md) y descárgalo.
 
 ### 🤖 Prompts de Estudio con IAG
-Copia el contenido descargado de la semana y prueba estos prompts:
+Copia el contenido descargado y prueba estos prompts:
 - "Explica cómo funciona el marco MQM para evaluación de calidad en traducción profesional"
 - "¿Cuáles son los tipos de errores más comunes según la tipología MQM?"
 - "Ayúdame a entender cómo Label Studio se utiliza en la industria de la traducción"

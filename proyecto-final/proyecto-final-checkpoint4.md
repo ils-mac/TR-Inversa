@@ -115,11 +115,11 @@ Añade una pestaña al base de datos con la siguiente información:
 
 ---
 
-## 📥 Descargar Checkpoint 4
-¡Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/proyecto-final/proyecto-final-checkpoint4.md) y descárgalo!
+## 📥 Descarga este Contenido
+Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/proyecto-final/proyecto-final-checkpoint4.md) y descárgalo.
 
-### 🤖 Prompts de Estudio con IA
-Copia el contenido descargado del checkpoint y prueba estos prompts:
+### 🤖 Prompts de Estudio con IAG
+Copia el contenido descargado y prueba estos prompts:
 - "Ayúdame a identificar los términos más importantes para mi glosario en [tu área temática]"
 - "¿Cómo puedo verificar que mis correspondencias terminológicas son precisas y apropiadas?"
 - "Crea estrategias para encontrar definiciones profesionales confiables en mi área temática"

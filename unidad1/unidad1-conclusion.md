@@ -82,11 +82,11 @@ Tu sólida base en traducción inversa y textos generales te prepara para la Uni
 
 ---
 
-## 📥 Descargar Conclusión de la Unidad 1
-¡Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad1/unidad1-conclusion.md) y descárgalo!
+## 📥 Descarga este Contenido
+Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad1/unidad1-conclusion.md) y descárgalo.
 
 ### 🤖 Prompts de Estudio con IAG
-Copia la conclusión descargada y prueba estos prompts:
+Copia el contenido descargado y prueba estos prompts:
 - "Ayúdame a reflexionar sobre mi aprendizaje de la Unidad 1 e identificar áreas de mejora"
 - "Crea un plan de estudio para reforzar mis habilidades de la Unidad 1 mientras aprendo la Unidad 2"
 - "¿Cómo me preparan las competencias de la Unidad 1 para textos técnicos e IA generativa?"

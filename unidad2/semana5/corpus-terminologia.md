@@ -183,12 +183,12 @@ Compara la frecuencia del término en:
 
 ---
 
-## 📥 Descarga esta Actividad
+## 📥 Descarga este Contenido
 
 Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad2/semana5/corpus-terminologia.md) y descárgalo.
 
-Para profundizar en corpus y terminología, prueba estos prompts con tu herramienta de IA preferida:
-
+### 🤖 Prompts de Estudio con IAG
+Copia el contenido descargado y prueba estos prompts:
 - "Ayúdame a crear un proceso sistemático para investigar terminología especializada usando corpus"
 - "¿Cuáles son los mejores criterios para evaluar la calidad de un corpus especializado en [tu área de interés]?"
 - "Crea una plantilla para documentar y organizar terminología extraída de corpus especializados"

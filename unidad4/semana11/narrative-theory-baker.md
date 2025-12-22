@@ -97,12 +97,12 @@ A medida que trabajas con los contenidos del curso esta semana, reflexiona sobre
 
 ---
 
-## 📥 Descarga esta Actividad
+## 📥 Descarga este Contenido
 
 Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad4/semana11/narrative-theory.md) y descárgalo.
 
-Para profundizar en tu comprensión de la teoría narrativa aplicada a la traducción, prueba estos prompts con tu herramienta de IAG preferida:
-
+### 🤖 Prompts de Estudio con IAG
+Copia el contenido descargado y prueba estos prompts:
 - "Explica cómo las narrativas ontológicas y colectivas interactúan en el trabajo de traducción entre español mexicano e inglés estadounidense"
 - "¿Cómo pueden quienes traducen identificar y navegar metanarrativas conflictivas al trabajar con textos políticos México-Estados Unidos?"
 - "Analiza este fragmento de traducción y identifica qué narrativas públicas podrían estar reforzándose o desafiándose: [fragmento específico]"

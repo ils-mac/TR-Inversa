@@ -44,12 +44,11 @@ Puedes descargar una versión en Word de este cuestionario desde Teams para trab
 
 ---
 
-## 📥 Descarga esta Actividad
-
+## 📥 Descarga este Contenido
 Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad4/semana11/pragmatica-baker.md) y descárgalo.
 
-Para profundizar en tu comprensión de la equivalencia pragmática, prueba estos prompts con tu herramienta de IAG preferida:
-
+### 🤖 Prompts de Estudio con IAG
+Copia el contenido descargado y prueba estos prompts:
 - "Explica la diferencia entre cohesión y coherencia con ejemplos de traducción español-inglés"
 - "¿Cómo se manifiesta el principio cooperativo de manera diferente en textos oficiales mexicanos versus estadounidenses?"
 - "Analiza este fragmento e identifica las implicaturas conversacionales que podrían perderse en traducción: [fragmento específico]"

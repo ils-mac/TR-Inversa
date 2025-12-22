@@ -139,11 +139,11 @@ González_ProyectoFinal_Checkpoint3/
 
 ---
 
-## 📥 Descargar Instrucciones Generales
-¡Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/proyecto-final/proyecto-final-instrucciones.md) y descárgalo!
+## 📥 Descarga este Contenido
+Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/proyecto-final/proyecto-final-instrucciones.md) y descárgalo.
 
-### 🤖 Prompts de Estudio con IA
-Copia las instrucciones descargadas y prueba estos prompts:
+### 🤖 Prompts de Estudio con IAG
+Copia el contenido descargado y prueba estos prompts:
 - "Ayúdame a crear un plan de trabajo personalizado para completar mi proyecto final"
 - "¿Qué características debe tener un buen texto fuente para mi proyecto de traducción inversa?"
 - "Crea un calendario de trabajo para mi proyecto final considerando mi carga de otras clases"

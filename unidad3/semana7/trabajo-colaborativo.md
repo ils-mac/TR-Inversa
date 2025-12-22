@@ -214,12 +214,12 @@ Es importante distinguir entre estos dos tipos de documentación:
 
 ---
 
-## 📥 Descarga esta Actividad
+## 📥 Descarga este Contenido
 
 Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad3/semana7/trabajo-colaborativo.md) y descárgalo.
 
-Para profundizar en tu comprensión de la gestión de proyectos de traducción colaborativa, prueba estos prompts con tu herramienta de IAG preferida:
-
+### 🤖 Prompts de Estudio con IAG
+Copia el contenido descargado y prueba estos prompts:
 - "Ayúdame a analizar este problema de traducción y determinar si debería documentarlo en un rastreador de consultas o escalarlo directamente: [describe el problema específico]"
 - "¿Cuáles son las mejores prácticas para mantener la comunicación efectiva en equipos de traducción distribuidos geográficamente?"
 - "Crea una plantilla de rastreador de consultas adaptada para proyectos de traducción científica sobre [tema específico]"

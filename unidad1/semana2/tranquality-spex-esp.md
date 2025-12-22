@@ -114,18 +114,11 @@ La siguiente lista de parámetros está adaptada de *ASTM F2575: Guía Estándar
 
 ---
 
-## Los Parámetros que Usamos en este Curso
+## 📥 Descarga este Contenido
+Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad1/semana2/tranquality-spex-esp.md) y descárgalo.
 
-[How to use your Translation Evaluations]
-
----
-
-## 📥 Descarga esta Actividad
-
-Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad1/semana2/tranquality-spex-esp-actividad.md) y descárgalo.
-
-Para profundizar en tu comprensión de estos parámetros, prueba estos prompts con tu herramienta de IA preferida:
-
+### 🤖 Prompts de Estudio con IAG
+Copia el contenido descargado y prueba estos prompts:
 - "Explica cómo aplicar los parámetros de Tranquality [1-5] al análisis de [texto específico que estés traduciendo]"
 - "¿Cómo se diferencia el parámetro 7 (audiencia meta) del parámetro 3 (audiencia fuente) en proyectos de localización?"
 - "Analiza la importancia del parámetro 10 (registro) en la traducción de documentos oficiales vs. contenido de marketing"

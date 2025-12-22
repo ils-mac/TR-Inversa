@@ -95,11 +95,11 @@ Tu dominio de la traducción técnica y herramientas híbridas te prepara excele
 
 ---
 
-## 📥 Descargar Conclusión de la Unidad 2
-¡Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad2/unidad2-conclusion.md) y descárgalo!
+## 📥 Descarga este Contenido
+Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad2/unidad2-conclusion.md) y descárgalo
 
 ### 🤖 Prompts de Estudio con IAG
-Copia la conclusión descargada y prueba estos prompts:
+Copia el contenido descargado y prueba estos prompts:
 - "Ayúdame a reflexionar sobre mi desarrollo en traducción técnica e identificar próximos pasos de mejora"
 - "Crea un plan de práctica para consolidar mis habilidades con herramientas de traducción híbrida"
 - "¿Cómo puedo aplicar las competencias de la Unidad 2 a otros campos técnicos más allá de la IAG?"

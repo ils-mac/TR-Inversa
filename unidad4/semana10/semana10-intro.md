@@ -34,11 +34,11 @@ Esta semana nos enfocamos en la traducción de textos especializados del ámbito
 
 ---
 
-## 📥 Descargar Contenido de la Semana 10
-¡Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad4/semana10/semana10-intro.md) y descárgalo!
+## 📥 Descarga este Contenido
+Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad4/semana10/semana10-intro.md) y descárgalo.
 
 ### 🤖 Prompts de Estudio con IAG
-Copia el contenido descargado de la semana y prueba estos prompts:
+Copia el contenido descargado y prueba estos prompts:
 - "Ayúdame a entender las características específicas de la traducción de tratados comerciales"
 - "¿Cuáles son los desafíos principales al traducir textos especializados del ámbito comercial?"
 - "Crea estrategias de preparación para evaluaciones cronometradas de traducción"

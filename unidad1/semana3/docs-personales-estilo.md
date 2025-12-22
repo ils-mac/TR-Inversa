@@ -145,12 +145,12 @@ Recuerda que tu trabajo será utilizado por evaluadores profesionales para tomar
 
 ---
 
-## 📥 Descarga esta Guía
+## 📥 Descarga este Contenido
 
 Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad1/semana3/docs-personales-estilo.md) y descárgalo.
 
-Para profundizar en la aplicación de esta guía, prueba estos prompts con tu herramienta de IA preferida:
-
+### 🤖 Prompts de Estudio con IAG
+Copia el contenido descargado y prueba estos prompts:
 - "¿Cómo debo traducir este término académico específico de una institución mexicana: [término]?"
 - "Analiza las mejores opciones para traducir este programa de estudios manteniendo precisión profesional: [nombre de programa]"
 - "¿Cuál es la diferencia práctica entre usar 'title' y 'degree' en documentos académicos traducidos?"

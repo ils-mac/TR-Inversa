@@ -118,12 +118,11 @@ Tu traducción será evaluada según su **efectividad** - es decir, qué tan bie
 
 ---
 
-## 📥 Descarga esta Actividad
-
+## 📥 Descarga este Contenido
 Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad1/semana3/proyecto2-DocumentoPersonal.md) y descárgalo.
 
-Para optimizar tu proceso de traducción, prueba estos prompts con tu herramienta de IA preferida:
-
+### 🤖 Prompts de Estudio con IAG
+Copia el contenido descargado y prueba estos prompts:
 - "Ayúdame a investigar la terminología específica de [institución educativa mexicana específica del documento] para traducción a inglés profesional"
 - "¿Cuáles son las mejores prácticas para recrear documentos académicos complejos en Microsoft Word usando tablas?"
 - "Analiza este segmento de texto académico mexicano y sugiere opciones de traducción apropiadas para evaluadores estadounidenses: [texto específico]"

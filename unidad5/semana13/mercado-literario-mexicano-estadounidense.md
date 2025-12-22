@@ -70,10 +70,11 @@ El mercado literario estadounidense presenta un panorama complejo y a menudo des
 
 --- 
 
-## 📥 Descarga esta Actividad
+## 📥 Descarga este Contenido
+Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad5/semana13/mercado-literario-mexicano-estadounidense.md) y descárgalo.
 
-Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad5/semana13/mercado-literario-mexicano-estadounidense.md) y descárgalo. Después comparte el contenido con tu herramienta de IAG preferida con uno de estos prompts:
-
+### 🤖 Prompts de Estudio con IAG
+Copia el contenido descargado y prueba estos prompts:
 - "Analiza las diferencias económicas entre el mercado de traducción literaria en México y Estados Unidos. ¿Qué factores explican estas diferencias?"
 - "Como estudiante de traducción inversa español→inglés, ¿qué nichos específicos en el mercado estadounidense podría explorar para literatura mexicana y latinoamericana?"
 - "Explica cómo las editoriales independientes están cambiando el panorama de la traducción literaria en Estados Unidos. ¿Qué significa esto para nuevos traductores?"

@@ -116,12 +116,12 @@ Al terminar el análisis, consideren:
 
 ---
 
-## 📥 Descarga esta Actividad
+## 📥 Descarga este Contenido
 
 Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad1/semana2/contraste-morfosintactico-es-en.md).
 
-Para profundizar en tu análisis después de completar la actividad, prueba estos prompts con tu herramienta de IA preferida:
-
+### 🤖 Prompts de Estudio con IAG
+Copia el contenido descargado y prueba estos prompts:
 - "Analiza las implicaciones de [diferencia específica identificada] para la traducción inversa español-inglés"
 - "¿Qué estrategias adicionales existen para manejar [patrón morfosintáctico específico] en la traducción profesional?"
 - "Compara el análisis de [texto específico] con patrones morfosintácticos estándar en la traducción literaria/técnica/administrativa"

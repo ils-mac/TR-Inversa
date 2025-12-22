@@ -234,12 +234,11 @@ Antes de su evaluación, reflexionen sobre:
 
 ---
 
-## 📥 Descarga esta Actividad
-
+## 📥 Descarga este Contenido
 Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad3/semana9/texto6-contexto.md) y descárgalo.
 
-Para profundizar en tu comprensión del contexto del proyecto, prueba estos prompts con tu herramienta de IA preferida:
-
+### 🤖 Prompts de Estudio con IAG
+Copia el contenido descargado y prueba estos prompts:
 - "¿Por qué es importante entender el contexto institucional de CONANP antes de evaluar traducciones de sus documentos?"
 - "Explica cómo las especificaciones de proyecto afectan qué se considera un 'error' en traducción"
 - "¿Cómo determino la audiencia apropiada para un documento de una organización gubernamental de conservación?"

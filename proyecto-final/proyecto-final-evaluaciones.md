@@ -186,11 +186,11 @@ La carpeta final debe incluir **todos** los siguientes elementos:
 
 ---
 
-## 📥 Descargar Criterios de Evaluación
-¡Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/proyecto-final/proyecto-final-evaluacion.md) y descárgalo!
+## 📥 Descarga este Contenido
+Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/proyecto-final/proyecto-final-evaluacion.md) y descárgalo.
 
 ### 🤖 Prompts de Estudio con IAG
-Copia los criterios descargados y prueba estos prompts:
+Copia el contenido descargado y prueba estos prompts:
 - "Ayúdame a crear una estrategia de revisión basada en los criterios MQM para mi traducción"
 - "¿Cómo puedo asegurarme de que mi justificación demuestre conciencia crítica?"
 - "Crea una lista de verificación para la entrega final basada en estos criterios"

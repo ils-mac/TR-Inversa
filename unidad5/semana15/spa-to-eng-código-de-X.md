@@ -220,12 +220,11 @@ Una vez que hayas escrito tu código:
 
 ---
 
-## 📥 Descarga esta Actividad
-
+## 📥 Descarga este Contenido
 Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad5/semana15/spa-to-eng-código-de-X.md) y descárgalo.
 
-Para desarrollar tu código de ética con mayor profundidad, prueba estos prompts con tu herramienta de IA preferida:
-
+### 🤖 Prompts de Estudio con IAG
+Copia el contenido descargado y prueba estos prompts:
 - "Ayúdame a desarrollar principios éticos específicos para traducción del español al inglés como lengua no nativa"
 - "¿Cómo puedo articular un principio ético de manera que sea específico pero no rígido?"
 - "Crea escenarios prácticos donde el principio de [tu principio específico] entraría en juego en traducción profesional"

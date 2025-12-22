@@ -113,12 +113,11 @@ Esta experiencia te proporciona perspectiva directa sobre:
 
 ---
 
-## 📥 Descarga esta Tarea
-
+## 📥 Descarga este Contenido
 Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad2/semana6/tarea-traduccion-hibrida-con-lilt.md) y descárgalo.
 
-Para profundizar en tu análisis contrastivo, prueba estos prompts con tu herramienta de IA preferida:
-
+### 🤖 Prompts de Estudio con IAG
+Copia el contenido descargado y prueba estos prompts:
 - "Ayúdame a analizar objetivamente las diferencias entre traducción humana y automática en términos de precisión, naturalidad y registro"
 - "¿Qué criterios profesionales debo usar para evaluar la calidad comparativa de traducciones humanas vs. IAG?"
 - "Crea un marco analítico para identificar fortalezas y debilidades en traducciones híbridas"

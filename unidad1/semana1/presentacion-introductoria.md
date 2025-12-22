@@ -79,12 +79,11 @@ Las obras consultadas mencionadas en la presentación están disponibles a trav�
 
 ---
 
-## 📥 Descarga esta Actividad
-
+## 📥 Descarga este Contenido
 Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad1/semana1/presentacion-introductoria.md) y descárgalo.
 
-Para explorar más después de completar la presentación, prueba estos prompts con tu herramienta de IA preferida:
-
+### 🤖 Prompts de Estudio con IAG
+Copia el contenido descargado y prueba estos prompts:
 - "Basándome en las justificaciones para la traducción inversa, ¿qué estrategias específicas puedo desarrollar para [mi área de especialización] como traductor hispanohablante?"
 - "¿Cómo han evolucionado las expectativas del mercado para traductores no nativos del inglés en los últimos 5 años?"
 - "Analiza las tendencias de Mona Baker en el contexto de la traducción inversa: ¿cuáles son más desafiantes y por qué?"

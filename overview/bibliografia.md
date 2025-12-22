@@ -121,12 +121,11 @@ Esta página contiene las referencias bibliográficas organizadas por categoría
 
 ---
 
-## 📥 Descargar Bibliografía
+## 📥 Descarga este Contenido
+Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/overview/bibliografia.md) y descárgalo.
 
-¡Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/overview/bibliografia.md) y descárgalo!
-
-### 🤖 Prompts de Estudio con IA
-Copia la bibliografía descargada y prueba estos prompts:
+### 🤖 Prompts de Estudio con IAG
+Copia el contenido descargado y prueba estos prompts:
 - "¿Qué lecturas son más importantes para mi proyecto final de traducción?"
 - "Explica cómo usar el marco MQM para evaluar mis propias traducciones"
 - "¿Cuáles son las diferencias clave entre las enseñanzas de Baker y Haywood para traducción español-inglés?"
@@ -135,7 +134,7 @@ Copia la bibliografía descargada y prueba estos prompts:
 
 ---
 
-**¿Listas y listos para el primero desafío?** Comienza con la [Unidad 1: Traducción Inversa y Textos Generales](../unidad1/unidad1-resumen.md) para iniciar tu viaje en la traducción profesional inversa español-inglés.
+**¿Listas y listos para el primero desafío?** Comienza con la [Unidad 1: Traducción Inversa y Textos Generales](../unidad1/unidad1-intro.md) para iniciar tu viaje en la traducción profesional inversa español-inglés.
 
 ---
 

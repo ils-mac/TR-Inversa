@@ -137,12 +137,11 @@ Mientras trabajas con los materiales de esta página, reflexiona sobre lo siguie
 
 ---
 
-## 📥 Descarga esta Actividad
-
+## 📥 Descarga este Contenido
 Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad5/semana13/qué-tipo-de-traducción-es.md) y descárgalo.
 
-Después comparte el contenido con tu herramienta de IAG preferida con uno de estos prompts:
-
+### 🤖 Prompts de Estudio con IAG
+Copia el contenido descargado y prueba estos prompts:
 - "Ayúdame a generar una lista de situaciones de bajo riesgo en las que es apropiado usar traducción automática."
 - "¿Podrías decirme qué valor agregan los traductores y traductoras humanos al proceso de traducción que los sistemas automáticos no pueden cubrir?"
 - "¿Cómo puedo diferenciar mi trabajo como traductor o traductora profesional humano de las traducciones automáticas generadas por las máquinas?"

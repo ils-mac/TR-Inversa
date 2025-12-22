@@ -89,10 +89,11 @@ Después de ver la entrevista con el Dr. George Henson, considera las siguientes
 
 ---
 
-## 📥 Descarga esta Actividad
+## 📥 Descarga este Contenido
+Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad5/semana13/entrevista-gHenson-traductorLiterario-esMX-enUS.md) y descárgalo.
 
-Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad5/semana13/entrevista-gHenson-traductorLiterario-esMX-enUS.md) y descárgalo. Después comparte el contenido con tu herramienta de IAG preferida con uno de estos prompts:
-
+### 🤖 Prompts de Estudio con IAG
+Copia el contenido descargado y prueba estos prompts:
 - "Resume los puntos principales que el Dr. Henson hace sobre la importancia de la especialización en traducción literaria. ¿Qué ejemplos específicos da para apoyar su argumento?"
 - "El Dr. Henson discute varios enfoques de traducción literaria (extranjerización vs. domesticación, fidelidad al texto fuente, etc.). Crea una tabla comparativa que muestre estas diferentes filosofías de traducción con ejemplos específicos de la entrevista."
 - "Identifica todos los recursos y estrategias que el Dr. Henson menciona para hacer investigación en traducción literaria (recursos humanos, recursos digitales, métodos de verificación). Organízalos en categorías útiles."

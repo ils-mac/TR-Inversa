@@ -36,11 +36,11 @@ Esta semana nos enfocamos en los fundamentos de la traducción inversa, exploran
 
 ---
 
-## 📥 Descargar Contenido de la Semana 1
-¡Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad1/semana1/semana1-resumen.md) y descárgalo!
+## 📥 Descarga este Contenido
+Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad1/semana1/semana1-intro.md) y descárgalo.
 
 ### 🤖 Prompts de Estudio con IAG
-Copia el contenido descargado de la semana y prueba estos prompts:
+Copia el contenido descargado y prueba estos prompts:
 - "Ayúdame a entender las oportunidades profesionales en traducción inversa español-inglés"
 - "Explica por qué la traducción inversa es importante en el contexto México-Estados Unidos"
 - "¿Cuáles son las competencias clave que necesito desarrollar como traductor inverso?"

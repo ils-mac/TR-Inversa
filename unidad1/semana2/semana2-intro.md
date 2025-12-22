@@ -37,11 +37,11 @@ Esta semana nos enfocamos en las especificaciones y guías de estilo para traduc
 
 ---
 
-## 📥 Descargar Contenido de la Semana 2
-¡Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad1/semana2/semana2-resumen.md) y descárgalo!
+## 📥 Descarga este Contenido
+Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad1/semana2/semana2-intro.md) y descárgalo.
 
 ### 🤖 Prompts de Estudio con IAG
-Copia el contenido descargado de la semana y prueba estos prompts:
+Copia el contenido descargado y prueba estos prompts:
 - "Explica las diferencias morfosintácticas más importantes entre español e inglés para traductores"
 - "¿Cómo debo aplicar las especificaciones ASTM en mis proyectos de traducción?"
 - "Ayúdame a entender los parámetros de Tranquality para textos de inmigración"

@@ -93,12 +93,12 @@ Kail, Patricia. 1998. "How to Do a Close Reading". (Cómo hacer una lectura de c
 
 ---
 
-## 📥 Descarga esta Actividad
+## 📥 Descarga este Contenido
 
 Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad1/semana1/conocer-el-texto.md) y descárgalo.
 
-Para profundizar en tu análisis después de la clase, prueba estos prompts con tu herramienta de IA preferida:
-
+### 🤖 Prompts de Estudio con IAG
+Copia el contenido descargado y prueba estos prompts:
 - "Analiza las diferencias culturales entre el sistema migratorio mexicano y el sistema de un país de hablantes de inglés que podrían afectar la traducción de [término específico que identificaste]"
 - "¿Qué estrategias de traducción son más efectivas para documentos administrativos que contienen [patrón específico que observaste]?"
 - "Compara el registro y formalidad de documentos oficiales mexicanos vs. documentos en inglés en el contexto de inmigración"

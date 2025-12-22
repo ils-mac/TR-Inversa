@@ -156,12 +156,11 @@ La próxima semana discutiremos las consultas documentadas en clase antes de que
 
 ---
 
-## 📥 Descarga esta Actividad
-
+## 📥 Descarga este Contenido
 Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad3/semana7/proyecto6-TraducciónColaborativa-Seguimiento.md) y descárgalo.
 
-Para optimizar tu reporte de seguimiento y consultas profesionales, prueba estos prompts con tu herramienta de IA preferida:
-
+### 🤖 Prompts de Estudio con IAG
+Copia el contenido descargado y prueba estos prompts:
 - "Ayúdame a redactar un reporte de seguimiento claro y específico basado en esta información: [proporciona detalles de tu progreso]"
 - "Convierte esta duda vaga en una consulta profesional y bien formulada para un query tracker: [describe tu duda]"
 - "¿Cómo puedo documentar eficientemente el tiempo invertido en un proyecto de traducción colaborativa?"

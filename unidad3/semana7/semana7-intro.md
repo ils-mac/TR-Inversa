@@ -32,11 +32,11 @@ Esta semana nos enfocamos en la traducción de textos científicos, específicam
 
 ---
 
-## 📥 Descargar Contenido de la Semana 7
-¡Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad3/semana7/semana7-resumen.md) y descárgalo!
+## 📥 Descarga este Contenido
+Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad3/semana7/semana7-intro.md) y descárgalo.
 
 ### 🤖 Prompts de Estudio con IAG
-Copia el contenido descargado de la semana y prueba estos prompts:
+Copia el contenido descargado y prueba estos prompts:
 - "Ayúdame a entender las características específicas de los textos científicos sobre cambio climático"
 - "¿Cuáles son las diferencias de puntuación más importantes entre español e inglés para traductores?"
 - "Crea ejercicios de práctica para contraste de puntuación español-inglés en textos científicos"

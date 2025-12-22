@@ -20,12 +20,12 @@ Trabajando en el grupo asignado, traducirán un texto técnico sobre arquitectur
 
 ### El texto a traducir
 
-**[Proyecto 3: Arquitectura de Prompts del Sistema para EVA-Tutor](./proyecto3-prompts-sistema.md)**
+**[Proyecto 3: Arquitectura de Prompts del Sistema para EVA-Tutor](EVA-Tutor-prompts-sistema.md)**
 
 ### Recursos de apoyo
 - **Guía teórica:** [Traducción Técnica e IAG](./traduccion-tecnica.md)
 - **Marco de evaluación:** [Marco MQM para Evaluación de Traducción](./marco-mqm.md)
-- **Referencia académica:** Levchuk (2024) - texto fuente completo disponible en carpeta de [referencias](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/tree/main/unidad2/semana4/referencias)
+- **Referencia académica:** Levchuk (2024) - Texto fuente completo disponible en carpeta de [referencias](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/tree/main/unidad2/semana4/referencias)
 
 ### Organización grupal
 - **Grupos asignados en clase:** No pueden cambiar de grupo sin autorización
@@ -34,7 +34,7 @@ Trabajando en el grupo asignado, traducirán un texto técnico sobre arquitectur
 
 ## Proceso del proyecto
 
-**Descarga el archivo** [texto3-prompts-sistema.md](./texto3-prompts-sistema.md) para trabajar con una copia local
+**Descarga el archivo en formato Markdown** [EVA-Tutor-prompts-sistema.md](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad2/semana4/EVA-Tutor-prompts-sistema.md) para trabajar con una copia local
 
 #### Fase 1: Investigación terminológica colaborativa 
 1. **Análisis del texto fuente:** Identifica las especificaciones y los conceptos especializados en IAG
@@ -73,12 +73,13 @@ Por ejemplo:
 |----------|--------------------|-----------------------------|-------------------------|
 | Análisis del texto fuente | | | |
 | Investigación terminológica | | | |
-| Creación del glosario | | | |
 | Traducción inicial | | | |
 | Revisión técnica | | | |
 | Corrección final | | | |
 | Documentación y entrega | | | |
-
+**Total de horas del Team Member 1:**  
+**Total de horas del Team Member 2:**  
+**Total de horas del Team Member 3:**  
 **Total de horas del proyecto:** [Suma total]
 
 #### Reflexión grupal
@@ -111,12 +112,11 @@ Considerando tus puntuaciones de Correspondencia General y Legibilidad, puedes d
 
 ---
 
-## 📥 Descarga esta Actividad
-
+## 📥 Descarga este Contenido
 Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad2/semana4/proyecto3-TraducciónTécnica-Glosario.md) y descárgalo.
 
-Para optimizar tu investigación terminológica y traducción técnica, prueba estos prompts con tu herramienta de IA preferida:
-
+### 🤖 Prompts de Estudio con IAG
+Copia el contenido descargado y prueba estos prompts:
 - "Ayúdame a crear un proceso sistemático de investigación terminológica para textos técnicos sobre [subcampo específico de IAG]"
 - "¿Cuáles son las mejores fuentes académicas y profesionales para verificar terminología técnica en inteligencia artificial generativa?"
 - "Analiza este término técnico de IAG y sugiere equivalencias en inglés con justificación: [término específico del texto]"

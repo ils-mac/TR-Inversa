@@ -128,12 +128,11 @@ Esta complejidad ilustra cómo la traducción científica debe navegar entre pre
 
 ---
 
-## 📥 Descarga esta Actividad
-
+## 📥 Descarga este Contenido
 Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad3/semana7/traduccion-cientifica.md) y descárgalo.
 
-Para profundizar en tu comprensión de la traducción científica, prueba estos prompts con tu herramienta de IA preferida:
-
+### 🤖 Prompts de Estudio con IAG
+Copia el contenido descargado y prueba estos prompts:
 - "Analiza las diferencias terminológicas entre 'calentamiento global' y 'cambio climático' desde una perspectiva de traducción científica"
 - "¿Cómo puedo verificar la precisión de términos científicos especializados al traducir textos sobre cambio climático?"
 - "Explica los desafíos específicos de traducir datos y estadísticas científicas entre español e inglés"

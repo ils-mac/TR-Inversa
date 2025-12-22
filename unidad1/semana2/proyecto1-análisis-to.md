@@ -199,12 +199,11 @@ En nuestra próxima sesión discutiremos:
 
 ---
 
-## 📥 Descarga esta Actividad
-
+## 📥 Descarga este Contenido
 Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad1/semana2/proyecto1-análisis-to.md) y descárgalo.
 
-Para profundizar en tu análisis, prueba estos prompts con tu herramienta de IA preferida:
-
+### 🤖 Prompts de Estudio con IAG
+Copia el contenido descargado y prueba estos prompts:
 - "Analiza por qué [elemento específico marcado] representa un desafío para la traducción español-inglés en contextos oficiales"
 - "¿Qué estrategias puedo desarrollar para identificar mejor elementos de [categoría específica] en textos administrativos?"
 - "Compara las implicaciones de elegir [opción A] vs [opción B] para traducir [término específico] en documentos gubernamentales"

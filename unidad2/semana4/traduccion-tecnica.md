@@ -156,12 +156,11 @@ Haywood, Thompson y Hervey destacan la tensión entre:
 
 ---
 
-## 📥 Descarga esta Actividad
-
+## 📥 Descarga este Contenido
 Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad2/semana4/traduccion-tecnica.md) y descárgalo.
 
-Para profundizar en tu comprensión de la traducción técnica de IAG, prueba estos prompts con tu herramienta de IA preferida:
-
+### 🤖 Prompts de Estudio con IAG
+Copia el contenido descargado y prueba estos prompts:
 - "Ayúdame a crear un glosario especializado de términos de inteligencia artificial generativa para traducción ES↔EN"
 - "¿Cuáles son las principales diferencias entre traducir textos técnicos versus textos generales? Enfócate en IAG"
 - "Analiza este término técnico de IAG y sugiere opciones de traducción con justificación: [término específico]"

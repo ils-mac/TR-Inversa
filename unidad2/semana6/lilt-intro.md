@@ -97,12 +97,11 @@ El traductor o la traductora profesional evoluciona de ser únicamente productor
 
 ---
 
-## 📥 Descarga esta Página
-
+## 📥 Descarga este Contenido
 Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad2/semana6/intro-lilt.md) y descárgalo.
 
-Para profundizar en traducción híbrida humano-IAG, prueba estos prompts con tu herramienta de IA preferida:
-
+### 🤖 Prompts de Estudio con IAG
+Copia el contenido descargado y prueba estos prompts
 - "Explica las ventajas y desafíos de la traducción automática neural adaptativa para traductores profesionales"
 - "¿Cómo puede un traductor desarrollar competencias en gestión de modelos de IAG personalizados?"
 - "Crea una estrategia de entrenamiento eficiente para modelos NMT especializados en mi área de expertise"

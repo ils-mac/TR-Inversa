@@ -138,11 +138,11 @@ La entrega final debe completarse en **Semana 16** según el cronograma del curs
 
 ---
 
-## 📥 Descargar Instrucciones de Entrega Final
-¡Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/proyecto-final/proyecto-final-entrega.md) y descárgalo!
+## 📥 Descarga este Contenido
+Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/proyecto-final/proyecto-final-entrega.md) y descárgalo.
 
 ### 🤖 Prompts de Estudio con IAG
-Copia las instrucciones descargadas y prueba estos prompts:
+Copia el contenido descargado y prueba estos prompts:
 - "Ayúdame a crear una lista de verificación personalizada para mi entrega final"
 - "¿Cómo puedo organizar eficientemente todos los componentes de mi proyecto?"
 - "Revisa esta lista de archivos y dime si me falta algo para la entrega final"

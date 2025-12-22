@@ -104,12 +104,12 @@ Después de las presentaciones, considera:
 
 ---
 
-## 📥 Descarga esta Actividad
+## 📥 Descarga este Contenido
 
 Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad2/semana5/contraste-gramatico-es-en.md) y descárgalo.
 
-Para profundizar en tu análisis gramatical, prueba estos prompts con tu herramienta de IA preferida:
-
+### 🤖 Prompts de Estudio con IAG
+Copia el contenido descargado y prueba estos prompts:
 - "Ayúdame a identificar ejemplos específicos de [tu categoría gramatical] en textos técnicos sobre IAG"
 - "¿Cuáles son las principales estrategias para traducir [diferencia gramatical específica] en textos técnicos ES↔EN?"
 - "Crea ejercicios de práctica para reconocer y traducir [categoría gramatical] en contextos técnicos"

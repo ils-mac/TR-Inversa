@@ -31,11 +31,11 @@ Esta semana nos enfocamos en los aspectos éticos de la traducción en general y
 
 ---
 
-## 📥 Descargar Contenido de la Semana 15
-¡Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad5/semana15/semana15-intro.md) y descárgalo!
+## 📥 Descarga este Contenido
+Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad5/semana15/semana15-intro.md) y descárgalo.
 
 ### 🤖 Prompts de Estudio con IAG
-Copia el contenido descargado de la semana y prueba estos prompts:
+Copia el contenido descargado y prueba estos prompts:
 - "Explica los principales aspectos éticos en la traducción literaria y cultural"
 - "¿Hay responsabilidades específicas del traductor inverso según los códigos profesionales?"
 - "Ayúdame a reflexionar sobre los dilemas éticos en la traducción de literatura mexicana al inglés"

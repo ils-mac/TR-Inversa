@@ -158,12 +158,11 @@ Reflexiona sobre las siguientes preguntas después de completar las actividades 
 
 ---
 
-## 📥 Descarga esta Actividad
+## 📥 Descarga este Contenido
+Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad4/semana12/posedicion-traduccion-automatica.md) y descárgalo.
 
-Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad4/semana12/posedicion-traduccion-automatica.md) y descárgalo. Después comparte el contenido con tu herramienta de IAG preferida con uno de estos prompts:
-
-### Prompts Sugeridos para IAG
-
+### 🤖 Prompts de Estudio con IAG
+Copia el contenido descargado y prueba estos prompts:
 - "Ayúdame a entender las diferencias entre la posedición ligera y la posedición completa, con ejemplos concretos de cuándo usar cada una."
 - "Acabo de leer sobre los estándares ISO 18587 para PEMT. ¿Puedes explicarme cómo aplicar estos estándares en un proyecto real de posedición?"
 - "Estoy desarrollando mis guías personales de Qué Hacer y Qué NO Hacer en PEMT. ¿Puedes ayudarme a identificar situaciones específicas donde es fácil sobre-editar?"

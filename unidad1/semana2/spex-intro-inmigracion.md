@@ -199,16 +199,16 @@ Las especificaciones no son limitaciones—son herramientas que nos permiten tom
 
 ---
 
-## 📥 Descarga esta Actividad
+## 📥 Descarga este Contenido
 
 Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad1/semana2/spex-intro-inmigracion.md) y descárgalo.
 
-Para profundizar en tu comprensión de las especificaciones, prueba estos prompts con tu herramienta de IA preferida:
-
+### 🤖 Prompts de Estudio con IAG
+Copia el contenido descargado y prueba estos prompts:
 - "Analiza cómo las especificaciones que establecimos afectan la traducción de [término específico del texto de inmigración]"
 - "¿Qué otras especificaciones serían importantes para traducir documentos oficiales mexicanos dirigidos a audiencias internacionales?"
 - "Compara las diferencias entre escribir para una audiencia estadounidense vs. una audiencia internacional de habla inglesa en documentos gubernamentales"
 
 ---
 
-**Siguiente:** [Parámetros de Traducción Estandarizados - Tranquality](./tranquality-spex-esp-actividad.md)
+**Siguiente:** [Parámetros de Traducción Estandarizados - Tranquality](./tranquality-spex-esp.md)

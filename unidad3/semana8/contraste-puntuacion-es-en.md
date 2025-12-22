@@ -85,12 +85,11 @@ Al investigar, pueden explorar:
 
 ---
 
-## 📥 Descarga esta Actividad
+## 📥 Descarga este Contenido
+Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad2/semana7/contraste-puntuacion-es-en.md) y descárgalo.
 
-Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad2/semana7/contraste-puntuacion-es-en.md).
-
-Para profundizar en tu análisis de puntuación, prueba estos prompts con tu herramienta de IA preferida:
-
+### 🤖 Prompts de Estudio con IAG
+Copia el contenido descargado y prueba estos prompts:
 - "Explica las diferencias específicas entre el uso de [tipo de puntuación] en español mexicano vs. inglés estadounidense"
 - "Proporciona ejemplos de errores comunes de puntuación al traducir textos técnicos ES↔EN"
 - "¿Cómo afecta la puntuación incorrecta la comprensión de textos sobre cambio climático?"

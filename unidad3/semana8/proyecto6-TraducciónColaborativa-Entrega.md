@@ -234,12 +234,11 @@ Respondan a las siguientes preguntas:
 
 ---
 
-## 📥 Descarga esta Actividad
-
+## 📥 Descarga este Contenido
 Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad3/semana8/proyecto6-TraducciónColaborativa-Entrega.md) y descárgalo.
 
-Para optimizar tu entrega final y reflexiones sobre el proyecto colaborativo, prueba estos prompts con tu herramienta de IA preferida:
-
+### 🤖 Prompts de Estudio con IAG
+Copia el contenido descargado y prueba estos prompts:
 - "Ayúdame a estructurar reflexiones significativas sobre mi experiencia en un proyecto de traducción colaborativa basado en estos aspectos: [describe tu experiencia]"
 - "¿Cómo puedo verificar que mi glosario terminológico cumple con estándares profesionales?"
 - "Analiza este registro de tiempo y ayúdame a identificar si la distribución del trabajo fue equitativa: [proporciona datos]"

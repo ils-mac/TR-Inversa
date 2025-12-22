@@ -46,7 +46,7 @@ Al finalizar esta unidad, podrás:
 ### [Semana 10: Relaciones Internacionales entre México y EUA](semana10/semana10-intro.md)
 Traducción de tratados comerciales, características de textos especializados y segunda evaluación parcial del curso
 
-### [Semana 11: Teoría Narrativa y la Pragmática](semana11/semana11-resumen.md)
+### [Semana 11: Teoría Narrativa y la Pragmática](semana11/semana11-intro.md)
 La teoría narrativa de Mona Baker, diferencias pragmáticas español-inglés y proyecto colaborativo
 
 ### [Semana 12: Pos-edición de la Traducción Automática](semana12/semana12-intro.md)
@@ -65,11 +65,11 @@ Esta unidad ampliará significativamente tus oportunidades profesionales al desa
 
 ---
 
-## 📥 Descargar esta introducción de la Unidad 4
-¡Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad4/unidad4-intro.md) y descárgalo!
+## 📥 Descarga este Contenido
+Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad4/unidad4-intro.md) y descárgalo.
 
 ### 🤖 Prompts de Estudio con IAG
-Copia el resumen descargado de la unidad y prueba estos prompts:
+Copia el contenido descargado y prueba estos prompts:
 - "Ayúdame a entender las diferencias entre posedición light y full para traducción automática"
 - "Crea un plan de estudio para dominar los objetivos de la Unidad 4 en 3 semanas"
 - "¿Cuáles son las ventajas y desventajas de la traducción automática vs. traducción híbrida con IAG?"

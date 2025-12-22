@@ -151,12 +151,11 @@ Recuerden que cada rol en el flujo de trabajo tiene responsabilidades específic
 
 ---
 
-## 📥 Descarga esta Actividad
-
+## 📥 Descarga este Contenido
 Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad3/semana8/traducción-cambio-climático.md) y descárgalo.
 
-Para profundizar en tu comprensión del dominio y mejorar tu traducción, prueba estos prompts con tu herramienta de IA preferida:
-
+### 🤖 Prompts de Estudio con IAG
+Copia el contenido descargado y prueba estos prompts:
 - "Ayúdame a analizar este término del corpus de cambio climático y sus colocaciones más frecuentes en inglés vs. español: [término]"
 - "¿Qué estrategias puedo usar para verificar si una estructura nominal en español debe reformularse en inglés científico?"
 - "Compara estos dos enfoques para traducir este pasaje científico y explica cuál mantiene mejor el rigor científico: [opciones]"

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Texto 1 - Permiso de Trabajo para Extranjeros
+title: INM - Permiso de Trabajo para Extranjeros
 parent: Semana 1
 grand_parent: Unidad 1
 nav_order: 5

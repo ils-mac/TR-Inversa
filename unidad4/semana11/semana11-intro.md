@@ -35,11 +35,11 @@ Esta semana exploramos la teoría narrativa de Mona Baker y la equivalencia prag
 
 ---
 
-## 📥 Descargar Contenido de la Semana 11
-¡Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad4/semana11/semana11-intro.md) y descárgalo!
+## 📥 Descarga este Contenido
+Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad4/semana11/semana11-intro.md) y descárgalo.
 
 ### 🤖 Prompts de Estudio con IAG
-Copia el contenido descargado de la semana y prueba estos prompts:
+Copia el contenido descargado y prueba estos prompts:
 - "Explica cómo la teoría narrativa de Baker se aplica a la traducción de documentos oficiales México-Estados Unidos"
 - "¿Cómo puedo identificar y navegar narrativas conflictivas al traducir contenido sobre cooperación militar bilateral?"
 - "Ayúdame a entender la diferencia entre cohesión y coherencia con ejemplos de traducción español-inglés"

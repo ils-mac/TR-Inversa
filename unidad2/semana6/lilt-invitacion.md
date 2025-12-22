@@ -71,12 +71,11 @@ Has recibido una invitación para traducir en Lilt a tu dirección de correo ele
 
 ---
 
-## 📥 Descarga esta Página
-
+## 📥 Descarga este Contenido
 Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad2/semana6/lilt-invitacion.md) y descárgalo.
 
-Para prepararte para la traducción híbrida con Lilt, prueba estos prompts con tu herramienta de IA preferida:
-
+### 🤖 Prompts de Estudio con IAG
+Copia el contenido descargado y prueba estos prompts:
 - "¿Qué ventajas ofrece el acceso estudiantil a herramientas profesionales de traducción como Lilt?"
 - "Explica cómo las plataformas de traducción híbrida están transformando la educación en traducción"
 - "¿Qué competencias debería desarrollar un estudiante de traducción al usar herramientas híbridas humano-IAG?"

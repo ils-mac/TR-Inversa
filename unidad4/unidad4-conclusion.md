@@ -84,11 +84,11 @@ Tu experiencia con textos especializados y metodologías avanzadas te prepara pa
 
 ---
 
-## 📥 Descargar Conclusión de la Unidad 4
-¡Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad4/unidad4-conclusion.md) y descárgalo!
+## 📥 Descarga este Contenido
+Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad4/unidad4-conclusion.md) y descárgalo.
 
 ### 🤖 Prompts de Estudio con IAG
-Copia la conclusión descargada y prueba estos prompts:
+Copia el contenido descargado y prueba estos prompts:
 - "Ayúdame a reflexionar sobre mi aprendizaje de tecnologías de traducción e identificar áreas de mejora"
 - "Crea un plan de desarrollo profesional que integre las competencias de la Unidad 4"
 - "¿Cómo me preparan las competencias tecnológicas de la Unidad 4 para el mercado laboral actual?"

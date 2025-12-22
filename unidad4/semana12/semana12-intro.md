@@ -35,11 +35,11 @@ Esta semana nos enfocamos en las técnicas de posedición de traducción automá
 
 ---
 
-## 📥 Descargar Contenido de la Semana 12
-¡Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad4/semana12/semana12-intro.md) y descárgalo!
+## 📥 Descarga este Contenido
+Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad4/semana12/semana12-intro.md) y descárgalo.
 
 ### 🤖 Prompts de Estudio con IAG
-Copia el contenido descargado de la semana y prueba estos prompts:
+Copia el contenido descargado y prueba estos prompts:
 - "Explica las diferencias entre posedición light y full según las guías TAUS"
 - "Crea estrategias para desarrollar acuerdo entre evaluadores en clasificación de errores"
 - "Explica las diferencias entre evaluación individual y evaluación por consenso en MQM"

@@ -215,12 +215,11 @@ La calidad de los comentarios de evaluación determinará en gran medida qué ta
 
 ---
 
-## 📥 Descarga esta Actividad
-
+## 📥 Descarga este Contenido
 Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad4/semana12/proyecto-texto9.md) y descárgalo.
 
-Para optimizar el trabajo de evaluación y posedición en grupo, prueben estos prompts con su herramienta de IA preferida:
-
+### 🤖 Prompts de Estudio con IAG
+Copia el contenido descargado y prueba estos prompts:
 - "¿Cómo puedo escribir comentarios de evaluación de traducción que sean claros, específicos y accionables para que otra persona pueda implementar las correcciones?"
 - "Ayúdame a entender la diferencia entre identificar un error (rol de evaluador/a) e implementar la corrección (rol de revisor/a)"
 - "¿Qué elementos debe incluir un buen comentario de evaluación MQM para ser útil a un/a revisor/a?"

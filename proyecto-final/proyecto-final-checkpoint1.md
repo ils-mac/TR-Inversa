@@ -100,11 +100,11 @@ Utiliza el formato de citación apropiado para el tipo de fuente (artículo acad
 
 ---
 
-## 📥 Descargar Checkpoint 1
-¡Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/proyecto-final/proyecto-final-checkpoint1.md) y descárgalo!
+## 📥 Descarga este Contenido
+Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/proyecto-final/proyecto-final-checkpoint1.md) y descárgalo.
 
-### 🤖 Prompts de Estudio con IA
-Copia el contenido descargado del checkpoint y prueba estos prompts:
+### 🤖 Prompts de Estudio con IAG
+Copia el contenido descargado y prueba estos prompts:
 - "Ayúdame a evaluar si mi texto seleccionado cumple con todos los requisitos del Checkpoint 1"
 - "¿Cómo puedo escribir una justificación que demuestre autoconocimiento, conocimiento del mercado y análisis crítico?"
 - "Crea una lista de verificación para revisar mi selección de texto antes de entregar"

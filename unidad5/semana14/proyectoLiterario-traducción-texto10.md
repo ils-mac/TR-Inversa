@@ -136,10 +136,11 @@ Si decides usar herramientas de traducción automática o IAG:
 
 ---
 
-## 📥 Descarga esta Actividad
+## 📥 Descarga este Contenido
+Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad5/semana14/proyectoLiterario-traducción-texto10.md) y descárgalo.
 
-Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad5/semana14/proyectoLiterario-traducción-texto10.md) y descárgalo. Después comparte el contenido con tu herramienta de IAG preferida con uno de estos prompts:
-
+### 🤖 Prompts de Estudio con IAG
+Copia el contenido descargado y prueba estos prompts:
 - "Estoy traduciendo [género literario] del español al inglés. ¿Qué estrategias específicas debo considerar para mantener [elemento estilístico] del original?"
 - "¿Cómo puedo abordar la traducción de [elemento cultural/lingüístico específico] en mi texto literario? ¿Qué opciones de domesticación vs. extranjerización tendría?"
 - "Ayúdame a analizar este pasaje de mi texto fuente: [pega el pasaje]. ¿Qué desafíos de traducción identificas y qué estrategias sugerirías?"

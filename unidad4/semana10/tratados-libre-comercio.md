@@ -240,14 +240,11 @@ Después de las presentaciones, considera:
 
 ---
 
-## 📥 Descarga esta Actividad
-
+## 📥 Descarga este Contenido
 Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad3/semana10/tratados-libre-comercio.md) y descárgalo.
 
 ### 🤖 Prompts de Estudio con IAG
-
 Copia el contenido descargado y prueba estos prompts:
-
 - "¿Qué recursos terminológicos debo consultar para traducir términos de [TLC]?"
 - "Explica por qué 'medida de salvaguardia' se traduce como 'safeguard measure' y no 'measure of safeguard'"
 - "Analiza las diferencias de colocación entre 'aplicar arancel' y sus posibles traducciones al inglés"

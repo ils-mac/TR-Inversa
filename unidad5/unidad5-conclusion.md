@@ -84,11 +84,11 @@ Tu sólida formación en traducción literaria y los principios éticos de la tr
 
 ---
 
-## 📥 Descargar Conclusión de la Unidad 5
-¡Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad5/unidad5-conclusion.md) y descárgalo!
+## 📥 Descarga este Contenido
+Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad5/unidad5-conclusion.md) y descárgalo.
 
-### 🤖 Prompts de Estudio con IA
-Copia la conclusión descargada y prueba estos prompts:
+### 🤖 Prompts de Estudio con IAG
+Copia el contenido descargado y prueba estos prompts:
 - "Ayúdame a reflexionar sobre mi aprendizaje de traducción literaria e identificar fortalezas y áreas de mejora"
 - "Crea un plan de síntesis para integrar todas las competencias del curso en mi proyecto final"
 - "¿Cómo puedo aplicar las competencias de traducción literaria en otros campos profesionales?"
@@ -96,4 +96,4 @@ Copia la conclusión descargada y prueba estos prompts:
 
 ---
 
-**¿Listas y listos para el desafío final?** Continúa con el [Proyecto Final](../proyecto-final/proyecto-final-resumen.md) para demostrar la síntesis completa de todas las competencias de traducción inversa desarrolladas a lo largo del curso.
+**¿Listas y listos para el desafío final?** Continúa con el [Proyecto Final](../proyecto-final/proyecto-final-intro.md) para demostrar la síntesis completa de todas las competencias de traducción inversa desarrolladas a lo largo del curso.

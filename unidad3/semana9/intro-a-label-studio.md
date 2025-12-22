@@ -170,12 +170,12 @@ La experiencia que adquieran durante estos entrenamientos será fundamental para
 
 ---
 
-## 📥 Descarga esta Actividad
+## 📥 Descarga este Contenido
 
 Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad3/semana9/intro-a-label-studio.md) y descárgalo.
 
-Para prepararte mejor para trabajar con Label Studio y MQM, prueba estos prompts con tu herramienta de IA preferida:
-
+### 🤖 Prompts de Estudio con IAG
+Copia el contenido descargado y prueba estos prompts:
 - "Explica las ventajas de evaluar textos completos versus pares de oraciones en evaluación de calidad de traducción"
 - "¿Cómo puedo determinar si un error debería categorizarse como 'Precisión' o 'Estilo' en el marco MQM?"
 - "Crea una guía paso por paso para evaluar la severidad de errores de traducción"

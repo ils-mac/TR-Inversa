@@ -106,10 +106,11 @@ Selecciona un texto de una autora o autor que disfrutes, en un género que te in
 
 ---
 
-## 📥 Descarga esta Actividad
+## 📥 Descarga este Contenido
+Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad5/semana13/proyectoLiterario-selección-texto10.md) y descárgalo.
 
-Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad5/semana13/proyectoLiterario-selección-texto10.md) y descárgalo. Después comparte el contenido con tu herramienta de IAG preferida con uno de estos prompts:
-
+### 🤖 Prompts de Estudio con IAG
+Copia el contenido descargado y prueba estos prompts:
 - "Ayúdame a buscar autoras y autores mexicanos contemporáneos cuya obra no ha sido traducida al inglés. ¿Qué recursos puedo usar para verificar si un texto ya ha sido traducido?"
 - "Estoy considerando traducir [título del texto] de [autora/autor]. ¿Qué desafíos de traducción específicos debería anticipar basándome en [género/tema/estilo]?"
 - "¿Cómo puedo escribir una justificación convincente para mi selección de texto literario? ¿Qué elementos son más importantes para demostrar comprensión profunda del texto?"

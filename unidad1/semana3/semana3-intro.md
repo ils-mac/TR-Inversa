@@ -32,11 +32,11 @@ Esta semana nos enfocamos en la traducción de documentos personales para proces
 
 ---
 
-## 📥 Descargar Contenido de la Semana 3
-¡Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad1/semana3/semana3-resumen.md) y descárgalo!
+## 📥 Descarga este Contenido
+Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad1/semana3/semana3-intro.md) y descárgalo.
 
 ### 🤖 Prompts de Estudio con IAG
-Copia el contenido descargado de la semana y prueba estos prompts:
+Copia el contenido descargado y prueba estos prompts:
 - "¿Cuáles son las características específicas de los documentos personales para inmigración?"
 - "Ayúdame a entender el marco de errores que se usa para evaluar traducciones"
 - "¿Qué diferencias hay entre traducir documentos informativos vs. documentos personales?"

@@ -160,12 +160,12 @@ Familiarizarse con estos estándares les ayudará a comprender las mejores prác
 
 ---
 
-## 📥 Descarga esta Actividad
+## 📥 Descarga este Contenido
 
 Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad3/semana9/translation-quality-mgmt.md) y descárgalo.
 
-Para profundizar en tu comprensión de los sistemas de gestión de calidad de traducción, prueba estos prompts con tu herramienta de IA preferida:
-
+### 🤖 Prompts de Estudio con IAG
+Copia el contenido descargado y prueba estos prompts:
 - "Explica la diferencia entre evaluación analítica (MQM) y evaluación holística (H-Quest) en gestión de calidad de traducción"
 - "¿Cómo pueden las y los traductores usar retroalimentación de evaluaciones de calidad para mejorar su trabajo?"
 - "¿Cuáles son los beneficios y desafíos de evaluar textos completos versus pares de oraciones en la evaluación de calidad de traducción?"

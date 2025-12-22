@@ -84,11 +84,11 @@ Tus competencias especializadas en traducción científica y evaluación de cali
 
 ---
 
-## 📥 Descargar Conclusión de la Unidad 3
-¡Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad3/unidad3-conclusion.md) y descárgalo!
+## 📥 Descarga este Contenido
+Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad3/unidad3-conclusion.md) y descárgalo.
 
 ### 🤖 Prompts de Estudio con IAG
-Copia la conclusión descargada y prueba estos prompts:
+Copia el contenido descargado y prueba estos prompts:
 - "Ayúdame a reflexionar sobre mi aprendizaje de la Unidad 3 e identificar áreas de mejora en evaluación de calidad"
 - "Crea un plan de estudio para integrar las competencias de MQM con textos especializados de la Unidad 4"
 - "¿Cómo me preparan las habilidades de Label Studio y evaluación sistemática para el mercado laboral actual?"

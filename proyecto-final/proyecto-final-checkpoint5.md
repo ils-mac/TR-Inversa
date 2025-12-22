@@ -107,11 +107,11 @@ La evaluación considerará la **calidad del texto en su conjunto** en las área
 
 ---
 
-## 📥 Descargar Checkpoint 5
-¡Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/proyecto-final/proyecto-final-checkpoint5.md) y descárgalo!
+## 📥 Descarga este Contenido
+Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/proyecto-final/proyecto-final-checkpoint5.md) y descárgalo.
 
-### 🤖 Prompts de Estudio con IA
-Copia el contenido descargado del checkpoint y prueba estos prompts:
+### 🤖 Prompts de Estudio con IAG
+Copia el contenido descargado y prueba estos prompts:
 - "Ayúdame a planificar mi proceso de traducción utilizando mis especificaciones, corpus y glosario"
 - "¿Cómo puedo estructurar mis observaciones para demostrar conciencia crítica sobre mi proceso de traducción?"
 - "Crea una lista de verificación para revisar mi traducción antes de entregar el checkpoint"

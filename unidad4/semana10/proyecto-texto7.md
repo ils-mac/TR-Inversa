@@ -135,12 +135,11 @@ Después de evaluar los errores individuales en la traducción, tu texto recibir
 
 ---
 
-## 📥 Descarga esta Actividad
-
+## 📥 Descarga este Contenido
 Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad4/semana10/proyecto-texto7.md) y descárgalo.
 
-Para optimizar tu traducción de discurso político, prueba estos prompts con tu herramienta de IA preferida:
-
+### 🤖 Prompts de Estudio con IAG
+Copia el contenido descargado y prueba estos prompts:
 - "¿Cuáles son las convenciones de traducción para discursos presidenciales del español al inglés?"
 - "Analiza este fragmento de discurso político y sugiere cómo mantener el equilibrio entre oralidad y formalidad: [fragmento específico]"
 - "¿Cómo pueden equipos de traducción mantener consistencia terminológica cuando trabajan en secciones separadas de un mismo texto?"

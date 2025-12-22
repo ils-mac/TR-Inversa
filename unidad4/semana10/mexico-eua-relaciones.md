@@ -52,12 +52,12 @@ Como futuras y futuros profesionales de la traducción que trabajarán con texto
 
 ---
 
-## 📥 Descarga esta Actividad
+## 📥 Descarga este Contenido
 
 Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad4/semana10/mexico-eua-relaciones.md) y descárgalo.
 
-Para profundizar en tu comprensión de los sistemas de gestión de calidad de traducción, prueba estos prompts con tu herramienta de IAG preferida:
-
+### 🤖 Prompts de Estudio con IAG
+Copia el contenido descargado y prueba estos prompts:
 - "Explica los desafíos éticos de traducir textos políticos sensibles entre español e inglés en el contexto México-Estados Unidos"
 - "¿Cómo mantener neutralidad al traducir textos sobre migración que contienen narrativas contradictorias?"
 - "¿Qué recursos especializados necesito para traducir tratados comerciales México-Estados Unidos?"

@@ -84,11 +84,11 @@ Recuerda que este proyecto es una oportunidad para demostrar todo lo que has apr
 
 ---
 
-## 📥 Descargar Resumen del Proyecto Final
-¡Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/proyecto-final/proyecto-final-resumen.md) y descárgalo!
+## 📥 Descarga este Contenido
+Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/proyecto-final/proyecto-final-intro.md) y descárgalo.
 
-### 🤖 Prompts de Estudio con IA
-Copia el resumen descargado del proyecto y prueba estos prompts:
+### 🤖 Prompts de Estudio con IAG
+Copia el contenido descargado y prueba estos prompts:
 - "Ayúdame a elegir un texto fuente apropiado para mi proyecto final de traducción inversa"
 - "¿Cómo puedo planificar mi tiempo para completar exitosamente todos los checkpoints?"
 - "Crea un calendario de trabajo para mi proyecto final considerando las fechas de entrega"

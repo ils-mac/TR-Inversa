@@ -27,7 +27,7 @@ Traducirás el documento del Instituto Nacional de Migración sobre permisos de 
 ## Proceso de traducción
 
 ### 1. Preparación
-- **Descarga el archivo** [proyecto1-PermisoDeTrabajar.md](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad1/semana1/proyecto1-PermisoDeTrabajar.md) para trabajar con una copia local
+- **Descarga el archivo** [INM-PermisoDeTrabajar.md](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad1/semana1/proyecto1-PermisoDeTrabajar.md) para trabajar con una copia local
 
 ### 2. Investigación
 Antes de comenzar la traducción:
@@ -93,12 +93,11 @@ Después de completar tu traducción, considera estas preguntas para la discusi�
 
 ---
 
-## 📥 Descarga esta Actividad
-
+## 📥 Descarga este Contenido
 Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad1/semana1/proyecto1-INM.md) y descárgalo.
 
-Para mejorar tu traducción, prueba estos prompts con tu herramienta de IA preferida:
-
+### 🤖 Prompts de Estudio con IAG
+Copia el contenido descargado y prueba estos prompts:
 - "¿Cuál es la terminología estándar en inglés para [término específico que estás traduciendo] en documentos de inmigración estadounidenses?"
 - "Compara la estructura de documentos oficiales mexicanos vs. estadounidenses: ¿cómo debería adaptar [elemento específico] para lectores anglófonos?"
 - "¿Qué estrategias de traducción son más efectivas para mantener la formalidad oficial al traducir de español administrativo a inglés?"

@@ -234,12 +234,12 @@ Las habilidades que desarrollaste—identificar errores sistemáticamente, categ
 
 ---
 
-## 📥 Descarga esta Actividad
+## 📥 Descarga este Contenido
 
 Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad3/semana9/proyecto-evaluacion-conanp.md) y descárgalo.
 
-Para optimizar tu evaluación y reflexión sobre el proceso, prueba estos prompts con tu herramienta de IA preferida:
-
+### 🤖 Prompts de Estudio con IAG
+Copia el contenido descargado y prueba estos prompts:
 - "Ayúdame a desarrollar una estrategia sistemática para revisar un documento completo e identificar todos los errores de traducción"
 - "¿Cómo puedo distinguir entre errores reales que violan las especificaciones y preferencias personales en traducción?"
 - "Crea un marco para escribir comentarios útiles y constructivos sobre errores de traducción"

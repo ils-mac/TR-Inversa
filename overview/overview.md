@@ -92,12 +92,11 @@ Durante el curso trabajarás con tecnologías profesionales de traducción:
 - **Label Studio**: Software para evaluación y etiquetado de calidad
 ---
 
-## 📥 Descargar Descripción General del Curso
+## 📥 Descarga este Contenido
+Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/overview/overview.md) y descárgalo.
 
-¡Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/overview/overview.md) y descárgalo!
-
-### 🤖 Prompts de Estudio con IA
-Copia la descripción general descargada y prueba estos prompts:
+### 🤖 Prompts de Estudio con IAG
+Copia el contenido descargado y prueba estos prompts:
 - "Ayúdame a crear un horario de estudio para este curso de 17 semanas"
 - "Explica cómo estas unidades se construyen progresivamente una sobre otra"
 - "¿Qué habilidades de la Unidad 1 necesitaré para tener éxito en la Unidad 5?"

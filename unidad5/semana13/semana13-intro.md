@@ -34,11 +34,11 @@ Esta semana nos enfocamos en la traducción de textos literarios mexicanos para 
 
 ---
 
-## 📥 Descargar Contenido de la Semana 13
-¡Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad5/semana13/semana13-intro.md) y descárgalo!
+## 📥 Descarga este Contenido
+Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad5/semana13/semana13-intro.md) y descárgalo
 
 ### 🤖 Prompts de Estudio con IAG
-Copia el contenido descargado de la semana y prueba estos prompts:
+Copia el contenido descargado y prueba estos prompts:
 - "Ayúdame a entender las particularidades de traducir literatura mexicana para audiencias estadounidenses"
 - "¿Cuáles son las características que debo buscar en un texto literario mexicano para traducir?"
 - "Explica el concepto de 'invisibilidad del traductor' según Venuti aplicado a la literatura mexicana"

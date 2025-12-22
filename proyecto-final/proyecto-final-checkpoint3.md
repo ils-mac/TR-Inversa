@@ -90,11 +90,11 @@ Añade un documento a tu zip con la siguiente información:
 
 ---
 
-## 📥 Descargar Checkpoint 3
-¡Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/proyecto-final/proyecto-final-checkpoint3.md) y descárgalo!
+## 📥 Descarga este Contenido
+Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/proyecto-final/proyecto-final-checkpoint3.md) y descárgalo
 
-### 🤖 Prompts de Estudio con IA
-Copia el contenido descargado del checkpoint y prueba estos prompts:
+### 🤖 Prompts de Estudio con IAG
+Copia el contenido descargado y prueba estos prompts:
 - "Ayúdame a identificar fuentes apropiadas para mi corpus bilingüe en [tu área temática]"
 - "¿Cómo puedo evaluar la calidad y relevancia de textos para mi corpus de referencia?"
 - "Crea criterios específicos para seleccionar documentos en inglés para mi área temática"

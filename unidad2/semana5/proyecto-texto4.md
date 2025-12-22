@@ -149,12 +149,11 @@ Después de evaluar los errores individuales en la traducción, tu texto recibir
 
 ---
 
-## 📥 Descarga esta Actividad
-
+## 📥 Descarga este Contenido
 Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad2/semana5/proyecto-texto4.md) y descárgalo.
 
-Para optimizar tu investigación terminológica y traducción técnica en ética de IA, prueba estos prompts con tu herramienta de IA preferida:
-
+### 🤖 Prompts de Estudio con IAG
+Copia el contenido descargado y prueba estos prompts:
 - "Ayúdame a crear un proceso sistemático de investigación terminológica para textos sobre ética en inteligencia artificial"
 - "¿Cuáles son las mejores fuentes académicas y profesionales para verificar terminología en ética de IA?"
 - "Analiza este término de ética de IA y sugiere equivalencias en inglés con justificación: [término específico del texto]"

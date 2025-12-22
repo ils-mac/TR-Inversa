@@ -150,11 +150,11 @@ La comunidad global de traducción necesita profesionales capacitados que puedan
 
 ---
 
-## 📥 Descargar Conclusión del Curso
+## 📥 Descarga este Contenido
 Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-traduccion-inversa/blob/main/conclusion/trad-inversa-conclusion.md) y descárgalo.
 
-### 🤖 Prompts de Estudio con IA
-Copia la conclusión descargada y prueba estos prompts:
+### 🤖 Prompts de Estudio con IAG
+Copia el contenido descargado y prueba estos prompts:
 - "Ayúdame a crear un plan de desarrollo profesional basado en mi finalización de Traducción Inversa A > B"
 - "¿Cómo puedo mostrar efectivamente mi especialización en traducción inversa a empleadores potenciales?"
 - "Crea una línea de tiempo para implementar los próximos pasos sugeridos en la conclusión del curso"

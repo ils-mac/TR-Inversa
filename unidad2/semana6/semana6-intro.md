@@ -31,11 +31,11 @@ Esta semana exploramos el futuro de la traducción profesional a través de Lilt
 
 ---
 
-## 📥 Descargar Contenido de la Semana 6
-¡Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad2/semana6/semana6-resumen.md) y descárgalo!
+## 📥 Descarga este Contenido
+Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad2/semana6/semana6-intro.md) y descárgalo.
 
 ### 🤖 Prompts de Estudio con IAG
-Copia el contenido descargado de la semana y prueba estos prompts:
+Copia el contenido descargado y prueba estos prompts:
 - "Ayúdame a estructurar un ensayo comparativo entre traducción humana y traducción híbrida con IAG"
 - "¿Cuáles son las competencias clave que necesitan los traductores en la era de la IAG?"
 - "Crea una lista de preguntas reflexivas para analizar mi experiencia con Lilt"

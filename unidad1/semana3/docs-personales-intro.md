@@ -104,12 +104,11 @@ Antes de la próxima actividad, considera:
 
 ---
 
-## 📥 Descarga esta Actividad
-
+## 📥 Descarga este Contenido
 Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad1/semana3/docs-personales-intro.md) y descárgalo.
 
-Para profundizar en tu comprensión, prueba estos prompts con tu herramienta de IA preferida:
-
+### 🤖 Prompts de Estudio con IAG
+Copia el contenido descargado y prueba estos prompts:
 - "¿Cuáles son las diferencias principales entre traducción de documentos personales versus traducción de textos informativos generales?"
 - "Como traductor, ¿cómo debo balance la fidelidad al original con la necesidad de que evaluadores entiendan contenido académico de [país específico]?"
 - "¿Qué recursos específicos necesito para investigar equivalencias entre el sistema educativo de [país] y el sistema estadounidense?"

@@ -35,11 +35,11 @@ Esta semana profundizamos en las diferencias gramaticales entre español e ingl�
 
 ---
 
-## 📥 Descargar Contenido de la Semana 5
-¡Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad2/semana5/semana5-resumen.md) y descárgalo!
+## 📥 Descarga este Contenido
+Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad2/semana5/semana5-intro.md) y descárgalo.
 
 ### 🤖 Prompts de Estudio con IAG
-Copia el contenido descargado de la semana y prueba estos prompts:
+Copia el contenido descargado y prueba estos prompts:
 - "Ayúdame a repasar las diferencias gramaticales clave entre español e inglés en textos técnicos"
 - "Crea ejercicios de práctica para la Evaluación Parcial 1 sobre traducción de textos de IAG"
 - "¿Qué estrategias debo usar para gestionar el tiempo durante un examen de traducción cronometrado?"

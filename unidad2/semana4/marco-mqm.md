@@ -102,12 +102,11 @@ El marco MQM no es solo una herramienta de evaluación, sino también una guía 
 
 ---
 
-## 📥 Descarga esta Actividad
-
+## 📥 Descarga este Contenido
 Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad2/semana4/marco-mqm.md) y descárgalo.
 
-Para profundizar en tu comprensión del marco MQM, prueba estos prompts con tu herramienta de IA preferida:
-
+### 🤖 Prompts de Estudio con IAG
+Copia el contenido descargado y prueba estos prompts:
 - "Ayúdame a crear un sistema personal para identificar y categorizar errores de traducción usando el marco MQM"
 - "¿Cómo puedo desarrollar una lista de verificación de autoevaluación basada en la tipología MQM?"
 - "Explica la diferencia entre errores de gravedad mayor vs. menor en el contexto de traducción técnica"

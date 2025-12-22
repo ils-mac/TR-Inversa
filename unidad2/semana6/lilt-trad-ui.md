@@ -138,12 +138,12 @@ Esta exploración te prepara para la [Tarea: Traducción Híbrida con Lilt](./ta
 
 ---
 
-## 📥 Descarga esta Actividad
+## 📥 Descarga este Contenido
 
 Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad2/semana6/lilt-trad-ui.md) y descárgalo.
 
-Para maximizar tu exploración de Lilt, prueba estos prompts con tu herramienta de IA preferida:
-
+### 🤖 Prompts de Estudio con IAG
+Copia el contenido descargado y prueba estos prompts:
 - "¿Qué aspectos debería observar al hacer mi primera exploración de una herramienta de traducción asistida?"
 - "Explica cómo la integración de IAG en herramientas TAO transforma el flujo de trabajo tradicional de traducción"
 - "¿Qué preguntas son más importantes al evaluar primeras impresiones de una nueva plataforma de traducción?"

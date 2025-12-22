@@ -35,18 +35,18 @@ Este proyecto refleja la creencia de que las barreras educativas deben ser minim
 │   ├── credito-extra.md     # Oportunidades de mejora opcionales
 │   └── bibliografia.md      # Recursos y lecturas
 ├── unidad1/                 # Traducción Inversa y Textos Generales
-│   ├── unidad1-resumen.md   # Introducción y objetivos de la unidad
+│   ├── unidad1-intro.md   # Introducción y objetivos de la unidad
 │   ├── unidad1-conclusion.md # Cierre y reflexión de la unidad
 │   ├── semana1/             # Fundamentos de traducción inversa
-│   │   ├── semana1-resumen.md
+│   │   ├── semana1-intro.md
 │   │   ├── presentacion-introductoria.md
 │   │   ├── conocer-el-texto.md
 │   │   ├── proyecto-texto1.md
 │   │   └── texto1-inmigracion.md
 │   ├── semana2/             # Especificaciones y contraste morfosintáctico
-│   │   └── semana2-resumen.md
+│   │   └── semana2-intro.md
 │   └── semana3/             # Documentos personales
-│       └── semana3-resumen.md
+│       └── semana3-intro.md
 ├── unidad2/                 # Traducción de Textos Técnicos (estructura similar)
 ├── unidad3/                 # Traducción de Textos Científicos
 ├── unidad4/                 # Traducción de Textos Especializados
