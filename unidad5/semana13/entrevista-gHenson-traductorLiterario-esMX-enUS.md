@@ -8,7 +8,7 @@ nav_order: 2
 
 # Entrevista con Dr. George Henson - Traductor Literario de ES-MX to EN-US
 
-Para empezar nuestra unidad sobre la traducción literaria, tenemos el placer de oír del Dr. George Henson, reconocido traductor de español a inglés especializado en literatura mexicana. En la entrevista, el Dr. Henson comparte su trayectoria hacia la traducción literaria, su extenso trabajo con el autor mexicano Sergio Pitol y su enfoque para traducir literatura y memorias. La conversación explora los desafíos particulares de la traducción literaria del español al inglés, particularmente del español mexicano al inglés estadounidense, incluyendo aspectos específicos del lenguaje y la cultura. El Dr. Henson ofrece perspectivas sobre la queerización de traducciones y la necesidad de que quien traduce comparta afinidad cultural con las personas autoras que traduce. También enfatiza la necesidad de especialización. A lo largo de la entrevista, ofrece consejos valiosos para quienes aspiran a convertirse en traductores literarios interesados en la literatura latinoamericana.
+En esta lección tenemos la fortuna y el placer de oír del Dr. George Henson, reconocido traductor de español a inglés especializado en literatura mexicana. En la entrevista, el Dr. Henson comparte su trayectoria hacia la traducción literaria, su extenso trabajo con el autor mexicano Sergio Pitol y su enfoque para traducir literatura y memorias. La conversación explora los desafíos particulares de la traducción literaria del español al inglés, particularmente del español mexicano al inglés estadounidense, incluyendo aspectos específicos del lenguaje y la cultura. El Dr. Henson ofrece perspectivas sobre la queerización de traducciones y la necesidad de que quien traduce comparta afinidad cultural con las personas autoras que traduce. También enfatiza la necesidad de especialización. A lo largo de la entrevista, ofrece consejos valiosos para quienes aspiran a convertirse en traductores literarios interesados en la literatura latinoamericana.
 
 La entrevista se realizó para compartirse con el estudiantado en el módulo de traducción literaria de la clase de traducción del español al inglés de Brandt.
 
@@ -20,6 +20,9 @@ La entrevista fue grabada el 3 de abril de 2025.
 - En Instragram: @gberthenson
 
 > Ve la entrevista (en inglés): [Dr. George Henson on Mexican Literary Translation from Spanish to English](https://youtu.be/uLjwy65B9Pw?si=GofOq38tqY8A873F)
+> También se recomienda repasar las "Production Notes" que acompañan el video en YouTube, notas que explican las referencias a las que el Dr. Henson hace mención a lo largo de la entrevista: [Production Notes](https://youtu.be/uLjwy65B9Pw?si=GofOq38tqY8A873F)
+
+---
 
 ## Preguntas de Reflexión y Discusión
 
@@ -86,6 +89,11 @@ Después de ver la entrevista con el Dr. George Henson, considera las siguientes
 22. Lee el ensayo de Octavio Paz sobre la palabra "chingar" en *El laberinto de la soledad*. ¿Cómo traducirías este capítulo al inglés? ¿Qué estrategias usarías?
 
 **Nota**: Estas preguntas están diseñadas para fomentar la reflexión crítica y el diálogo. No hay respuestas "correctas" o "incorrectas" para muchas de ellas. El objetivo es desarrollar tu pensamiento crítico sobre la traducción literaria y ayudarte a formar tu propia filosofía de traducción.
+
+---
+
+> Ve la entrevista (en inglés): [Dr. George Henson on Mexican Literary Translation from Spanish to English](https://youtu.be/uLjwy65B9Pw?si=GofOq38tqY8A873F)
+> También se recomienda repasar las "Production Notes" que acompañan el video en YouTube, notas que explican las referencias a las que el Dr. Henson hace mención a lo largo de la entrevista: [Production Notes](https://youtu.be/uLjwy65B9Pw?si=GofOq38tqY8A873F)
 
 ---
 
