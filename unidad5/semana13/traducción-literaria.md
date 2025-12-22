@@ -22,6 +22,8 @@ La traducción literaria abarca múltiples géneros, cada uno con sus propios de
 - **Drama**: Diálogo que debe sonar natural cuando se representa en escena
 - **Testimonios**: Narrativas personales donde la autenticidad de la voz es fundamental
 
+---
+
 ## Debates Históricos: ¿Palabra por Palabra o Sentido por Sentido?
 
 La tensión fundamental en traducción literaria—entre fidelidad al texto fuente y fluidez en el texto meta—existe desde que los romanos traducían textos griegos.
@@ -54,27 +56,11 @@ En los siglos XVII y XVIII surgió un nuevo énfasis en la aceptabilidad para la
 
 **John Dryden** (m. 1700) moderó estas tendencias, renovando la distinción clásica entre traducción retórica y gramatical. Rechazó tanto las traducciones palabra por palabra como las imitaciones (que en su opinión adaptaban demasiado libremente el texto original), prefiriendo una paráfrasis moderadamente libre, donde el lenguaje es meramente un instrumento, y el truco de la traducción es no alterar la sustancia del texto fuente.
 
-## El Rol de Quien Traduce Literatura: ¿Lectora/Lector o Autora/Autor?
+### Referencia
 
-### La Traducción como "Ciudadana de Segunda Clase"
+Bolduc, Michelle. "Translation Theory in History (I)." *Trnsltn/COMPLIT 820: Translation Theory*, Universidad de Wisconsin-Milwaukee, otoño 2012. Conferencia del curso.
 
-Durante siglos, la traducción ha sido considerada "ciudadana de segunda clase" en el mundo de la literatura. Intelectuales y practicantes por igual han argumentado la inevitable traición de la versión original por parte de quien traduce, enfocándose en la fidelidad (o falta de ella) necesaria para que una traducción se considere "buena". Esto es en parte por qué quienes traducen literatura tradicionalmente reciben una paga tan pobre (Terando, "Literary Translation").
-
-### El Debate sobre Autoría
-
-Dentro de la tradición de traducción literaria, existe un debate fundamental: ¿son las traducciones copias secundarias de obras "originales" o textos originales por derecho propio? Esta tensión aparece frecuentemente en los paratextos que acompañan traducciones literarias:
-
-**Edith Grossman** en su nota de traducción a *Don Quijote*: "[T]he actuality of the translation is in the translation, and having to articulate how and why I have just articulated the text seems cruelly redundant" (xviii).
-
-**Simon Armitage** defendiendo sus decisiones en *Sir Gawain and the Green Knight*: "[Translation] is not an exercise in linguistic forensics or medieval history[, but in] produc[ing] a living, inclusive, and readable piece of work in its own right" (12).
-
-**Robert Fagles** en el posfacio de *The Odyssey* expresa su agradecimiento que nadie le había preguntado, "Why another *Odyssey*?": "Each has understood it seems, that if Homer was a performer, his translator might aim to be one as well; and no two performances of the same work—surely not of musical composition, so probably not of a work of language either—will ever be the same" (494).
-
-**C.H. Sisson** sobre traducir *La Divina Comedia* y las libertades que ha tomado con la esquema de rimas: "[T]he translator’s purpose [is] to convey Dante’s meaning into English verse, not to comply with anyone’s preconception as to how this should be done" ("On Translating Dante", 41).
-
-Estas justificaciones revelan preguntas fundamentales sobre los derechos morales de quien traduce sobre su traducción: ¿Es una traducción una "lectura imperfecta" (Sisson 43) de un texto original, o es "una obra por derecho propio" (Armitage 12)?
-
-Para una discusión más profunda sobre la posición única de quien traduce entre emisor y receptores de comunicación, consulta ["The Hidden Life of Translators"](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad1/semana1/referencias/Fraser-TitchenBeeth_HiddenLifeOfTranslators_2001.pdf) de Bill Fraser y Helen Titchen Beeth.
+---
 
 ## Fuerzas que Determinan Qué se Traduce y Cómo
 
@@ -103,6 +89,36 @@ Para Venuti, el objetivo de la traducción es traer de vuelta al Otro cultural c
 **Tejaswini Niranjana** en *Siting Translation* ubica la traducción dentro del contexto postcolonial como "significant site for raising questions of representation, power, and
 historicity" (citada en Terando, "Literary Translation"). Demuestra cómo el poder colonial británico usó la traducción para construir una imagen del indio que era conducente a perpetuar la estructura de poder británica. Tan potente fue que la construcción llegó a parecer "natural" para los propios indios, y se logró a través de la traducción de leyes y literatura indias al inglés.
 
+### Referencia
+
+Terando, Lorena. "Literary Translation." *Trnsltn/MALLT 709: Seminar: Literary & Cultural Translation*, Universidad de Wisconsin-Milwaukee, primavera 2013. Conferencia del curso.
+
+---
+
+## El Rol de Quien Traduce Literatura: ¿Lectora/Lector o Autora/Autor?
+
+### La Traducción como "Ciudadana de Segunda Clase"
+
+Durante siglos, la traducción ha sido considerada "ciudadana de segunda clase" en el mundo de la literatura. Intelectuales y practicantes por igual han argumentado la inevitable traición de la versión original por parte de quien traduce, enfocándose en la fidelidad (o falta de ella) necesaria para que una traducción se considere "buena". Esto es en parte por qué quienes traducen literatura tradicionalmente reciben una paga tan pobre (Terando, "Literary Translation").
+
+### El Debate sobre Autoría
+
+Dentro de la tradición de traducción literaria, existe un debate fundamental: ¿son las traducciones copias secundarias de obras "originales" o textos originales por derecho propio? Esta tensión aparece frecuentemente en los paratextos que acompañan traducciones literarias:
+
+**Edith Grossman** en su nota de traducción a *Don Quijote*: "[T]he actuality of the translation is in the translation, and having to articulate how and why I have just articulated the text seems cruelly redundant" (xviii).
+
+**Simon Armitage** defendiendo sus decisiones en *Sir Gawain and the Green Knight*: "[Translation] is not an exercise in linguistic forensics or medieval history[, but in] produc[ing] a living, inclusive, and readable piece of work in its own right" (12).
+
+**Robert Fagles** en el posfacio de *The Odyssey* expresa su agradecimiento que nadie le había preguntado, "Why another *Odyssey*?": "Each has understood it seems, that if Homer was a performer, his translator might aim to be one as well; and no two performances of the same work—surely not of musical composition, so probably not of a work of language either—will ever be the same" (494).
+
+**C.H. Sisson** sobre traducir *La Divina Comedia* y las libertades que había tomado con la esquema de rimas: "[T]he translator's purpose [is] to convey Dante's meaning into English verse, not to comply with anyone’s preconception as to how this should be done" ("On Translating Dante", 41).
+
+Estas justificaciones revelan preguntas fundamentales sobre los derechos morales de quien traduce sobre su traducción: ¿Es una traducción una "lectura imperfecta" (Sisson 43) de un texto original, o es "una obra por derecho propio" (Armitage 12)?
+
+Para una discusión más profunda sobre la posición única de quien traduce entre emisor y receptores de comunicación, consulta el texto sobre el que hablamos en nuestras actividades introductorias en semana 1: ["The Hidden Life of Translators"](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad1/semana1/referencias/Fraser-TitchenBeeth_HiddenLifeOfTranslators_2001.pdf) de Bill Fraser y Helen Titchen Beeth. En semana 1, nos preguntamos: ¿De dónde viene y qué ideología transmite la idea de que las y los traductores son canales transparentes de las y los autores que traducen?
+
+---
+
 ## Traducción Literaria en la Era de la IAG
 
 La inteligencia artificial generativa está transformando rápidamente el panorama de la traducción literaria, contribuyendo a debates intensos sobre calidad, autenticidad y el futuro de la profesión.
@@ -122,14 +138,6 @@ Como traductoras y traductores literarios en formación, es esencial que compren
 - **Preguntas éticas**: ¿Cómo afecta el uso de IAG los derechos de autor? ¿Qué responsabilidad tienen quienes traducen hacia la calidad cuando usan IAG como herramienta?
 
 La traducción literaria requiere no solo competencia lingüística sino también sensibilidad cultural, creatividad literaria y profundo conocimiento del contexto histórico y social tanto del texto origen como del público meta. Estas capacidades humanas siguen siendo irreemplazables. La cuestión para quienes ejercen la profesión es cómo (y si desean) contribuir al desarrollo de sistemas basados en la IAG para que puedan replicar esta sensibilidad humana al traducir, considerando que las ventanas de contexto y los corpus de entrenamiento continúan expandiéndose.
-
----
-
-## Referencias
-
-Bolduc, Michelle. "Translation Theory in History (I)." *Trnsltn/COMPLIT 820: Translation Theory*, Universidad de Wisconsin-Milwaukee, otoño 2012. Conferencia del curso.
-
-Terando, Lorena. "Literary Translation." *Trnsltn/MALLT 709: Seminar: Literary & Cultural Translation*, Universidad de Wisconsin-Milwaukee, primavera 2013. Conferencia del curso.
 
 ---
 
