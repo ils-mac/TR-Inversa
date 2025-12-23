@@ -1,0 +1,24 @@
+// Green color scheme for TR35 Business English
+
+// Sidebar background - light green
+$sidebar-color: #e8f5e9;  // Very light green, adjust as needed
+
+// Link colors - dark green
+$link-color: #2e7d32;  // Dark green for links
+$link-hover-color: #1b5e20;  // Even darker on hover
+
+// Apply to Just the Docs variables
+$nav-list-link-color: $link-color;
+$nav-list-link-color-hover: $link-hover-color;
+$nav-list-link-color-active: $link-hover-color;
+
+// Body link colors
+$body-text-color: #424242;  // Keep default text color
+$body-link-color: $link-color;
+$body-link-hover-color: $link-hover-color;
+
+// Search results
+$search-result-preview-color: $body-text-color;
+
+// Buttons (optional - keeps them green themed)
+$btn-primary-color: $link-color;
