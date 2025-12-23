@@ -50,7 +50,7 @@ Al finalizar esta unidad, podrás:
 ### [Semana 4: Traducción Técnica, IAG y MQM](semana4/semana4-intro.md)
 Fundamentos de traducción técnica, campo de dominio de IAG, y el marco MQM
 
-### [Semana 5: Contraste Gramatical, Corpus y Terminologíal](semana5/semana5-intro.md)  
+### [Semana 5: Corpus y Terminología, Contraste Gramatical](semana5/semana5-intro.md)  
 Corpus bilingüe sobre IAG, terminología especializada, elementos gramaticales español-inglés en textos técnicos, primer evaluación parcial
 
 ### [Semana 6: Introducción a Lilt y Traducción Híbrida](semana6/semana6-intro.md)

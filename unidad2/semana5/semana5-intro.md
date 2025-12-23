@@ -6,7 +6,7 @@ nav_order: 2
 has_children: true
 ---
 
-# Semana 5: Contraste Gramatical, Corpus y Terminología (EVALUACIÓN PARCIAL)
+# Semana 5: Corpus y Terminología, Contraste Gramatical (EVALUACIÓN PARCIAL)
 
 ## Resumen
 

@@ -125,4 +125,4 @@ Copia el contenido descargado y prueba estos prompts:
 
 ---
 
-**¡Semana 4 Completa!** La próxima semana exploraremos: [Contraste Gramatical, Corpus y Terminología](../semana5/semana5-intro.md)
+**¡Semana 4 Completa!** La próxima semana exploraremos: [Corpus y Terminología, Contraste Gramatical](../semana5/semana5-intro.md)

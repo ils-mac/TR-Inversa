@@ -152,4 +152,4 @@ Copia el contenido descargado y prueba estos prompts:
 
 ---
 
-**Siguiente:** [Tarea: Traducción Híbrida con Lilt](./tarea-traduccion-hibrida-con-lilt.md)
+**Siguiente:** [Proyecto 5 – Contraste con la Traducción Híbrida](proyecto5-TradHíbrida-Tec.md)

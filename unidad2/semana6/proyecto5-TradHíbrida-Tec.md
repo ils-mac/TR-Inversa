@@ -1,16 +1,16 @@
 ---
 layout: default
-title: Tarea - Traducción Híbrida con Lilt
+title: Proyecto 5 – Contraste con la Traducción Híbrida
 parent: Semana 6
 grand_parent: Unidad 2
 nav_order: 4
 ---
 
-# Tarea: Traducción Híbrida con Lilt
+# Proyecto 5 – Contraste con la Traducción Híbrida
 
 ## Objetivo de la Tarea
 
-En esta actividad aplicarás los conocimientos adquiridos sobre traducción híbrida humano-IAG para completar la traducción del [texto sobre ética en IA](../semana5/texto4-etica-en-la-ia.md) utilizando Lilt. Realizarás un análisis contrastivo entre tu traducción humana de la semana pasada y las traducciones automáticas generadas por el modelo de Lilt.
+En esta actividad aplicarás los conocimientos adquiridos sobre traducción híbrida humano-IAG para completar la traducción del [texto sobre ética en IA](../semana5/GuIA.ai-ética.md) utilizando Lilt. Realizarás un análisis contrastivo entre tu traducción humana de la semana pasada y las traducciones automáticas generadas por el modelo de Lilt.
 
 **Proyecto asignado**: Continuarás trabajando con el mismo proyecto de Lilt que utilizaste en la [Exploración de la Interfaz de Traducción](./lilt-trad-ui.md).
 
@@ -114,7 +114,7 @@ Esta experiencia te proporciona perspectiva directa sobre:
 ---
 
 ## 📥 Descarga este Contenido
-Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad2/semana6/tarea-traduccion-hibrida-con-lilt.md) y descárgalo.
+Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad2/semana6/proyecto5-TradHíbrida-Tec.md) y descárgalo.
 
 ### 🤖 Prompts de Estudio con IAG
 Copia el contenido descargado y prueba estos prompts:

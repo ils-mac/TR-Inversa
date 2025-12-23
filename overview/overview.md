@@ -34,7 +34,7 @@ El curso se divide en **cinco unidades** que cubren la traducción de textos gen
 ### Unidad 2: Traducción de Textos Técnicos
 **Semanas 4-6**
 - Semana 4: Traducción Técnica, IAG y MQM
-- Semana 5: Contraste Gramatical, Corpus y Terminología (PRIMERA EVALUACIÓN PARCIAL)
+- Semana 5: Corpus y Terminología, Contraste Gramatical (PRIMERA EVALUACIÓN PARCIAL)
 - Semana 6: Introducción a Lilt y Traducción Híbrida
 
 ### Unidad 3: Traducción de Textos Científicos
