@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Proyecto de Traducción - Texto 1
+title: Proyecto 1 – Instituto Nacional de Migración 
 parent: Semana 1
 grand_parent: Unidad 1
 nav_order: 3

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Proyecto Texto 2 - Documento Personal
+title: Proyecto 2 - Documento Personal
 parent: Semana 3
 grand_parent: Unidad 1
 nav_order: 3
