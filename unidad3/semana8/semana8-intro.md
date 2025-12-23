@@ -23,7 +23,7 @@ Esta semana continuamos con sus proyectos de traducción colaborativos. Comparti
 - Lilt: La navegación más avanzada
 
 ## Tareas Asignadas y Evaluaciones
-- **Proyecto 6 - Traducción Científica Colaborativa: Entrega** (3 puntos)
+- **Proyecto 6 - Traducción Científica Flujo Colaborativo: Entrega Final** (3 puntos)
   - **Fecha de entrega**: Fin de la semana
 - **Asistencia y participación** (2 puntos)
 

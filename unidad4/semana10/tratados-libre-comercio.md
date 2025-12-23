@@ -254,4 +254,4 @@ Copia el contenido descargado y prueba estos prompts:
 
 ---
 
-**Próxima actividad**: [Proyecto 7: Conferencia de la Presidenta Sheinbaum sobre los aranceles](proyecto-texto7.md)
+**Próxima actividad**: [Proyecto 8 - Traducción Colaborativa Consistente de un Discurso Político](proyecto8-TradMexUS-ColabConsistencia.md)

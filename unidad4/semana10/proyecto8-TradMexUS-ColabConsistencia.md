@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Proyecto Texto 7 - Traducción de Conferencia Política
+title: Proyecto 8 - Traducción Colaborativa de Discurso Político
 parent: Semana 10
 grand_parent: Unidad 4
 nav_order: 3
 ---
 
-# Proyecto Texto 7: Traducción de Discurso Político - Conferencia de Presidenta Sheinbaum sobre Aranceles
+# Proyecto 8 - Traducción Colaborativa Consistente de un Discurso Político
 
 **Puntos:** 3
 
@@ -40,7 +40,7 @@ El texto fuente es una transcripción de discurso oral de una jefa de estado. Su
 
 ## El texto a traducir
 
-**[Texto 7: Conferencia de Prensa - Presidente Sheinbaum sobre Aranceles](./texto7-conferencia-sheinbaum-aranceles.md)**
+**[Texto 7: Conferencia de Prensa - Presidente Sheinbaum sobre Aranceles](sheinbaum-discurso-aranceles.md)**
 
 **Nota:** Pueden ver el texto completo con que van a trabajar en esta página, pero se les asignará una sección específica para traducir en Lilt. Este texto es una selección del discurso en completo.
 
@@ -136,7 +136,7 @@ Después de evaluar los errores individuales en la traducción, tu texto recibir
 ---
 
 ## 📥 Descarga este Contenido
-Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad4/semana10/proyecto-texto7.md) y descárgalo.
+Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad4/semana10/proyecto8-TradMexUS-ColabConsistencia.md) y descárgalo.
 
 ### 🤖 Prompts de Estudio con IAG
 Copia el contenido descargado y prueba estos prompts:

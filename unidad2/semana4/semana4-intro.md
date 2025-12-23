@@ -22,7 +22,7 @@ Esta semana nos introducimos al mundo de la traducción técnica, enfocándonos 
 - Presentación del Proyecto 3 – Traducción Técnica IAG + Glosario
 
 ## Tareas Asignadas y Evaluaciones
-- **Proyecto 3 – Traducción Técnica + Glosario** (3 puntos)
+- **Proyecto 3 – Traducción Técnica IAG y Glosario** (3 puntos)
   - **Fecha de entrega**: Fin de la semana
 - **Asistencia y participación** (2 puntos)
 

@@ -172,4 +172,4 @@ Copia el contenido descargado y prueba estos prompts:
 
 ---
 
-**Siguiente:** [Proyecto - Texto 9](./proyecto-texto9.md)
+**Siguiente:** [Proyecto 10 - Anotación y Posedición Colaborativa T-MEC](proyecto10-AnotPosedMexUS-Colab.md)

@@ -58,4 +58,4 @@ Copia el contenido descargado y prueba estos prompts:
 
 ---
 
-**Siguiente:** [Proyecto Texto 8: Traducción de Publicaciones Oficiales y Noticieras](./proyecto-texto8.md)
+**Siguiente:** [Proyecto 9 - Traducción Colaborativa Consistente de Trámites Gubernamentales (EVAL PARCIAL 2)](proyecto9-TradMexUS-ColabConsistencia-Evalparcial.md)

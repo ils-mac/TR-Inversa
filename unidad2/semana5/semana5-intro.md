@@ -25,7 +25,7 @@ Esta semana profundizamos en las diferencias gramaticales entre español e ingl�
 - Evaluación parcial 1: Presentación del Texto 4: IAG y los requisitos - especificaciones, glosario, y protocolo de traducción
 
 ## Tareas Asignadas y Evaluaciones
-- **Proyecto 4 - Traducción Técnica IAG + Glosario (PRIMERA EVALUACIÓN PARCIAL)** (10 puntos)
+- **Proyecto 4 - Traducción Técnica IAG + Glosario (EVAL PARCIAL 1)** (10 puntos)
   - **Fecha de entrega**: Fin de la semana
 - **Asistencia y participación** (2 puntos)
 

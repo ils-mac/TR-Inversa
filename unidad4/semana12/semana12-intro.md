@@ -22,7 +22,7 @@ Esta semana nos enfocamos en las técnicas de posedición de traducción automá
 - Presentación del Proyecto 10 - Anotación y Posedición Colaborativa
 
 ## Tareas Asignadas y Evaluaciones
-- **Proyecto 10 - Anotación y Posedición Colaborativa** (3 puntos)
+- **Proyecto 10 - Anotación y Posedición Colaborativa T-MEC** (3 puntos)
   - **Fecha de entrega**: Fin de la semana
 - **Asistencia y participación** (2 puntos)
 

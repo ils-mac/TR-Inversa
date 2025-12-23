@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Texto 7 - Conferencia Presidenta Sheinbaum sobre Aranceles
+title: Presidenta Sheinbaum sobre Aranceles
 parent: Semana 10
 grand_parent: Unidad 4
 nav_order: 4
 ---
 
-# Pausa en aranceles tras acuerdos con Estados Unidos: Conferencia de la Presidenta Sheinbaum
+# Discurso de la Presidenta Sheinbaum: Pausa en aranceles tras acuerdos con Estados Unidos
 
 ## Declaración Inicial
 

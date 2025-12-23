@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Proyecto Texto 8 - Ingreso de Militares de EUA a México (Segunda evaluación parcial)
+title: Proyecto 9 - Traducción Colaborativa de Trámites Gubernamentales (EVAL PARCIAL 2)
 parent: Semana 11
 grand_parent: Unidad 4
 nav_order: 3
 ---
 
-# Proyecto Texto 8: Traducción de Publicaciones Oficiales y Noticieras - Ingreso de Militares de EUA a México (Segunda evaluación parcial)
+# Proyecto 9 - Traducción Colaborativa Consistente de Trámites Gubernamentales (EVAL PARCIAL 2)
 
 **Puntos:** 10
 
@@ -20,7 +20,7 @@ Trabajando en el mismo equipo de la semana pasada, traducirán documentos oficia
 
 ### El texto a traducir
 
-**[Texto 8: Ingreso de Militares de EUA a México](./texto8-ingreso-de-militares-de-EUA-a-México.md)**
+**[Texto 8: Ingreso de Militares de EUA a México](ingreso-de-militares-de-EUA-a-México.md)**
 
 El proyecto completo incluye cuatro documentos:
 1. **Carta** - Comunicado oficial de la Presidencia (~550 palabras)
@@ -175,7 +175,7 @@ Después de evaluar los errores individuales en la traducción, sus textos recib
 ---
 
 ## 📥 Descarga este Contenido
-Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad4/semana11/proyecto-texto8.md) y descárgalo.
+Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad4/semana11/proyecto9-TradMexUS-ColabConsistencia-Evalparcial.md) y descárgalo.
 
 ### 🤖 Prompts de Estudio con IAG
 Copia el contenido descargado y prueba estos prompts:

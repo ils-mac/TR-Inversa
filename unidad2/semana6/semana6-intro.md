@@ -21,7 +21,7 @@ Esta semana exploramos el futuro de la traducción profesional a través de Lilt
 - Presentación del Proyecto 5 – Contraste entre Traducción Libre y Traducción Híbrida
 
 ## Tareas Asignadas y Evaluaciones
-- **Proyecto 5 – Contraste entre Traducción Libre y Traducción Híbrida** (3 puntos)
+- **Proyecto 5 – Contraste con la Traducción Híbrida** (3 puntos)
   - **Fecha de entrega**: Fin de la semana
 - **Asistencia y participación** (2 puntos)
 

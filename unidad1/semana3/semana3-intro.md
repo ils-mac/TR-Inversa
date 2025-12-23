@@ -22,7 +22,7 @@ Esta semana nos enfocamos en la traducción de documentos personales para proces
 - Presentación del Proyecto 2 – Documento Personal
 
 ## Tareas Asignadas y Evaluaciones
-- **Proyecto 2 – Documento Personal** (3 puntos)
+- **Proyecto 2 – Traducción de Documento Personal** (3 puntos)
   - **Fecha de entrega**: Fin de la semana
 - **Asistencia y participación** (2 puntos)
 

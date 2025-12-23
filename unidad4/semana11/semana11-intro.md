@@ -22,7 +22,7 @@ Esta semana exploramos la teoría narrativa de Mona Baker y la equivalencia prag
 - Presentación del Proyecto 9 - Traducción Colaborativa: Relaciones Internacionales 
 
 ## Tareas Asignadas y Evaluaciones
-- **Proyecto 9 - Traducción Colaborativa: Relaciones Internacionales (SEGUNDA EVALUACIÓN PARCIAL)** (10 puntos)
+- **Proyecto 9 - Traducción Colaborativa de Trámites Gubernamentales (EVAL PARCIAL 2)** (10 puntos)
   - **Fecha de entrega**: Fin de la semana
 - **Asistencia y participación** (2 puntos)
 

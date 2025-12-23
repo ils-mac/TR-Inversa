@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Proyecto Texto 9 - Evaluación y Posedición del Monitor Comercial T-MEC
+title: Proyecto 10 - Anotación y Posedición Colaborativa T-MEC
 parent: Semana 12
 grand_parent: Unidad 4
 nav_order: 3
 ---
 
-# Proyecto Texto 9: Evaluación y Posedición del Monitor Comercial T-MEC
+# Proyecto 10 - Anotación y Posedición Colaborativa T-MEC
 
 **Puntos:** 3
 
@@ -216,7 +216,7 @@ La calidad de los comentarios de evaluación determinará en gran medida qué ta
 ---
 
 ## 📥 Descarga este Contenido
-Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad4/semana12/proyecto-texto9.md) y descárgalo.
+Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad4/semana12/proyecto10-AnotPosedMexUS-Colab.md) y descárgalo.
 
 ### 🤖 Prompts de Estudio con IAG
 Copia el contenido descargado y prueba estos prompts:

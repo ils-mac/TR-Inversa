@@ -22,7 +22,7 @@ Esta semana nos enfocamos en la traducción de textos científicos, específicam
 - Presentación del Proyecto 6 - Traducción Científica Colaborativa (proyecto de dos semanas)
 
 ## Tareas Asignadas y Evaluaciones
-- **Proyecto 6 - Traducción Científica Colaborativa: Reporte de seguimiento** (3 puntos)
+- **Proyecto 6 - Traducción Científica Flujo Colaborativo: Reporte de seguimiento** (3 puntos)
   - **Fecha de entrega**: Fin de la semana
 - **Asistencia y participación** (2 puntos)
 

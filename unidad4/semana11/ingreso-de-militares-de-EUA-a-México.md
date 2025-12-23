@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Texto 8 - Ingreso de Militares de EUA a México
+title: Ingreso de Militares de EUA a México
 parent: Semana 11
 grand_parent: Unidad 4
 nav_order: 4
 ---
 
-# Texto 8 - Ingreso de Militares de EUA a México
----
+# Ingreso de Militares de EUA a México
+
 ## Documento 1 - Carta
 
 [SELLO: ESTADOS UNIDOS MEXICANOS - PRESIDENCIA DE LA REPÚBLICA]

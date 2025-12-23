@@ -22,7 +22,7 @@ Esta semana nos enfocamos en la traducción de textos especializados del ámbito
 - Presentación del Proyecto 8 - Traducción Colaborativa: Relaciones Internacionales
 
 ## Tareas Asignadas y Evaluaciones
-- **Proyecto 8 - Traducción Colaborativa: Relaciones Internacionales** (3 puntos)
+- **Proyecto 8 - Traducción Colaborativa Consistente de un Discurso Político** (3 puntos)
   - **Fecha de entrega**: Fin de la semana
 - **Asistencia y participación** (2 puntos)
 
