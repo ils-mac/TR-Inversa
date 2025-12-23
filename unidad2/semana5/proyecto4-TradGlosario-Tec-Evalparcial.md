@@ -20,7 +20,7 @@ Trabajando en el grupo asignado, traducirán un texto técnico sobre ética en e
 
 ### El texto a traducir
 
-**[Texto 4: El papel de la ética en el desarrollo de sistemas de IA](GuIA.ai-ética.md)**
+**[GuIA.ai - El papel de la ética en el sector emprendedor en América Latina](GuIA.ai-ética.md)**
 
 ### Recursos de apoyo
 - **Guía teórica:** [Traducción Técnica e IAG](../semana4/traduccion-tecnica.md)
