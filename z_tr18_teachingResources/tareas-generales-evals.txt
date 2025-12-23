@@ -1,0 +1,51 @@
+
+
+
+
+
+## File, Navigational and Page Names
+
+file name
+menu title
+page title
+
+proyecto1-INM
+Proyecto 1 – Instituto Nacional de Migración
+proyecto2-DocPersonal
+Proyecto 2 - Documento Personal
+Proyecto 2 – Traducción de Documento Personal
+
+proyecto3-TradGlosario-Tec
+Proyecto 3 – Traducción Técnica IAG y Glosario
+proyecto4-TradGlosario-Tec-Evalparcial
+Proyecto 4 - Traducción Técnica IAG + Glosario (EVAL PARCIAL 1)
+proyecto4-TradHíbrida-Tec
+Proyecto 4 – Contraste con la Traducción Híbrida
+
+proyecto5-TradClima-ColabFlujo-Seguimiento
+Proyecto 5 - Traducción Científica Flujo Colaborativo - Seguimiento
+Proyecto 5 - Traducción Científica Flujo Colaborativo: Reporte de seguimiento
+proyecto5-TradClima-ColabFlujo-Entrega
+Proyecto 5 - Traducción Científica Flujo Colaborativo - Entrega
+Proyecto 5 - Traducción Científica Flujo Colaborativo: Entrega Final
+proyecto6-AnotaciónCONANP
+Proyecto 6 – Anotación CONANP
+
+proyecto7-TradMexUS-ColabConsistencia
+Proyecto 7 - Traducción Colaborativa de Discurso Político
+Proyecto 7 - Traducción Colaborativa Consistente de un Discurso Político
+proyecto8-TradMexUS-ColabConsistencia-Evalparcial
+Proyecto 8 - Traducción Colaborativa de Trámites Gubernamentales (EVAL PARCIAL 2)
+Proyecto 8 - Traducción Colaborativa Consistente de Trámites Gubernamentales (EVAL PARCIAL 2)
+proyecto9-AnotPosedMexUS-Colab
+Proyecto 9 - Anotación y Posedición Colaborativa T-MEC
+
+proyecto10-TradLit-Selección
+Proyecto 10 Traducción Lit - Selección del Texto Fuente
+Proyecto 10 - Traducción Literaria: Selección del Texto Fuente
+proyecto10-TradLit-Traducción
+Proyecto 10 Traducción Lit - Traducción
+Proyecto 10 - Traducción Literaria: Traducción Anotada
+proyecto10-TradLit-Evaluaciones-Evalparcial
+Proyecto 10 Traducción Lit - Evaluaciones (EVAL PARCIAL 3)
+Proyecto 10 - Traducción Literaria: Evaluaciones de los Proyectos de Compañeras y Compañeros (EVAL PARCIAL 3)

@@ -1,0 +1,20 @@
+# Proyecto Final
+
+**Instrucciones:** https://alainamb.github.io/uic_tr18-trad-inversa-es-en/proyecto-final/proyecto-final-intro.html
+
+## Nota
+- Checkpoint 1 __/1 punto
+- Checkpoint 2 __/1 punto
+- Checkpoint 3 __/1 punto
+- Checkpoint 4 __/1 punto
+- Checkpoint 5 __/5 puntos
+- Entrega Final __/1 punto
+- __/10 puntos
+
+## Hitos de Desarrollo Recomendados
+- Checkpoint 1: Selección de Texto - Semana 7 
+- Checkpoint 2: Especificaciones - Semana 9
+- Checkpoint 3: Corpus - Semana 12
+- Checkpoint 4: Glosario - Semana 14
+- Checkpoint 5: Traducción - Semana 16
+- Entrega Final - Semana 17

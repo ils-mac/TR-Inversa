@@ -19,7 +19,7 @@ El proyecto final se evalúa a través de **cinco checkpoints** y **una entrega 
 | 3 | Corpus | 1 | Adecuado y útil no |
 | 4 | Glosario | 1 | Completo y con alta correspondencia o no |
 | 5 | Traducción + Observaciones | 5 | Efectiva o no; Completa |
-| | Entrega final | 1 | Completa y refinada o no |
+| Final | Entrega final | 1 | Completa y refinada o no |
 | **Total** | | **10 puntos** | |
 
 ## Criterios Detallados de Evaluación

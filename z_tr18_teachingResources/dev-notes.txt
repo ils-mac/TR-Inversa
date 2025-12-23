@@ -1,0 +1,28 @@
+Course Development Task List
+
+Write page: Ethics Lecture
+
+Assignments
+- Change file names to match current project numbering
+- Standardize delivery naming conventions
+- Add project highlights to intro
+- **Descarga el archivo en formato Markdown** - Assure links are set up to work
+
+Throughout the course contents:
+pos-edición / posedición are used
+
+Before the semester:
+- Create Teams space
+
+Around the start of the semester: 
+- How to Use Your Evaluations page
+- Titles: Cómo Ver las Evaluaciones de Tus Traducciones en Markdown | Cómo Ver Tus Evaluaciones
+- Complementary GitHub Site
+
+During the course of the semester:
+- Review/improve unit pages
+  - Intro X5
+  - Conclusions X6
+- Exercise pages reviewed/improved
+- Collect the following content on GitHub:
+  - Start of Week Announcements

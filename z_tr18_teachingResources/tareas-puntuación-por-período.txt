@@ -108,21 +108,7 @@ Notas de 0.X5 y arriba se redondea al número siguiente. Por ejemplo:
 - M: __/4 puntos ; V: __/2 punto
 
 ### Proyecto Final
-- Checkpoint 1 __/1 punto
-- Checkpoint 2 __/1 punto
-- Checkpoint 3 __/1 punto
-- Checkpoint 4 __/1 punto
-- Checkpoint 5 __/5 puntos
-- Entrega Final __/1 punto
 - __/10 puntos
-
-**Goles recomendadas para el Proyecto**
-- Checkpoint 1 - Semana 
-- Checkpoint 2 __/1 punto
-- Checkpoint 3 __/1 punto
-- Checkpoint 4 __/1 punto
-- Checkpoint 5 __/5 puntos
-- Entrega Final __/1 punto
 
 ### Nota
 M: __/14 puntos ; V: __/12 puntos
