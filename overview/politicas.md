@@ -7,7 +7,7 @@ nav_order: 3
 
 # Políticas del Curso
 
-TR18 es un curso de 4 meses diseñado para desarrollar las habilidades de quienes traducen desde español de México hasta inglés de los Estados Unidos. Semana a semana, trabajarás con cinco campos temáticos, 12 textos diferentes, produciendo varias tareas relacionadas con la traducción. A lo largo del semestre, presentarás tres exámenes parciales. Concluirás el curso con un proyecto de traducción profesional a tu elección.
+TR18 es un curso de 4 meses diseñado para desarrollar las habilidades de quienes traducen desde español de México hasta inglés de los Estados Unidos. Semana a semana, trabajarás dentro de cinco campos temáticos, completando 12 proyectos diferentes, produciendo varias tareas relacionadas con la traducción. A lo largo del semestre, presentarás tres exámenes parciales. Concluirás el curso con un proyecto de traducción profesional a tu elección.
 
 ## Componentes Semanales
 El contenido de cada semana comienza con una descripción general (resumen) de lo que enfocaremos durante la semana. Los contenidos semanales típicamente incluyen una introducción más detallada al tema, ejercicios diseñados para ayudarte a interiorizar competencias y habilidades clave, y una tarea que te permite practicar lo que has aprendido.
