@@ -135,9 +135,3 @@ Copia el contenido descargado y prueba estos prompts:
 ---
 
 **¿Listas y listos para el primero desafío?** Comienza con la [Unidad 1: Traducción Inversa y Textos Generales](../unidad1/unidad1-intro.md) para iniciar tu viaje en la traducción profesional inversa español-inglés.
-
----
-
-*Nota importante: Esta bibliografía está sujeta a cambios.*
-
-
