@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Traducción Técnica IAG y Glosario
+title: Proyecto 3 – Traducción Técnica IAG y Glosario
 parent: Semana 4
 grand_parent: Unidad 2
 nav_order: 3
