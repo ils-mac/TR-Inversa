@@ -76,4 +76,4 @@ Todo el contenido del curso está escrito en [**formato Markdown**](https://docs
 ---
 
 ### 🚀 ¿Listas y listos para aprender más sobre el curso?
-Revisa la [Descripción General del Curso](overview/overview.md) incluyendo políticas y detalles del proyecto, o comienza directamente con la [Unidad 1: Traducción Inversa y Textos Generales](unidad1/unidad1-intro.md).
+Revisa la [Descripción General del Curso](overview/overview.md) incluyendo políticas y detalles del proyecto final, o comienza directamente con la [Unidad 1: Traducción Inversa y Textos Generales](unidad1/unidad1-intro.md).
