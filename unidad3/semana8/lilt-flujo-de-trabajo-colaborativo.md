@@ -129,4 +129,4 @@ Copia el contenido descargado y prueba estos prompts:
 
 ---
 
-**Siguiente:** [Proyecto 6 - Traducción Científica Colaborativa: Entrega](proyecto6-TraducciónColaborativa-Entrega.md)
+**Siguiente:** [Proyecto 6 - Traducción Científica Flujo Colaborativo: Entrega Final](proyecto6-TradClima-ColabFlujo-Entrega.md)

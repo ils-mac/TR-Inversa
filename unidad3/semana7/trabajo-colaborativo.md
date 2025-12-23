@@ -228,4 +228,4 @@ Copia el contenido descargado y prueba estos prompts:
 
 --- 
 
-**Siguiente:** [Proyecto 6 - Traducción Científica Colaborativa: Reporte de seguimiento](proyecto6-TraducciónColaborativa-Seguimiento.md)
+**Siguiente:** [Proyecto 6 - Traducción Científica Flujo Colaborativo: Reporte de seguimiento](proyecto6-TradClima-ColabFlujo-Seguimiento.md)

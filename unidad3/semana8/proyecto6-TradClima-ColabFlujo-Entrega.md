@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Proyecto 6 - Entrega de Traducción Científica Colaborativa
+title: Proyecto 6 - Traducción Científica Flujo Colaborativo - Entrega
 parent: Semana 8
 grand_parent: Unidad 3
 nav_order: 4
 ---
 
-# Proyecto 6 - Traducción Científica Colaborativa: Entrega Final
+# Proyecto 6 - Traducción Científica Flujo Colaborativo: Entrega Final
 
 **Puntos:** 3
 
@@ -235,7 +235,7 @@ Respondan a las siguientes preguntas:
 ---
 
 ## 📥 Descarga este Contenido
-Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad3/semana8/proyecto6-TraducciónColaborativa-Entrega.md) y descárgalo.
+Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad3/semana8/proyecto6-TradClima-ColabFlujo-Entrega.md) y descárgalo.
 
 ### 🤖 Prompts de Estudio con IAG
 Copia el contenido descargado y prueba estos prompts:

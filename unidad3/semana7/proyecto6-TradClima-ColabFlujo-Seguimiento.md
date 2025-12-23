@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Proyecto 6 - Traducción Científica Colaborativa - Reporte de seguimiento 
+title: Proyecto 6 - Traducción Científica Flujo Colaborativo - Seguimiento 
 parent: Semana 7
 grand_parent: Unidad 3
 nav_order: 3
 ---
 
-# Proyecto 6 - Traducción Científica Colaborativa: Reporte de seguimiento 
+# Proyecto 6 - Traducción Científica Flujo Colaborativo: Reporte de seguimiento 
 
 **Puntos:** 3
 
@@ -14,11 +14,12 @@ nav_order: 3
 
 ## Descripción del proyecto
 
-Esta semana comenzarán su proyecto de traducción científica colaborativa que continuará la próxima semana. El proyecto completo simula flujos de trabajo profesionales donde diferentes especialistas asumen roles específicos (terminología, traducción, edición, corrección de estilo).
+Esta semana comenzarán su proyecto de traducción científica colaborativa que continuará la próxima semana. Junto con un equipo, seguirán un flujo de trabajo de traducción típico para traducir el contenido ["Manglares frente al cambio climático: ¿tropicalización global del Golfo de México?"](manglares-frente-al-cambio-climatico.md). El proyecto completo simula flujos de trabajo profesionales donde diferentes especialistas asumen roles específicos (terminología, traducción, edición, corrección de estilo). Trabajarán usando Lilt para este proyecto.
 
-**Esta semana (Semana 7)** se enfoca en iniciar el trabajo y documentar el progreso. **La próxima semana (Semana 8)** completarán el proyecto y entregarán la traducción final.
+- **Esta semana (Semana 7)** se enfoca en iniciar el trabajo y documentar el progreso. 
+- **La próxima semana (Semana 8)** completarán el proyecto y entregarán la traducción final.
 
-Pueden consultar la descripción completa del proyecto, incluyendo todos los roles, el flujo de trabajo en Lilt, y los criterios de evaluación final en: [Proyecto 6 - Entrega Final](../semana8/proyecto6-TraducciónColaborativa-Entrega.md)
+Pueden consultar la descripción completa del proyecto, incluyendo todos los roles, el flujo de trabajo en Lilt, y los criterios de evaluación final en: [Proyecto 6 - Entrega Final](../semana8/proyecto6-TradClima-ColabFlujo-Entrega.md)
 
 ## Entregables para esta semana
 
@@ -63,7 +64,9 @@ Documenten las horas trabajadas por cada integrante en cada fase:
 | Traducción | [Nombre] | [Horas] |
 | Edición | [Nombre] | [Horas] |
 | Gestión de proyecto | [Nombre] | [Horas] |
-
+**Total de horas del Team Member 1:**  
+**Total de horas del Team Member 2:**  
+**Total de horas del Team Member 3:**  
 **Total de horas invertidas hasta ahora:** [Suma total]
 
 #### Problemas o bloqueos
@@ -157,7 +160,7 @@ La próxima semana discutiremos las consultas documentadas en clase antes de que
 ---
 
 ## 📥 Descarga este Contenido
-Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad3/semana7/proyecto6-TraducciónColaborativa-Seguimiento.md) y descárgalo.
+Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad3/semana7/proyecto6-TradClima-ColabFlujo-Seguimiento) y descárgalo.
 
 ### 🤖 Prompts de Estudio con IAG
 Copia el contenido descargado y prueba estos prompts:
