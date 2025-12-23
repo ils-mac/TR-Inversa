@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Proyecto de Evaluación CONANP
+title: Proyecto 7 – Anotación CONANP
 parent: Semana 9
 grand_parent: Unidad 3
 nav_order: 4
 ---
 
-# Proyecto de Evaluación: Logros - Proyecto Resiliencia (CONANP)
+# Proyecto 7 - Anotación CONANP
 
 **Puntos:** 3
 
@@ -236,7 +236,7 @@ Las habilidades que desarrollaste—identificar errores sistemáticamente, categ
 
 ## 📥 Descarga este Contenido
 
-Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad3/semana9/proyecto-evaluacion-conanp.md) y descárgalo.
+Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad3/semana9/proyecto7-AnotaciónCONANP.md) y descárgalo.
 
 ### 🤖 Prompts de Estudio con IAG
 Copia el contenido descargado y prueba estos prompts:

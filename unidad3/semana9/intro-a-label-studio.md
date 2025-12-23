@@ -185,4 +185,4 @@ Copia el contenido descargado y prueba estos prompts:
 
 ---
 
-**Siguiente:** [Contexto para el Proyecto de Evaluación](./texto6-contexto.md)
+**Siguiente:** [Proyecto de Anotación - Contexto CONANP](./contexto-CONANP.md)

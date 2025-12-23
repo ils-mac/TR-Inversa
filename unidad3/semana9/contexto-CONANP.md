@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Texto 6 - Contexto del Proyecto
+title: Proyecto de Anotación - Contexto CONANP
 parent: Semana 9
 grand_parent: Unidad 3
 nav_order: 3
 ---
 
-# Texto 6: Contexto del Proyecto de Evaluación
+# Proyecto de Anotación - Contexto CONANP
 
 Esta semana evaluarán la traducción de una selección del informe _Logros - Proyecto Resiliencia_ patrocinado por CONANP. Esta página proporciona el contexto necesario para comprender el proyecto que evaluarán y desarrollar especificaciones apropiadas.
 
@@ -235,7 +235,7 @@ Antes de su evaluación, reflexionen sobre:
 ---
 
 ## 📥 Descarga este Contenido
-Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad3/semana9/texto6-contexto.md) y descárgalo.
+Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad3/semana9/contexto-CONANP.md) y descárgalo.
 
 ### 🤖 Prompts de Estudio con IAG
 Copia el contenido descargado y prueba estos prompts:
@@ -248,4 +248,4 @@ Copia el contenido descargado y prueba estos prompts:
 
 ---
 
-**Siguiente:** [Proyecto de Evaluación en Label Studio](./proyecto-texto6.md)
+**Siguiente:** [Proyecto 7 - Anotación CONANP](proyecto7-AnotaciónCONANP.md)
