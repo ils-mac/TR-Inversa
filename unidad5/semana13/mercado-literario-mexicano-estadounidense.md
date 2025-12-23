@@ -83,4 +83,4 @@ Copia el contenido descargado y prueba estos prompts:
 
 ---
 
-**Siguiente:** [Proyecto de Traducción Literaria - Selección del Texto Fuente 10](./proyectoLiterario-selección-texto10.md)
+**Siguiente:** [Proyecto 11 - Traducción Literaria - Selección del Texto Fuente](proyecto11-TradLit-Selección.md)

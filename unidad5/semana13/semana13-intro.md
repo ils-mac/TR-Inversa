@@ -24,7 +24,7 @@ Esta semana nos enfocamos en la traducción de textos literarios mexicanos para 
 - Presentación del Proyecto 11 - Traducción Literaria - Selección del Texto Fuente + Justificación
 
 ## Tareas Asignadas y Evaluaciones
-- **Proyecto 11 - Traducción Literaria - Selección del Texto Fuente + Justificación** (3 puntos)
+- **Proyecto 11 - Traducción Literaria: Selección del Texto Fuente** (3 puntos)
   - **Fecha de entrega**: Fin de la semana
 - **Asistencia y participación** (2 puntos)
 

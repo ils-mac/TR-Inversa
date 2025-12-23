@@ -233,4 +233,4 @@ Copia el contenido descargado y prueba estos prompts:
 
 ---
 
-**Siguiente:** [Evaluación de Traducción Literaria ES→EN](./trad-lit-es-en_tarea-evaluación.md)
+**Siguiente:** [Proyecto 11 - Traducción Literaria: Evaluaciones de los Proyectos de Compañeras y Compañeros (EVAL PARCIAL 3)](proyecto11-TradLit-Evaluaciones-Evalparcial.md)

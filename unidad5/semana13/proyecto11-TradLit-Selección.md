@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Proyecto 10 - Selección del Texto Fuente
+title: Proyecto Traducción Lit - Selección del Texto Fuente
 parent: Semana 13
 grand_parent: Unidad 5
 nav_order: 4
 ---
 
-# Proyecto de Traducción Literaria - Selección del Texto Fuente 10
+# Proyecto 11 - Traducción Literaria: Selección del Texto Fuente 
 
 **Puntos:** 3
 
@@ -107,7 +107,7 @@ Selecciona un texto de una autora o autor que disfrutes, en un género que te in
 ---
 
 ## 📥 Descarga este Contenido
-Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad5/semana13/proyectoLiterario-selección-texto10.md) y descárgalo.
+Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad5/semana13/proyecto11-TradLit-Selección.md) y descárgalo.
 
 ### 🤖 Prompts de Estudio con IAG
 Copia el contenido descargado y prueba estos prompts:

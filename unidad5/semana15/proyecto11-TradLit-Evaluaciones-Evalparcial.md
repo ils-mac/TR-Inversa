@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Evaluación Parcial 3 - Evaluación de Traducciones Literarias
+title: Proyecto Traducción Lit - Evaluaciones (EVAL PARCIAL 3)
 parent: Semana 15
 grand_parent: Unidad 5
 nav_order: 4
 ---
 
-# Evaluación Parcial 3 - Evaluación de Traducciones Literarias de Compañeras y Compañeros
+# Proyecto 11 - Traducción Literaria: Evaluaciones de los Proyectos de Compañeras y Compañeros (EVAL PARCIAL 3)
 
 **Puntos:** 10
 
@@ -396,7 +396,7 @@ R: Sí, responde cada pregunta general por separado con al menos un párrafo com
 ---
 
 ## 📥 Descarga este Contenido
-Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad5/semana15/trad-lit-es-en_tarea-evaluación.md) y descárgalo.
+Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad5/semana15/proyecto11-TradLit-Evaluaciones-Evalparcial.md) y descárgalo.
 
 ### 🤖 Prompts de Estudio con IAG
 Copia el contenido descargado y prueba estos prompts:

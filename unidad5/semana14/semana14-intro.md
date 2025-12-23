@@ -23,7 +23,7 @@ Esta semana nos enfocamos en uno de los desafíos más distintivos de la traducc
 - Presentación del Proyecto 11 - Traducción Literaria Anotada
 
 ## Tareas Asignadas y Evaluaciones
-- **Proyecto 11 - Traducción Literaria Anotada** (3 puntos)
+- **Proyecto 11 - Traducción Literaria: Traducción Anotada** (3 puntos)
   - **Fecha de entrega**: Fin de la semana
 - **Asistencia y participación** (2 puntos)
 

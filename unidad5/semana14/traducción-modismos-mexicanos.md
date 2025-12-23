@@ -137,4 +137,4 @@ Copia el contenido descargado y prueba estos prompts:
 
 ---
 
-**Siguiente:** [Proyecto de Traducción Literaria - Traducción del Texto Fuente 10](./proyectoLiterario-traducción-texto10.md)
+**Siguiente:** [Proyecto 11 - Traducción Literaria: Traducción Anotada](proyecto11-TradLit-Traducción.md)

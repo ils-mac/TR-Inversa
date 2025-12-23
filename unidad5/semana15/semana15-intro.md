@@ -21,7 +21,7 @@ Esta semana nos enfocamos en los aspectos éticos de la traducción en general y
 - Presentación del Proyecto 11 - Traducción Literaria - Evaluaciones
 
 ## Tareas Asignadas y Evaluaciones
-- **Proyecto 11 - Traducción Literaria - Evaluaciones (TERCERA EVALUACIÓN PARCIAL)** (10 puntos)
+- **Proyecto 11 - Traducción Literaria: Evaluaciones de los Proyectos de Compañeras y Compañeros (EVAL PARCIAL 3)** (10 puntos)
   - **Fecha de entrega**: Fin de la semana
 - **Asistencia y participación** (2 puntos)
 

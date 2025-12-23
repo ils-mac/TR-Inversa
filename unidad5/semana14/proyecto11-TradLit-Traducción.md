@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Proyecto 10 - Traducción Literaria
+title: Proyecto Traducción Lit - Traducción
 parent: Semana 14
 grand_parent: Unidad 5
 nav_order: 3
 ---
 
-# Proyecto Literario - Traducción del Texto 10
+# Proyecto 11 - Traducción Literaria: Traducción Anotada
 
 **Puntos:** 3
 
@@ -137,7 +137,7 @@ Si decides usar herramientas de traducción automática o IAG:
 ---
 
 ## 📥 Descarga este Contenido
-Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad5/semana14/proyectoLiterario-traducción-texto10.md) y descárgalo.
+Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad5/semana14/proyecto11-TradLit-Traducción.md) y descárgalo.
 
 ### 🤖 Prompts de Estudio con IAG
 Copia el contenido descargado y prueba estos prompts:
