@@ -92,8 +92,8 @@ Después de ver la entrevista con el Dr. George Henson, considera las siguientes
 
 ---
 
-> Ve la entrevista (en inglés): [Dr. George Henson on Mexican Literary Translation from Spanish to English](https://youtu.be/uLjwy65B9Pw?si=GofOq38tqY8A873F)
-> También se recomienda repasar las "Production Notes" que acompañan el video en YouTube, notas que explican las referencias a las que el Dr. Henson hace mención a lo largo de la entrevista: [Production Notes](https://youtu.be/uLjwy65B9Pw?si=GofOq38tqY8A873F)
+Ve la entrevista (en inglés): [Dr. George Henson on Mexican Literary Translation from Spanish to English](https://youtu.be/uLjwy65B9Pw?si=GofOq38tqY8A873F)
+También se recomienda repasar las "Production Notes" que acompañan el video en YouTube, notas que explican las referencias a las que el Dr. Henson hace mención a lo largo de la entrevista: [Production Notes](https://youtu.be/uLjwy65B9Pw?si=GofOq38tqY8A873F)
 
 ---
 
