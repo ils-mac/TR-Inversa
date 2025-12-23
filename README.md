@@ -32,7 +32,7 @@ Este proyecto refleja la creencia de que las barreras educativas deben ser minim
 │   ├── overview.md          # Descripción y estructura del curso
 │   ├── proyecto-final.md    # Proyecto final de traducción
 │   ├── politicas.md         # Asistencia, trabajos tardíos, uso de IA
-│   ├── credito-extra.md     # Oportunidades de mejora opcionales
+│   ├── cómo-usar.md         # Instrucciones sobre cómo usar los contenidos en GitHub
 │   └── bibliografia.md      # Recursos y lecturas
 ├── unidad1/                 # Traducción Inversa y Textos Generales
 │   ├── unidad1-intro.md   # Introducción y objetivos de la unidad
@@ -41,8 +41,8 @@ Este proyecto refleja la creencia de que las barreras educativas deben ser minim
 │   │   ├── semana1-intro.md
 │   │   ├── presentacion-introductoria.md
 │   │   ├── conocer-el-texto.md
-│   │   ├── proyecto-texto1.md
-│   │   └── texto1-inmigracion.md
+│   │   ├── proyecto1-INM.md
+│   │   └── INM-PermisoDeTrabajar.md
 │   ├── semana2/             # Especificaciones y contraste morfosintáctico
 │   │   └── semana2-intro.md
 │   └── semana3/             # Documentos personales
