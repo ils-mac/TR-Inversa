@@ -147,6 +147,8 @@ Durante el desarrollo de tu proyecto, utilizarás:
 - **Herramientas de investigación terminológica**
 - **Marco MQM** para evaluación de calidad
 
+Aprende más sobre el proyecto final aquí: [Proyecto Final: Traducción Profesional Completa](../proyecto-final/proyecto-final-intro.md)
+
 ---
 
 ## 📥 Descarga este Contenido
