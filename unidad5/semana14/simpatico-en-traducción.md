@@ -122,7 +122,7 @@ Escribe una reflexión breve (1-2 párrafos) sobre tu posición como traductor o
 
 **Nota importante**: Esta lección se basa principalmente en perspectivas de hombres blancos sobre "ser simpátic@" en traducción. Esta es una limitación significativa.
 
-**Tu contribución**: ¿Qué otras perspectivas existen sobre este tema? ¿Qué vacíos en la literatura podrías llenar compartiendo tu propia perspectiva como estudiante de traducción en México? 
+**Tu contribución**: ¿Qué otras perspectivas existen sobre este tema? ¿Qué vacíos en la literatura podrías llenar compartiendo tu propia perspectiva? 
 
 Considera investigar:
 - Perspectivas de traductoras y traductores latinoamericanos
