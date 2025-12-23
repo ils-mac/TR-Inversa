@@ -1,0 +1,36 @@
+What projects will teams receive evaluations for?
+
+proyecto1-INM
+proyecto3-TradGlosario-Tec
+proyecto4-TradGlosario-Tec-Evalparcial
+proyecto5-TradClima-ColabFlujo-Entrega
+proyecto7-TradMexUS-ColabConsistencia
+proyecto8-TradMexUS-ColabConsistencia-Evalparcial
+
+Customized MQM typology requires further customization
+
+What are ways they should be able to view their feedback?
+
+Locally
+Privately on GitHub
+Publicly on GitHub
+
+What should be included on the webpage?
+
+- Administrative Information
+- Dropdown of all Course Contents
+- Title of the Project
+- Translators
+- Link to source text
+- View of translation free of annotations
+- Tips on what to do if the formatting of the Markdown translation hasn't rendered correctly on the page (Identifies formatting fixes to be made prior to publishing piece in portfolio)
+- View of translation with annotations
+- Chart of individual errors or quality markers (Link to MQM - Discussion of Customizations)
+- Explanation of How Correspondence and Readability lead to Effectiveness Score
+- Explanation of How Effectiveness Score Relates to the Grade for the Assignment (Mostly Effective to Effective get 3 points)
+
+What should be included on the wiki page?
+
+- What to do if the formatting of your Markdown translations hasn't rendered correctly on the page?
+- How to add new feedback to your evaluation page?
+- How to interpret the scores you see for the available projects on your evaluation page?
