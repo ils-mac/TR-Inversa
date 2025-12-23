@@ -18,7 +18,7 @@ El contenido de cada semana comienza con una descripción general (resumen) de l
 | --------- | ------------------ | ------------------------------------- |
 | **Asistencia y participación** | 30% | 2 puntos semanales, 15 semanas requeridas<br>2 puntos de crédito extra disponibles por asistir a más de 15 clases |
 | **Tareas generales** | 30% | 10 tareas × 3 puntos cada una<br>3 puntos de crédito extra por completar las 11 tareas disponibles |
-| **Evaluaciones parciales** | 30% | 3 proyectos × 10 puntos cada una |
+| **Evaluaciones parciales** | 30% | 3 proyectos × 10 puntos cada uno |
 | **Evaluación final** | 10% | 1 proyecto × 10 puntos |
 
 ### Asistencia y Participación

@@ -11,7 +11,6 @@ Bienvenidos a Traducción Inversa A > B, un curso diseñado para desarrollar las
 ## 📱 Comunicación del Curso
 **Profesora**: Alaina Brandt  
 **LinkedIn**: [linkedin.com/in/alainambrandt/](https://www.linkedin.com/in/alainambrandt/)<br>
-**Plataforma**: Teams para preguntas rápidas y anuncios
 
 ## 🎯 Objetivos del Aprendizaje
 Al finalizar esta asignatura, podrás:
@@ -26,23 +25,16 @@ Al finalizar esta asignatura, podrás:
 ## 📚 Estructura del Curso
 El curso se divide en **cinco unidades** que cubren diferentes tipos de textos:
 
-**Unidad 1: Traducción Inversa y Textos Generales (Semanas 1-3)**  
-Fundamentos de la traducción inversa, documentos de inmigración, especificaciones técnicas
-
-**Unidad 2: Traducción de Textos Técnicos (Semanas 4-6)**  
-Inteligencia artificial generativa, corpus y terminología, introducción a Lilt
-
-**Unidad 3: Traducción de Textos Científicos (Semanas 7-9)**  
-Cambio climático, evaluación de traducciones, marco MQM, Label Studio
-
-**Unidad 4: Traducción de Textos Especializados (Semanas 10-12)**  
-Tratados comerciales, posedición de traducción automática, comparación de métodos
-
-**Unidad 5: Traducción de Textos Literarios (Semanas 13-15)**  
-Literatura mexicana, ética en traducción, entrevista con George Henson
+| **Unidad** | **Semanas** | **Descripción** |
+| ---------- | ----------- | --------------- |
+| **Unidad 1: Traducción Inversa y Textos Generales** | 1-3 | Fundamentos de la traducción inversa, documentos de inmigración, especificaciones técnicas |
+| **Unidad 2: Traducción de Textos Técnicos** | 4-6 | Inteligencia artificial generativa, corpus y terminología, introducción a Lilt |
+| **Unidad 3: Traducción de Textos Científicos** | 7-9 | Cambio climático, evaluación de traducciones, marco MQM, Label Studio |
+| **Unidad 4: Traducción de Textos Especializados** | 10-12 | Tratados comerciales, posedición de traducción automática, comparación de métodos |
+| **Unidad 5: Traducción de Textos Literarios** | 13-15 | Literatura mexicana, entrevista con George Henson, ética en traducción |
 
 ## 🎓 Proyecto Final: Flujo de Trabajo Completo
-Demostrarás tu dominio de las tareas relacionadas con la traducción mediante un **proyecto integrado**:
+Demostrarás tu dominio de las tareas relacionadas con la traducción mediante un **proyecto final**:
 - **Selección de texto**: Documento de tu elección para traducir
 - **Recursos lingüísticos**: Especificaciones, corpus y glosario
 - **Traducción profesional**: Aplicando todo lo aprendido
@@ -56,10 +48,10 @@ Demostrarás tu dominio de las tareas relacionadas con la traducción mediante u
 - **Checkpoint 5**: Traducción y justificaciones
 - **Entrega Final**: Paquete para el proyecto
 
-## 📋 Evaluación General
+## 📋 Puntuación Total
 - **Asistencia y participación**: 30% (2 puntos semanales, 15 semanas requeridas)
 - **Tareas generales**: 30% (10 tareas × 3 puntos cada una)
-- **Evaluaciones parciales**: 30% (3 evaluaciones × 10 puntos cada una)
+- **Evaluaciones parciales**: 30% (3 proyectos × 10 puntos cada uno)
 - **Proyecto final**: 10% (Flujo de trabajo completo)
 
 ## 🛠️ Tecnologías y Herramientas
@@ -70,40 +62,18 @@ Durante el curso trabajarás con:
 - **Lilt**: Plataforma de traducción híbrida (licencias proporcionadas)
 - **Label Studio**: Software para evaluación de calidad
 
----
+## 💡 Consejos para el Éxito
+- **2-4 horas semanales** de trabajo fuera de clase
+- **Revisa materiales antes de las clases** para participar efectivamente
+- **Comienza las tareas con anticipación** para resolver dudas
+- **Regla de 30 minutos**: Investiga independientemente, consulta compañeros, luego contacta al profesor
+- **Comunicación activa**: El o la instructor responde en Teams/por correo en días hábiles
 
-## 🤖 Uso de Materiales del Curso con Herramientas de IA
+## 🤖 Uso de Materiales del Curso con Herramientas de IAG
 
-Todo el contenido del curso está escrito en [**formato Markdown**](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) para facilitar la integración con herramientas de aprendizaje de IAG. El contenido en formato markdown puede ser mejor "entendido" por las herramientas de IA generativa, ya que la jerarquía y el énfasis del contenido se comunica claramente a través de símbolos.
-
-Para descargar cualquier lección como archivo markdown para usar con herramientas de IAG:
-
-1. **Visita nuestro repositorio del curso**: [github.com/alainamb/uic_tr18-trad-inversa-es-en](https://github.com/alainamb/uic_tr18-trad-inversa-es-en)
-2. **Navega a cualquier archivo de lección** (archivos que terminan en `.md`)
-3. **Haz clic en el nombre del archivo** para abrirlo
-4. **Haz clic en los tres puntos** en la esquina superior derecha
-5. **Haz clic en descargar**
-6. **Haz doble clic en el archivo descargado** para abrirlo en un editor de texto
-
-### 📓 Consejo de Estudio con IAG
-Una vez descargado, copia todo el contenido del archivo y pégalo en ChatGPT/Claude o tu herramienta de IAG preferida con prompts como:
-- "Explica esta lección en términos más simples"
-- "Crea ejercicios de práctica basados en este contenido"
-- "Ayúdame a entender esto con ejemplos de traducción mexicanos"
-- "Genera un plan de estudio para dominar estos conceptos"
-
-### 📥 Practica Descargando Contenido y Trabajando con IAG
-Practica visitando [nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/index.md) y descargando este archivo index.md. Copia la información del curso descargada y prueba estos prompts con ChatGPT/Claude:
-
-- "Explica cómo este curso me prepara para el trabajo profesional de traducción"
-- "Escribe tres escenarios prácticos basados en los objetivos del curso"
-- "Genera preguntas que debería hacerme antes de cada unidad"
-- "Ayúdame a planificar mi proyecto final de traducción"
+Todo el contenido del curso está escrito en [**formato Markdown**](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) para facilitar la integración con herramientas de aprendizaje de IA. El contenido en formato markdown puede ser mejor "entendido" por las herramientas de IA generativa, ya que la jerarquía y el énfasis del contenido se comunica claramente a través de símbolos. Aprende más sobre la filosofía detras del diseño con Markdown aquí: [Cómo Usar los Contenidos de este Curso](/overview/cómo-usar.md).
 
 ---
 
 ### 🚀 ¿Listas y listos para aprender más sobre el curso?
 Revisa la [Descripción General del Curso](overview/overview.md) incluyendo políticas y detalles del proyecto, o comienza directamente con la [Unidad 1: Traducción Inversa y Textos Generales](unidad1/unidad1-intro.md).
-
----
-*Esta guía de aprendizaje está sujeta a cambios.*
