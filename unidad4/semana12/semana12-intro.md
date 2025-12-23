@@ -6,7 +6,7 @@ nav_order: 3
 has_children: true
 ---
 
-# Semana 12: Pos-edición de la Traducción Automática
+# Semana 12: Posedición de la Traducción Automática
 
 ## Resumen
 

@@ -49,7 +49,7 @@ Traducción de tratados comerciales, características de textos especializados y
 ### [Semana 11: Teoría Narrativa y la Pragmática](semana11/semana11-intro.md)
 La teoría narrativa de Mona Baker, diferencias pragmáticas español-inglés y proyecto colaborativo
 
-### [Semana 12: Pos-edición de la Traducción Automática](semana12/semana12-intro.md)
+### [Semana 12: Posedición de la Traducción Automática](semana12/semana12-intro.md)
 Evaluación crítica de métodos de traducción, técnicas de posedición light y full y anotación + posedición de TA
 
 ## Comenzando

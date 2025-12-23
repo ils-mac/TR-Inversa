@@ -188,4 +188,4 @@ Copia el contenido descargado y prueba estos prompts:
 
 ---
 
-**¡Segunda Evaluación Parcial Completa!** La próxima semana exploraremos: [Pos-edición de la TA](../semana12/semana12-intro.md)
+**¡Segunda Evaluación Parcial Completa!** La próxima semana exploraremos: [Posedición de la TA](../semana12/semana12-intro.md)

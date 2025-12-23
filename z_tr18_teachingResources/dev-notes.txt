@@ -1,4 +1,6 @@
-Course Development Task List
+# Course Development 
+
+## Task List
 
 Write page: Ethics Lecture
 
@@ -8,8 +10,8 @@ Assignments
 - Add project highlights to intro
 - **Descarga el archivo en formato Markdown** - Assure links are set up to work
 
-Throughout the course contents:
-pos-edición / posedición are used
+Final project
+- Collect absolutely no interim deliveries
 
 Before the semester:
 - Create Teams space
@@ -26,3 +28,38 @@ During the course of the semester:
 - Exercise pages reviewed/improved
 - Collect the following content on GitHub:
   - Start of Week Announcements
+  - Grading database template
+  - Activity templates
+
+## Completed in preparation for spring 2026
+
+Improved highlights in assignment introductions
+
+Standardized project naming conventions
+- File names
+- Menu titles
+- Page titles
+- File delivery naming
+
+In the course contents: posedición was mainly used / pos-edición was sometimes used
+- Harmonized to posedición
+
+Added light green styling
+
+Filled gaps in contents:
+- Sobre la Diseñadora (Overview)
+- Cómo Usar estos Contenidos (Overview)
+- Trabajo colaborativo page (Week 7)
+- Traducir en el Dominio del Cambio Climático page (Week 8)
+- Flujo de trabajo colaborativo en Lilt (Week 8)
+- Traducción Literaria page (Week 13)
+- Siendo Simpatic@ en La Traducción page (Week 14)
+- Traducciones Literarias - Ejemplos page (Week 14)
+- Ética en Traducción - Lectura (Week 15)
+
+Standardized page GAI closing
+
+Made updates to site structure to improve page-to-page flow
+
+Reorganized final project to not accept interim deliveries and to separate the final delivery from the translation stage
+
