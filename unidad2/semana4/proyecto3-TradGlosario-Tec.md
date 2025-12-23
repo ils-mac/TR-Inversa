@@ -20,7 +20,7 @@ Trabajando en el grupo asignado, traducirán un texto técnico sobre arquitectur
 
 ### El texto a traducir
 
-**[Proyecto 3: Arquitectura de Prompts del Sistema para EVA-Tutor](EVA-Tutor-prompts-sistema.md)**
+**[EVA-Tutor - Prompts del Sistema](EVA-Tutor-prompts-sistema.md)**
 
 ### Recursos de apoyo
 - **Guía teórica:** [Traducción Técnica e IAG](./traduccion-tecnica.md)
