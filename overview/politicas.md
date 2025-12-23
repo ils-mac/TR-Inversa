@@ -126,4 +126,4 @@ Copia el contenido descargado y prueba estos prompts:
 
 ---
 
-**Siguiente:** Explora la [Bibliografía](bibliografia.md) para recursos del curso y lecturas recomendadas.
+**Siguiente:** Descubre [Cómo Usar estos Contenidos](cómo-usar.md) para aprovechar al máximo estos materiales compatibles con IAG.

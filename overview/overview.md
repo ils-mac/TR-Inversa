@@ -105,4 +105,4 @@ Copia el contenido descargado y prueba estos prompts:
 
 ---
 
-**Siguiente:** Conoce el [Proyecto Final](proyecto-final.md) - la experiencia culminante que demuestra tu dominio del flujo de trabajo profesional de traducción.
+
