@@ -151,17 +151,4 @@ Aprende más sobre el proyecto final aquí: [Proyecto Final: Traducción Profesi
 
 ---
 
-## 📥 Descarga este Contenido
-Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/overview/proyecto-final.md) y descárgalo.
-
-### 🤖 Prompts de Estudio con IAG
-Copia el contenido descargado y prueba estos prompts:
-- "Ayúdame a planificar mi cronograma personal para completar todos los checkpoints"
-- "¿Qué criterios debo usar para seleccionar mi texto fuente?"
-- "Explica cómo crear especificaciones efectivas para mi proyecto de traducción"
-- "¿Cómo puedo asegurarme de que mi glosario tenga alta correspondencia terminológica?"
-- "Genera una plantilla para mi justificación de 5 párrafos"
-
----
-
 **Siguiente:** Revisa las [Políticas del Curso](politicas.md) para entender las expectativas sobre asistencia, entrega de tareas, e integridad académica.

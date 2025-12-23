@@ -106,16 +106,4 @@ En este curso la mayoría de las tareas son individuales y debes entregar trabaj
 
 ---
 
-## 📥 Descarga este Contenido
-Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/overview/politicas.md) y descárgalo.
-
-### 🤖 Prompts de Estudio con IAG
-Copia el contenido descargado y prueba estos prompts:
-- "Explica la diferencia entre uso apropiado e inapropiado de IA para este curso de traducción"
-- "¿Qué estrategias puedo usar para estar mejor preparado para la participación en clase?"
-- "¿Cómo debo organizar mi trabajo para maximizar mis oportunidades de crédito extra?"
-- "Ayúdame a entender las restricciones sobre traducción automática en este curso"
-
----
-
 **Siguiente:** Descubre [Cómo Usar estos Contenidos](cómo-usar.md) para aprovechar al máximo estos materiales compatibles con IAG.
