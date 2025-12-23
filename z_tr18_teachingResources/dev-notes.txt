@@ -59,7 +59,7 @@ Filled gaps in contents:
 
 Standardized page GAI closing
 
-Made updates to site structure to improve page-to-page flow
+Reorganized page order to improve page-to-page and week-to-week flow
 
 Reorganized final project to not accept interim deliveries and to separate the final delivery from the translation stage
 
