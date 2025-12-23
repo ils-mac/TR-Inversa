@@ -3,7 +3,7 @@ layout: default
 title: Corpus y Terminología
 parent: Semana 5
 grand_parent: Unidad 2
-nav_order: 2
+nav_order: 1
 ---
 
 # Corpus y Terminología en Traducción Técnica
@@ -197,4 +197,4 @@ Copia el contenido descargado y prueba estos prompts:
 
 ---
 
-**Siguiente:** [Proyecto Texto 4](./proyecto-texto4.md)
+**Siguiente:** [Contraste Gramatical Español/Inglés en Traducción Técnica](contraste-gramatical-es-en.md)

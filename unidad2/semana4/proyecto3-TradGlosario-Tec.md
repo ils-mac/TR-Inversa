@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Proyecto Texto 3 - Glosario y Traducción Técnica
+title: Traducción Técnica IAG y Glosario
 parent: Semana 4
 grand_parent: Unidad 2
 nav_order: 3
 ---
 
-# Proyecto 3 – Traducción Técnica IAG + Glosario
+# Proyecto 3 – Traducción Técnica IAG y Glosario
 
 **Puntos:** 3
 
@@ -24,7 +24,7 @@ Trabajando en el grupo asignado, traducirán un texto técnico sobre arquitectur
 
 ### Recursos de apoyo
 - **Guía teórica:** [Traducción Técnica e IAG](./traduccion-tecnica.md)
-- **Marco de evaluación:** [Marco MQM para Evaluación de Traducción](./marco-mqm.md)
+- **Marco de evaluación:** [Marco MQM: Tipología de Errores en Traducciones](./marco-mqm.md)
 - **Referencia académica:** Levchuk (2024) - Texto fuente completo disponible en carpeta de [referencias](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/tree/main/unidad2/semana4/referencias)
 
 ### Organización grupal
@@ -113,7 +113,7 @@ Considerando tus puntuaciones de Correspondencia General y Legibilidad, puedes d
 ---
 
 ## 📥 Descarga este Contenido
-Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad2/semana4/proyecto3-TraducciónTécnica-Glosario.md) y descárgalo.
+Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad2/semana4/proyecto3-TradGlosario-Tec.md) y descárgalo.
 
 ### 🤖 Prompts de Estudio con IAG
 Copia el contenido descargado y prueba estos prompts:

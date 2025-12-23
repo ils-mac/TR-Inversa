@@ -118,4 +118,4 @@ Copia el contenido descargado y prueba estos prompts:
 
 ---
 
-**Siguiente:** [Proyecto Texto 2](proyecto2-DocumentoPersonal.md)
+**Siguiente:** [Proyecto 2 – Traducción de Documento Personal](proyecto2-DocPersonal.md)

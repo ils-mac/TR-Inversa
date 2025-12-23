@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Marco MQM para Evaluación de Traducción
+title: Marco MQM - Errores en Traducciones
 parent: Semana 4
 grand_parent: Unidad 2
-nav_order: 1
+nav_order: 2
 ---
 
-# Marco MQM para Evaluación de Traducción
+# Marco MQM: Tipología de Errores en Traducciones
 
 ## Introducción al Marco MQM
 
@@ -114,4 +114,4 @@ Copia el contenido descargado y prueba estos prompts:
 
 ---
 
-**Siguiente:** [Traducción Técnica](./traduccion-tecnica.md)
+**Siguiente:** [Proyecto 3 – Traducción Técnica IAG y Glosario](proyecto3-TradGlosario-Tec.md)

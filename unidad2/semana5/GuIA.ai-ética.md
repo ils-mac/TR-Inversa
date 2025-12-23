@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Texto 4 - El papel de la ética en el desarrollo de sistemas de IA
+title: GuIA.ai - El papel de la ética
 parent: Semana 5
 grand_parent: Unidad 2
 nav_order: 4

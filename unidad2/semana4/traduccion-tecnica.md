@@ -3,7 +3,7 @@ layout: default
 title: Traducción Técnica e IAG
 parent: Semana 4
 grand_parent: Unidad 2
-nav_order: 2
+nav_order: 1
 ---
 
 # Traducción Técnica e Inteligencia Artificial Generativa
@@ -169,4 +169,4 @@ Copia el contenido descargado y prueba estos prompts:
 
 ---
 
-**Siguiente:** [Proyecto 3 – Traducción Técnica IAG + Glosario](proyecto3-TraducciónTécnica-Glosario.md)
+**Siguiente:** [Marco MQM: Tipología de Errores en Traducciones](marco-mqm.md)

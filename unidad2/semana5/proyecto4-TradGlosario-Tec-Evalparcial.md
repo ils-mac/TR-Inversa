@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Proyecto Texto 4 - Traducción de Texto Técnico + Glosario - IAG (Primer evaluación parcial)
+title: Proyecto 4 - Traducción Técnica IAG + Glosario (EVAL PARCIAL 1)
 parent: Semana 5
 grand_parent: Unidad 2
 nav_order: 3
 ---
 
-# Proyecto Texto 4: Traducción de Texto Técnico + Glosario - IAG (Primer evaluación parcial)
+# Proyecto 4 - Traducción Técnica IAG + Glosario (EVAL PARCIAL 1)
 
 **Puntos:** 10
 
@@ -20,7 +20,7 @@ Trabajando en el grupo asignado, traducirán un texto técnico sobre ética en e
 
 ### El texto a traducir
 
-**[Texto 4: El papel de la ética en el desarrollo de sistemas de IA](./texto4-etica-en-la-ia.md)**
+**[Texto 4: El papel de la ética en el desarrollo de sistemas de IA](GuIA.ai-ética.md)**
 
 ### Recursos de apoyo
 - **Guía teórica:** [Traducción Técnica e IAG](../semana4/traduccion-tecnica.md)
@@ -34,7 +34,7 @@ Trabajando en el grupo asignado, traducirán un texto técnico sobre ética en e
 
 ## Proceso del proyecto
 
-**Descarga el archivo** [texto4-etica-en-la-ia.md](./texto4-etica-en-la-ia.md) para trabajar con una copia local
+**Descarga el archivo** [texto4-etica-en-la-ia.md](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad2/semana4/GuIA.ai-ética.md) para trabajar con una copia local
 
 #### Fase 1: Investigación terminológica colaborativa 
 1. **Análisis del texto fuente:** Identifica las especificaciones y los conceptos especializados en ética de IA
@@ -93,12 +93,13 @@ Los nombres de todas las traductoras y traductores, con roles específicos asign
 |----------|--------------------|-----------------------------|-------------------------|
 | Análisis del texto fuente | | | |
 | Investigación terminológica | | | |
-| Creación del glosario | | | |
 | Traducción inicial | | | |
 | Revisión técnica | | | |
 | Corrección final | | | |
 | Documentación y entrega | | | |
-
+**Total de horas del Team Member 1:**  
+**Total de horas del Team Member 2:**  
+**Total de horas del Team Member 3:**  
 **Total de horas del proyecto:** [Suma total]
 
 #### Reflexión grupal
@@ -150,7 +151,7 @@ Después de evaluar los errores individuales en la traducción, tu texto recibir
 ---
 
 ## 📥 Descarga este Contenido
-Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad2/semana5/proyecto-texto4.md) y descárgalo.
+Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad2/semana5/proyecto4-TradGlosario-Tec-Evalparcial.md) y descárgalo.
 
 ### 🤖 Prompts de Estudio con IAG
 Copia el contenido descargado y prueba estos prompts:

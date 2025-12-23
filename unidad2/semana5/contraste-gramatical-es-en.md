@@ -3,7 +3,7 @@ layout: default
 title: Contraste Gramatical ES/EN
 parent: Semana 5
 grand_parent: Unidad 2
-nav_order: 1
+nav_order: 2
 ---
 
 # Contraste Gramatical Español/Inglés en Traducción Técnica
@@ -118,4 +118,4 @@ Copia el contenido descargado y prueba estos prompts:
 
 ---
 
-**Siguiente:** [Corpus y Terminología](./corpus-terminologia.md)
+**Siguiente:** [Proyecto 4 - Traducción Técnica IAG + Glosario (EVAL PARCIAL 1)](./proyecto-texto4.md)
