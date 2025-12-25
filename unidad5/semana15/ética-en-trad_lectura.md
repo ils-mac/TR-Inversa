@@ -49,7 +49,7 @@ Presenté comentarios sobre las revisiones al Código de Conducta de la ATA de 2
 
 El principio es problemático, y esta sección presenta un análisis al respecto.
 
-> "to convey meaning between people, organizations, and cultures accurately, appropriately, and without bias, depending on the context of the source, purpose, readership or audience, and medium" (ATA, 2022)
+> "to convey meaning between people, organizations, and cultures accurately, appropriately, and without bias, depending on the context of the source, purpose, readership or audience, and medium" (ATA, 2022)<br>
 > **Traducción:** "transmitir el significado entre personas, organizaciones y culturas de manera precisa, apropiada y sin sesgos, dependiendo del contexto de la fuente, el propósito, la audiencia o el lectorado, y el medio"
 
 - El Código de Ética es para traductoras y traductores, sin embargo uno de los únicos principios relacionados con la traducción no aparece listado sino casi al final. Este principio debería ir primero, antes de los principios que aplican a cualquier industria.
@@ -64,7 +64,7 @@ El principio es problemático, y esta sección presenta un análisis al respecto
 
 El primer principio indica a quienes son miembros que actúen profesionalmente y esencialmente se abstengan de comportamientos problemáticos: 
 
-> "to conduct ourselves in a professional manner with honesty and integrity in our interactions with clients, colleagues, and the general public, and to refrain from conduct that brings the Association, its members, and our professions into disrepute" (ATA, 2022)
+> "to conduct ourselves in a professional manner with honesty and integrity in our interactions with clients, colleagues, and the general public, and to refrain from conduct that brings the Association, its members, and our professions into disrepute" (ATA, 2022)<br>
 > **Traducción:** "conducirnos de manera profesional con honestidad e integridad en nuestras interacciones con clientes, colegas y el público en general, y abstenernos de conductas que desprestigien a la Asociación, a sus miembros y a nuestras profesiones"
 
 - Exagera el poder individual de una traductora o traductor. La mayoría de quienes traducen no tienen capacidad de impactar la profesión hasta un grado que mejoraría sus circunstancias a nivel individual, mucho menos de "desprestigiarla" o "to bring it into disrepute". Por otro lado, grandes grupos de traductoras y traductores aceptan términos para su trabajo que realmente dañan las tendencias de pago, la percepción de calidad y la reputación de toda la industria. Pueden hacerlo por necesidad, y muchas personas integrantes de la industria ofrecen y aceptan términos dañinos como práctica común.
@@ -73,14 +73,14 @@ El primer principio indica a quienes son miembros que actúen profesionalmente y
 
 Este principio de la versión 2010 fue completamente eliminado: 
 
-> "solicitar y ofrecer el debido reconocimiento de nuestro trabajo, y compensación acorde con nuestras capacidades" (ATA, 2010) 
+> "solicitar y ofrecer el debido reconocimiento de nuestro trabajo, y compensación acorde con nuestras capacidades" (ATA, 2010) <br>
 > **Traducción:** "solicitar y ofrecer el debido reconocimiento de nuestro trabajo, y compensación acorde con nuestras capacidades"
 
 Este principio era importante en su defensa de un pago razonable por trabajo lingüístico altamente calificado en una industria en la que incluso personas internas como las empresas de servicios lingüísticos ofrecen pagos de explotación. El principio también era importante al alentar la visibilidad de la traductora o traductor dentro de entornos en los que el trabajo de traducción es invisible.
 
 ## Code of Professional Conduct of Localization Managers / Localizer's Code of Conduct
 
-En noviembre de 2021 publiqué un Código de Ética y Conducta Profesional para la Gestión de Localización, después de llevar a cabo un trabajo de desarrollo con mis estudiantes a partir de 2018. El código fue posteriormente editado para lenguaje llano y publicado como el Código de Conducta de Localizadores en mayo de 2021. Aquí pueden encontrar ambos textos y algo de cobertura de prensa que he recopilado sobre ellos.
+En noviembre de 2021 publiqué un "Code of Professional Conduct of Localization Managers", después de llevar a cabo un trabajo de desarrollo con mis estudiantes a partir de 2018. El código fue posteriormente editado para lenguaje llano y publicado como el "Localizer's Code of Conduct" en mayo de 2021. Aquí pueden encontrar ambos textos y algo de cobertura de prensa que he recopilado sobre ellos.
 
 ### Textos Principales
 - [Code of Ethics and Professional Conduct for Localization Management](https://alainambrandt.locessentials.com/code-of-ethics-and-professional-conduct-for-localization-management/#more-118)
