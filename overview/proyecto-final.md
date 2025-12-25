@@ -21,26 +21,30 @@ Al finalizar este proyecto, podrás:
 - **Incluir este trabajo en tu portafolio profesional** como muestra de traducción inversa español-inglés
 - **Completar el curso** al obtener una calificación aprobatoria en todos los componentes
 
+**Puntuación Total del Proyecto**: 10 puntos (10% de la calificación final)
+
 ## 📋 Instrucciones Generales
 
-Seleccionarás un texto para tu proyecto, y al recibir la aprobación de la profesora, desarrollarás los recursos lingüísticos necesarios antes de llevar a cabo la traducción. Al final, entregarás un paquete con tus recursos lingüísticos, la traducción y la justificación que has escrito para justificar tu toma de decisiones durante la traducción.
+Seleccionarás un texto para tu proyecto, y al recibir la aprobación de la maestra, desarrollarás los recursos lingüísticos necesarios antes de llevar a cabo la traducción. Al final, entregarás un paquete con tus recursos lingüísticos, la traducción y las observaciones que has escrito para explicar tu toma de decisiones durante la traducción.
 
-## 🗓️ Cronograma del Proyecto
+## 🗓️ Hitos de Desarrollo Recomendados
 
-| **Checkpoint** | **Entregable** | **Puntos** |
-|---------------|---------------|-----------|
-| **Checkpoint 1** | Selección de texto | 1 punto |
-| **Checkpoint 2** | Especificaciones | 1 punto |
-| **Checkpoint 3** | Corpus | 1 punto |
-| **Checkpoint 4** | Glosario | 1 punto |
-| **Checkpoint 5** | Traducción | 5 puntos |
-| **Entrega Final** | Paquete completo | 1 punto |
+Aunque solo entregarás el proyecto completo al final del semestre, te recomendamos trabajar gradualmente siguiendo estos hitos:
 
-**Total del Proyecto**: 10 puntos (10% de la calificación final)
+| **Checkpoint** | **Componente** | **Semana Recomendada** |
+|---------------|---------------|----------------------|
+| **Checkpoint 1** | Selección de texto | Semana 7 |
+| **Checkpoint 2** | Especificaciones | Semana 9 |
+| **Checkpoint 3** | Corpus | Semana 12 |
+| **Checkpoint 4** | Glosario | Semana 14 |
+| **Checkpoint 5** | Traducción y observaciones | Semana 16 |
+| **Entrega Final** | Paquete completo | Semana 17 |
+
+⚠️ **Importante**: Estas fechas son **recomendaciones** para ayudarte a distribuir tu trabajo de manera saludable a lo largo del semestre. Solo hay **una entrega obligatoria** en la Semana 17 con el paquete completo.
 
 ---
 
-## 📝 Detalles de Cada Checkpoint
+## 📝 Componentes del Proyecto
 
 ### Checkpoint 1: Selección de Texto
 **Puntos**: 1 punto
@@ -104,7 +108,7 @@ Crearás un glosario bilingüe inicial que refleje la terminología importante q
 **Puntos**: 5 puntos  
 **Evaluación**: 
 - Traducción: Efectiva (4 puntos) / Mayormente efectiva (3 puntos) / Algo inefectiva (2 puntos) / Inefectiva (1 punto) / Incompleta (0 puntos)
-- Observaciones: Incompleto y sin conciencia crítica (0 puntos) / Completo y con conciencia crítica (1 punto)
+- Observaciones: Completo y con conciencia crítica (1 punto) / Incompleto y sin conciencia crítica (0 puntos)
 
 #### Descripción
 Realizarás la traducción de forma que el texto meta que produzcas sea adecuado y completo, teniendo en cuenta las especificaciones, tu terminología y el contexto del género en el que estés trabajando.

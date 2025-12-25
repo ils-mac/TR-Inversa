@@ -5,7 +5,7 @@ parent: Proyecto Final
 nav_order: 1
 ---
 
-# Instrucciones Generales del Proyecto Final
+# Proyecto Final: Instrucciones Generales
 
 ## Descripción del Proyecto
 

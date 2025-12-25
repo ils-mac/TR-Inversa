@@ -5,7 +5,7 @@ parent: Proyecto Final
 nav_order: 8
 ---
 
-# Evaluación del Proyecto Final
+# Proyecto Final: La Evaluación de tu Trabajo
 
 ## Resumen de la Evaluación
 

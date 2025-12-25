@@ -3,21 +3,21 @@
 ## Task List
 
 Assignments
-- Change file names to match current project numbering
-- Standardize delivery naming conventions
+- Standardize project delivery naming conventions
 - Add project highlights to intro
 - **Descarga el archivo en formato Markdown** - Assure links are set up to work
 
 Final project
 - Collect absolutely no interim deliveries
 
-Before the semester:
-- Create Teams space
-
 Around the start of the semester: 
 - How to Use Your Evaluations page
 - Titles: Cómo Ver las Evaluaciones de Tus Traducciones en Markdown | Cómo Ver Tus Evaluaciones
 - Complementary GitHub Site
+
+Before the semester:
+- Create Teams space
+- Set up grading infrastructure
 
 During the course of the semester:
 - Review/improve unit pages
@@ -28,6 +28,11 @@ During the course of the semester:
   - Start of Week Announcements
   - Grading database template
   - Activity templates
+
+Additional work that could be done:
+- Renumber projects so that projects 4 and 5 with the same source content are numbered as a single, two-week project. Requires updating file names, file name links, and page-to-page navigation for affected pages.
+
+---
 
 ## Completed in preparation for spring 2026
 
