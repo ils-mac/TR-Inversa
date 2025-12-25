@@ -2,8 +2,6 @@
 
 ## Task List
 
-Write page: Ethics Lecture
-
 Assignments
 - Change file names to match current project numbering
 - Standardize delivery naming conventions
