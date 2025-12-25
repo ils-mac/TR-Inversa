@@ -132,7 +132,7 @@ Revisado en el invierno de 2025
 
 En el capítulo "Beyond equivalence: ethics and morality" ("Más allá de la equivalencia: ética y moralidad"), Mona Baker afirma:
 
-> "[C]odes, like laws, are elaborated by people like us and are therefore never infallible, ethically or otherwise... [I]t is your responsibility to question the code in order to avoid causing harm to others or perpetuating potential forms of injustice." (Baker, 274)
+> "[C]odes, like laws, are elaborated by people like us and are therefore never infallible, ethically or otherwise... [I]t is your responsibility to question the code in order to avoid causing harm to others or perpetuating potential forms of injustice." (Baker, 274)<br>
 > **Traducción:** "[L]os códigos, al igual que las leyes, son elaborados por personas como nosotros y por lo tanto nunca son infalibles, éticamente o de otra manera... [E]s tu responsabilidad cuestionar el código para evitar causar daño a otras personas o perpetuar formas potenciales de injusticia."
 
 Esta lección ha presentado un flujo de trabajo y varios ejemplos de códigos siendo elaborados por personas para enfatizar ese punto. Han visto cómo el código de la ATA tardó más de dos años en revisarse, cómo diferentes versiones de códigos para localización surgieron del trabajo colaborativo con estudiantes, y cómo incluso los códigos personales se revisan con el tiempo. 
