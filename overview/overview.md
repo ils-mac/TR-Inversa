@@ -11,7 +11,7 @@ Esta sección contiene información esencial del curso incluyendo la descripció
 
 ## Descripción del Curso
 
-La traducción es el proceso de transmitir ideas escritas de una lengua a otra, considerando la audiencia y el propósito del texto. Este curso se enfoca en la traducción inversa (español > inglés), donde desarrollarás las competencias necesarias para navegar las diferencias lingüísticas y culturales entre ambos idiomas. 
+La traducción es el proceso de transmitir ideas escritas de una lengua a otra, considerando la audiencia y el propósito del texto. Este curso se enfoca en la traducción inversa (español de México > inglés para los Estados Unidos), donde desarrollarás las competencias necesarias para navegar las diferencias lingüísticas y culturales entre ambos idiomas. 
 
 Trabajarás con textos de diversos campos, siguiendo flujos de trabajo profesionales y utilizando tecnologías actuales de traducción. A través de actividades prácticas, análisis de casos reales y materiales auténticos, desarrollarás las competencias lingüísticas y técnicas necesarias para destacar como traductor profesional en el mercado actual.
 

@@ -14,7 +14,7 @@ El proyecto final te dará la oportunidad de traducir un documento de tu elecci�
 ## Metodología de Trabajo
 
 ### Modo de trabajo
-Trabajarás individualmente o en un grupo pequeño de no más de tres personas para este proyecto.
+Trabajarás individualmente o en un grupo pequeño para este proyecto.
 
 ### Proceso Gradual
 El proyecto se desarrolla a través de seis checkpoints que puedes completar según tu propio ritmo durante el semestre. Tienes la flexibilidad de:
