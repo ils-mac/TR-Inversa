@@ -6,7 +6,7 @@ nav_order: 1
 
 # TR18: Traducción de español al inglés (MX>US)
 
-Les doy los bienvenidos a TR18: Traducción Inversa A>B (Español-MX>Inglés-US), un curso diseñado para desarrollar las competencias necesarias para navegar las diferencias lingüísticas y culturales entre el español y el inglés. Trabajarás con textos de diversos campos, siguiendo flujos de trabajo profesionales y utilizando tecnologías actuales de traducción.
+Les damos la bienvenida a TR18: Traducción Inversa A>B (Español-MX>Inglés-US), un curso diseñado para desarrollar las competencias necesarias para navegar las diferencias lingüísticas y culturales entre el español y el inglés. Trabajarás con textos de diversos campos, siguiendo flujos de trabajo profesionales y utilizando tecnologías actuales de traducción.
 
 ## 📱 Comunicación del Curso
 **Profesora**: Alaina Brandt
