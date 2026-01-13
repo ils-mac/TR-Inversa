@@ -16,7 +16,7 @@ En esta actividad colaborativa, trabajarás en grupos pequeños para familiariza
 
 ## El texto de trabajo
 
-**[Texto 1: Permiso de trabajo para extranjeros residentes temporales en México](./INM-PermisoDeTrabajar.md)**
+**[Texto 1: Permiso de trabajo para extranjeros residentes temporales en México](INM-PermisoDeTrabajar.md)**
 
 Este documento del Instituto Nacional de Migración presenta los requisitos y procedimientos para que extranjeros residentes temporales obtengan permisos de trabajo en México.
 
