@@ -22,7 +22,7 @@ Traducirás el documento del Instituto Nacional de Migración sobre permisos de 
 
 ### El texto a traducir
 
-**[Permiso de trabajo para extranjeros residentes temporales en México](proyecto1-PermisoDeTrabajar.md)**
+**[Permiso de trabajo para extranjeros residentes temporales en México](INM-PermisoDeTrabajar.md)**
 
 ## Proceso de traducción
 
