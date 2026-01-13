@@ -27,7 +27,7 @@ Traducirás el documento del Instituto Nacional de Migración sobre permisos de 
 ## Proceso de traducción
 
 ### 1. Preparación
-- **Descarga el archivo** [INM-PermisoDeTrabajar.md](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad1/semana1/proyecto1-PermisoDeTrabajar.md) para trabajar con una copia local
+- **Descarga el archivo** [INM-PermisoDeTrabajar.md](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad1/semana1/INM-PermisoDeTrabajar.md) para trabajar con una copia local
 
 ### 2. Investigación
 Antes de comenzar la traducción:
