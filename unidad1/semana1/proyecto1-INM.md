@@ -53,7 +53,8 @@ Verifica que el formato de tu entrega cumple con estos requisitos:
 - **Formato requerido:** Archivo de texto en markdown (.md)
 - **Estructura:** Mantén los encabezados, tablas y organización del documento original
 - **Codificación:** UTF-8 para caracteres especiales
-- **Nombre del archivo:** TuPrimerApellido_texto1-inmigración.md
+- **Nombre del archivo:** Appellidos_INM-en-us.md
+  - Por ejemplo: Brandt-AguileraMartínez-Chen_INM-en-us.md 
 - **Método de la entrega:** A través de Teams
 
 ## Criterios de evaluación
