@@ -12,8 +12,6 @@ nav_order: 3
 
 **Puntos:** 3  
 
-**Modalidad:** Individual
-
 **Tiempo estimado:** 3-4 horas  
 
 ## Descripción del proyecto
