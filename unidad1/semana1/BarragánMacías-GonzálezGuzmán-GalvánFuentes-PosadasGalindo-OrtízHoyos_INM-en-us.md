@@ -19,11 +19,11 @@ If you are a foreign temporary resident or a temporary student, you can apply fo
 | [Format to request immigration stay procedure, filled out electronically through the website, with the autograph signature of the petitioner](https://www.inm.gob.mx/mpublic/publico/inm-tramites.html?a=thgeGuQHx2k%3D&tr=zNxtpmsNikY%3D&h_sdp00=giUnJ9XgtISVcdYJXduIGw%3D%3D&h_dsplp02=en) | Original |
 | Valid temporary resident card or temporary resident student card | Original |
 | Proof of payment of fees under the Federal Act on Fees | Original |
-| Job offer letter on official letterhead from an individual or business entity, indicating the activity to be performed, the required period of employment, the place of work, and the details of the employer’s duly updated registration certificate | Original | 
+| Job offer letter in letterhead paper from a legally established individual or businessan, indicating the activity to be performed, the required period of employment, the place of work, and the data of the Employer Registration Certificate duly updated | Original | 
 
 **In case of independent activities, you must attach:**
 
-- [Declaration under affirmation](http://www.inm.gob.mx/static/vun_tramites/Escrito_para_trabajar_de_manera_independiente.pdf) stating the intended occupation and the place where the activities related to such occupation will be carried out. Download and complete. **Original**
+- [Letter under oath](http://www.inm.gob.mx/static/vun_tramites/Escrito_para_trabajar_de_manera_independiente.pdf) stating the intended occupation and the place where the activities related to such occupation will be carried out. Download and complete. **Original**
 
 - Proof of registration in the Federal Taxpayer Registry. **Copy**
 
@@ -31,13 +31,13 @@ If you are a foreign temporary resident or a temporary student, you can apply fo
 
 | **Required Document** | **Format** |
 |-------------------------|------------------|
-| En el caso de mayores de quince y menores de dieciocho años de edad, adicionalmente deberán exhibir los permisos o autorizaciones previstos en la normatividad laboral | Original y Copia |
+| In the case of persons over fifteen and under eighteen years of age, they must additionally show the permits or authorizations provided for in the labour regulations | Original and copy |
 
-**Nota:** Los trámites deberán presentarse solamente en original, y sus anexos, en copia simple. Si el interesado requiere que se le acuse recibo, deberá adjuntar una copia para ese efecto. (Artículo 15 A fracción I de la Ley Federal de Procedimiento Administrativo)
+**Note:** The applications must be submitted in original only, and their annexes, in copy. If the interested party requires an acknowledgement of receipt, she/he must attach a copy for that purpose. (Article 15 A section I of the Administrative Procedure Federal Act)
 
-### Costos
+### Fees
 
-| **Tipo de residente** | **Costo** |
+| **Residency type** | **Fee** |
 |----------------------|-----------|
 | A Residente Temporal | $4,001.00 mxn |
 | A Residente Temporal Estudiante | $4,001.00 mxn |
