@@ -39,14 +39,14 @@ If you are a foreign temporary resident or a temporary student, you can apply fo
 
 | **Residency type** | **Fee** |
 |----------------------|-----------|
-| A Residente Temporal | $4,001.00 MXN |
-| A Residente Temporal Estudiante | $4,001.00 MXN |
+| A Temporary resident | $4,001.00 MXN |
+| A Temporary resident student | $4,001.00 MXN |
 
-| **Concepto** | **Monto** |
+| **Concept** | **Amount** |
 |--------------|-----------|
-| Por recepción, estudio y, en su caso, autorización de Permiso de trabajo | Monto variable |
+| Payment of fee for receiving and processing the application and, where appropriate, for authorization of Work Permit | The amount can vary |
 
-**Nota:** Para generar la línea de captura del pago correspondiente ingresa a la siguiente [liga](http://www.inm.gob.mx/gobmx/word/index.php/pago-de-derechos/).
+**Note:** Para generar la línea de captura del pago correspondiente ingresa a la siguiente [liga](http://www.inm.gob.mx/gobmx/word/index.php/pago-de-derechos/).
 
 La hoja de ayuda se deberá llenar atendiendo a las siguientes especificaciones:
 
