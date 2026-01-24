@@ -17,19 +17,19 @@ If you are a foreign temporary resident or a temporary student, you can apply fo
 | **Required Document** | **Format** |
 |-------------------------|------------------|
 | [Format to request immigration stay procedure, filled out electronically through the website, with the autograph signature of the petitioner](https://www.inm.gob.mx/mpublic/publico/inm-tramites.html?a=thgeGuQHx2k%3D&tr=zNxtpmsNikY%3D&h_sdp00=giUnJ9XgtISVcdYJXduIGw%3D%3D&h_dsplp02=en) | Original |
-| Valid Temporary Resident Card or Temporary Resident Student Card | Original |
+| Valid temporary resident card or temporary resident student card | Original |
 | Proof of payment of fees under the Federal Act on Fees | Original |
 | Job offer letter on official letterhead from an individual or business entity, indicating the activity to be performed, the required period of employment, the place of work, and the details of the employer’s duly updated registration certificate | Original | 
 
-**En caso de actividades independientes, deberá adjuntar:**
+**In case of independent activities, you must attach:**
 
-- [Escrito bajo protesta de decir verdad](http://www.inm.gob.mx/static/vun_tramites/Escrito_para_trabajar_de_manera_independiente.pdf) en el que manifieste la ocupación a la que se dedicará y el lugar en el que desarrollará las actividades propias de su ocupación. Descargar y requisitar. **Original**
+- [Declaration under affirmation](http://www.inm.gob.mx/static/vun_tramites/Escrito_para_trabajar_de_manera_independiente.pdf) stating the intended occupation and the place where the activities related to such occupation will be carried out. Download and complete. **Original**
 
-- Comprobante de la inscripción en el Registro Federal de Contribuyentes. **Copia**
+- Proof of registration in the Federal Taxpayer Registry. **Copy**
 
-- El residente temporal estudiante además de la tarjeta de residente, comprobante del pago de derechos y carta oferta de empleo, deberá presentar carta de conformidad de la institución educativa correspondiente. Lo anterior siempre y cuando, realice estudios de nivel superior, posgrado e investigación y la ocupación que pretenda desarrollar se encuentre relacionada con la materia de sus estudios. **Original**
+- The temporary resident student, in addition to the resident card, proof of payment of fees, and job offer letter, must present an original letter of conformity from the corresponding educational institution. The above, as long as he/she is pursuing higher education, postgraduate studies and research and the occupation he/she intends to carry out is related to the subject of his/her studies. **Original**
 
-| **Documento requerido** | **Presentación** |
+| **Required Document** | **Format** |
 |-------------------------|------------------|
 | En el caso de mayores de quince y menores de dieciocho años de edad, adicionalmente deberán exhibir los permisos o autorizaciones previstos en la normatividad laboral | Original y Copia |
 
