@@ -1,6 +1,6 @@
 ---
 layout: default
-title: INM - Permiso de Trabajo para Extranjeros
+title: INM - Work Permit for Foreigners
 parent: Semana 1
 grand_parent: Unidad 1
 nav_order: 5
@@ -8,9 +8,9 @@ nav_order: 5
 
 # National Institute of Migration
 
-## Work permit Obtención de permiso de trabajo para extranjeros residentes temporales en México
+## Applying for a Work Permit in Mexico as a Foreign Temporary Resident
 
-Si eres extranjero residente temporal o temporal estudiante puedes solicitar permiso para trabajar en México.
+If you are a foreign temporary resident or a temporary student, you can apply for a Work Permit in Mexico.
 
 ### Documentos necesarios
 
