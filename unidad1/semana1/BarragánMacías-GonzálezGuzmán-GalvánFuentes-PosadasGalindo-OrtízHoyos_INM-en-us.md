@@ -8,7 +8,7 @@ nav_order: 5
 
 # National Institute of Migration
 
-## Work permitObtención de permiso de trabajo para extranjeros residentes temporales en México
+## Work permit Obtención de permiso de trabajo para extranjeros residentes temporales en México
 
 Si eres extranjero residente temporal o temporal estudiante puedes solicitar permiso para trabajar en México.
 
