@@ -12,14 +12,14 @@ nav_order: 5
 
 If you are a foreign temporary resident or a temporary student, you can apply for a Work Permit in Mexico.
 
-### Documentos necesarios
+### Required Documentation
 
-| **Documento requerido** | **Format** |
+| **Required Document** | **Format** |
 |-------------------------|------------------|
-| [Formato para solicitar trámite migratorio de estancia, llenado de manera electrónica a través de la página de internet, con firma autógrafa del promovente](https://www.inm.gob.mx/tramites/publico/estancia.html) | Original |
-| Tarjeta de residente temporal o de residente temporal estudiante vigente | Original |
-| Comprobante del pago de derechos que corresponda de conformidad con la Ley Federal de Derechos | Original |
-| Carta oferta de empleo en papel membretado de persona física o moral en la que se indique actividad a realizar, temporalidad requerida, lugar de trabajo y los datos de la constancia de inscripción del empleador debidamente actualizada | Original |
+| [Format to request immigration stay procedure, filled out electronically through the website, with the autograph signature of the petitioner](https://www.inm.gob.mx/mpublic/publico/inm-tramites.html?a=thgeGuQHx2k%3D&tr=zNxtpmsNikY%3D&h_sdp00=giUnJ9XgtISVcdYJXduIGw%3D%3D&h_dsplp02=en) | Original |
+| Valid Temporary Resident Card or Temporary Resident Student Card | Original |
+| Proof of payment of fees under the Federal Act on Fees | Original |
+| Job offer letter on official letterhead from an individual or business entity, indicating the activity to be performed, the required period of employment, the place of work, and the details of the employer’s duly updated registration certificate | Original | 
 
 **En caso de actividades independientes, deberá adjuntar:**
 
