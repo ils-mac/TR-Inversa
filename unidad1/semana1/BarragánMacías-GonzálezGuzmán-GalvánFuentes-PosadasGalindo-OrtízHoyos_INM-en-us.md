@@ -39,8 +39,8 @@ If you are a foreign temporary resident or a temporary student, you can apply fo
 
 | **Residency type** | **Fee** |
 |----------------------|-----------|
-| A Residente Temporal | $4,001.00 mxn |
-| A Residente Temporal Estudiante | $4,001.00 mxn |
+| A Residente Temporal | $4,001.00 MXN |
+| A Residente Temporal Estudiante | $4,001.00 MXN |
 
 | **Concepto** | **Monto** |
 |--------------|-----------|
