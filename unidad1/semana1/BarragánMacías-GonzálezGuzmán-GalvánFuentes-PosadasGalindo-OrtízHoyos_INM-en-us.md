@@ -46,28 +46,28 @@ If you are a foreign temporary resident or a temporary student, you can apply fo
 |--------------|-----------|
 | Payment of fee for receiving and processing the application and, where appropriate, for authorization of Work Permit | The amount can vary |
 
-**Note:** Para generar la línea de captura del pago correspondiente ingresa a la siguiente [liga](http://www.inm.gob.mx/gobmx/word/index.php/pago-de-derechos/).
+**Note:** To generate the corresponding payment reference number, please access the following [link](http://www.inm.gob.mx/gobmx/word/index.php/pago-de-derechos/).
 
-La hoja de ayuda se deberá llenar atendiendo a las siguientes especificaciones:
+The payment assistance form must be completed in accordance with the following specifications:
 
-- Corroborar que corresponda con el tipo de trámite solicitado
+- Verify that the payment corresponds to the type of procedure requested.
 
-- Registrar exactamente los nombres y apellidos completos con los que se está identificando la persona extranjera en la solicitud de trámite. (Sin importar la cantidad de nombres y apellidos)
+- Enter exactly the full given names and last names under which the foreign national is identified in the application, regardless of the number of given names or last names.
 
-- En caso de menores de edad, se deberá registrar el pago con los nombres y apellidos de los menores
+- In the case of minors, the payment must be registered using the minor’s full given names and last names.
 
-- Se sugiere revisar exhaustivamente los recibos de pago que emitan las instituciones bancarias, a fin de que no medie error en los datos de identificación de la persona
+- 	It is strongly recommended to thoroughly review the payment receipts issued by banking institutions in order to avoid errors in the applicant’s identification details.
 
-### Opciones para realizar tu trámite
+### Options to complete your application
 
-**En línea:** Empieza tu solicitud en línea, imprime e ingresa de manera presencial.
+**Online:** Begin your application online, print it, and submit it in person.
 
-**Presencial:** En la [oficina de atención a trámites del Instituto](http://www.inm.gob.mx/gobmx/word/index.php/horarios-y-oficinas/) que corresponda al domicilio del interesado. En caso de que la ubicación de la Oficina de Representación que le corresponda sea lejana, se sugiere contactar vía telefónica a ésta, solicitando informes por una oficina del INM más cercana a su domicilio.
+**In person:** At the [Institute’s Immigration Procedures Office](http://www.inm.gob.mx/gobmx/word/index.php/horarios-y-oficinas/) corresponding to the applicant’s place of residence. If the assigned Office of Representation is geographically distant, it is recommended to contact said office by telephone to request information regarding a closer INM office.
 
-**Vía telefónica:** (orientación) 800 00 46264.
+**By telephone:** (information only) 800 00 46264.
 
 ---
 
-**Fuente:** [Gobierno de México - Instituto Nacional de Migración](https://www.gob.mx/tramites/ficha/permiso-a-extranjeros-residentes-temporales-y-temporales-estudiantes-para-trabajar-en-mexico/INM795)
+**Source:** [Gobierno de México - Instituto Nacional de Migración](https://www.gob.mx/tramites/ficha/permiso-a-extranjeros-residentes-temporales-y-temporales-estudiantes-para-trabajar-en-mexico/INM795)
 
 [Repository:](https://github.com/ils-mac/TR-Inversa/blob/main/unidad1/semana1/Barrag%C3%A1nMac%C3%ADas-Gonz%C3%A1lezGuzm%C3%A1n-Galv%C3%A1nFuentes-PosadasGalindo-Ort%C3%ADzHoyos_INM-en-us.md) 
