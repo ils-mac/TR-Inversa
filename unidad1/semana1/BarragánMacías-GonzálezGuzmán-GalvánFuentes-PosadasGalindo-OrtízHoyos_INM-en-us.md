@@ -44,7 +44,7 @@ If you are a foreign temporary resident or a temporary student, you can apply fo
 
 | **Description** | **Amount** |
 |--------------|-----------|
-| Fee payment for receiving and processing the application and, if applicable, for authorizing the Work Permit | The amount can vary |
+| Fee payment for receiving and processing the application and, if applicable, for authorizing the Work Permit | Can vary |
 
 **Note:** To generate the corresponding payment reference number, please access the following [link](http://www.inm.gob.mx/gobmx/word/index.php/pago-de-derechos/).
 
