@@ -1,6 +1,6 @@
 ---
 layout: default
-title: INM - Work Permit for Foreigners
+title: INM - Work Permit for Foreign Nationals
 parent: Semana 1
 grand_parent: Unidad 1
 nav_order: 5
@@ -69,5 +69,3 @@ The payment assistance form must be completed in accordance with the following s
 ---
 
 **Source:** [Government of Mexico - National Institute of Migration](https://www.gob.mx/tramites/ficha/permiso-a-extranjeros-residentes-temporales-y-temporales-estudiantes-para-trabajar-en-mexico/INM795)
-
-[Repository](https://github.com/ils-mac/TR-Inversa/blob/main/unidad1/semana1/Barrag%C3%A1nMac%C3%ADas-Gonz%C3%A1lezGuzm%C3%A1n-Galv%C3%A1nFuentes-PosadasGalindo-Ort%C3%ADzHoyos_INM-en-us.md) 
