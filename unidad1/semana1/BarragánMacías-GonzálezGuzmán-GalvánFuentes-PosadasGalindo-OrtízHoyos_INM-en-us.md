@@ -31,7 +31,7 @@ If you are a foreign temporary resident or a temporary student, you can apply fo
 
 | **Required Document** | **Format** |
 |-------------------------|------------------|
-| In the case of persons over fifteen and under eighteen years of age, they must additionally show the permits or authorizations provided for in the labour regulations | Original and copy |
+| People over fifteen and under eighteen years of age must additionally show the permits or authorizations provided for in the labour regulations | Original and copy |
 
 **Note:** Applications must be submitted in original; annexes must be submitted in copy. If the interested party requires an acknowledgement of receipt, he/she must attach a copy for that purpose. (Article 15 A section I of the Administrative Procedure Federal Act)
 
@@ -44,7 +44,7 @@ If you are a foreign temporary resident or a temporary student, you can apply fo
 
 | **Description** | **Amount** |
 |--------------|-----------|
-| Fee payment for receiving and processing the application and, if applicable, for authorizing the Work Permit | Can vary |
+| Fee payment for receiving and processing the application and, if applicable, for authorizing the Work Permit | May vary |
 
 **Note:** To generate the corresponding payment reference number, please access the following [link](http://www.inm.gob.mx/gobmx/word/index.php/pago-de-derechos/).
 
