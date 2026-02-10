@@ -6,29 +6,29 @@ grand_parent: Unidad 2
 nav_order: 4
 ---
 
-#  EVA-Tutor: Arquitectura de Prompts del Sistema
+#  EVA-Tutor: System Prompt Architecture
 
-## Introducción
+## Introduction
 
-Una de las principales preocupaciones relacionadas con el uso de chatbots basados en LLM es el fomento de plagio, disminución de interés por aprender e incremento de la carga docente al vigilar el uso que las y los estudiantes le están dando a ChatGPT; mientras que una implementación responsable de estos chatbots debería acelerar el desarrollo de proyectos, acelerar el proceso de solución de dudas y ayudar en la generación de código.
+One of the main concerns related to the use of LLM-based chatbots is the encouragement of plagiarism, a decrease in students’ interest in learning, and an increase in teachers’ workload due to the need to monitor how students are using ChatGPT. However, responsible implementation of these chatbots should accelerate project development, speed up the process of resolving questions, and assist in code generation.
 
-En base a lo anterior, se establece una serie de requerimientos con los que debe cumplir EVA-Tutor:
+Based on the above, EVA-Tutor must comply with a set of requirements: 
 
-- **Ayuda pero no resuelve**
-- **Profesionalismo en el manejo de información**  
-- **Diseño de interacción basado en la amigabilidad**
+- **To provide help but not to outright solve tasks**
+- **Professional handling of information**  
+- **User-friendly interaction design**
 
-## Estrategias de Ingeniería de Prompts
+## Prompt Engineering Strategies
 
-Las técnicas empleadas para diseñar prompts de sistema de calidad que satisfagan estos requisitos se pueden observar en la Tabla 1.
+The techniques used to design high-quality system prompts that meet these requirements are shown in Table 1.
 
-### Tabla 1: Estrategias de ingeniería de prompts del sistema empleadas en el desarrollo de indicaciones para EVA-Tutor
+### Table 1: System prompt engineering strategies used in the development of prompts for EVA-Tutor
 
-| **Estrategia** | **Razonamiento** | **Fuente** |
+| **Strategy** | **Rationale** | **Source** |
 |----------------|------------------|------------|
-| Dividir el prompt en varios bloques lógicos | Estructura modular para facilitar la creación y mantenimiento de múltiples prompts: Limitaciones, Funcionalidad e Instrucciones. | Ingeniería de Prompts |
-| "Zero-Shot Prompting" | Generación de indicaciones sin entrenamiento previo: permite reducir tokens necesarios para procesar peticiones y minimizar el costo de uso de la API sin mucho daño de precisión. | Kojima et al., 2022 |
-| Cadena de pensamiento | La capacidad de LLM para realizar razonamiento complejo se mejora al dividir el problema en subproblemas incrementales, mejorando la precisión de respuestas matemáticas, lógicas y computacionales. | Wei et al., 2022 |
+| Dividing the prompt into multiple logical blocks | Modular structure to facilitate the creation and maintenance of multiple prompts: Constraints, Functionality, and Instructions. | Prompt Engineering |
+| Zero-Shot Prompting | Prompt generation without prior training: it decreases the number of tokens required to process requests and minimizes API usage costs with little loss of accuracy. | Kojima et al., 2022 |
+| Chain-of-Thought | La capacidad de LLM para realizar razonamiento complejo se mejora al dividir el problema en subproblemas incrementales, mejorando la precisión de respuestas matemáticas, lógicas y computacionales. | Wei et al., 2022 |
 | Indicating the role assumed during the conversation with the user | Assigning a specific role in order to infer expected behavioral rules and thus reduce the amount of textual space devoted to the detailed specification of the interaction. | Su et al., 2023 |
 | Interactive conversational model | Solving complex problems requires additional details that are obtained through a dynamic interaction with the user, encouraging them to articulate their ideas in written and sequential form as needed. | Jiao et al., 2024 |
 | Hiding internal prompt information | Restricting user access to the information contained in the prompt by providing a brief description of how it functions, sufficiently explaining its usefulness. | Human-computer Interaction |
